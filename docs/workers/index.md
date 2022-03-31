@@ -1,7 +1,8 @@
 ---
 slug: /workers
+sidebar_position: 1
 ---
 
 # Introduction
 
-Workstaff is for workers!
+This will be the home of the official documentation for the Workstaff mobile app.

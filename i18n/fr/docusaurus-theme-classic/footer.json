@@ -1,7 +1,7 @@
 {
   "link.item.label.For Workers": {
     "message": "Pour les travailleurs",
-    "description": "The label of footer link with label=For Workers linking to /docs/workers/"
+    "description": "The label of footer link with label=For Workers linking to /docs/workers"
   },
   "link.item.label.Email": {
     "message": "Courriel",
@@ -25,10 +25,10 @@
   },
   "link.item.label.For Managers": {
     "message": "Pour les gestionnaires",
-    "description": "The label of footer link with label=For Managers linking to /docs/managers/"
+    "description": "The label of footer link with label=For Managers linking to /docs/managers"
   },
   "link.item.label.Product Updates": {
     "message": "Mises à jour produit",
-    "description": "The label of footer link with label=Product Updates linking to /blog"
+    "description": "The label of footer link with label=Product Updates linking to /blog/tags/product-updates"
   }
 }
