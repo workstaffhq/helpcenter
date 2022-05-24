@@ -50,7 +50,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      hideableSidebar: true,
+      docs: {
+        sidebar: {
+          hideable: true,
+        }
+      },
       colorMode: {
         disableSwitch: true,
       },
