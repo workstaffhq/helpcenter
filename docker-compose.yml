@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  docusaurus:
+    build: .
+    ports:
+      - 3000:3000
+      - 35729:35729
+    volumes:
+      - ./docs:/app/docs
+      - ./blog:/app/blog
+      - ./src:/app/src
+      - ./i18n:/app/i18n
+    working_dir: /app
