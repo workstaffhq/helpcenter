@@ -13,7 +13,7 @@ sidebar_position: 2
 ## Creating a new shift
 
 1. On the project page, click on the blue button **Create shift**.  
-2. Select the date and the position required for this shift.  
+2. Select the date(s) and the position required for this shift.  
 3. You can write a label about the shift.  
 4. Select the time, the break time, the travel time and the number of staff needed.
 5. Click on the blue button **Create shift**.  

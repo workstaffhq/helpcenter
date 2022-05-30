@@ -26,7 +26,7 @@ You can select the tags that you wish to associate with the worker.
 1. Fill-in the **Custom fields**
 2. Click on the drop-down menu to select the staff's **Skills**   
 
-The **About Me**, **Spoken Languages**, **Work Experience** and **Transporation** sections can be filled-in by the staff once they have claimed their account.
+The **About Me**, **Spoken Languages**, **Work Experience** and **Transportation** sections can be filled-in by the staff once they have claimed their account.
 
 ### Contact
 

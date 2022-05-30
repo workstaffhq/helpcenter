@@ -35,3 +35,19 @@ You can customize options related to tracking your team's time:
 ### Invoicing 
 
 Fill-in the **Billing Name** and **Billing Address** fields in order for your staff to submit invoices. 
+
+## Users
+Manage who can access your Workstaff account.  
+You can overview your active and inactive users.  
+Add and delete **administrative** users to your account based on your organization's needs. 
+
+## Tags, skills and custom fields
+You can create tags, [personalize your staff profile fields](custom-fields.md) and [use your own skills](skills.md).
+
+## Departments 
+You can split your Workstaff activity into multiple data silos to mimic your organization structure.   
+Departments cannot yet be modified on a self-serve basis.   
+Contact us if you'd like changes to be made to your organizational structure.  
+
+## Billing 
+
