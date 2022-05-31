@@ -29,7 +29,8 @@ You can edit the following default settings if you wish to change de value initi
 You can customize options related to tracking your team's time:
 1. Choose whether you require timesheets from your staff or not
 2. Select the **Round times**
-3. Select the **Punch mode**
+3. Select the **Punch mode**. You can select how you wish to manage your staff's clock ins / clock outs *insert link to page* 
+
 
 
 ### Invoicing 
