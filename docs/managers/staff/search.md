@@ -1,5 +1,6 @@
 ---
 sidebar_label: Search & Filter
+sidebar_position: 3
 ---
 
 # Searching & Filtering Your Staff
