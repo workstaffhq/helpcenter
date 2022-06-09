@@ -4,16 +4,10 @@ sidebar_position: 3
 ---
 
 # Searching & Filtering Your Staff
+The information you provided each profile facilitates searching and filtering your staff.
 
-## Searching your staff
+When searching for workers in the **Staff** section and when booking staff, you can:
+1. Select the order in which you wish to see the profiles appear in your list
+2. Use a variety of filters based on the information specific to each profile to specify your search. You can access additional filters by clicking on **More**.
 
-Under the **Staff** menu, you can search your staff by typing their names in the text field.
-
-## Filtering your staff
-You can use filters to search your staff.
-- The **Location** filter 
-- The **Skills** filter 
-- The **Tags** filter
-- You can click on **Clear All** if you wish to clear the current filters
-- Click on **More** to select the filters you wish to use
-
+![img.png](img.png)
