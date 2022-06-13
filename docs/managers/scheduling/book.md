@@ -4,28 +4,25 @@ sidebar_position: 4
 
 # Book Your Team
 
-## Book staff
-You can select staff directly from your team.
-1. Select the shift(s) you wish to book staff for and click on **Book staff**.  
-2. You can select the staff from the list of matching profiles for the shift you created.  
-3. Click on the blue button **Book staff**.
+Once you have created your shifts, Workstaff allows you to book staff in the ways listed below.
 
-## Select candidates 
-You can select candidates that have applied for a shift you have published. 
-1. Go under the **Candidates** tab
-2. Place your cursor on the candidate's name and click on **Book**
-3. Click on the **Book as** drop-down menu to select the position
-4. You can click on the **Team Lead** toggle 
-5. Click on **Book**
+## Booking staff from your list of suggestions
+Workstaff allows you to select staff from a list of suggestions based on the skills, availability and grades of each profile.
+1. On the project page, select the shift and click on **Book staff**
+2. Select staff you wish to book from the list of suggestions
+3. Click on **Book X staff** 
 
-## Review and apply
+## Booking staff from your list of candidates
+You can book staff from the list of candidates that have applied for the shift. 
+1. In the "Candidates" tab, place your cursor on the candidate's name
+2. Click on "Book"
+3. Select the position and the shift(s) you wish to book the candidate for
+4. Click on **Book**  
+   If you are not interested in an application, you can click on **Put aside** next the candidate’s name. 
 
-Once the staff has been assigned to the shift, click on the blue button **Review and apply**.  
-The staff will be notified of their booking. 
+![img_4.png](img_4.png)
 
-## In your calendar
+## Booking selected staff
+If you wish to book staff that doesn't appear in your list of suggestions, you can access your entire staff list by clicking on **+** in the **Candidates** tab. 
 
-Your project is visible in your calendar and is coloured as follows: 
-- **Green**: All positions for this event are filled 
-- **Orange**: Some positions for this event are filled
-- **Red**: No positions for this event are filled
+![img_3.png](img_3.png)

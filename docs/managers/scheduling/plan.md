@@ -6,14 +6,20 @@ sidebar_position: 2
 
 ## Creating a new project
 
-1. In the **Calendar** menu, click on the blue button **New Project**.
-2. Choose the name, location and dates of your project. 
+Creating a project in Workstaff is a quick and easy task:
+1. In the main menu, go to the **Calendar** section 
+2. Fill in the information shown below to create the basis for detailing the project later
 
 
-## Creating a new shift
+![img.png](img.png)
 
-1. On the project page, click on the blue button **Create shift**.  
-2. Select the date(s) and the position required for this shift.  
-3. You can write a label about the shift.  
-4. Select the time, the break time, the travel time and the number of staff needed.
-5. Click on the blue button **Create shift**.  
+## Adding shifts 
+Once you have created your project, you can add shifts: 
+1. On the project page, click on **Create Shift**
+2. Select the date(s)
+3. Choose the position for the shift from your list of skills
+4. Select the start and end times 
+5. Fill-in the number of staff needed
+6. If you wish, you can add a label and select break and travel times
+
+![img_1.png](img_1.png)

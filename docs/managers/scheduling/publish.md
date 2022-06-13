@@ -3,17 +3,15 @@ sidebar_position: 3
 ---
 
 # Publish Shifts
+Workstaff allows you to publish shifts, which essentially means that you can post offers that your staff can review and apply to from their mobile phones. New offer notifications are sent to staff once a day at 3PM local time. When staff have applied to the shift you have published, you can choose who to book from a list of candidates.
 
-You can publish an offer for a shift so that candidates can apply for it. 
-
-
-1. On the project page, go under **Publishing**.
+## Publishing a shift 
+1. On the project page, go to **Publishing**.
 2. Select the position you wish to publish
 3. Under **Publishing Options**, you can select whether you want to publish the shift:
-- to staff with matching skills. You can use filters to narrow your search
-- to specific people. Click on **specific people** to select the staff you wish to send the offer to
-4. Go under **Notes to staff** to add any additional information that the applicants can read upon opening the offer
-5. Click on the blue button **Publish**
+- **to staff with matching skills**: you can use the filters to further narrow your search
+- **to specific people**: you can select the staff you wish to send the offer to
+4. Go under **Notes to staff** to add any additional information that the candidates can read upon opening the offer
+5. Click on **Publish**
 
-
-Once the staff have applied, you will be able to **[select candidates to book for this shift](book.md)**.
+![img_2.png](img_2.png)

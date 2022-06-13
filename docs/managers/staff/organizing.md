@@ -45,4 +45,10 @@ In order to create custom fields:
 1. In the main menu, go to the **Settings** section, 
 2. Go to the **Custom Fields** sections 
 3. Click on **Add** at the bottom of the list 
-4. Select the type of value that will be provided in the staff profile
+4. Select the type of value that will be provided in the staff profile  
+
+   You can choose from the custom field types listed below to provide the most relevant information possible to your staff profiles:
+- **Yes/No**: answer yes or no to the value associated with the custom field
+- **Number**: fill-in the field with a number
+- **Single selection**: select a single value from your list
+- **Multiple selection**: select one or more values from your list
