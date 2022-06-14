@@ -25,29 +25,15 @@ Once the tags are created, you can associate them to your staff profiles.
 
 ## Skills 
 Creating skills is critical for adding shifts, searching and booking staff.   
-When creating a shift, the skills you have associated with each profile allow you to select staff from a list of suggestions of candidates whose skills match the position.  
-
-In order to create skills: 
-1. In the main menu, go to the **Settings** section 
-2. Go to the **Skills** section
-3. Click on **Add** next the category that fits your organization 
-4. Name the skill and select the colour you wish to associate with it
-5. You can select specific skills to appear in your list by clicking on **Select specific skills** 
-
+When creating a shift, the skills you have associated with each profile allow you to select staff from a list of suggestions of candidates whose skills match the position.
 
 ## Star Rating 
 You can rate each staff on a 5-star scale. See [Staff Profiles](profiles.md) for more details.
 
 ## Custom Fields 
-You can define custom fields in order to provide additional information to your staff's profiles. This facilitates searching staff according to your organization's specific reality. 
+You can create custom fields in order to provide additional information to your staff profiles. This facilitates searching staff according to your organization's specific reality. 
 
-In order to create custom fields:
-1. In the main menu, go to the **Settings** section, 
-2. Go to the **Custom Fields** sections 
-3. Click on **Add** at the bottom of the list 
-4. Select the type of value that will be provided in the staff profile  
-
-   You can choose from the custom field types listed below to provide the most relevant information possible to your staff profiles:
+You can choose from the custom field types listed below to provide the most relevant information possible to your staff profiles:
 - **Yes/No**: answer yes or no to the value associated with the custom field
 - **Number**: fill-in the field with a number
 - **Single selection**: select a single value from your list

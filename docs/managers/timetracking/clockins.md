@@ -1,21 +1,15 @@
 # Clock In / Clock Out
 
-## Set up your clock in / clock out preferences
+Workstaff allows your employees to clock in and out of a shift through different options you can choose from.
+As an employer, this module allows you to track your staff’s time in real time. 
 
-You can select how you wish your staff to clock in / clock out.
-1. Go under the **Settings** menu, click on **Account**
-2. Under **Time Tracking**, select the **Punch mode** 
-- **Unrestricted**: Staff can clock in and out by themselves without any restrictions
-- **Via QR Code only**: Scanning each event's QR code is mandatory to clock in an out of shifts
-- **Via team leads only**: Staff will be instructed to go see a team lead in person to clock in and out of shifts
 
-## Today menu 
-You can keep track of your staff's time for the day.
-1. Go under the **Today** menu 
-2. Click on *insert section's name* 
+## Clock in / Clock out options  
+You can customize options related to tracking your team's time.
+- **Do not require a timesheet from staff**
+- **Unrestricted**: each staff can clock in and out by themselves, from their mobile phone, without any restriction.
+- **Via QR code only**: clocking in and out requires the staff to scan a QR code associated with the event 
+- **Via team leads only**: the staff will be instructed to go see the team lead in person to clock in and out of shifts. 
 
-## On the project page 
-You can keep track of you staff's time for a specific project. 
-1. Under the **Calendar** menu, select the project 
-2. Click on **Time Tracking** 
-3. 
+
+
