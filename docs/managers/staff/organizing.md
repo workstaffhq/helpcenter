@@ -24,17 +24,18 @@ In order to create tags:
 Once the tags are created, you can associate them to your staff profiles. 
 
 ## Skills 
-Creating skills is critical for adding shifts, searching and booking staff.   
+**[Creating skills](../customize/skills.md)** is critical for adding shifts, searching and booking staff.   
 When creating a shift, the skills you have associated with each profile allow you to select staff from a list of suggestions of candidates whose skills match the position.
 
 ## Star Rating 
 You can rate each staff on a 5-star scale. See [Staff Profiles](profiles.md) for more details.
 
 ## Custom Fields 
-You can create custom fields in order to provide additional information to your staff profiles. This facilitates searching staff according to your organization's specific reality. 
+You can **[create custom fields](../customize/custom-fields.md)** in order to provide additional information to your staff profiles. This facilitates searching staff according to your organization's specific reality. 
 
 You can choose from the custom field types listed below to provide the most relevant information possible to your staff profiles:
 - **Yes/No**: answer yes or no to the value associated with the custom field
 - **Number**: fill-in the field with a number
 - **Single selection**: select a single value from your list
 - **Multiple selection**: select one or more values from your list
+

@@ -1,7 +1,7 @@
 # Organization Settings
 
 Workstaff offers you different customization options that will allow you to mimic the structure and activity of your organization.
-The different customization options available to you are listed below:
+The different customization options available to you are listed below.
 
 ## Account
 
@@ -9,7 +9,7 @@ Setting up the following basic settings for your organization in Workstaff is a 
 - Basic information about **Your organization**
 - **Time & Location** information
 - Set up the **Defaults**
-- Under **Time Tracking**, choose how your staff will clock in and out of shifts
+- Under **Time Tracking**, select your **[clock in / clock out preferences](../timetracking/clockins.md)**
 - Fill-in your organization’s billing information under **Invoicing**
 
 ## Users
