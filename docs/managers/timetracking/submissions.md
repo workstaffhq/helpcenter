@@ -11,3 +11,6 @@ This section allows you to filter the timesheets in the ways listed below:
 
 The **Timesheets** feature allows you to have an overview of the scheduled time and the reported time.
 You have the possibility to edit a timesheet if the information it contains is incorrect or if the staff forgot to clock in or clock out. 
+
+You can export excel reports from the timesheets by clicking on **Download**. 
+
