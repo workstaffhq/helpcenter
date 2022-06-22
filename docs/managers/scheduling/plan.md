@@ -11,7 +11,7 @@ Creating a project in Workstaff is a quick and easy task:
 2. Fill in the information shown below to create the basis for detailing the project later
 
 
-![img.png](img.png)
+![img.png](Images/img.png)
 
 ## Adding shifts 
 Once you have created your project, you can add shifts: 
@@ -22,4 +22,4 @@ Once you have created your project, you can add shifts:
 5. Fill-in the number of staff needed
 6. If you wish, you can add a label and select break and travel times
 
-![img_1.png](img_1.png)
+![img_1.png](Images/img_1.png)

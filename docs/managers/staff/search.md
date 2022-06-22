@@ -10,4 +10,4 @@ When searching for workers in the **Staff** section and when booking staff, you 
 1. Select the order in which you wish to see the profiles appear in your list
 2. Use a variety of filters based on the information specific to each profile to specify your search. You can access additional filters by clicking on **More**.
 
-![img.png](img.png)
+![img.png](images/img.png)

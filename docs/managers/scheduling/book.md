@@ -20,9 +20,9 @@ You can book staff from the list of candidates that have applied for the shift.
 4. Click on **Book**  
    If you are not interested in an application, you can click on **Put aside** next the candidate’s name. 
 
-![img_4.png](img_4.png)
+![img_4.png](Images/img_4.png)
 
 ## Booking selected staff
 If you wish to book staff that doesn't appear in your list of suggestions, you can access your entire staff list by clicking on **+** in the **Candidates** tab. 
 
-![img_3.png](img_3.png)
+![img_3.png](Images/img_3.png)

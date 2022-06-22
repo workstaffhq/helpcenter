@@ -14,4 +14,4 @@ Workstaff allows you to publish shifts, which essentially means that you can pos
 4. Go under **Notes to staff** to add any additional information that the candidates can read upon opening the offer
 5. Click on **Publish**
 
-![img_2.png](img_2.png)
+![img_2.png](Images/img_2.png)
