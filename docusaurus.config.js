@@ -8,7 +8,7 @@ const config = {
   url: 'https://help.workstaff.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/icon.svg',
   organizationName: 'workstaffhq',
   projectName: 'helpcenter',
