@@ -10,8 +10,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icon.svg',
-  organizationName: 'workstaff',
+  organizationName: 'workstaffhq',
   projectName: 'helpcenter',
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
