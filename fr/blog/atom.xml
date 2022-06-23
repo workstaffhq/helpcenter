@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://help.workstaff.app/fr/blog</id>
+    <title>Workstaff Help Center Blog</title>
+    <updated>2021-10-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://help.workstaff.app/fr/blog"/>
+    <subtitle>Workstaff Help Center Blog</subtitle>
+    <icon>https://help.workstaff.app/fr/img/icon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Mise à jour produit - October 2021]]></title>
+        <id>oct-2021-product-updates</id>
+        <link href="https://help.workstaff.app/fr/blog/oct-2021-product-updates"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are!]]></summary>
+        <content type="html"><![CDATA[<p>We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="calendrier-des-disponibilités">Calendrier des disponibilités<a class="hash-link" href="#calendrier-des-disponibilités" title="Lien direct vers le titre">​</a></h2>]]></content>
+        <author>
+            <name>David Marquis</name>
+        </author>
+        <category label="product updates" term="product updates"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3568],{4143:function(s){s.exports=JSON.parse('{"label":"product updates","permalink":"/fr/blog/tags/product-updates","allTagsPath":"/fr/blog/tags","count":1}')}}]);
