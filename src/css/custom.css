@@ -28,6 +28,9 @@
   --palette-gray-light: #bfbfbf;
   --palette-gray-lightest: #eee;
 
+  --border-radius-base: 7px;
+  --color-primary-dark-contrast: white;
+
   --ifm-color-primary: #3e2da5;
   --ifm-color-primary-dark: #3e2da5;
   --ifm-color-primary-darker: #3e2da5;
@@ -37,11 +40,13 @@
   --ifm-color-primary-lightest: #ebf7ff;
   --ifm-font-family-base: 'Open Sans', sans-serif;
   --ifm-font-color-base: #212121;
+  --ifm-font-size-base: 15px;
   --ifm-heading-font-family: 'Lexend', sans-serif;
   --ifm-heading-font-weight: 500;
   --ifm-heading-color: var(--ifm-color-primary);
   --ifm-code-font-size: 95%;
   --ifm-link-hover-decoration: none;
+  --ifm-navbar-shadow: none;
 }
 
 .docusaurus-highlight-code-line {
@@ -54,3 +59,44 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+@media screen and (min-width: 996px) {
+  .navbar,
+  .main-wrapper {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .navbar .navbar__brand {
+    margin-right: 20px;
+  }
+
+  .navbar__link {
+    margin-right: 10px;
+    border-radius: var(--border-radius-base);
+  }
+
+  .navbar__link:hover {
+    background: var(--palette-gray-lightest);
+  }
+
+  .navbar__link--active,
+  .navbar__link--active:hover{
+    font-weight: 700;
+    background: var(--ifm-color-primary-dark);
+    color: var(--color-primary-dark-contrast);
+  }
+
+  .menu__link::after {
+    width: 0.7rem;
+    height: 0.7rem;
+    min-width: 0.5rem;
+  }
+
+  .menu__link--active {
+    font-weight: 700;
+    background: var(--ifm-color-primary-lightest);
+  }
+}
+
