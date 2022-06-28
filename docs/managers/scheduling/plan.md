@@ -8,10 +8,10 @@ sidebar_position: 2
 
 Creating a project in Workstaff is a quick and easy task:
 1. In the main menu, go to the **Calendar** section 
-2. Fill in the information shown below to create the basis for detailing the project later
+2. Click on **New Project**
+3. Fill in the information shown below to create the basis for detailing the project later
 
-
-![img.png](Images/img.png)
+![create_project.png](Images/create_project.png)
 
 ## Adding shifts 
 Once you have created your project, you can add shifts: 
