@@ -7,7 +7,7 @@ Workstaff allows you to create your own premiums that you can later add to the r
 You can also customize your staff's remuneration conditions and to see at a glance all that is applicable to each shift.
 
 ## Change remuneration conditions for a position
-When creating an event, you can change the remuneration conditions for a specific position. If unchanged, the remuneration will be the same as the one in the staff profiles.
+When creating an event, you can change the remuneration conditions for a specific position. If unchanged, the remuneration will be the same as in the staff profiles.
 1. On the project page, go to the Remuneration tab
 2. Click on the icon indicated below to change de remuneration conditions for the position
 
