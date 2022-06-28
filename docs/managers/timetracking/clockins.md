@@ -5,7 +5,7 @@ As an employer, this feature allows you to track your staff’s time in real tim
 
 
 ## Clock in / Clock out options  
-You can customize your time tracking preferences in the [settings](../customize/clockin_preferences.md).   
+You can customize your **Time Tracking** preferences in the [settings](../customize/account.md).   
 Your staff will then be able to clock in and out of shifts from their mobile phones.  
 Once your employees have clocked in and out of a shift, they will be instructed to **[submit a timesheet](submissions.md)** that you can then review and approve. 
 
