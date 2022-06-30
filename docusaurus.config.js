@@ -105,8 +105,8 @@ const config = {
             title: 'Additional Resources',
             items: [
               {
-                label: 'Email',
-                href: 'mailto:support@workstaff.app',
+                label: 'Features Matrix',
+                to: '/docs/managers/features-matrix',
               },
               {
                 label: 'Product Updates',
@@ -115,6 +115,23 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+            ],
+          },
+          {
+            title: 'Contact Us',
+            items: [
+              {
+                label: 'Support',
+                href: 'mailto:support@workstaff.app',
+              },
+              {
+                label: 'Sales',
+                href: 'mailto:sales@workstaff.app',
+              },
+              {
+                label: 'Book a Call',
+                href: 'https://workstaff.app/book-a-call',
               },
             ],
           },
