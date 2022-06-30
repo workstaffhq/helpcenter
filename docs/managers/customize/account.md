@@ -29,7 +29,12 @@ You can customize options related to tracking your team's time.
 
 
 ### Invoicing
+
 If you work with contractors/freelancers, fill-in the invoicing information so they can submit invoices. This information is used on generated invoices.
+
+:::note
+A **Billing Address* *must* be provided in your account before any contractor can submit an invoice via Workstaff. 
+:::
 
 By default, Workstaff will request invoices for remunerated shifts of contractors. When the **Do not require invoices from contractors** is checked, invoices submission will still be allowed but it won't be enforced.
 
