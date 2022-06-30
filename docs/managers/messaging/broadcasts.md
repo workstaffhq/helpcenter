@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Broadcasts: Mass Messages
 
-Broadcasting allow to quickly and efficiently send mass messages to all your staff. They are often used in lieu of 
+Broadcasts allow to quickly and efficiently send mass messages to all your staff. They are often used in lieu of 
 emails to inform teams about important information, request them to fill in their availabilities for hot periods of 
 activity, or any other one-way communication needs.
 
