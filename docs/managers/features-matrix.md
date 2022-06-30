@@ -173,6 +173,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | New chat message notification       | ✉️ 📱    | ✅         | ✅        |
 | New broadcast message notification  | ✉️ 📱    | ✅         | ✅        |
 | Cancellation requested notification | ✉️       | ✅         | ✅        |
+| Clock in reminder notification      | 📱️      | ✅         | ✅        |
 
 ## Settings & Customization
 
