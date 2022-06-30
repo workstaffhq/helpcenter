@@ -1,8 +1,9 @@
 ---
 slug: /workers
+title: Welcome
 sidebar_position: 1
 ---
 
-# Introduction
+# Help for Workers
 
-This will be the home of the official documentation for the Workstaff mobile app.
+This area will be the place to learn everything you need to know about using the Workstaff mobile app as a worker.
