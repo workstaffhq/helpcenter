@@ -1,5 +1,5 @@
 ---
-keywords: features
+keywords: [features]
 ---
 
 # Features Matrix
