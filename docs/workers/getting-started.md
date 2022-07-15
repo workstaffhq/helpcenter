@@ -11,10 +11,10 @@ Before you start using Workstaff, there are a few key steps to claim your profil
 Once your employer has created an account for you, you'll be able to log in and claim your profile. 
 
 1. Open the app and select whether you wish to log in using your mobile phone or email address 
-2. Enter the sign in code you'll receive either by email or text depending on the option you chose.
+2. Enter the sign in code you'll receive either by email or text depending on the login option you chose. This code will be valid for 10 minutes. 
 3. You are now logged in! 
 
-If you have trouble logging in, see [I Can't Log In](../workers/troubleshooting/Connection/i-cant-login.md) for more details.
+If you have trouble logging in, see [I Can't Log In](../workers/troubleshooting/Connection/i-cant-login.md)for more details.
 
 ## Completing your profile 
 After you first connection, you are asked to fill in some general information about yourself such as: 

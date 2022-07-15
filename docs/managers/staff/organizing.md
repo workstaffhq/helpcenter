@@ -26,6 +26,7 @@ Once the tags are created, you can associate them to your staff profiles.
 ## Skills 
 **[Creating skills](../customize/skills.md)** is critical for adding shifts, searching and booking staff.   
 When creating a shift, the skills you have associated with each profile allow you to select staff from a list of suggestions of candidates whose skills match the position.
+Your staff can add skills to their profiles on the mobile app. These skills will appear as suggestions that you can keep when selecting skills in their profile. 
 
 ## Star Rating 
 You can rate each staff on a 5-star scale. See [Staff Profiles](profiles.md) for more details.
