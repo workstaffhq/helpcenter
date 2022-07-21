@@ -75,7 +75,7 @@ export default function BlogPostItem(props) {
             </Link>
           )}
         </TitleHeading>
-
+        <BrowserOnly>
         {(image && window.location.pathname == "/blog") && (
           <section>
             <img src={withBaseUrl(image)} alt="" />
@@ -89,6 +89,7 @@ export default function BlogPostItem(props) {
             </div>
           </section>
         )}
+        </BrowserOnly>
 
         <div className={clsx(styles.blogPostData, "margin-vert--md")}>
           <time dateTime={date} itemProp="datePublished">
@@ -119,9 +120,11 @@ export default function BlogPostItem(props) {
         className="markdown"
         itemProp="articleBody"
       >
+        <BrowserOnly>
         {window.location.pathname !== "/blog" && (
           <MDXContent>{children}</MDXContent>
         )}{" "}
+        </BrowserOnly>
       </div>
       
       {(tagsExists || truncated) && (

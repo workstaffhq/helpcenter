@@ -1,15 +1,15 @@
-import React from "react";
-import BlogLayout from "@theme/BlogLayout";
-import BlogPostItem from "@theme/BlogPostItem";
-import BlogPostPaginator from "@theme/BlogPostPaginator";
-import SocialMedia from '../../components/SocialMedia'
+import React from 'react';
+import BlogLayout from '@theme/BlogLayout';
+import BlogPostItem from '@theme/BlogPostItem';
+import BlogPostPaginator from '@theme/BlogPostPaginator';
+import SocialMedia from '../../components/SocialMedia';
 import {
   PageMetadata,
   HtmlClassNameProvider,
   ThemeClassNames,
-} from "@docusaurus/theme-common";
-import TOC from "@theme/TOC";
-import clsx from "clsx";
+} from '@docusaurus/theme-common';
+import TOC from '@theme/TOC';
+import clsx from 'clsx';
 
 function BlogPostPageMetadata(props) {
   const { content: BlogPostContents } = props;
@@ -17,7 +17,7 @@ function BlogPostPageMetadata(props) {
   const { title, description, date, tags, authors, frontMatter } = metadata;
   const { keywords } = frontMatter;
   const image = assets.image ?? frontMatter.image;
-  console.log(metadata)
+  console.log(metadata);
   return (
     <PageMetadata
       title={title}
