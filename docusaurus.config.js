@@ -28,7 +28,7 @@ const config = {
     },
   },
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [require.resolve('docusaurus-lunr-search'), 'docusaurus-plugin-sass'],
 
   presets: [
     [
@@ -42,7 +42,7 @@ const config = {
           showReadingTime: true,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.scss'),
         },
       }),
     ],

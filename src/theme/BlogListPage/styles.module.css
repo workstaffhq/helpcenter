@@ -1,0 +1,38 @@
+.blogPostList {
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+}
+
+article:first-child {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+article:first-child header section {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 1rem;
+}
+
+@media screen and (max-width: 996px) {
+  article:not(:first-child) {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+
+  article div {
+    flex-direction: column;
+  }
+
+  article:first-child header section {
+    display: grid;
+    grid-auto-flow: row;
+    grid-gap: 0.5rem;
+  }
+}
+
+.blogPostList:first-child header h2 a {
+  font-size: 1.5rem;
+}
