@@ -20,3 +20,33 @@ If you are a team lead on a project, you can clock your teammates in and out by 
 1. In the **Today** tab, tap on **Track Time** 
 2. At the beginning of the shift, when your teammates come to you, tap on **Clock In** next to their name
 3. At the end of the shift, tap on **Clock out** next to their name when they are leaving their shift   
+
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::caution
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
