@@ -10,7 +10,7 @@ import EditThisPage from "@theme/EditThisPage";
 import styles from "./styles.module.css";
 import TagsListInline from "@theme/TagsListInline";
 import BlogPostAuthors from "@theme/BlogPostAuthors"; // Very simple pluralization: probably good enough for now
-import BrowserOnly from '@docusaurus/BrowserOnly';
+
 function useReadingTimePlural() {
   const { selectMessage } = usePluralForm();
   return (readingTimeFloat) => {
@@ -75,8 +75,8 @@ export default function BlogPostItem(props) {
             </Link>
           )}
         </TitleHeading>
-        <BrowserOnly>
-        {(image && window.location.pathname == "/blog") && (
+
+        {(image && !isBlogPostPage) && (
           <section>
             <img src={withBaseUrl(image)} alt="" />
             <div>
@@ -89,7 +89,6 @@ export default function BlogPostItem(props) {
             </div>
           </section>
         )}
-        </BrowserOnly>
 
         <div className={clsx(styles.blogPostData, "margin-vert--md")}>
           <time dateTime={date} itemProp="datePublished">
@@ -120,11 +119,9 @@ export default function BlogPostItem(props) {
         className="markdown"
         itemProp="articleBody"
       >
-        <BrowserOnly>
-        {window.location.pathname !== "/blog" && (
+        {isBlogPostPage && (
           <MDXContent>{children}</MDXContent>
         )}{" "}
-        </BrowserOnly>
       </div>
       
       {(tagsExists || truncated) && (
