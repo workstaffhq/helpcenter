@@ -1,6 +1,6 @@
 ---
 title: I Can't See Published Offers
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## Problem 
