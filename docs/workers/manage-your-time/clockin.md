@@ -19,4 +19,4 @@ In this case, you will be instructed to go see a team lead in person so they can
 If you are a team lead on a project, you can clock your teammates in and out by following these steps: 
 1. In the **Today** tab, tap on **Track Time** 
 2. At the beginning of the shift, when your teammates come to you, tap on **Clock In** next to their name
-3. At the end of the shift, tap on **Clock out** next to their name when they are leaving their shift
+3. At the end of the shift, tap on **Clock out** next to their name when they are leaving their shift   
