@@ -22,5 +22,5 @@ When opening an application, you can:
 - **Withdraw your application**
 - **Message the organizer** 
 
-On can see all the offers you skipped in the **Skipped** tab
+On can see all the offers you skipped in the **Skipped** tab.
 
