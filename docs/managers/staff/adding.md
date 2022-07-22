@@ -22,6 +22,10 @@ Only a subset of information about your staff can be provided in this window. On
 
 You can add up to 10 staff at the same time. If you need to add more than 10, you can use the window multiple times, or, for larger staff databases, we also offer a service to import large lists of staff.
 
+:::Info
+When a staff member’s phone number is from outside of North America, you can add it to their profile but they will not be able to use to log in to the mobile app. Be sure to add a valid email address to their profile so they can use it to log in.
+:::
+
 ### Optional: Send invitations
 
 You can optionally send automatic invitation emails to the staff you invite. The email sent by Workstaff will contain instructions to install the mobile app, and will include some branding from your organization (such as the logo). 
