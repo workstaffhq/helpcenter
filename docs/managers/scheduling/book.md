@@ -32,3 +32,5 @@ If you wish to book staff that doesn't appear in your list of suggestions, you c
 You will then be able to search for specific staff using the search bar and the filters. Once selected, they will be added to the **Candidates** organizer.
 ![img_3.png](Images/img_3.png)
 
+### Selecting staff without booking them yet
+If you wish to make a list of the staff that will work on your project without booking them on any specific shift yet, you can also click on **+** in the **Candidates** organizer to add them top your list of candidates you can later book.
