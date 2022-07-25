@@ -4,7 +4,6 @@ title: October 2021 Product Updates
 authors: [dmarquis]
 tags: [product updates]
 image: ./workers.jpg
-draft: true
 ---
 
 We've been busy this past month adding some pretty neat new features to Workstaff. Without further ado, here they are!
