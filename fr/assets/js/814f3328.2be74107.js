@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Publications r\xe9centes","items":[{"title":"Mise \xe0 jour produit - October 2021","permalink":"/fr/blog/oct-2021-product-updates"}]}')}}]);

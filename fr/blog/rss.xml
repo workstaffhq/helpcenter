@@ -4,44 +4,18 @@
         <title>Workstaff Help Center Blog</title>
         <link>https://help.workstaff.app/fr/blog</link>
         <description>Workstaff Help Center Blog</description>
-        <lastBuildDate>Tue, 12 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
-        <item>
-            <title><![CDATA[July 2022 Product Updates]]></title>
-            <link>https://help.workstaff.app/fr/blog/jul-2022-product-updates</link>
-            <guid>jul-2022-product-updates</guid>
-            <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are! Hello]]></description>
-            <content:encoded><![CDATA[<p>We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are! Hello</p><p>Hello</p><p><img loading="lazy" alt="Alt text" src="/fr/assets/images/managers-9403d5f25662d0acf806096d00b93011.jpg" title="title" width="500" height="500" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="availability-calendar">Availability Calendar<a class="hash-link" href="#availability-calendar" title="Lien direct vers le titre">​</a></h2><div class="note"><blockquote><p>Some notable things in a block quote!</p></blockquote></div><div style="display:grid;grid-template-columns:1fr 1fr;grid-gap:1rem"><div style="object-fit:contain"><p>  <img loading="lazy" alt="Alt text" src="/fr/assets/images/managers-9403d5f25662d0acf806096d00b93011.jpg" title="title" width="500" height="500" class="img_E7b_"></p></div><div style="padding:1rem;background-color:tomato;display:flex;flex-direction:column;justify-content:space-between"><div># Try and change the background color to `tomato`.</div><div># text bottom</div></div></div><div style="height:2px;background-color:purple;width:100%;margin:5px auto"></div><div style="display:grid;grid-template-columns:1fr 1fr;grid-gap:1rem"><div style="padding:1rem;background-color:tomato"><h1>Try and change the background color to <code>tomato</code>.</h1></div><div style="padding:1rem;background-color:green"><blockquote><p>Test Title</p></blockquote><iframe style="width:100%;aspect-ratio:16/9" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></div><div style="width:55%;margin:10px auto"><iframe style="width:100%;aspect-ratio:16/9" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><blockquote><p>Try and change the background color to <code>tomato</code>.</p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="test-title">Test Title<a class="hash-link" href="#test-title" title="Lien direct vers le titre">​</a></h2> ]]></content:encoded>
-            <category>product updates</category>
-        </item>
         <item>
             <title><![CDATA[Mise à jour produit - October 2021]]></title>
             <link>https://help.workstaff.app/fr/blog/oct-2021-product-updates</link>
             <guid>oct-2021-product-updates</guid>
             <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are!]]></description>
-            <content:encoded><![CDATA[<p>We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="calendrier-des-disponibilités">Calendrier des disponibilités<a class="hash-link" href="#calendrier-des-disponibilités" title="Lien direct vers le titre">​</a></h2> ]]></content:encoded>
-            <category>product updates</category>
-        </item>
-        <item>
-            <title><![CDATA[October 2021 Product Updates]]></title>
-            <link>https://help.workstaff.app/fr/blog/oct-2021-product-updates-1</link>
-            <guid>oct-2021-product-updates-1</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[We've been busy this past month adding some pretty neat new features to Workstaff. Without further ado, here they are!]]></description>
-            <content:encoded><![CDATA[<p>We've been busy this past month adding some pretty neat new features to Workstaff. Without further ado, here they are!</p><p>Par 2</p><p><img loading="lazy" alt="Alt text" src="/fr/assets/images/managers-9403d5f25662d0acf806096d00b93011.jpg" title="title" width="500" height="500" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="availability-calendar">Availability Calendar<a class="hash-link" href="#availability-calendar" title="Lien direct vers le titre">​</a></h2> ]]></content:encoded>
-            <category>product updates</category>
-        </item>
-        <item>
-            <title><![CDATA[May 2021 Product Updates]]></title>
-            <link>https://help.workstaff.app/fr/blog/oct-2021-product-updates-e</link>
-            <guid>oct-2021-product-updates-e</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[We've been busy this past month adding some pretty neat new features to Workstaff. Without further ado, here they are!]]></description>
-            <content:encoded><![CDATA[<p>We've been busy this past month adding some pretty neat new features to Workstaff. Without further ado, here they are!</p><p>Paragraph 2</p><p><img loading="lazy" alt="Alt text" src="/fr/assets/images/managers-9403d5f25662d0acf806096d00b93011.jpg" title="title" width="500" height="500" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="availability-calendar">Availability Calendar<a class="hash-link" href="#availability-calendar" title="Lien direct vers le titre">​</a></h2> ]]></content:encoded>
+            <content:encoded><![CDATA[<p>We've been busy this past month adding some pretty neat new features to Workstaff. Without further wait, here they are!</p><p><img loading="lazy" alt="Alt text" src="/fr/assets/images/workers-1810538faa0b2aa75d5c219940b7a83e.jpg" title="title" width="500" height="500" class="img_E7b_"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="calendrier-des-disponibilités">Calendrier des disponibilités<a class="hash-link" href="#calendrier-des-disponibilités" title="Lien direct vers le titre">​</a></h2> ]]></content:encoded>
+            <category>test tag</category>
             <category>product updates</category>
         </item>
     </channel>
