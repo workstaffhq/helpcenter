@@ -2,7 +2,7 @@
 slug: oct-2021-product-updates
 title: Mise à jour produit - October 2021
 authors: [dmarquis]
-tags: [product updates]
+tags: [french translation of tag]
 image: ./workers.jpg
 draft: true
 ---
