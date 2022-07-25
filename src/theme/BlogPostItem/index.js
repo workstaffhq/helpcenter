@@ -1,15 +1,15 @@
-import React from "react";
-import clsx from "clsx";
-import Translate, { translate } from "@docusaurus/Translate";
-import Link from "@docusaurus/Link";
-import { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
-import { usePluralForm } from "@docusaurus/theme-common";
-import { blogPostContainerID } from "@docusaurus/utils-common";
-import MDXContent from "@theme/MDXContent";
-import EditThisPage from "@theme/EditThisPage";
-import styles from "./styles.module.css";
-import TagsListInline from "@theme/TagsListInline";
-import BlogPostAuthors from "@theme/BlogPostAuthors"; // Very simple pluralization: probably good enough for now
+import React from 'react';
+import clsx from 'clsx';
+import Translate, { translate } from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
+import { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
+import { usePluralForm } from '@docusaurus/theme-common';
+import { blogPostContainerID } from '@docusaurus/utils-common';
+import MDXContent from '@theme/MDXContent';
+import EditThisPage from '@theme/EditThisPage';
+import styles from './styles.module.css';
+import TagsListInline from '@theme/TagsListInline';
+import BlogPostAuthors from '@theme/BlogPostAuthors'; // Very simple pluralization: probably good enough for now
 
 function useReadingTimePlural() {
   const { selectMessage } = usePluralForm();
@@ -19,10 +19,10 @@ function useReadingTimePlural() {
       readingTime,
       translate(
         {
-          id: "theme.blog.post.readingTime.plurals",
+          id: 'theme.blog.post.readingTime.plurals',
           description:
             'Pluralized label for "{readingTime} min read". Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',
-          message: "One min read|{readingTime} min read",
+          message: 'One min read|{readingTime} min read',
         },
         {
           readingTime,
@@ -57,30 +57,30 @@ export default function BlogPostItem(props) {
   const truncatedPost = !isBlogPostPage && truncated;
   const tagsExists = tags.length > 0;
   const label = tags[0].label;
-  const TitleHeading = isBlogPostPage ? "h1" : "h2";
+  const TitleHeading = isBlogPostPage ? 'h1' : 'h2';
   return (
     <article
-      className={!isBlogPostPage ? "margin-bottom--xl" : undefined}
-      itemProp="blogPost"
+      className={!isBlogPostPage ? 'margin-bottom--xl' : undefined}
+      itemProp='blogPost'
       itemScope
-      itemType="http://schema.org/BlogPosting"
+      itemType='http://schema.org/BlogPosting'
     >
       <header>
-        <TitleHeading className={styles.blogPostTitle} itemProp="headline">
+        <TitleHeading className={styles.blogPostTitle} itemProp='headline'>
           {isBlogPostPage ? (
             title
           ) : (
-            <Link itemProp="url" to={permalink}>
+            <Link itemProp='url' to={permalink}>
               {title}
             </Link>
           )}
         </TitleHeading>
 
-        {(image && !isBlogPostPage) && (
+        {!isBlogPostPage && (
           <section>
-            <img src={withBaseUrl(image)} alt="" />
+            {image && <img src={withBaseUrl(image)} alt='' />}
             <div>
-              <div className="note">
+              <div className='note'>
                 <blockquote>
                   <p>{label.toUpperCase()}</p>
                 </blockquote>
@@ -90,14 +90,14 @@ export default function BlogPostItem(props) {
           </section>
         )}
 
-        <div className={clsx(styles.blogPostData, "margin-vert--md")}>
-          <time dateTime={date} itemProp="datePublished">
+        <div className={clsx(styles.blogPostData, 'margin-vert--md')}>
+          <time dateTime={date} itemProp='datePublished'>
             {formattedDate}
           </time>
 
-          {typeof readingTime !== "undefined" && (
+          {typeof readingTime !== 'undefined' && (
             <>
-              {" · "}
+              {' · '}
               {readingTimePlural(readingTime)}
             </>
           )}
@@ -107,7 +107,7 @@ export default function BlogPostItem(props) {
 
       {image && (
         <meta
-          itemProp="image"
+          itemProp='image'
           content={withBaseUrl(image, {
             absolute: true,
           })}
@@ -116,25 +116,23 @@ export default function BlogPostItem(props) {
 
       <div // This ID is used for the feed generation to locate the main content
         id={isBlogPostPage ? blogPostContainerID : undefined}
-        className="markdown"
-        itemProp="articleBody"
+        className='markdown'
+        itemProp='articleBody'
       >
-        {isBlogPostPage && (
-          <MDXContent>{children}</MDXContent>
-        )}{" "}
+        {isBlogPostPage && <MDXContent>{children}</MDXContent>}{' '}
       </div>
-      
+
       {(tagsExists || truncated) && (
         <footer
           className={clsx(
-            "row docusaurus-mt-lg",
+            'row docusaurus-mt-lg',
             isBlogPostPage && styles.blogPostDetailsFull
           )}
         >
           {tagsExists && (
             <div
-              className={clsx("col", {
-                "col--9": truncatedPost,
+              className={clsx('col', {
+                'col--9': truncatedPost,
               })}
             >
               <TagsListInline tags={tags} />
@@ -142,25 +140,25 @@ export default function BlogPostItem(props) {
           )}
 
           {isBlogPostPage && editUrl && (
-            <div className="col margin-top--sm">
+            <div className='col margin-top--sm'>
               <EditThisPage editUrl={editUrl} />
             </div>
           )}
 
           {truncatedPost && (
             <div
-              className={clsx("col text--right", {
-                "col--3": tagsExists,
+              className={clsx('col text--right', {
+                'col--3': tagsExists,
               })}
             >
               <Link
                 to={metadata.permalink}
                 aria-label={translate(
                   {
-                    message: "Read more about {title}",
-                    id: "theme.blog.post.readMoreLabel",
+                    message: 'Read more about {title}',
+                    id: 'theme.blog.post.readMoreLabel',
                     description:
-                      "The ARIA label for the link to full blog posts from excerpts",
+                      'The ARIA label for the link to full blog posts from excerpts',
                   },
                   {
                     title,
@@ -169,8 +167,8 @@ export default function BlogPostItem(props) {
               >
                 <b>
                   <Translate
-                    id="theme.blog.post.readMore"
-                    description="The label used in blog post item excerpts to link to full blog posts"
+                    id='theme.blog.post.readMore'
+                    description='The label used in blog post item excerpts to link to full blog posts'
                   >
                     Read More
                   </Translate>

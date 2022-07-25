@@ -1,5 +1,5 @@
-import React from "react";
-import styles from "./ContentBanner.modules.scss";
+import React from 'react';
+import styles from './ContentBanner.modules.scss';
 
 function ContentBanner() {
   return (
