@@ -6,4 +6,4 @@ sidebar_position: 1
 
 # Help for Workers
 
-This area will be the place to learn everything you need to know about using the Workstaff mobile app as a worker.
+This area is be the place to learn everything you need to know about using the Workstaff as a worker and interacting with your employer effectively.
