@@ -1,5 +1,24 @@
 import React from 'react';
 import styles from './ContentBanner.modules.scss';
+import Translate, {translate} from '@docusaurus/Translate';
+
+const ContentBannerTranslation = 
+  {
+    title: translate({message: 'Get Started With Workstaff Today!', description: 'Title for component description'}),
+    url: translate({message:'https://employer.workstaff.app/en/signup/'}),
+    content_banner_plan: (
+      <Translate description="The description for pricing">
+          The basic Workstaff plan offers all scheduling and communication tools at absolutely no charge.
+      </Translate>
+    ),
+    content_banner_reate: (
+      <Translate description="The description for account creation">
+          Create your account, invite a few colleagues and start planning. Getting started with Workstaff only takes a few minutes.
+      </Translate>
+    ),
+    button: translate({message: 'Start for Free', description: 'The component button label to link to the sign up page'}),
+  }
+;
 
 function ContentBanner() {
   return (
@@ -7,20 +26,16 @@ function ContentBanner() {
       <div className={styles.contentBannerContainer}>
         <Logo />
         <h2 className={styles.contentBannerTitle}>
-          <div>Get Started With Workstaff Today!</div>
+          <div>{ContentBannerTranslation.title}</div>
         </h2>
         <div className={styles.contentBannerBody}>
           <div>
-            The basic Workstaff plan offers all scheduling and communication
-            tools at absolutely no charge.
-          </div>
-          <div>
-            Create your account, invite a few colleagues and start planning.
-            Getting started with Workstaff only takes a few minutes.
+            {ContentBannerTranslation.content_banner_plan}
+            {ContentBannerTranslation.content_banner_reate}
           </div>
         </div>
-        <a className="button button--cta" href="https://employer.workstaff.app/en/signup/" target="_blank" >
-          <div>Start for Free</div>
+        <a className="button button--cta" href={ContentBannerTranslation.url} target="_blank" >
+          <div>{ContentBannerTranslation.button}</div>
         </a>
       </div>
     </div>

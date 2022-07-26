@@ -30,7 +30,6 @@ function BlogListPageMetadata(props) {
 
 function BlogListPageContent(props) {
   const {metadata, items, sidebar} = props;
-  // console.log(items)
   return (
     <BlogLayout>
       <div className={styles.blogPostList}>

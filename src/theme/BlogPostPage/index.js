@@ -17,7 +17,6 @@ function BlogPostPageMetadata(props) {
   const { title, description, date, tags, authors, frontMatter } = metadata;
   const { keywords } = frontMatter;
   const image = assets.image ?? frontMatter.image;
-  console.log(metadata);
   return (
     <PageMetadata
       title={title}
