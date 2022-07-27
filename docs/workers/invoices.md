@@ -1,9 +1,9 @@
 ---
-title: Invoicing Your Time
+title: Invoice Your Work
 sidebar_position: 6
 ---
 
-# Create Invoices for Your Hours
+# Create Invoices for Your Work
 
 :::important Invoices are for Autonomous Workers / Contractors
 Workstaff will only offer you to create invoices for the time you worked if your employer has declared your employment 

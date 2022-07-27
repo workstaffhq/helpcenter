@@ -17,7 +17,7 @@ You can [download and install the mobile app](https://workstaff.app/download) on
 
 ## Sign In
 
-Once your employer has created an account for you, you'll be able to log in and claim your Workstaff profile. You can claim your profile
+Once your employer has created an account for you, you'll be able to log in and claim your Workstaff profile 
 using either your phone number or your email address.
 
 :::important
