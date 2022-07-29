@@ -1,10 +1,4 @@
----
-slug: 
-title: The Rebirth of The Event Industry
-authors: 
-tags: 
-image: 
----
+
 
 # The Rebirth of The Event Industry 
   
@@ -18,4 +12,3 @@ However, according to recent studies, a large majority of people still prefer ph
 
 ## The Undeniable Advantages of Technology for the Event Industry.
 In a context where it is possible to take advantage of more freedom than during the last two years, the pandemic persists despite everything and the importance of hybrid events is indisputable if one wants to get closer to his audience. The impact of the pandemic on the event industry has led to a growing use of technological tools that allow the digitization of events, but also their organization and communication. Workstaff is a platform widely used in the event industry for its functionalities that facilitate, among other things, the management of schedules, the planning of personnel and the communication with the teams. You can stay informed of your workers' availability, book them and publish offers they can apply for at their fingertips on the mobile app, thanks to which they are always reachable through instant messaging. These tools have proven to be particularly beneficial in recent months as the tidal wave of the event industry has overwhelmed. 
-
