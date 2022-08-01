@@ -3,11 +3,12 @@ slug: the-rebirth-of-the-event-industry
 title: The Rebirth of The Event Industry
 authors: [mrochette]
 tags: [news]
-image: ./event-wide.png
+image: ./event-square.png
 ---
 
 # The Rebirth of The Event Industry
-![image](event-wide.png)
+<!--truncate-->
+![Alt text](./event-wide.png "title")
 
 The past two years of pandemic have been a time of uncertainty for the event industry. Following the mandatory shutdown of all face-to-face activities after the lockdown announcement in March 2020, the event became less and less conceivable in the minds of organizers and the public. Companies in this industry experienced significant financial and salary losses and had to come to terms with an uncertain future for a period of time that was still unknown. Today, with the massive relaxation of sanitary measures, we are witnessing a renaissance of the physical event, long awaited by a population thirsty for entertainment, reunion and memorable moments to share.
 
