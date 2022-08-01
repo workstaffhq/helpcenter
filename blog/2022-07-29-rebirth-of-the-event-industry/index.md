@@ -8,11 +8,13 @@ image: ./event-square.png
 
 # The Rebirth of The Event Industry
 
-![Alt text](event-square.png)
-
-The past two years of pandemic have been a time of uncertainty for the event industry. Following the mandatory shutdown of all face-to-face activities after the lockdown announcement in March 2020, the event became less and less conceivable in the minds of organizers and the public. Companies in this industry experienced significant financial and salary losses and had to come to terms with an uncertain future for a period of time that was still unknown. Today, with the massive relaxation of sanitary measures, we are witnessing a renaissance of the physical event, long awaited by a population thirsty for entertainment, reunion and memorable moments to share.
+While the pandemic has had a negative impact on the event industry, it has also been an opportunity to reinvent it.
 
 <!--truncate-->
+
+![event-wide.jpg](event-wide.jpg)
+
+The past two years of pandemic have been a time of uncertainty for the event industry. Following the mandatory shutdown of all face-to-face activities after the lockdown announcement in March 2020, the event became less and less conceivable in the minds of organizers and the public. Companies in this industry experienced significant financial and salary losses and had to come to terms with an uncertain future for a period of time that was still unknown. Today, with the massive relaxation of sanitary measures, we are witnessing a renaissance of the physical event, long awaited by a population thirsty for entertainment, reunion and memorable moments to share.
 
 ## The Sudden Switch to Online Events
 With the lockdowns and sanitary measures, the event landscape was marked by the disappearance of many players in this sector, but also by the resilience and inventiveness of organizations that were able to adapt to this reality by offering virtual gatherings. The increased use of technological tools during the pandemic allowed many companies to adapt and offer new event formats that were welcomed by a large number of people. Online gatherings have become commonplace in a variety of settings and at different scales. Indeed, it is possible to virtually attend concerts, conferences, promotional events, conventions, and much more. The pandemic has accelerated the adoption of technology as a tool for organizing and communicating at events, but also as an integral and essential part of those events. Many companies have embraced this long-term approach and plan to continue offering virtual events even after the health constraints of the pandemic have been alleviated.
