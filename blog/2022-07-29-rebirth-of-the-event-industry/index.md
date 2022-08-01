@@ -3,7 +3,7 @@ slug: the-rebirth-of-the-event-industry
 title: The Rebirth of The Event Industry
 authors: [mrochette]
 tags: [news]
-image: ./event-square.png
+image: ./event-square.jpg
 ---
 
 # The Rebirth of The Event Industry
