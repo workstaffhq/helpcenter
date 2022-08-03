@@ -11,7 +11,7 @@ const ContentBannerTranslation =
           The basic Workstaff plan offers all scheduling and communication tools at absolutely no charge.
       </Translate>
     ),
-    content_banner_reate: (
+    content_banner_create: (
       <Translate description="The description for account creation">
           Create your account, invite a few colleagues and start planning. Getting started with Workstaff only takes a few minutes.
       </Translate>
@@ -31,7 +31,7 @@ function ContentBanner() {
         <div className={styles.contentBannerBody}>
           <div>
             {ContentBannerTranslation.content_banner_plan}
-            {ContentBannerTranslation.content_banner_reate}
+            {ContentBannerTranslation.content_banner_create}
           </div>
         </div>
         <a className="button button--cta" href={ContentBannerTranslation.url} target="_blank" >

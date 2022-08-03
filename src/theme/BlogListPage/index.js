@@ -8,7 +8,7 @@ import {
   HtmlClassNameProvider,
   ThemeClassNames,
 } from '@docusaurus/theme-common';
-import styles from './styles.module.css';
+import styles from './styles.module.scss';
 import SearchMetadata from '@theme/SearchMetadata';
 import clsx from 'clsx';
 

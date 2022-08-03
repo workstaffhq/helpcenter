@@ -33,7 +33,6 @@ function useReadingTimePlural() {
 }
 
 export default function BlogPostItem(props) {
-  const readingTimePlural = useReadingTimePlural();
   const { withBaseUrl } = useBaseUrlUtils();
   const {
     children,
@@ -57,52 +56,80 @@ export default function BlogPostItem(props) {
   const truncatedPost = !isBlogPostPage && truncated;
   const tagsExists = tags.length > 0;
   const label = tags[0].label;
-  const TitleHeading = isBlogPostPage ? 'h1' : 'h2';
   return (
     <article
-      className={!isBlogPostPage ? 'margin-bottom--xl' : undefined}
+      className={clsx('margin-top--sm', !isBlogPostPage ? 'margin-bottom--sm' : undefined)}
       itemProp='blogPost'
       itemScope
       itemType='http://schema.org/BlogPosting'
     >
       <header>
-        <TitleHeading className={styles.blogPostTitle} itemProp='headline'>
-          {isBlogPostPage ? (
-            title
-          ) : (
-            <Link itemProp='url' to={permalink}>
-              {title}
-            </Link>
-          )}
-        </TitleHeading>
+        {isBlogPostPage && (
+          <TitleBlogPost title={title} isBlogPostPage={isBlogPostPage} permalink={permalink} />
+        )}
 
         {!isBlogPostPage && (
           <section>
             {image && <img src={withBaseUrl(image)} alt='' />}
             <div>
+              <TitleBlogPost title={title} isBlogPostPage={isBlogPostPage} permalink={permalink} />
               <div className='note'>
                 <blockquote>
                   <p>{label.toUpperCase()}</p>
                 </blockquote>
               </div>
               <MDXContent>{children}</MDXContent>
+
+              {truncatedPost && (
+                <div
+                  className={clsx('col text--left')}
+                  style={{ paddingLeft: '0' }}
+                >
+                  <Link
+                    to={metadata.permalink}
+                    aria-label={translate(
+                      {
+                        message: 'Read more about {title}',
+                        id: 'theme.blog.post.readMoreLabel',
+                        description:
+                          'The ARIA label for the link to full blog posts from excerpts',
+                      },
+                      {
+                        title,
+                      }
+                    )}
+                  >
+                    <b>
+                      <Translate
+                        id='theme.blog.post.readMore'
+                        description='The label used in blog post item excerpts to link to full blog posts'
+                      >
+                        Read More
+                      </Translate>
+                    </b>
+                  </Link>
+                </div>
+              )}
+
+              <ArticleDetails
+                date={date}
+                formattedDate={formattedDate}
+                readingTime={readingTime}
+                authors={authors}
+                assets={assets}
+              />
             </div>
           </section>
         )}
-
-        <div className={clsx(styles.blogPostData, 'margin-vert--md')}>
-          <time dateTime={date} itemProp='datePublished'>
-            {formattedDate}
-          </time>
-
-          {typeof readingTime !== 'undefined' && (
-            <>
-              {' · '}
-              {readingTimePlural(readingTime)}
-            </>
-          )}
-        </div>
-        <BlogPostAuthors authors={authors} assets={assets} />
+        {isBlogPostPage && (
+          <ArticleDetails
+            date={date}
+            formattedDate={formattedDate}
+            readingTime={readingTime}
+            authors={authors}
+            assets={assets}
+          />
+        )}
       </header>
 
       {image && (
@@ -125,7 +152,7 @@ export default function BlogPostItem(props) {
       {(tagsExists || truncated) && (
         <footer
           className={clsx(
-            'row docusaurus-mt-lg',
+            'row margin-top--md',
             isBlogPostPage && styles.blogPostDetailsFull
           )}
         >
@@ -144,40 +171,42 @@ export default function BlogPostItem(props) {
               <EditThisPage editUrl={editUrl} />
             </div>
           )}
-
-          {truncatedPost && (
-            <div
-              className={clsx('col text--right', {
-                'col--3': tagsExists,
-              })}
-            >
-              <Link
-                to={metadata.permalink}
-                aria-label={translate(
-                  {
-                    message: 'Read more about {title}',
-                    id: 'theme.blog.post.readMoreLabel',
-                    description:
-                      'The ARIA label for the link to full blog posts from excerpts',
-                  },
-                  {
-                    title,
-                  }
-                )}
-              >
-                <b>
-                  <Translate
-                    id='theme.blog.post.readMore'
-                    description='The label used in blog post item excerpts to link to full blog posts'
-                  >
-                    Read More
-                  </Translate>
-                </b>
-              </Link>
-            </div>
-          )}
         </footer>
       )}
     </article>
   );
 }
+
+function ArticleDetails(props) {
+  const readingTimePlural = useReadingTimePlural();
+  return (
+  <>
+    <div className={clsx(styles.blogPostData, 'margin-vert--md')}>
+      <time dateTime={props.date} itemProp='datePublished'>
+        {props.formattedDate}
+      </time>
+
+      {typeof props.readingTime !== 'undefined' && (
+        <>
+          {' · '}
+          {readingTimePlural(props.readingTime)}
+        </>
+      )}
+    </div>
+    <BlogPostAuthors authors={props.authors} assets={props.assets} />
+  </>
+)};
+
+function TitleBlogPost(props) {
+  const TitleHeading = props.isBlogPostPage ? 'h1' : 'h2';
+  return (
+  <TitleHeading className={styles.blogPostTitle} itemProp='headline'>
+    {props.isBlogPostPage ? (
+      props.title
+    ) : (
+      <Link itemProp='url' to={props.permalink}>
+        {props.title}
+      </Link>
+    )}
+  </TitleHeading>
+)};
