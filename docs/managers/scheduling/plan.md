@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Plan an Event
 
-## Creating a new project
+## Creating a New Project
 
 Creating a project in Workstaff is a quick and easy task:
 1. In the main menu, go to the **Calendar** section 
@@ -13,7 +13,7 @@ Creating a project in Workstaff is a quick and easy task:
 
 ![create_project.png](Images/create_project.png)
 
-## Adding shifts 
+## Adding Shifts 
 Once you have created your project, you can add shifts: 
 1. On the project page, click on **Create Shift**
 2. Select the date(s)
@@ -25,7 +25,7 @@ Once you have created your project, you can add shifts:
 ![img_1.png](Images/img_1.png)
 
 
-## Draft mode 
+## Draft Mode 
 
 When creating a new project, Workstaff makes you work in draft mode by default. This allows you to make any changes you want and apply them to the project once you are satisfied by clicking on **Review and Apply** on the project page. Only then will your staff receive a notification regarding their bookings.
 

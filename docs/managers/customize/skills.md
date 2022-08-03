@@ -1,8 +1,8 @@
-# Use your own skills / roles
+# Use Your Own Skills / Roles
 
 Workstaff allows you to create skills that reflect the positions you associate with your shift. 
 
-## Creating skills 
+## Creating Skills 
 
 1. In the main menu, go to the **Settings** section
 2. Go to the **Skills** section

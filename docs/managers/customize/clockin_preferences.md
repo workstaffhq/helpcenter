@@ -1,6 +1,6 @@
 # Time tracking settings
 
-## Setting up your time tracking settings
+## Setting Up Your Time Tracking Settings
 You can customize options related to tracking your team's time.
 - **Do not require a timesheet from staff**: by default, timesheets are mandatory for staff. When this option is checked, timesheet submission will still be allowed but it won't be enforced and clock in reminders will be disabled
 - **Unrestricted**: each staff can clock in and out by themselves, from their mobile phone, without any restriction.
