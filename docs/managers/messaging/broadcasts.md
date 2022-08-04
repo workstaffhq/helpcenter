@@ -13,7 +13,7 @@ Broadcasts are sent individually to each team member, and each team member who r
 it as read and/or reply to it if any follow up is required. 
 
 
-## Send a broadcast
+## Send a Broadcast
 
 To send a broadcast to your staff:
 
@@ -28,11 +28,11 @@ The push notification does not include the actual broadcast's content, but the e
 
 Once sent, a broadcast will stay visibile in each of your team's inbox for as long as it exists.
 
-## Receiving replies to broadcasts
+## Receiving Replies to Broadcasts
 
 Individual staff replies to broadcasts will actually be received in new [1:1 conversations](./chat.md) between the original sender of the broadcast and the staff who replied.
 
-## Delete a broadcast
+## Delete a Broadcast
 
 When a broadcast becomes outdated or irrelevant, you can delete it:
 

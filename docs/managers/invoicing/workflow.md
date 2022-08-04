@@ -24,6 +24,6 @@ If the information does not match, Workstaff will show you directly on the invoi
 
 If the information on the invoice is correct, simply click on **Approve**. Your staff will be notified of the invoice approval on the mobile app and the rest of the process.
 
-## Downloading an invoice
+## Downloading an Invoice
 
 You can export the invoice to a pdf format by going to **Actions** and clicking on **Download**.

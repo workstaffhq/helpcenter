@@ -11,7 +11,7 @@ Workstaff has integrated instant messaging to communicate with your staff and te
 You can only chat with team members who have installed the Workstaff mobile app.
 :::
 
-## Types of conversations
+## Types Of Conversations
 
 ### 1:1 (One to One)
 
@@ -33,11 +33,11 @@ associated with the project/schedule.
 2. Click on **Chat with team**
 3. Once you’ve started the conversation, you can always go back to it by clicking on the messaging icon in the top right corner of the page
 
-## Sending links in chat messages
+## Sending Links in Chat Messages
 
 Clickable links to Web pages can also be sent in chat messages just by copy/pasting the link to the page you want to send. Links must start with either `http://...` or `https://` to be recognized by Workstaff as clickable links.
 
-## Sending rich text in chat messages
+## Sending Rich Text in Chat Messages
 
 It is possible to send chat messages with simple formatting, for example, make your content stand out or emphasize parts of it. 
 

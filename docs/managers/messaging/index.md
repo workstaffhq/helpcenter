@@ -1,4 +1,4 @@
-# Communicating with your staff
+# Communicating With Your Staff
 
 Workstaff has robust integrated communications features that allow you to stay connected with your team directly from within the platform and/or the mobile app.
 

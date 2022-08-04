@@ -6,7 +6,7 @@ The different customization options available to you are listed below.
 ## Account
 Setting up the following general settings for your organization in Workstaff is a crucial step.
 
-### Your organization
+### Your Organization
 In this section, fill-in the general information about your organization such as:
 - A logo
 - The name of your company

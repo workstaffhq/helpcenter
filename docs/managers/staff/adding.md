@@ -11,7 +11,7 @@ If you manage a large team or are part of a complex organization, you do not nee
 
 If adopting Workstaff in smaller steps is not an option for your organization, our Customer Success team can help you plan your transition, and we even have the option to import batches of staff from a database you provide.
 
-## Creating profiles 
+## Creating Profiles 
 
 1. In the main menu, go to the **Staff** section  
 2. Click the **Add** button 
@@ -26,7 +26,7 @@ You can add up to 10 staff at the same time. If you need to add more than 10, yo
 When a staff member’s phone number is from outside of North America, you can add it to their profile but they will not be able to use to log in to the mobile app. Be sure to add a valid email address to their profile so they can use it to log in.
 :::
 
-### Optional: Send invitations
+### Optional: Send Invitations
 
 You can optionally send automatic invitation emails to the staff you invite. The email sent by Workstaff will contain instructions to install the mobile app, and will include some branding from your organization (such as the logo). 
 
