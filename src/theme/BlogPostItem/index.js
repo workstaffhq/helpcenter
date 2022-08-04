@@ -7,7 +7,7 @@ import { usePluralForm } from '@docusaurus/theme-common';
 import { blogPostContainerID } from '@docusaurus/utils-common';
 import MDXContent from '@theme/MDXContent';
 import EditThisPage from '@theme/EditThisPage';
-import styles from './styles.module.css';
+import styles from './styles.module.scss';
 import TagsListInline from '@theme/TagsListInline';
 import BlogPostAuthors from '@theme/BlogPostAuthors'; // Very simple pluralization: probably good enough for now
 
@@ -52,32 +52,46 @@ export default function BlogPostItem(props) {
     editUrl,
     authors,
   } = metadata;
-  const image = assets.image ?? frontMatter.image;
+  const image = assets.image;
+  console.log(withBaseUrl(assets.image));
   const truncatedPost = !isBlogPostPage && truncated;
   const tagsExists = tags.length > 0;
   const label = tags[0].label;
+  // console.log(frontMatter.listingImage)
   return (
     <article
-      className={clsx('margin-top--sm', !isBlogPostPage ? 'margin-bottom--sm' : undefined)}
+      className={clsx(
+        'margin-top--sm',
+        !isBlogPostPage ? 'margin-bottom--sm' : undefined
+      )}
       itemProp='blogPost'
       itemScope
       itemType='http://schema.org/BlogPosting'
     >
       <header>
         {isBlogPostPage && (
-          <TitleBlogPost title={title} isBlogPostPage={isBlogPostPage} permalink={permalink} />
+          <TitleBlogPost
+            title={title}
+            isBlogPostPage={isBlogPostPage}
+            permalink={permalink}
+          />
         )}
 
         {!isBlogPostPage && (
           <section>
-            {image && <img src={withBaseUrl(image)} alt='' />}
+            {image && <img style={{ objectFit: 'cover', aspectRatio: '1/1', width: '100%' }} src={withBaseUrl(image)} alt='' />}
             <div>
-              <TitleBlogPost title={title} isBlogPostPage={isBlogPostPage} permalink={permalink} />
+              <TitleBlogPost
+                title={title}
+                isBlogPostPage={isBlogPostPage}
+                permalink={permalink}
+              />
               <div className='note'>
                 <blockquote>
                   <p>{label.toUpperCase()}</p>
                 </blockquote>
               </div>
+
               <MDXContent>{children}</MDXContent>
 
               {truncatedPost && (
@@ -141,6 +155,15 @@ export default function BlogPostItem(props) {
         />
       )}
 
+      {image && isBlogPostPage && (
+        <img
+          style={{ objectFit: 'cover', aspectRatio: '2/1', width: '100%' }}
+          className={'margin-bottom--md'}
+          src={withBaseUrl(image)}
+          alt=''
+        />
+      )}
+
       <div // This ID is used for the feed generation to locate the main content
         id={isBlogPostPage ? blogPostContainerID : undefined}
         className='markdown'
@@ -180,33 +203,35 @@ export default function BlogPostItem(props) {
 function ArticleDetails(props) {
   const readingTimePlural = useReadingTimePlural();
   return (
-  <>
-    <div className={clsx(styles.blogPostData, 'margin-vert--md')}>
-      <time dateTime={props.date} itemProp='datePublished'>
-        {props.formattedDate}
-      </time>
+    <>
+      <div className={clsx(styles.blogPostData, 'margin-vert--md')}>
+        <time dateTime={props.date} itemProp='datePublished'>
+          {props.formattedDate}
+        </time>
 
-      {typeof props.readingTime !== 'undefined' && (
-        <>
-          {' · '}
-          {readingTimePlural(props.readingTime)}
-        </>
-      )}
-    </div>
-    <BlogPostAuthors authors={props.authors} assets={props.assets} />
-  </>
-)};
+        {typeof props.readingTime !== 'undefined' && (
+          <>
+            {' · '}
+            {readingTimePlural(props.readingTime)}
+          </>
+        )}
+      </div>
+      <BlogPostAuthors authors={props.authors} assets={props.assets} />
+    </>
+  );
+}
 
 function TitleBlogPost(props) {
   const TitleHeading = props.isBlogPostPage ? 'h1' : 'h2';
   return (
-  <TitleHeading className={styles.blogPostTitle} itemProp='headline'>
-    {props.isBlogPostPage ? (
-      props.title
-    ) : (
-      <Link itemProp='url' to={props.permalink}>
-        {props.title}
-      </Link>
-    )}
-  </TitleHeading>
-)};
+    <TitleHeading className={styles.blogPostTitle} itemProp='headline'>
+      {props.isBlogPostPage ? (
+        props.title
+      ) : (
+        <Link itemProp='url' to={props.permalink}>
+          {props.title}
+        </Link>
+      )}
+    </TitleHeading>
+  );
+}
