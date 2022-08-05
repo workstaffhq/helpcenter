@@ -10,8 +10,8 @@ export default function NavGrid({cols = undefined, children}) {
 
     return (
         <div className={'row ' + styles.row}>
-            {children.map(child => (
-                <div className={`col col--${colSize}`}>
+            {children.map((child, idx) => (
+                <div key={idx} className={`col col--${colSize}`}>
                     {child}
                 </div>
             ))}
