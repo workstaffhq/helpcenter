@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Rebirth of The Event Industry","permalink":"/blog/the-rebirth-of-the-event-industry"}]}')}}]);
