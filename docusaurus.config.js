@@ -28,7 +28,10 @@ const config = {
     },
   },
 
-  plugins: [require.resolve('docusaurus-lunr-search'), 'docusaurus-plugin-sass'],
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+    'docusaurus-plugin-sass'
+  ],
 
   presets: [
     [
