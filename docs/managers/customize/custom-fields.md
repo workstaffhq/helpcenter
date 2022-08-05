@@ -2,7 +2,7 @@
 
 Create custom fields to provide the most complete information to your staff profiles.
 
-## Creating custom fields 
+## Creating Custom Fields
 
 1. In the main menu, go to the **Settings** section,
 2. Go to the **Custom Fields** sections

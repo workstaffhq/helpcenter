@@ -19,7 +19,7 @@ const FeatureList = [
     ),
   },
   {
-      title: translate({message: 'Help for Workers', description: 'Landing page highlight title for workers'}),
+    title: translate({message: 'Help for Workers', description: 'Landing page highlight title for workers'}),
     url: '/docs/workers/',
     image: <img alt="Workers" src={WorkersImageUrl}/>,
     description: (

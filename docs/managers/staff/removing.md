@@ -3,11 +3,11 @@ sidebar_label: Remove Staff from Your Database
 sidebar_position: 5
 ---
 
-# Removing staff from your database
+# Removing Staff From Your Database
 
 For any reason, if you need to remove a staff from your database, you have two options. These options are detailed below.
 
-## Make a profile inactive
+## Make a Profile Inactive
 
 Making a profile inactive will not remove the profile from your database but will essentially hide it. 
 
@@ -28,7 +28,7 @@ To make a profile inactive:
 2. Go to the **Employment** tab.
 3. Click the **Deactivate** link.
 
-### Reactivate an inactive profile
+### Reactivate an Inactive Profile
 
 You can reactivate an inactive profile at any time. To find an inactive profile, either use the Search Everywhere tool,
 or select the option to **Show** inactive profiles in the main **Staff** section: 
@@ -41,7 +41,7 @@ Once you found the profile to reactivate:
 2. Go to the **Employment** tab.
 3. Click the **Reactivate** link.
 
-## Completely remove a profile
+## Completely Remove a Profile
 
 In case you want to completely remove a profile from your database instead of making it inactive, proceed as such:
 

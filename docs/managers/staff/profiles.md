@@ -23,7 +23,7 @@ You can rate each staff on a 5-star scale. This information is mainly used for s
 
 Tags are simple text labels that can be associated with each profile. They are used mainly to [classify](./organizing) your staff and facilitate [searching](./search) within your database.
 
-## Custom fields (Pro only)
+## Custom Fields (Pro only)
 
 Every [custom field](../customize/custom-fields) you defined in your account settings will be listed on the staff profile so that actual values can be provided.
 
@@ -37,11 +37,11 @@ The **Skills** panel allows you to select a set of skills you consider valid for
 
 It is critical that the right skills be associated with each staff to use Workstaff productively. See [Organizing & Classifying your staff](organizing) for more details.
 
-## Additional details
+## Additional Details
 
 The **About Me**, **Spoken Languages**, **Work Experience** and **Transportation** sections can be filled-in by the staff directly in the mobile app once they have [claimed](#claimed-vs-unclaimed-profiles) their account.
 
-## Contact information
+## Contact Information
 
 You can view and change each worker's contact information in the **Contact** tab. 
 
@@ -69,7 +69,7 @@ Once a profile has been claimed by a worker, only they can edit their contact in
 ## Booking History
 The **Booking History** tab allows you to view your staff's past bookings.
 
-## Claimed vs Unclaimed profiles
+## Claimed vs Unclaimed Profiles
 
 When you initially add a staff profile in Workstaff, this profile is considered as being _Unclaimed_.
 
@@ -80,7 +80,7 @@ Once claimed, the profile belongs to the worker and some information can only be
 - Name, contact information and birthdate
 - Location information
 
-## Profiles without contact information (placeholders)
+## Profiles Without Contact Information (placeholders)
 
 Under some circumstances, some workers may need to be added without any contact information. Workstaff allows profiles without any email or phone number to be added and managed as any other profiles.
 

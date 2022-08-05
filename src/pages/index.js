@@ -13,13 +13,6 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title"><Translate description="Landing page title">Help Center</Translate></h1>
         <p className="hero__subtitle"><Translate description="Landing page subtitle">Your one stop for anything Workstaff</Translate></p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--primary button--lg"
-            to="/docs/managers">
-            Video Intro - 5min ⏱️
-          </Link>
-        </div>
       </div>
     </header>
   );

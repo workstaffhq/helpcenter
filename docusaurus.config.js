@@ -8,7 +8,7 @@ const config = {
   url: 'https://help.workstaff.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/icon.svg',
   organizationName: 'workstaffhq',
   projectName: 'helpcenter',
@@ -28,7 +28,7 @@ const config = {
     },
   },
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [require.resolve('docusaurus-lunr-search'), 'docusaurus-plugin-sass'],
 
   presets: [
     [
@@ -42,7 +42,7 @@ const config = {
           showReadingTime: true,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.scss'),
         },
       }),
     ],
@@ -105,16 +105,29 @@ const config = {
             title: 'Additional Resources',
             items: [
               {
-                label: 'Email',
-                href: 'mailto:support@workstaff.app',
-              },
-              {
-                label: 'Product Updates',
-                to: '/blog/tags/product-updates',
+                label: 'Features Matrix',
+                to: '/docs/managers/features-matrix',
               },
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+            ],
+          },
+          {
+            title: 'Contact Us',
+            items: [
+              {
+                label: 'Support',
+                href: 'mailto:support@workstaff.app',
+              },
+              {
+                label: 'Sales',
+                href: 'mailto:sales@workstaff.app',
+              },
+              {
+                label: 'Book a Call',
+                href: 'https://workstaff.app/book-a-call',
               },
             ],
           },

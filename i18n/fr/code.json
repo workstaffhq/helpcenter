@@ -215,6 +215,30 @@
     "message": "Aide pour les travailleurs",
     "description": "Landing page highlight title for workers"
   },
+  "Get Started With Workstaff Today!": {
+    "message": "Débutez avec Workstaff en quelques minutes!",
+    "description": "Title for component description"
+  },
+  "The basic Workstaff plan offers all scheduling and communication tools at absolutely no charge.": {
+    "message": "La version de base de Workstaff vous offre sans frais toutes les fonctionnalités de gestion d'horaire et de communication avec votre équipe.",
+    "description": "The description for pricing"
+  },
+  "Create your account, invite a few colleagues and start planning. Getting started with Workstaff only takes a few minutes." :{
+    "message": "Créez votre compte, invitez quelques collègues et commencez à planifier. Débuter avec Workstaff nécessite seulement quelques minutes.",
+    "description": "The description for account creation"
+  },
+  "Start for Free" :{
+    "message": "Créer un compte gratuit",
+    "description": "The component button label to link to the sign up page"
+  },
+  "https://employer.workstaff.app/en/signup/" :{
+    "message": "https://employer.workstaff.app/fr/signup/",
+    "description": "The component button label to link to the sign up page"
+  },
+  "Share this article on social media" : {
+    "message": "Partagez ce page via votre compte de médias sociaux",
+    "description": "Title for social media component"
+  },
   "theme.ErrorPageContent.title": {
     "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"

@@ -1,0 +1,99 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ws-"], [class*=" ws-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ws-download {
+  &:before {
+    content: $ws-download; 
+  }
+}
+.ws-map-pin {
+  &:before {
+    content: $ws-map-pin; 
+  }
+}
+.ws-navigation {
+  &:before {
+    content: $ws-navigation; 
+  }
+}
+.ws-map {
+  &:before {
+    content: $ws-map; 
+  }
+}
+.ws-message-square {
+  &:before {
+    content: $ws-message-square; 
+  }
+}
+.ws-send {
+  &:before {
+    content: $ws-send; 
+  }
+}
+.ws-globe {
+  &:before {
+    content: $ws-globe; 
+  }
+}
+.ws-logo-nolids {
+  &:before {
+    content: $ws-logo-nolids; 
+  }
+}
+.ws-logo {
+  &:before {
+    content: $ws-logo; 
+  }
+}
+.ws-facebook {
+  &:before {
+    content: $ws-facebook; 
+  }
+}
+.ws-instagram {
+  &:before {
+    content: $ws-instagram; 
+  }
+}
+.ws-twitch {
+  &:before {
+    content: $ws-twitch; 
+  }
+}
+.ws-linkedin {
+  &:before {
+    content: $ws-linkedin; 
+  }
+}
+.ws-twitter {
+  &:before {
+    content: $ws-twitter; 
+  }
+}
+

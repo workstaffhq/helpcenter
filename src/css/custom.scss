@@ -1,0 +1,187 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap');
+
+
+
+/* You can override the default Infima variables here. */
+:root {
+  --palette-cyan: #2fafff;
+  --palette-cyan-light: #80ceff;
+  --palette-cyan-lighter: #cbebff;
+  --palette-cyan-lightest: #ebf7ff;
+  --palette-cyan-dark: #2af;
+  --palette-cyan-darker: #16a5ff;
+  --palette-blue: #3e2da5;
+  --palette-blue-light: #a59dd5;
+  --palette-blue-lighter: #e7e5f4;
+  --palette-blue-lightest: #f6f6fb;
+  --palette-orange: #ffa235;
+  --palette-orange-light: #ffe7ca;
+  --palette-pink: #e80889;
+  --palette-pink-light: #f8e5f0;
+  --palette-black: #212121;
+  --palette-darkgray: #555;
+  --palette-gray: #7c7c7c;
+  --palette-gray-light: #bfbfbf;
+  --palette-gray-lightest: #eee;
+
+  --border-radius-base: 7px;
+  --color-primary-dark-contrast: white;
+
+  --ifm-color-primary: #3e2da5;
+  --ifm-color-primary-dark: #3e2da5;
+  --ifm-color-primary-darker: #3e2da5;
+  --ifm-color-primary-darkest: #3e2da5;
+  --ifm-color-primary-light: #80ceff;
+  --ifm-color-primary-lighter: #cbebff;
+  --ifm-color-primary-lightest: #ebf7ff;
+  --ifm-font-family-base: 'Open Sans', sans-serif;
+  --ifm-font-color-base: #212121;
+  --ifm-font-size-base: 15px;
+  --ifm-heading-font-family: 'Lexend', sans-serif;
+  --ifm-heading-font-weight: 500;
+  --ifm-heading-color: var(--ifm-color-primary);
+  --ifm-code-font-size: 95%;
+  --ifm-link-hover-decoration: none;
+  --ifm-navbar-shadow: none;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (min-width: 996px) {
+  .navbar,
+  .main-wrapper {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .navbar .navbar__brand {
+    margin-right: 20px;
+  }
+
+  .navbar__link {
+    margin-right: 10px;
+    border-radius: var(--border-radius-base);
+  }
+
+  .navbar__link:hover {
+    background: var(--palette-gray-lightest);
+  }
+
+  .navbar__link--active,
+  .navbar__link--active:hover{
+    font-weight: 700;
+    background: var(--ifm-color-primary-dark);
+    color: var(--color-primary-dark-contrast);
+  }
+
+  .menu__link::after {
+    width: 0.7rem;
+    height: 0.7rem;
+    min-width: 0.5rem;
+  }
+
+  .menu__link--active {
+    font-weight: 700;
+    background: var(--ifm-color-primary-lightest);
+  }
+}
+.button--cta {
+  font-family: var(--ifm-font-family-base);
+  background-color: var(--palette-cyan);
+  font-weight: 400;
+  font-size: 16px;
+  &:hover {
+    background-color: var(--palette-cyan-dark);
+  }
+  &:active {
+    background-color: var(--palette-cyan-darker);
+  }
+}
+// 
+// Copied from corpsite to allow SVGs to be used as fonts
+//
+
+@font-face {
+  font-family: 'workstaff';
+  src:
+    url('../styles/glyphs/fonts/workstaff.ttf?1tgwli ') format('truetype'),
+    url('../styles/glyphs/fonts/workstaff.woff?1tgwli') format('woff'),
+    url('../styles/glyphs/fonts/workstaff.svg?1tgwli#workstaff') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ws-"], [class*=" ws-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'workstaff' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ws-download:before {
+  content: "\e908";
+}
+.ws-map-pin:before {
+  content: "\e909";
+}
+.ws-navigation:before {
+  content: "\e90a";
+}
+.ws-map:before {
+  content: "\e90b";
+}
+.ws-message-square:before {
+  content: "\e90c";
+}
+.ws-send:before {
+  content: "\e90d";
+}
+.ws-globe:before {
+  content: "\e900";
+}
+.ws-logo-nolids:before {
+  content: "\e901";
+}
+.ws-logo:before {
+  content: "\e902";
+}
+.ws-facebook:before {
+  content: "\e903";
+}
+.ws-instagram:before {
+  content: "\e904";
+}
+.ws-twitch:before {
+  content: "\e905";
+}
+.ws-linkedin:before {
+  content: "\e906";
+}
+.ws-twitter:before {
+  content: "\e907";
+}
