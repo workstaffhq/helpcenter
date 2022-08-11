@@ -236,7 +236,7 @@
     "description": "The component button label to link to the sign up page"
   },
   "Share this article on social media" : {
-    "message": "Partagez ce page via votre compte de médias sociaux",
+    "message": "Partagez cette page via votre compte de médias sociaux",
     "description": "Title for social media component"
   },
   "theme.ErrorPageContent.title": {
