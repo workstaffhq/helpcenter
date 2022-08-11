@@ -18,7 +18,7 @@ Auparavant, remplacer une personne affectée sur un horaire était une entrepris
 1. Annuler la ou les affectations de la personne à remplacer.
 2. Réserver la nouvelle personne, et éventuellement saisir à nouveau manuellement tous les détails de l'horaire de travail.
 
-Avec **Remplacer**, cette opération fréquemment utilisée est désormais un jeu d'enfant!
+Avec **Remplacer**, cette opération fréquemment nécessaire est désormais un jeu d'enfant!
 
 Sélectionnez une ou plusieurs réservations d'un seul employé, puis cliquez sur le bouton **Remplacer**:
 
