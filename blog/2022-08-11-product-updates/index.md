@@ -25,7 +25,7 @@ Select one or more bookings of a single staff, then click the **Swap** button:
 
 Then Workstaff will list all people in your team that are potential candidates for the swap: 
 
-
+![img_1.png](img_1.png)
 
 Select a staff, confirm and it's done! The old booking is cancelled and a new booking is created for the new staff, with the
 exact same schedule as the previous booking. 
