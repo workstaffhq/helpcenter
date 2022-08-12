@@ -1,6 +1,6 @@
 # Gérer votre personnel
 
-L'une des étapes clés de l'adoption de Workstaff dans votre organisation est la bonne intégration de votre personnel (./adding.md).
+L'une des étapes clés de l'adoption de Workstaff dans votre organisation est la [bonne intégration de votre personnel](./adding.md).
 
 Le processus d'intégration est simple et évident :
 - Vous commencez par [créer un profil](./adding.md) pour chacun de vos employés.

@@ -9,7 +9,7 @@ Workstaff a intégré la messagerie instantanée pour communiquer plus efficacem
 
 :::info
 Vous ne pouvez chatter qu'avec les membres de votre équipe qui ont installé l'application mobile Workstaff.
-:: :
+:::
 
 ### Types de conversations
 

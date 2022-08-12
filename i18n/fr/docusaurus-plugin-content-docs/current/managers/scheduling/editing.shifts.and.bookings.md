@@ -1,4 +1,4 @@
-# Modifier les quart et les affectations
+# Modifier les quarts et les affectations
 
 Sur la page du projet, vous pouvez facilement modifier plusieurs quarts de travail ou plusieurs affectations à la fois.
 

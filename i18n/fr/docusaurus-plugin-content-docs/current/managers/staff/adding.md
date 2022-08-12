@@ -22,7 +22,7 @@ Seules quelques informations sur votre personnel peuvent être fournies dans cet
 
 Vous pouvez ajouter jusqu'à 10 employés en même temps. Si vous devez en ajouter plus de 10, vous pouvez utiliser la fenêtre plusieurs fois, ou, pour les bases de données de personnel plus importantes, nous offrons également un service d'importation de grandes listes de personnel.
 
-:::Info
+:::Note
 Lorsque le numéro de téléphone d'un membre du personnel est situé en dehors de l'Amérique du Nord, vous pouvez l'ajouter à son profil mais il ne pourra pas l'utiliser pour se connecter à l'application mobile. Veillez à ajouter une adresse électronique valide à leur profil afin qu'ils puissent l'utiliser pour se connecter.
 :::
 
@@ -31,5 +31,3 @@ Lorsque le numéro de téléphone d'un membre du personnel est situé en dehors 
 Vous pouvez, en option, envoyer des courriels d'invitation automatiques au personnel que vous invitez. L'email envoyé par Workstaff contiendra des instructions pour installer l'application mobile, et inclura une marque de votre organisation (comme le logo).
 
 Pour envoyer des invitations, sélectionnez **Envoyer les instructions pour installer l'app mobile** avant de créer les profils. Lorsque cette option est sélectionnée, au moins une adresse électronique doit être fournie pour chaque employé.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
