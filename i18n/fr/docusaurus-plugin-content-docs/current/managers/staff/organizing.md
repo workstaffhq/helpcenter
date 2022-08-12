@@ -40,5 +40,5 @@ Vous pouvez choisir parmi les types de champs personnalisés énumérés ci-dess
 - **Oui/Non** : répondre oui ou non à la valeur associée au champ personnalisé.
 - **Numérique** : remplir le champ avec un nombre
 - **Sélection unique** : sélectionnez une seule valeur dans votre liste.
-- **Sélection multiple** : sélectionnez une ou plusieurs valeurs dans votre liste.  
+- **Sélection multiple** : sélectionnez une ou plusieurs valeurs dans votre liste.   
   
