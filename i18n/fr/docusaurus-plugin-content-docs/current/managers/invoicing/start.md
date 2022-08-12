@@ -6,7 +6,7 @@ title : Démarrer
 
 ## Configurer votre compte pour la facturation
 
-Veiller à ce que votre compte Workstaff est prêt pour la facturation est simple. La seule exigence est qu'une **Adresse de facturation** soit fournie dans vos [paramètres de compte](../customize/account.md#Factures).
+Veiller à ce que votre compte Workstaff est prêt pour la facturation est simple. La seule exigence est qu'une **Adresse de facturation** soit fournie dans vos [paramètres de compte](../customize/account.md).
 
 ## Conditions pour qu'une équipe soit facturable
 
