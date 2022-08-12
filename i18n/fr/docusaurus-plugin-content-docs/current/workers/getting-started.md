@@ -7,7 +7,7 @@ sidebar_position : 2
 
 :::note
 Workstaff est actuellement disponible **sur invitation uniquement**. Vous devez d'abord être invité par un employeur pour utiliser Workstaff.
-:: :
+:::
 
 Avant de commencer à utiliser Workstaff, il y a quelques étapes clés pour réclamer votre profil et fournir des informations qui seront utiles à votre employeur.
 
@@ -21,7 +21,7 @@ Une fois que votre employeur a créé un compte pour vous, vous pourrez vous con
 
 :::important
 Assurez-vous d'utiliser le même numéro de téléphone ou la même adresse électronique que votre employeur a utilisé pour créer votre profil, sinon Workstaff ne sera pas en mesure de trouver votre profil.
-:: :
+:::
 
 1. Ouvrez l'[application mobile](https://workstaff.app/download)
 2. Sélectionnez si vous souhaitez vous connecter à l'aide de votre téléphone mobile ou de votre adresse électronique en utilisant la liste déroulante
