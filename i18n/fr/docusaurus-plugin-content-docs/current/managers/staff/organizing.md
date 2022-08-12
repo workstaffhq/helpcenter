@@ -34,11 +34,11 @@ Vos employés peuvent ajouter des compétences à leur profil sur l'application 
 Vous pouvez noter chaque membre du personnel sur une échelle de 5 étoiles. Voir [Profils du personnel](./profiles.md) pour plus de détails.
 
 ## Champs personnalisés
-Vous pouvez **[créer des champs personnalisés](../customize/custom.fields.md)** afin de fournir des informations supplémentaires aux profils de votre personnel. Cela facilite la recherche de personnel en fonction de la réalité spécifique de votre organisation.
+Vous pouvez **[créer des champs personnalisés](../customize/custom-fields.md)** afin de fournir des informations supplémentaires aux profils de votre personnel. Cela facilite la recherche de personnel en fonction de la réalité spécifique de votre organisation.
 
 Vous pouvez choisir parmi les types de champs personnalisés énumérés ci-dessous pour fournir les informations les plus pertinentes possibles à vos profils de personnel :
 - **Oui/Non** : répondre oui ou non à la valeur associée au champ personnalisé.
 - **Numérique** : remplir le champ avec un nombre
 - **Sélection unique** : sélectionnez une seule valeur dans votre liste.
-- **Sélection multiple** : sélectionnez une ou plusieurs valeurs dans votre liste.
+- **Sélection multiple** : sélectionnez une ou plusieurs valeurs dans votre liste.  
   

@@ -25,7 +25,7 @@ Les étiquettes sont de simples libellés qui peuvent être associés à chaque 
 
 ## Champs personnalisés (Pro uniquement)
 
-Chaque [champ personnalisé](../customize/custom.fields.md) que vous avez défini dans les paramètres de votre compte sera répertorié sur le profil du personnel afin que les valeurs réelles puissent être fournies.
+Chaque [champ personnalisé](../customize/custom-fields.md) que vous avez défini dans les paramètres de votre compte sera répertorié sur le profil du personnel afin que les valeurs réelles puissent être fournies.
 
 Ces informations ne peuvent pas être modifiées par le personnel.
 
