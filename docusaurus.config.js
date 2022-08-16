@@ -112,10 +112,6 @@ const config = {
                 to: '/docs/managers/features-matrix',
               },
               {
-                label: 'Product Updates',
-                to: '/blog/tags/product-updates',
-              },
-              {
                 label: 'Blog',
                 to: '/blog',
               },
