@@ -60,11 +60,11 @@ clients. D'autres nouveautés s'en viennent à ce sujet... restez à l'écoute !
 
 ### Centre d'aide de Workstaff
 
-Nous avons récemment lancé le [**Centre d'aide**](https://help.workstaff.app) (disponible en anglais seulement pour l'instant), 
+Nous avons récemment lancé le [**Centre d'aide**](https://help.workstaff.app/), 
 qui est votre guichet unique pour tout apprendre sur Workstaff.
 
 La Centre d'aide est structuré en deux zones distinctes : **Pour les gestionnaires** et **Pour les travailleurs**. 
-Nous allons continuellement affiner cette documentation et y ajouter plus d'infos, alors revenez régulièrement et ajoutez la page à vos favoris pour vous y référer pour toute question sur Workstaff.
+Nous allons continuellement affiner cette documentation et y ajouter plus d'infos, alors revenez régulièrement et ajoutez la page à vos favoris pour vous y référer pour toute question sur l'utilisation de Workstaff.
 
 ### Factures: visualisez votre charge de travail
 
