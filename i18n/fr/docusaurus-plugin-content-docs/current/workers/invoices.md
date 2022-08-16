@@ -6,10 +6,10 @@ sidebar_position : 6
 # Créez des factures pour votre travail
 
 :::important Les factures sont pour les travailleurs autonomes / pigistes
-Workstaff ne vous proposera de créer des factures pour le temps que vous avez travaillé que si votre employeur a déclaré votre statut de travailleur autonome / pigiste.
+Workstaff vous proposera de facturer vos heures travaillées que si votre employeur a déclaré votre statut de travailleur autonome / pigiste.
 :::
 
-Une fois que vous avez soumis vos heures, et que ces heures ont été approuvées, Workstaff vous permet rapidement et sans effort de créer et d'envoyer des factures à votre employeur.
+Une fois que vous avez soumis vos heures, et que ces heures ont été approuvées, Workstaff vous permet de créer et d'envoyer des factures à votre employeur rapidement et sans effort.
 
 ## Accéder à vos factures
 
@@ -22,7 +22,7 @@ Tous les outils nécessaires à la gestion de vos factures se trouvent dans la s
 
 Vous devrez fournir quelques informations relatives à la facturation avant de pouvoir utiliser la page **Facturation**. Suivez les instructions affichées à l'écran pour vous configurer pour la facturation.
 
-## Quand les quarts de travail peuvent-ils être facturés ?
+## Quand les quarts de travail peuvent-ils être facturés?
 
 Seuls les quarts de travail répondant aux critères suivants peuvent être facturés :
 

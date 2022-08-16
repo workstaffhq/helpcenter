@@ -1,6 +1,6 @@
 ---
-title : Soumettre vos heures
-sidebar_position : 3
+title: Soumettre vos heures
+sidebar_position: 3
 ---
 
 # Soumettre vos heures

@@ -44,7 +44,11 @@
     "description": "The label for category Offers & Open Shifts in sidebar workersSidebar"
   },
   "sidebar.workersSidebar.category.Manage Your Time": {
-    "message": "Manage Your Time",
+    "message": "Gérer votre temps",
     "description": "The label for category Manage Your Time in sidebar workersSidebar"
+  },
+  "sidebar.managersSidebar.category.Troubleshooting": {
+    "message": "Dépannage",
+    "description": "The label for category Troubleshooting in sidebar managersSidebar"
   }
 }
