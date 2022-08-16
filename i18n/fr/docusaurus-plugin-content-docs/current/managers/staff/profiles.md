@@ -49,22 +49,37 @@ Une fois qu'un profil a été réclamé par un travailleur, lui seul peut modifi
 
 ## Détails de l'emploi
 
-### État (actif/inactif)
+### Etat (actif/inactif)
+
+Il peut arriver que vous ayez besoin de masquer temporairement certains de vos employés sans supprimer complètement leur profil de votre base de données (ex : travailleurs saisonniers, en congé parental, etc.).
+Dans ce cas, vous pouvez rendre un profil inactif. Les profils inactifs resteront dans votre base de données et seront toujours consultables dans la recherche globale, mais ne seront pas affichés comme candidats et ne recevront pas d'offres de travail.
 
 ### Numéro d'employé
 
+Ce champ est un champ arbitraire que vous pouvez utiliser pour attribuer un numéro de votre choix à chaque employé.
+Ce numéro apparaîtra dans la plupart des exportations de données. Il s'agit donc d'un endroit pratique où placer tout numéro d'identification qui pourrait vous aider à faire correspondre les données dans un système externe tel qu'un logiciel de paie ou de comptabilité.
+
 ### Date d'embauche
 
-### Statut
+Par défaut, ce champ est défini comme la date à laquelle vous avez créé le profil de l'employé dans Workstaff, mais vous pouvez le modifier comme vous le souhaitez.
+C'est la date de référence d'un employé pour déterminer son expérience / son ancienneté. Ce champ est utilisé notamment lors du tri des profils par ancienneté.
+
+### Statut d'emploi
+
+Workstaff traitera les profils des employés différemment en fonction de leur statut d'emploi:
+
+- **Salarié(e)**: Les employés qui reçoivent un salaire régulièrement.
+- **Travaileur autonome/Pigiste**: Sous-traitants qui sont censés vous envoyer des factures pour leurs heures de travail.
+- **Bénévole**: Personnes qui donnent une partie de leur temps libre sans être rémunérées en retour.
 
 ### Taux horaire
 
+Il s'agit du taux horaire par défaut qui sera utilisé lors du calcul de la rémunération de la personne. Ce taux
+peut être modifié si nécessaire à chaque affectation et ne devrait pas inclure de [Primes] (../customize/premiums.md).
+
 ### Départements
 
-
-- Remplissez les champs requis pour votre organisation
-- Vous pouvez choisir de désactiver le profil. Le personnel inactif ne recevra pas d'offres et n'apparaîtra pas comme candidat.
-- Pour supprimer le profil, cliquez sur **Enlever du personnel** sous l'onglet **Notes**.
+Vous pouvez associer chaque profil de personnel à aucun, un ou plusieurs départements. Les profils associés à des départements spécifiques apparaîtront seulement que lorsque vous travaillez dans le contexte de ce département.
 
 ## Historique de travail
 L'onglet **Historique de travail** vous permet de visualiser les affectations passées de votre personnel.

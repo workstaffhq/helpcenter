@@ -51,20 +51,38 @@ Once a profile has been claimed by a worker, only they can edit their contact in
 
 ### State (active/inactive)
 
+You may sometimes need to hide some of your staff temporarily without completely removing their profiles from your database (ex: seasonal workers, parental leave, etc.).
+For such cases, you can make a profile inactive. Inactive profiles will stay in your database and still be searchable in the global
+search, but won't show as candidates and won't receive work offers.
+
 ### Employee Number
+
+This field is an arbitrary field you can use to assign a number of your choosing to each staff. This number
+will show in most data exports, so it's a convenient place to put any identification number that might help you
+match data in an external system such as a payroll or accounting software.
 
 ### Date of Hire
 
-### Status
+By default, this field will be set to the date you created the staff profile in Workstaff, but it can be changed to whatever 
+date you consider for an employee's reference date for determining experience / seniority. This field is used when sorting profiles by seniority.
+
+### Employment Status
+
+Workstaff will treat employee profiles differently depending on their employment status:
+
+- **Payroll**: Employees who receive a regular salary.
+- **Contractor**: Autonomous workers who are expected to send you invoices for their worked hours.
+- **Volunteer**: People giving some of their free time without being compensated in return.
 
 ### Hourly Rate
 
+This is the default hourly rate that will be used when calculating remuneration for the person. This rate
+can be overridden as needed everytime a person is booked and should not include any possible [Premium](../customize/premiums.md).
+
 ### Departments
 
-
-- Fill-in the fields required for your organization
-- You can choose to deactivate the profile. Inactive staff will not receive offers or show up as candidates
-- To delete the profile, click on **Remove from staff** under the **Notes** tab
+You can associate each staff profile with none, one or more departments. Profiles associated with specific departments 
+will always show up only when you're working in the context of that department.
 
 ## Booking History
 The **Booking History** tab allows you to view your staff's past bookings.
