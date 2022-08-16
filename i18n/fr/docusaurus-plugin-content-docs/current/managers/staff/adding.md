@@ -18,7 +18,7 @@ Si l'adoption de Workstaff par petites étapes n'est pas une option pour votre o
 3. Remplissez les informations de contact de chaque travailleur que vous souhaitez ajouter
 4. Cliquez sur **Ajouter X personne(s)** pour créer les profils dans votre base de données
 
-Seules quelques informations sur votre personnel peuvent être fournies dans cette fenêtre. Une fois les profils créés, [des informations supplémentaires peuvent être fournies dans le tiroir des profils](./profiles.md).
+Seules quelques informations sur votre personnel peuvent être fournies dans cette fenêtre. Une fois les profils créés, [des informations supplémentaires peuvent être fournies dans le tiroir de profil](./profiles.md).
 
 Vous pouvez ajouter jusqu'à 10 employés en même temps. Si vous devez en ajouter plus de 10, vous pouvez utiliser la fenêtre plusieurs fois, ou, pour les bases de données de personnel plus importantes, nous offrons également un service d'importation de grandes listes de personnel.
 
