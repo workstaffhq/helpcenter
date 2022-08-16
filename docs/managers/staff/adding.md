@@ -18,7 +18,7 @@ If adopting Workstaff in smaller steps is not an option for your organization, o
 3. Fill in the contact information for each staff you want to add. 
 4. Click **Add X staff** to create the profiles in your database.
 
-Only a subset of information about your staff can be provided in this window. Once the profiles are created, [additional information can be provided in the Profile Drawer](profiles).
+Only a subset of information about your staff can be provided in this window. Once the profiles are created, [additional information can be provided in the Profile Drawer](./profiles.md).
 
 You can add up to 10 staff at the same time. If you need to add more than 10, you can use the window multiple times, or, for larger staff databases, we also offer a service to import large lists of staff.
 

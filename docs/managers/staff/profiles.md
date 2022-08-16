@@ -21,11 +21,11 @@ You can rate each staff on a 5-star scale. This information is mainly used for s
 
 ## Tags
 
-Tags are simple text labels that can be associated with each profile. They are used mainly to [classify](./organizing) your staff and facilitate [searching](./search) within your database.
+Tags are simple text labels that can be associated with each profile. They are used mainly to [classify](./organizing.md) your staff and facilitate [searching](./search.md) within your database.
 
 ## Custom Fields (Pro only)
 
-Every [custom field](../customize/custom-fields) you defined in your account settings will be listed on the staff profile so that actual values can be provided.
+Every [custom field](../customize/custom-fields.md) you defined in your account settings will be listed on the staff profile so that actual values can be provided.
 
 This information cannot be modified by staff.
 
@@ -35,7 +35,7 @@ Each staff can provide a set of skills of their own when they join Workstaff via
 
 The **Skills** panel allows you to select a set of skills you consider valid for each staff. Any skill provided by the staff on their profile will be shown as suggestions, which you are free to keep or not. You can also add any other skill as needed.
 
-It is critical that the right skills be associated with each staff to use Workstaff productively. See [Organizing & Classifying your staff](organizing) for more details.
+It is critical that the right skills be associated with each staff to use Workstaff productively. See [Organizing & Classifying your staff](organizing.md) for more details.
 
 ## Additional Details
 

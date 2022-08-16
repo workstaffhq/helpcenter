@@ -18,7 +18,7 @@ If that is your case, follow these instructions:
 1. Make sure the [most recent version](https://play.google.com/store/apps/details?id=app.workstaff) of the Workstaff mobile app is installed on your phone.
 2. Make sure Android 5 or later is installed on your phone.
 3. Stop / close the Workstaff app
-4. [Clear the app data](./clear-workstaff-mobile-app-data)
+4. [Clear the app data](./clear-workstaff-mobile-app-data.md)
 
 
 ### For iOS

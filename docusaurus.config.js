@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/icon.svg',
   organizationName: 'workstaffhq',
   projectName: 'helpcenter',
-  trailingSlash: false,
+  trailingSlash: true,
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
