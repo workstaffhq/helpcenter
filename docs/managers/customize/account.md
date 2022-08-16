@@ -13,7 +13,7 @@ In this section, fill-in the general information about your organization such as
 - Your organization type (For profit/ Other or Non profit)
 
 ### Time & Location
-Select your organization’s **Timezone** and your **Headquarters location for distance and time offset calculations. Selecting the day will determine how your Calendar and Timesheets will be displayed and organized on Workstaff.
+Select your organization’s **Timezone** and your **Headquarters** location for distance and time offset calculations. Selecting the day will determine how your Calendar and Timesheets will be displayed and organized on Workstaff.
 
 ### Defaults
 1. Select who amongst your account users will be the **Default contact person**

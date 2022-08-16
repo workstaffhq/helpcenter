@@ -179,10 +179,6 @@
     "message": "Étiquettes :",
     "description": "The label alongside a tag list"
   },
-  "theme.tags.tagsPageTitle": {
-    "message": "Étiquettes",
-    "description": "The title of the tag list page"
-  },
   "Search": {
     "message": "Recherche",
     "description": "Search bar placeholder"
@@ -192,7 +188,7 @@
     "description": "Landing page intro for managers"
   },
   "Learn how to use the Workstaff mobile app to interact with your employer like a champ.": {
-    "message": "Apprend à utiliser l'app mobile Workstaff pour interagir avec ton employeur comme un/e pro.",
+    "message": "Apprenez à utiliser l'appli mobile Workstaff pour interagir avec votre employeur comme un/e pro.",
     "description": "Landing page intro for workers"
   },
   "Help Center": {
@@ -223,20 +219,19 @@
     "message": "La version de base de Workstaff vous offre sans frais toutes les fonctionnalités de gestion d'horaire et de communication avec votre équipe.",
     "description": "The description for pricing"
   },
-  "Create your account, invite a few colleagues and start planning. Getting started with Workstaff only takes a few minutes." :{
+  "Create your account, invite a few colleagues and start planning. Getting started with Workstaff only takes a few minutes.": {
     "message": "Créez votre compte, invitez quelques collègues et commencez à planifier. Débuter avec Workstaff nécessite seulement quelques minutes.",
     "description": "The description for account creation"
   },
-  "Start for Free" :{
+  "Start for Free": {
     "message": "Créer un compte gratuit",
     "description": "The component button label to link to the sign up page"
   },
-  "https://employer.workstaff.app/en/signup/" :{
-    "message": "https://employer.workstaff.app/fr/signup/",
-    "description": "The component button label to link to the sign up page"
+  "https://employer.workstaff.app/en/signup/": {
+    "message": "https://employer.workstaff.app/fr/signup/"
   },
-  "Share this article on social media" : {
-    "message": "Partagez ce page via votre compte de médias sociaux",
+  "Share this article on social media": {
+    "message": "Partagez cette page via votre compte de médias sociaux",
     "description": "Title for social media component"
   },
   "theme.ErrorPageContent.title": {
@@ -277,5 +272,17 @@
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Langues",
     "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Page d'accueil",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Fil d'Ariane",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Basculer le retour à la ligne",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
   }
 }

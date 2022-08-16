@@ -28,7 +28,27 @@
     "description": "The label for category Troubleshooting in sidebar workersSidebar"
   },
   "sidebar.workersSidebar.category.Mobile app": {
-    "message": "App mobile",
+    "message": "Appli mobile",
     "description": "The label for category Mobile app in sidebar workersSidebar"
+  },
+  "sidebar.managersSidebar.category.Manage Your Staff": {
+    "message": "Gérer votre personnel",
+    "description": "The label for category Manage Your Staff in sidebar managersSidebar"
+  },
+  "sidebar.managersSidebar.category.Messaging": {
+    "message": "Messagerie",
+    "description": "The label for category Messaging in sidebar managersSidebar"
+  },
+  "sidebar.workersSidebar.category.Offers & Open Shifts": {
+    "message": "Opportunités de travail",
+    "description": "The label for category Offers & Open Shifts in sidebar workersSidebar"
+  },
+  "sidebar.workersSidebar.category.Manage Your Time": {
+    "message": "Gérer votre temps",
+    "description": "The label for category Manage Your Time in sidebar workersSidebar"
+  },
+  "sidebar.managersSidebar.category.Troubleshooting": {
+    "message": "Dépannage",
+    "description": "The label for category Troubleshooting in sidebar managersSidebar"
   }
 }

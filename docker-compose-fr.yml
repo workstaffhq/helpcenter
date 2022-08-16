@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  docusaurus-fr:
+    build: .
+    command: npm run start -- --locale fr
+    ports:
+      - 3000:3000
+      - 35729:35729
+    volumes:
+      - ./docusaurus.config.js:/app/docusaurus.config.js
+      - ./docs:/app/docs
+      - ./blog:/app/blog
+      - ./src:/app/src
+      - ./i18n:/app/i18n
+      - ./static:/app/static
+    working_dir: /app
