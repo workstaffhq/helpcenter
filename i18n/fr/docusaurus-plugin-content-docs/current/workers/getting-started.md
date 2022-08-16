@@ -3,7 +3,7 @@ title : Mise en route
 sidebar_position : 2
 ---
 
-# Getting started
+# Mise en route
 
 :::note
 Workstaff est actuellement disponible **sur invitation uniquement**. Vous devez d'abord être invité par un employeur pour utiliser Workstaff.
@@ -13,7 +13,7 @@ Avant de commencer à utiliser Workstaff, il y a quelques étapes clés pour ré
 
 ## Installer l'application mobile Workstaff sur votre téléphone
 
-Vous pouvez [télécharger et installer l'application mobile](https://workstaff.app/download) sur Android ou iOS.
+Vous pouvez [télécharger et installer l'application mobile](https://workstaff.app/fr/download/) sur Android ou iOS.
 
 ## Se connecter
 

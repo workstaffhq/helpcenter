@@ -1,5 +1,6 @@
 ---
-title : Marche à suivre
+title: Marche à suivre
+sidebar_position: 2
 ---
 
 ## Processus de facturation
@@ -14,7 +15,7 @@ Vous pouvez filtrer votre liste de factures de la manière suivante :
 - Approuvées
 - Payées
 
-## Rapprochement
+## Conciliation
 
 Lorsque le temps facturé correspond à la saisie des heures et que le taux horaire soumis correspond au taux affiché, Workstaff vous permet de le vérifier facilement en l'affichant sur la facture.
 

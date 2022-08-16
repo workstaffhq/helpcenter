@@ -10,12 +10,10 @@ You can also customize your staff's remuneration conditions and to see at a glan
 When creating an event, you can change the remuneration conditions for a specific position. If unchanged, the remuneration will be the same as in the staff profiles.
 1. On the project page, go to the Remuneration tab
 2. Click on the icon indicated below to change de remuneration conditions for the position
-
-![position_remuneration.png](Images/position_remuneration.png)
-4. Select the type of remuneration and write down the new amount. 
-5. You can add premiums previously created in your **Settings**
-
-![img_1.png](Images/img_1.png)
+   ![position_remuneration.png](Images/position_remuneration.png)
+3. Select the type of remuneration and write down the new amount. 
+4. You can add premiums previously created in your **Settings**
+   ![img_1.png](Images/img_1.png)
 
 Once changed, the remuneration will be applicable for all shifts with this position. You can still change the remuneration conditions for specific shifts. 
 

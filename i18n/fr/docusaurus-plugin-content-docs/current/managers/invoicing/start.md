@@ -1,5 +1,6 @@
 ---
-title : Démarrer
+title: Démarrer
+sidebar_position: 1
 ---
 
 # Démarrer avec la facturation

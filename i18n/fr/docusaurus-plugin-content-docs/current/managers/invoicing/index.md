@@ -9,5 +9,5 @@ Bien que Workstaff génère automatiquement des squelettes de factures pour vos 
 De votre côté, vous pouvez [vérifier et approuver les factures](workflow.md) soumises par vos contractants.
 
 :::info
-La facturation est une fonctionnalité facultative qui peut être activée ou désactivée dans vos [paramètres de compte](../customize/account.md). Voir [Getting Started With Invoicing](./start.md) pour connaître les étapes à suivre pour être prêt à recevoir les factures des contractants.
+La facturation est une fonctionnalité facultative qui peut être activée ou désactivée dans vos [paramètres de compte](../customize/account.md). Voir la page [Démarrer](./start.md) pour connaître les étapes à suivre pour être prêt à recevoir les factures de vos sous-traitants.
 :::

@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Mon personnel ne peut pas envoyer de factures. Pourquoi ?
 
 Il se peut que votre personnel ne soit pas en mesure d'envoyer une facture après un quart de travail. Dans la plupart des cas que nous avons observés, cela peut être dû aux raisons suivantes.

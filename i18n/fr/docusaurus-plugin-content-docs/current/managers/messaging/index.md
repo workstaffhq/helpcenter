@@ -1,3 +1,7 @@
+---
+title: Messagerie
+---
+
 # Communiquer avec votre personnel
 
 Workstaff dispose de solides fonctions de communication intégrées qui vous permettent de rester en contact avec votre équipe directement depuis la plateforme et/ou l'application mobile.

@@ -12,12 +12,13 @@ Workstaff vous permet de sélectionner du personnel à partir d'une liste de sug
 2. Sélectionnez le personnel que vous souhaitez réserver dans la liste de suggestions.
 3. Cliquez sur **Affecter X personnes**.
 
-## Affecter du personnel à l'aide de l'organisateur de **Candidats**.
+## Affecter du personnel à l'aide de l'Organisateur de candidats
 
 L’organisateur de **Candidats** est un outil qui vous permet d'affecter du personnel de différentes manières.
 Dans cet onglet, vous pouvez voir en un coup d'œil les **Candidats** qui ont postulé pour les postes que vous avez publiés et les**Suggestions** de personnel.
 
-### Affecter des candidats qui ont postulé des postes
+### Affecter des candidats qui ont postulé sur un poste
+
 1. Utilisez la barre de recherche et les filtres si vous recherchez des profils spécifiques
 2. Dans l'organiseur "Candidats", placez votre curseur sur le nom du candidat
 3. Cliquez sur “Réserver"

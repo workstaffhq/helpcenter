@@ -1,4 +1,4 @@
-## Paramètres de suivi du temps
+# Paramètres de suivi du temps
   
 ## Configurez vos paramètres de suivi du temps
 Vous pouvez personnaliser les options relatives au suivi du temps de votre équipe.
