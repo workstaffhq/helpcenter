@@ -2,7 +2,7 @@
 slug: the-rebirth-of-the-event-industry
 title: La renaissance du secteur événementiel
 authors: [mrochette]
-tags: [news]
+tags: [nouvelles]
 image: ./event-square.jpg
 ---
 # La renaissance du secteur événementiel
@@ -50,3 +50,5 @@ Workstaff est une plateforme grandement utilisée dans le secteur de l’événe
 Vous pouvez rester informé des disponibilités de vos travailleurs, les réserver et publier des offres auxquelles ils peuvent postuler du bout de leurs doigts sur l’appli mobile, grâce à laquelle ils sont toujours joignables au moyen de la messagerie instantanée. 
 
 Ces outils se sont avérés particulièrement avantageux au cours des derniers mois face au raz-de-marée qui a submergé le secteur de l’événementiel. 
+
+Apprenez-en plus sur Workstaff et ses fonctionnalités en visitant notre [**Centre d'aide**](https://help.workstaff.app/fr/docs/managers/).
