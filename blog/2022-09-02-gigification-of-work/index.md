@@ -26,12 +26,12 @@ As the COVID-19 pandemic unfolded, a large volume of businesses and workers had 
 
 The sudden mass embrace of platforms that support the creation of digital workspaces highlighted the adaptability and efficiency of employees in the context of working from home, which then became a norm.
 
-This context has also led to a massive shift in the way people relate to their work. The search for balance and well-being has led many people to move away from their traditional jobs and towards more independence and flexibility.
+This context has also led to a massive shift in the way people relate to their work. The search for balance and well-being has led many people to move away from their traditional jobs and towards more independence and flexibility. 
 
 ## An intensifying trend after two years of stillness
-Following the last two years, the gig economy is being further spurred by a mass movement toward self-employment seen across a variety of industries, despite the possibility of a return to work environments.
+Following the last two years, the gig economy is being further spurred by a mass movement toward self-employment seen across a variety of industries, despite the possibility of a return to workplaces.
 
-As we've observed at Workstaff, a significant number of people who use the platform work independently and offer their services to a variety of businesses such as staffing agencies, events and festivals, catering services, marketing agencies and sporting events.
+As we've observed at Workstaff, a significant number of people who use the platform are on-demand workers and offer their services to a variety of businesses such as staffing agencies, events and festivals, catering services, marketing agencies and sporting events.
 
 Via the platform, these workers can easily browse job offers posted by their employer(s) and apply directly from their cell phone.
 

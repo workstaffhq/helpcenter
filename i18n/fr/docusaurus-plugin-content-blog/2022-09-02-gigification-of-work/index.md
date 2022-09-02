@@ -22,14 +22,14 @@ Un réel engouement s’est développé pour une multitude de plateformes qui re
 ## L’utilisation accrue des nouvelles technologies pendant la pandémie
 Avec la pandémie de COVID-19, un volume important d’entreprises et de travailleurs ont dû s’adapter rapidement à une nouvelle réalité.
 
-L’adoption massive et soudaine de plateformes qui favorisent la création d’espaces de travail numériques, a mis en évidence la capacité d’adaptation et l’efficacité des employés dans le cadre du télétravail, qui est alors devenu une norme.
+L’adoption massive et soudaine de plateformes qui favorisent la création d’espaces de travail numériques a mis en évidence la capacité d’adaptation et l’efficacité des employés dans le cadre du télétravail, qui est alors devenu une norme.
 
 Ce contexte a aussi engendré une prise de recul massive et d’importants changements dans le rapport des gens à leur occupation professionnelle. La recherche d’équilibre et de bien-être a amené un grand nombre de personnes à s’éloigner de leurs emplois traditionnels pour se diriger vers davantage d’indépendance et de flexibilité.
 
 ## Une tendance accélérée après deux années d’immobilité
-À la suite des deux dernières années, l’économie à la demande se voit d’autant plus stimulée par un mouvement de masse vers le travail indépendant perceptible dans des industries variées, et ce malgré la possibilité d’un retour dans les environnements de travail.
+À la suite des deux dernières années, l’économie à la demande se voit d’autant plus stimulée par un mouvement de masse vers le travail indépendant perceptible dans des industries variées, et ce, malgré la possibilité d’un retour dans les environnements de travail.
 
-Comme nous avons pu le constater chez Workstaff, un nombre important de personnes qui utilisent la plateforme exercent leur profession de manière autonome et offrent leurs services à une variété d'entreprises telles que les agences de personnel, les événements et festivals, les services de traiteur, les agences de marketing et les événements sportifs.
+Comme nous avons pu le constater chez Workstaff, un nombre important de personnes qui utilisent la plateforme sont des travailleurs à la demande et offrent leurs services à une variété d'entreprises telles que les agences de personnel, les événements et festivals, les services de traiteur, les agences de marketing et les événements sportifs.
 
 Via la plateforme, ces travailleurs peuvent facilement consulter des offres de travail publiées par leur(s) employeur(s) et postuler directement depuis leur téléphone mobile.
 
