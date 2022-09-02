@@ -38,4 +38,4 @@ La pandémie a engendré des changements profonds dans le monde du travail. L’
 
 Si vous avez recours à des travailleurs à la demande, envisagez l’utilisation d’outils technologiques qui ont le potentiel de faciliter l’organisation de vos activités et la communication avec votre personnel temporaire.
 
-[**Apprenez-en plus sur Workstaff et les fonctionnalités dont vous pouvez bénéficier pour faciliter vos activités.**](https://workstaff.app/fr/) 
+[**Apprenez-en plus sur Workstaff et les fonctionnalités dont vous pouvez bénéficier pour faciliter vos activités.**](https://workstaff.app/fr/)   
