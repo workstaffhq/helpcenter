@@ -5,15 +5,15 @@ tags: [tips]
 image: ./image-square.jpg
 ---
 
-C'est la rentrée !
+C'est la rentrée!
 
-Quelques petits boulots bien payés et où les trouver !
+Quelques petits boulots bien payés et où les trouver!
 
 <!--truncate-->
 
-L'été touche à sa fin, les jours raccourcissent, les nuits sont un peu plus froides, on le sent dans l'air, les vacances sont terminées, c'est la rentrée ! Pour de nombreux étudiants, le retour à l'université signifie l'achat de livres, de fournitures, d'ordinateurs portables, de titres de transport et, dans beaucoup de cas, des dettes étudiantes.
+L'été touche à sa fin, les jours raccourcissent, les nuits sont un peu plus froides, on le sent dans l'air, les vacances sont terminées, c'est la rentrée! Pour de nombreux étudiants, le retour à l'université signifie l'achat de livres, de fournitures, d'ordinateurs portables, de titres de transport et, dans beaucoup de cas, des dettes étudiantes.
 
-Si vous en avez assez de travailler au salaire minimum, même s'il ne cesse d'augmenter, mais jamais assez pour battre l'inflation qui a atteint des niveaux insoutenables ces derniers mois, rassurez-vous, il existe d'autres opportunités !
+Si vous en avez assez de travailler au salaire minimum, même s'il ne cesse d'augmenter, mais jamais assez pour battre l'inflation qui a atteint des niveaux insoutenables ces derniers mois, rassurez-vous, il existe d'autres opportunités!
 
 Avec la fin des restrictions liée à la Covid-19, les festivals, les concerts, les mariages, les conventions, les conférences sont de nouveau en action. Les producteurs d'événements, petits et grands, font souvent appel à des agences de recrutement qui disposent d'un vivier de candidats à temps partiel qu'ils rémunèrent généralement bien. Qu'il s'agisse de fournir des serveurs aux traiteurs ou du personnel de promotion pour distribuer des prospectus, les travailleurs peuvent choisir leur emploi, le lieu et les dates qu'ils souhaitent, ce qui leur donne une grande liberté et la rémunération varie le plus souvent entre 18 et 30 dollars de l'heure.
 
@@ -29,3 +29,4 @@ Les agences de recrutement ont généralement leurs créneaux pour les industrie
 - [**À Votre Service**](https://agenceavotreservice.com/)
 - [**G&R À Votre Service**](http://gravotreservice.com/)
 - [**Garcon S.V.P**](http://www.garconsvp.com)
+ 
