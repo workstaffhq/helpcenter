@@ -4,7 +4,7 @@ authors: [mrochette]
 tags: [tips]
 image: ./image-square.jpg
 ---
- 
+  
 # Back to School, Back to Work!
 
 Some high paying gig jobs and where to get them!
