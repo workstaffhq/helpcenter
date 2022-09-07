@@ -1,24 +1,23 @@
-import React from 'react';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import BlogLayout from '@theme/BlogLayout';
-import BlogPostItem from '@theme/BlogPostItem';
-import BlogListPaginator from '@theme/BlogListPaginator';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.scss";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import {
   PageMetadata,
   HtmlClassNameProvider,
   ThemeClassNames,
-} from '@docusaurus/theme-common';
-import styles from './styles.module.scss';
-import SearchMetadata from '@theme/SearchMetadata';
-import clsx from 'clsx';
-
+} from "@docusaurus/theme-common";
+import BlogLayout from "@theme/BlogLayout";
+import BlogListPaginator from "@theme/BlogListPaginator";
+import SearchMetadata from "@theme/SearchMetadata";
+import BlogPostItems from "@theme/BlogPostItems";
 function BlogListPageMetadata(props) {
-  const {metadata} = props;
+  const { metadata } = props;
   const {
-    siteConfig: {title: siteTitle},
+    siteConfig: { title: siteTitle },
   } = useDocusaurusContext();
-  const {blogDescription, blogTitle, permalink} = metadata;
-  const isBlogOnlyMode = permalink === '/';
+  const { blogDescription, blogTitle, permalink } = metadata;
+  const isBlogOnlyMode = permalink === "/";
   const title = isBlogOnlyMode ? siteTitle : blogTitle;
   return (
     <>
@@ -27,35 +26,25 @@ function BlogListPageMetadata(props) {
     </>
   );
 }
-
 function BlogListPageContent(props) {
-  const {metadata, items, sidebar} = props;
+  const { metadata, items, sidebar } = props;
   return (
-    <BlogLayout>
+    <BlogLayout sidebar={sidebar}>
       <div className={styles.blogPostList}>
-      {items.map(({content: BlogPostContent}) => (
-        <BlogPostItem
-          key={BlogPostContent.metadata.permalink}
-          frontMatter={BlogPostContent.frontMatter}
-          assets={BlogPostContent.assets}
-          metadata={BlogPostContent.metadata}
-          truncated={BlogPostContent.metadata.truncated}>
-          <BlogPostContent />
-        </BlogPostItem>
-      ))}
+        <BlogPostItems items={items} />
       </div>
       <BlogListPaginator metadata={metadata} />
     </BlogLayout>
   );
 }
-
 export default function BlogListPage(props) {
   return (
     <HtmlClassNameProvider
       className={clsx(
         ThemeClassNames.wrapper.blogPages,
-        ThemeClassNames.page.blogListPage,
-      )}>
+        ThemeClassNames.page.blogListPage
+      )}
+    >
       <BlogListPageMetadata {...props} />
       <BlogListPageContent {...props} />
     </HtmlClassNameProvider>
