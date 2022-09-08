@@ -17,7 +17,7 @@ Au cours des dernières années, l’économie à la demande a rassemblé un vas
 
 De nombreuses plateformes facilitant cette automatisation de services ont vu le jour et ont rapidement été adoptées. Elles sont dotées d’une infrastructure permettant l’organisation, le suivi et la gestion des tâches ainsi que la communication entre travailleurs et clients à travers des sites web et applications mobiles.
 
-Un réel engouement s’est développé pour une multitude de plateformes qui rendent possible la vente de services, la livraison à domicile de produits alimentaires et les moyens de transport.
+Un réel engouement s’est développé pour une multitude de plateformes qui rendent possibles la vente de services, la livraison à domicile de produits alimentaires et les moyens de transport.
 
 ## L’utilisation accrue des nouvelles technologies pendant la pandémie
 Avec la pandémie de COVID-19, un volume important d’entreprises et de travailleurs ont dû s’adapter rapidement à une nouvelle réalité.
