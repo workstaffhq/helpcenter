@@ -1,12 +1,12 @@
 ---
 slug: comment-faire-face-a-la-penurie-de-main-d-oeuvre
-title: Comment faire face à la pénurie de main d'œuvre
+title: Comment faire face à la pénurie de main d'œuvre ?
 authors: [mrochette]
-tags: [news]
+tags: [nouvelles] [management]
 image: ./image.jpg
 ---
 
-# Comment faire face à la pénurie de main d'œuvre
+# Comment faire face à la pénurie de main d'œuvre ?
 Suite à deux années statiques pour certains et mouvementées pour d’autres, d’innombrables personnes ont remis leurs priorités et leurs conditions de travail en question durant la pandémie. Des salaires trop faibles, des modalités de travail inflexibles, un manque de possibilités d’avancement, des emplois qui ne reflètent pas les valeurs des travailleurs, des risques trop élevés liés à la santé, etc. Les raisons qui ont poussé des millions d’employés à quitter leur emploi sont aussi variées qu’elles sont valables.
 
 <!--truncate-->
