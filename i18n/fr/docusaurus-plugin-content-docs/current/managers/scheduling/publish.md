@@ -6,7 +6,7 @@ sidebar_position: 3
 Workstaff vous permet d'afficher des postes, ce qui signifie essentiellement que vous pouvez publier des offres que vos employés peuvent consulter et auxquelles ils peuvent appliquer depuis leur téléphone portable. Les notifications de nouvelles offres sont envoyées au personnel une fois par jour à 15 heures, heure locale. Lorsque les employés ont postulé le quart que vous avez publié, vous pouvez choisir qui affecter à partir d'une liste de candidats.
 
 ## Affichage d'un poste
-1. Sur la page du projet, allez à **Publication**.
+1. Sur la page du projet, allez à **Affichage**.
 2. Sélectionnez le poste que vous souhaitez publier
 3. Sous **Options d'affichage**, vous pouvez sélectionner si vous souhaitez afficher le poste :
 - **au personnel ayant la compétence correspondante** : vous pouvez utiliser les filtres pour affiner votre recherche.
