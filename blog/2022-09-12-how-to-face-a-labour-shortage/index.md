@@ -31,17 +31,10 @@ In order to be competitive, it is important that the salaries and benefits offer
 ## Invest in the professional development of your employees
 In 2022, finding employees with the right skills is particularly difficult. To alleviate this problem, companies can turn to their existing staff by offering them internal training to improve their skills. This strategy is effective in maximizing employees' potential and encouraging them to develop skills that will allow them to grow within the organization.
 
-Employees are not always aware of the training opportunities available to them within a company, so communicating these opportunities to them is essential.
-
-Companies also need to create regular career growth opportunities that match the evolving skills of their staff. Investing in employee growth is a key strategy to foster talent retention. 
+Employees are not always aware of the training opportunities available to them within a company, so communicating these opportunities to them is essential. Companies also need to create regular career growth opportunities that match the evolving skills of their staff. Investing in employee growth is a key strategy to foster talent retention. 
 
 ## Make sure employees feel appreciated and valued
 Employee satisfaction within an organization is directly linked to higher retention rates, as workers are less likely to be absent or quit. As an employer or manager, it is important to celebrate the individual and collective accomplishments of their staff. Employers should also ensure that they reward behaviors that are encouraged as part of the company culture. 
 
 ## In a nutshell
 Being attractive in the job market by offering competitive salaries and benefits can definitely help an employer attract potential employees. However, a company's current workforce must be the focus of significant effort in order to retain talent in the context of “ The Great Resignation". Employees want to be heard, valued and know that they can grow and evolve within their organization. Employers need to put in place smart, sophisticated strategies to ensure employee satisfaction and retention. 
-
-## En bref
-Être attractif sur le marché du travail en offrant des salaires et des avantages sociaux compétitifs peuvent définitivement permettre à un employeur d’attirer des employés potentiels. Cependant, le personnel actuel d’une entreprise doit être l’objet d’efforts importants afin de favoriser la rétention de talents dans le contexte de « Grande Démission ». 
-
-Les employés souhaitent avant tout être écoutés, valorisés et veulent savoir qu’ils peuvent évoluer au sein de leur organisation. Les employeurs doivent mettre en place des stratégies élaborées et intelligentes visant à la satisfaction et la fidélisation du personnel. 

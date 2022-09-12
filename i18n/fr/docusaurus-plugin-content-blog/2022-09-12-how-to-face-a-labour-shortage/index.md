@@ -11,9 +11,7 @@ Suite à deux années statiques pour certains et mouvementées pour d’autres, 
 
 <!--truncate-->
 
-Ce mouvement de masse qui s’étend désormais sur plusieurs pays a tout d’abord été marquant aux États-Unis en 2021, où 24 millions de travailleurs ont démissionné entre avril et septembre. On appelle ce courant “La Grande Démission”. Le marché du travail est plus favorable aux employés qu’aux employeurs et fait en sorte qu’il est moins décourageant qu’auparavant de quitter un emploi et d’en trouver un nouveau. 
-
-Selon [une étude menée par Statistiques Canada sur les tendances relatives à la pénurie de main-d’œuvre](https://www.statcan.gc.ca/fr/sujets-debut/travail_/tendances-penurie-main-oeuvre-canada), le ratio chômeurs-postes vacants au Canada «est historiquement bas» et est passé de 3,2 à 1,4 entre le premier trimestre de 2021 et le premier trimestre de 2022. 
+Ce mouvement de masse qui s’étend désormais sur plusieurs pays a tout d’abord été marquant aux États-Unis en 2021, où 24 millions de travailleurs ont démissionné entre avril et septembre. On appelle ce courant “La Grande Démission”. Le marché du travail est plus favorable aux employés qu’aux employeurs et fait en sorte qu’il est moins décourageant qu’auparavant de quitter un emploi et d’en trouver un nouveau. Selon [une étude menée par Statistiques Canada sur les tendances relatives à la pénurie de main-d’œuvre](https://www.statcan.gc.ca/fr/sujets-debut/travail_/tendances-penurie-main-oeuvre-canada), le ratio chômeurs-postes vacants au Canada «est historiquement bas» et est passé de 3,2 à 1,4 entre le premier trimestre de 2021 et le premier trimestre de 2022. 
 
 Un contexte avantageant principalement les employés présente aussi de nombreux défis pour les employeurs qui doivent simultanément développer des stratégies pour retenir leur personnel et être attractifs sur le marché du travail.
 
@@ -32,14 +30,10 @@ Afin d’être concurrentiel, il est important que les salaires et les avantages
 ## Investir dans le développement professionnel de ses employés
 En 2022, trouver des employés avec les compétences recherchées s’avère particulièrement laborieux. Pour pallier ce problème, les entreprises peuvent se tourner vers leur personnel existant en leur offrant des formations internes pour améliorer leurs compétences. Cette stratégie s’avère efficace pour maximiser le potentiel des employés et les encourager à développer des compétences qui leur permettront d’évoluer au sein de l’organisation. 
 
-Les employés ne sont pas toujours conscients des possibilités de formations qui se présentent à eux dans une compagnie, leur communiquer les perspectives qui s’offrent à eux est donc essentiel. 
-
-Les entreprises doivent aussi créer des possibilités d’avancement professionnel régulières correspondant à l’évolution des compétences de leur personnel. Investir dans la croissance des employés est une stratégie clé pour favoriser la rétention de talents. 
+Les employés ne sont pas toujours conscients des possibilités de formations qui se présentent à eux dans une compagnie, leur communiquer les perspectives qui s’offrent à eux est donc essentiel. Les entreprises doivent aussi créer des possibilités d’avancement professionnel régulières correspondant à l’évolution des compétences de leur personnel. Investir dans la croissance des employés est une stratégie clé pour favoriser la rétention de talents. 
 
 ## Veiller à ce que les employés se sentent appréciés et valorisés
 Le bonheur des individus au sein d’une organisation est directement lié à des taux de rétention plus élevés, les travailleurs étant alors moins susceptibles de s’absenter ou de démissionner. En tant qu’employeur ou gestionnaire, il est important de veiller à célébrer les accomplissements individuels et collectifs de leur personnel. L’employeur doit aussi s’assurer de récompenser les comportements encouragés dans le cadre de la culture de l’entreprise. 
 
 ## En bref
-Être attractif sur le marché du travail en offrant des salaires et des avantages sociaux compétitifs peuvent définitivement permettre à un employeur d’attirer des employés potentiels. Cependant, le personnel actuel d’une entreprise doit être l’objet d’efforts importants afin de favoriser la rétention de talents dans le contexte de « Grande Démission ».
-
-Les employés souhaitent avant tout être écoutés, valorisés et veulent savoir qu’ils peuvent évoluer au sein de leur organisation. Les employeurs doivent mettre en place des stratégies élaborées et intelligentes visant à la satisfaction et la fidélisation du personnel. 
+Être attractif sur le marché du travail en offrant des salaires et des avantages sociaux compétitifs peuvent définitivement permettre à un employeur d’attirer des employés potentiels. Cependant, le personnel actuel d’une entreprise doit être l’objet d’efforts importants afin de favoriser la rétention de talents dans le contexte de « Grande Démission ». Les employés souhaitent avant tout être écoutés, valorisés et veulent savoir qu’ils peuvent évoluer au sein de leur organisation. Les employeurs doivent mettre en place des stratégies élaborées et intelligentes visant à la satisfaction et la fidélisation du personnel. 
