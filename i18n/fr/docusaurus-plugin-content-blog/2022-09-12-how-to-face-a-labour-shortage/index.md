@@ -38,3 +38,8 @@ Les entreprises doivent aussi créer des possibilités d’avancement profession
 
 ## Veiller à ce que les employés se sentent appréciés et valorisés
 Le bonheur des individus au sein d’une organisation est directement lié à des taux de rétention plus élevés, les travailleurs étant alors moins susceptibles de s’absenter ou de démissionner. En tant qu’employeur ou gestionnaire, il est important de veiller à célébrer les accomplissements individuels et collectifs de leur personnel. L’employeur doit aussi s’assurer de récompenser les comportements encouragés dans le cadre de la culture de l’entreprise. 
+
+## En bref
+Être attractif sur le marché du travail en offrant des salaires et des avantages sociaux compétitifs peuvent définitivement permettre à un employeur d’attirer des employés potentiels. Cependant, le personnel actuel d’une entreprise doit être l’objet d’efforts importants afin de favoriser la rétention de talents dans le contexte de « Grande Démission ».
+
+Les employés souhaitent avant tout être écoutés, valorisés et veulent savoir qu’ils peuvent évoluer au sein de leur organisation. Les employeurs doivent mettre en place des stratégies élaborées et intelligentes visant à la satisfaction et la fidélisation du personnel. 
