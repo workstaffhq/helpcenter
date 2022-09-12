@@ -3,7 +3,7 @@ slug: comment-faire-face-a-la-penurie-de-main-d-oeuvre
 title: Comment faire face à la pénurie de main d'œuvre
 authors: [mrochette]
 tags: [news]
-image: ./image-square.jpg
+image: ./image.jpg
 ---
 
 # Comment faire face à la pénurie de main d'œuvre
