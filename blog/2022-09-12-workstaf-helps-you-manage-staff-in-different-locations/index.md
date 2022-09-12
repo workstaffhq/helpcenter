@@ -7,7 +7,11 @@ image: ./image.jpg
 ---
 # Workstaff Helps You Manage Staff in Different Locations 
 
-Many companies have had to adopt new ways of working during the pandemic. Overnight, millions of workers transformed a corner of their homes into a replica of their work environment. The concept of workplace has changed. From a common, central space, it became divided into a multitude of individual, dispersed spaces. Despite the suddenness of this change, many have taken to this new setting and the comfort and privacy that comes with it. This new configuration was a real challenge for managers, for whom the distance and separation from their subordinates also meant rethinking how they operated to manage employees and teams in different locations.
+Many companies have had to adopt new ways of working during the pandemic. Overnight, millions of workers transformed a corner of their homes into a replica of their work environment. The concept of workplace has changed. From a common, central space, it became divided into a multitude of individual, dispersed spaces.
+
+<!--truncate-->
+
+Despite the suddenness of this change, many have taken to this new setting and the comfort and privacy that comes with it. This new configuration was a real challenge for managers, for whom the distance and separation from their subordinates also meant rethinking how they operated to manage employees and teams in different locations.
 
 
 However, this way of working was already in use in other industries before the pandemic. This is the case in the event industry. Many staffing agencies manage armies of workers scattered across different sites and events on a daily basis. Such a task can be daunting and requires a solid and precise organizational and communication structure. This is even more important with the return of countless events following two years of stagnation in this industry during the Covid-19 pandemic.

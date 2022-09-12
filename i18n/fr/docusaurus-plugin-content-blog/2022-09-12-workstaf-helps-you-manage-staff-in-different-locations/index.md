@@ -6,7 +6,11 @@ tags: [management]
 image: ./image.jpg
 ---
 
-Nombreuses sont les entreprises qui ont dû adopter de nouveaux modes de travail pendant la pandémie. Du jour au lendemain, des millions de travailleurs ont transformé un coin de leur domicile dans le but d’en faire une réplique de leur environnement de travail. La notion de lieu de travail a mué. D’un espace commun et central, il s’est divisé en une multitude d’espaces individuels et dispersés. Malgré la soudaineté de ce changement, beaucoup ont pris goût à ce nouveau cadre ainsi qu’au confort et à l’intimité qui l’accompagnent. Cette nouvelle configuration a représenté un véritable défi pour les gestionnaires pour qui la distance et la séparation de leurs subordonnés signifiait également repenser leur manière de fonctionner pour gérer des employés et des équipes dans des lieux différents.
+Nombreuses sont les entreprises qui ont dû adopter de nouveaux modes de travail pendant la pandémie. Du jour au lendemain, des millions de travailleurs ont transformé un coin de leur domicile dans le but d’en faire une réplique de leur environnement de travail. La notion de lieu de travail a mué. D’un espace commun et central, il s’est divisé en une multitude d’espaces individuels et dispersés. 
+
+<!--truncate-->
+
+Malgré la soudaineté de ce changement, beaucoup ont pris goût à ce nouveau cadre ainsi qu’au confort et à l’intimité qui l’accompagnent. Cette nouvelle configuration a représenté un véritable défi pour les gestionnaires pour qui la distance et la séparation de leurs subordonnés signifiait également repenser leur manière de fonctionner pour gérer des employés et des équipes dans des lieux différents.
 
 Pourtant, ce mode de fonctionnement s’appliquait déjà dans d’autres industries avant la pandémie. C’est le cas du secteur de l’événementiel. De nombreuses agences de personnel gèrent quotidiennement des armées de travailleurs dispersés sur des sites et des événements différents. Une telle tâche peut se révéler titanesque et requiert une structure d’organisation et de communication solide et précise. Ceci est d’autant plus important avec le retour en force d'innombrables événements suite aux deux années de stagnation qu’a connues ce secteur durant la pandémie de Covid-19.
 
