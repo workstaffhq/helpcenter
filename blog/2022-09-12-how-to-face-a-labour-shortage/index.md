@@ -2,7 +2,7 @@
 slug: how-to-face-the-labour-shortage
 title: How to Face The Labour Shortage?
 authors: [mrochette]
-tags: [news] [management]
+tags: [management]
 image: ./image.jpg
 ---
 
