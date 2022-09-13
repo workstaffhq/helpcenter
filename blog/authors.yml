@@ -1,14 +1,20 @@
 dmarquis:
   name: David Marquis
-  title: Lead Produit
+  title: Product Lead
   image_url: https://avatars.githubusercontent.com/u/393893?v=4
 
 csaldana:
   name: Constantino Saldana
-  title: Développeur
+  title: Developer
   image_url: https://avatars.githubusercontent.com/u/393893?v=4
 
 mrochette:
   name: Mathieu Rochette
-  title: Coordonnateur au service client
+  title: Customer Service Coordinator
   image_url: https://help-next.workstaff.app/img/authors/mathieu.jpg
+
+alatulipe:
+  name: Alexandre Latulipe
+  title: Writer
+  image_url: https://avatars.githubusercontent.com/u/393893?v=4
+
