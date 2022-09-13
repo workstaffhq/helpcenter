@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.workstaff.app/blog</id>
     <title>Workstaff - Help Center / Centre d'aide Blog</title>
-    <updated>2022-09-12T00:00:00.000Z</updated>
+    <updated>2022-09-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://help.workstaff.app/blog"/>
     <subtitle>Workstaff - Help Center / Centre d'aide Blog</subtitle>
     <icon>https://help.workstaff.app/img/icon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Back to School, Back to Work!]]></title>
+        <id>back-to-school-back-to-work</id>
+        <link href="https://help.workstaff.app/blog/back-to-school-back-to-work"/>
+        <updated>2022-09-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some high paying gig jobs and where to get them!]]></summary>
+        <content type="html"><![CDATA[<p>Some high paying gig jobs and where to get them!</p><p>As the summer nears its end, the days get shorter, the nights a little colder, we can feel it in the air, the vacation is over. It’s back to school! Returning to university for many students means buying books, supplies, laptops, transit passes and more often than not student debt.</p><p>If you are tired of working at minimum wage, even though it keeps on rising but never enough to beat the never ending inflation which has grown to unsustainable levels in the last few months, feel reassured: there are other opportunities out there!</p><p>With the end of Covid-19 restrictions, festivals, concerts, weddings, conventions, conferences are all back in action. Big and small event producers often rely on staffing agencies who have a pool of part-time candidates that they usually pay well. Supplying servers to caterers or promotional staff to hand out flyers, workers can pick their jobs, choose the location and  the dates they want, giving them a lot of freedom and the remuneration often varies from $18 to $30 per hour.</p><p>Staffing agencies usually have their niches for the industries they supply but are always on the lookout for new talents with different levels of experience. If you are interested in flexible hours, good salary and participating in some the of most exciting events in Montreal, go check out some of these agencies :</p><ul><li><a href="https://staffpersonnel.com" target="_blank" rel="noopener noreferrer"><strong>Staff personnel</strong></a></li><li><a href="http://www.promostaff.ca" target="_blank" rel="noopener noreferrer"><strong>PromoStaff</strong></a></li><li><a href="https://www.cheersevenements.com" target="_blank" rel="noopener noreferrer"><strong>Cheers Événements</strong></a></li><li><a href="mailto:recrutement@maltservices.com" target="_blank" rel="noopener noreferrer"><strong>Malt Services</strong></a></li><li><a href="https://sacreesoiree.com" target="_blank" rel="noopener noreferrer"><strong>Sacrée Soirée</strong></a></li><li><a href="https://www.vsevents.ca/" target="_blank" rel="noopener noreferrer"><strong>VS Event Staffing</strong></a></li><li><a href="https://www.staffrenter.com/" target="_blank" rel="noopener noreferrer"><strong>Staff Renter</strong></a></li><li><a href="https://agenceavotreservice.com/" target="_blank" rel="noopener noreferrer"><strong>À Votre Service</strong></a></li><li><a href="http://gravotreservice.com/" target="_blank" rel="noopener noreferrer"><strong>G&amp;R À Votre Service</strong></a></li><li><a href="http://www.garconsvp.com" target="_blank" rel="noopener noreferrer"><strong>Garcon S.V.P</strong></a></li></ul>]]></content>
+        <author>
+            <name>Alexandre Latulipe</name>
+        </author>
+        <category label="tips" term="tips"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Workstaff Helps You Manage Staff in Different Locations]]></title>
         <id>workstaff-helps-you-manage-staff-in-different-locations</id>
