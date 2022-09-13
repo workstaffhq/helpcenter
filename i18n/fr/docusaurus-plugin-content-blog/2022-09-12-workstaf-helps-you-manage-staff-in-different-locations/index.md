@@ -43,4 +43,4 @@ Déléguer est une des clés du succès de la gestion de personnel à distance. 
 
 Workstaff vous permet d’affecter du personnel aux différents quarts qui composent votre horaire de travail et de nommer des chefs d’équipe qui pourront assurer le suivi du temps et le pointage de leur collègues sur les différents sites.
 
-Apprenez-en plus sur Workstaff en consultant notre [documentation à propos des différentes fonctionnalités que la plateforme propose](https://help.workstaff.app/fr/). 
+Apprenez-en plus sur Workstaff en consultant notre [**documentation**](https://help.workstaff.app/fr/) à propos des différentes fonctionnalités que la plateforme propose. 

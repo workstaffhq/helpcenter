@@ -43,6 +43,6 @@ Delegating is one of the keys to successful remote staffing. After creating a wo
 
 Workstaff allows you to schedule staff for the different shifts you plan and to appoint trusted team leaders who can track the time and attendance of their colleagues at the different sites.
 
-Learn more about Workstaff by reading our [documentation about the different features the platform offers](https://help.workstaff.app/). 
+Learn more about Workstaff by reading our [**documentation**](https://help.workstaff.app/) about the different features the platform offers. 
 
 
