@@ -3,7 +3,7 @@ slug: évolution-économie-à-la-demande
 title: L'évolution fulgurante de l'économie à la demande
 authors: [mrochette]
 tags: [nouvelles]
-image: ./image-square.jpg
+image: ./image.jpg
 ---
 
 # L'évolution fulgurante de l'économie à la demande 

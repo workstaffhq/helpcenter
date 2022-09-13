@@ -3,7 +3,7 @@ slug: the-gigification-of-work
 title: The Gigification of Work
 authors: [mrochette]
 tags: [news]
-image: ./image-square.jpg
+image: ./image.jpg
 ---
 
 # The Gigification of Work 
