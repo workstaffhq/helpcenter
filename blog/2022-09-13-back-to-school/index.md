@@ -20,14 +20,14 @@ With the end of Covid-19 restrictions, festivals, concerts, weddings, convention
 
 Staffing agencies usually have their niches for the industries they supply but are always on the lookout for new talents with different levels of experience. If you are interested in flexible hours, good salary and participating in some the of most exciting events in Montreal, go check out some of these agencies :
 
-- [**Staff personnel**](https://staffpersonnel.com)
-- [**PromoStaff**](http://www.promostaff.ca)
+- [**Staff personnel**](https://staffpersonnel.com/indexen)
+- [**PromoStaff**](http://www.promostaffxm.com/)
 - [**Cheers Événements**](https://www.cheersevenements.com)
 - [**Malt Services**](mailto:recrutement@maltservices.com)
-- [**Sacrée Soirée**](https://sacreesoiree.com)
+- [**Sacrée Soirée**](https://sacreesoiree.com/en/)
 - [**VS Event Staffing**](https://www.vsevents.ca/)
-- [**Staff Renter**](https://www.staffrenter.com/)
+- [**Staff Renter**](https://www.staffrenter.com/en/)
 - [**À Votre Service**](https://agenceavotreservice.com/)
 - [**G&R À Votre Service**](http://gravotreservice.com/)
-- [**Garcon S.V.P**](http://www.garconsvp.com)
+- [**Garcon S.V.P**](http://www.garconsvp.com/En/index_en.html)
 
