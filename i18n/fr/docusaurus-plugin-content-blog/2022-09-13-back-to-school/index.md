@@ -6,7 +6,7 @@ tags: [conseils]
 image: ./image.jpg
 ---
 
-C'est la rentrée!
+# C'est la rentrée!
 
 Quelques petits boulots bien payés et où les trouver!
 
