@@ -5,7 +5,7 @@ authors: [mrochette]
 tags: [management]
 image: ./image.jpg
 ---
-# Workstaff Helps You Manage Staff in Different Locations 
+# Workstaff Helps Your Manage Staff in Different Locations 
 
 Many companies have had to adopt new ways of working during the pandemic. Overnight, millions of workers transformed a corner of their homes into a replica of their work environment. The concept of workplace has changed. From a common, central space, it became divided into a multitude of individual, dispersed spaces.
 
