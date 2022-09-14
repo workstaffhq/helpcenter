@@ -21,7 +21,7 @@ With the end of Covid-19 restrictions, festivals, concerts, weddings, convention
 
 Staffing agencies usually have their niches for the industries they supply but are always on the lookout for new talents with different levels of experience. If you are interested in flexible hours, good salary and participating in some the of most exciting events in Montreal, you should definitely check out some of these agencies. 
 
-## Some Staffing Agencies in Montreal:
+## Some Staffing Agencies in Montreal:  
 
 - [**Staff personnel**](https://staffpersonnel.com/indexen)
 - [**PromoStaff**](http://www.promostaffxm.com/)
