@@ -1,7 +1,8 @@
 ---
 slug: how-to-face-the-labour-shortage
 title: How to Face The Labour Shortage?
-authors: [industry]
+authors: [mrochette]
+tags: [industry]
 image: ./image.jpg
 keywords: [labour shortage, employee retention, turnover, great resignation]
 ---
