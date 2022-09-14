@@ -1,5 +1,5 @@
 ---
-slug: évolution-économie-à-la-demande
+slug: the-gigification-of-work
 title: L'évolution fulgurante de l'économie à la demande
 authors: [mrochette]
 tags: [nouvelles]

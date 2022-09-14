@@ -1,5 +1,5 @@
 ---
-slug: workstaff-vous-aide-a-gerer-du-personnel-dans-des-lieux-differents
+slug: workstaff-helps-you-manage-staff-in-different-locations
 title: Workstaff vous aide à gérer du personnel dans des lieux différents
 authors: [mrochette]
 tags: [management]

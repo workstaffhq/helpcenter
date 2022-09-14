@@ -1,5 +1,5 @@
 ---
-slug: c-est-la-rentree
+slug: back-to-school-back-to-work
 title: C'est la rentrée!
 authors: [alatulipe]
 tags: [conseils]

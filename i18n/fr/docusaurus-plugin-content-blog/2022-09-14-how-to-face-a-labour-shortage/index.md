@@ -1,5 +1,5 @@
 ---
-slug: comment-faire-face-a-la-penurie-de-main-d-oeuvre
+slug: how-to-face-the-labour-shortage
 title: Comment faire face à la pénurie de main d'œuvre ?
 authors: [mrochette]
 tags: [management]
