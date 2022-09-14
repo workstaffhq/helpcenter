@@ -4,6 +4,7 @@ title: L'évolution fulgurante de l'économie à la demande
 authors: [mrochette]
 tags: [nouvelles]
 image: ./image.jpg
+keywords: [à la demande, pigistes, travailleurs autonomes, freelance]
 ---
 
 # L'évolution fulgurante de l'économie à la demande 

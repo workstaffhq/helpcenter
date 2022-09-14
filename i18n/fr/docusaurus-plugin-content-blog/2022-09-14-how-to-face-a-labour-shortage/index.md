@@ -2,8 +2,9 @@
 slug: how-to-face-the-labour-shortage
 title: Comment faire face à la pénurie de main d'œuvre ?
 authors: [mrochette]
-tags: [management]
+tags: [industrie]
 image: ./image.jpg
+keywords: [pénurie de main d'oeuvre, rétention des employés, grande démission]
 ---
 
 # Comment faire face à la pénurie de main d'œuvre ?

@@ -2,8 +2,9 @@
 slug: the-rebirth-of-the-event-industry
 title: The Rebirth of The Event Industry
 authors: [mrochette]
-tags: [news]
+tags: [industry]
 image: ./event-square.jpg
+keywords: [events, online events, virtual events, hybrid events, physical events]
 ---
 
 # The Rebirth of The Event Industry
@@ -21,6 +22,7 @@ Companies in this industry experienced significant financial and salary losses a
 Today, with the massive relaxation of sanitary measures, we are witnessing a renaissance of the physical event, long awaited by a population thirsty for entertainment, reunion and memorable moments to share.
 
 ## The Sudden Switch to Online Events
+
 With the lockdowns and sanitary measures, the event landscape was marked by the disappearance of many players in this sector, but also by the resilience and inventiveness of organizations that were able to adapt to this reality by offering virtual gatherings. 
 
 The increased use of technological tools during the pandemic allowed many companies to adapt and offer new event formats that were welcomed by a large number of people. 

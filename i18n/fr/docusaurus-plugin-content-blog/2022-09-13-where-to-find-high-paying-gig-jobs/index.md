@@ -1,14 +1,15 @@
 ---
-slug: back-to-school-back-to-work
-title: C'est la rentrée!
+slug: high-paying-gig-jobs-in-montreal
+title: Des petits boulots bien payés à Montréal
 authors: [alatulipe]
-tags: [conseils]
+tags: [industrie]
 image: ./image.jpg
+keywords: [petits boulots, agences de personnel, à la demande]
 ---
 
-# C'est la rentrée!
+# Des petits boulots bien payés à Montréal
 
-Quelques petits boulots bien payés et où les trouver!
+Que vous soyez étudiant(e) ou en quête de flexibilité, découvrez où trouver des petits boulots bien rémunérés à Montréal.
 
 <!--truncate-->
 

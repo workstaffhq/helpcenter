@@ -1,11 +1,12 @@
 ---
-slug: workstaff-helps-you-manage-staff-in-different-locations
-title: Workstaff Helps You Manage Staff in Different Locations
+slug: manage-staff-in-different-locations-with-workstaff
+title: Manage Staff in Different Locations with Workstaff
 authors: [mrochette]
-tags: [management]
+tags: [features]
 image: ./image.jpg
+keywords: [staff management, scheduling, time tracking, messaging]
 ---
-# Workstaff Helps Your Manage Staff in Different Locations 
+# Manage Staff in Different Locations With Workstaff 
 
 Many companies have had to adopt new ways of working during the pandemic. Overnight, millions of workers transformed a corner of their homes into a replica of their work environment. The concept of workplace has changed. From a common, central space, it became divided into a multitude of individual, dispersed spaces.
 

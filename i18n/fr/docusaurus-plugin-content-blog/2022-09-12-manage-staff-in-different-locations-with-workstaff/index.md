@@ -1,10 +1,13 @@
 ---
-slug: workstaff-helps-you-manage-staff-in-different-locations
-title: Workstaff vous aide à gérer du personnel dans des lieux différents
+slug: manage-staff-in-different-locations-with-workstaff
+title: Gérer son équipe à distance avec Workstaff
 authors: [mrochette]
-tags: [management]
+tags: [fonctionnalités]
 image: ./image.jpg
+keywords: [gestion de personnel, planification d'horaire, gestion d'horaire, suivi du temps]
 ---
+
+# Gérer son équipe à distance avec Workstaff
 
 Nombreuses sont les entreprises qui ont dû adopter de nouveaux modes de travail pendant la pandémie. Du jour au lendemain, des millions de travailleurs ont transformé un coin de leur domicile dans le but d’en faire une réplique de leur environnement de travail. La notion de lieu de travail a mué. D’un espace commun et central, il s’est divisé en une multitude d’espaces individuels et dispersés. 
 

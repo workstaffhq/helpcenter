@@ -2,8 +2,9 @@
 slug: the-gigification-of-work
 title: The Gigification of Work
 authors: [mrochette]
-tags: [news]
+tags: [industry]
 image: ./image.jpg
+keywords: [gig economy, gig worker, gig, gigs, on demand, freelance]
 ---
 
 # The Gigification of Work 

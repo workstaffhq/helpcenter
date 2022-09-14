@@ -1,11 +1,12 @@
 ---
 slug: the-rebirth-of-the-event-industry
-title: La renaissance du secteur événementiel
+title: Le nouvel essor du secteur événementiel
 authors: [mrochette]
-tags: [nouvelles]
+tags: [industrie]
 image: ./event-square.jpg
+keywords: [événements, événements en ligne, événements physiques, événements hybdrides]
 ---
-# La renaissance du secteur événementiel
+# Le nouvel essor du secteur événementiel
 Si la pandémie a eu des retombées négatives sur le secteur de l’événementiel, elle a aussi été l’occasion de le réinventer.
 
 <!--truncate-->

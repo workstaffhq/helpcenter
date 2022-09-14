@@ -1,14 +1,15 @@
 ---
-slug: back-to-school-back-to-work
-title: Back to School, Back to Work!
+slug: high-paying-gig-jobs-in-montreal
+title: High Paying Gig Jobs in Montreal
 authors: [alatulipe]
-tags: [tips]
+tags: [industry]
 image: ./image.jpg
+keywords: [gigs, gig jobs, gig work, staffing agencies, staffing]
 ---
 
-# Back to School, Back to Work!
+# High Paying Gig Jobs in Montreal
 
-Some high paying gig jobs and where to get them!
+Whether you are a student or looking for flexibility, find out where to find well-paid gig jobs in Montreal.
 
 <!--truncate-->
 
@@ -18,7 +19,9 @@ If you are tired of working at minimum wage, even though it keeps on rising but 
 
 With the end of Covid-19 restrictions, festivals, concerts, weddings, conventions, conferences are all back in action. Big and small event producers often rely on staffing agencies who have a pool of part-time candidates that they usually pay well. Supplying servers to caterers or promotional staff to hand out flyers, workers can pick their jobs, choose the location and  the dates they want, giving them a lot of freedom and the remuneration often varies from $18 to $30 per hour.
 
-Staffing agencies usually have their niches for the industries they supply but are always on the lookout for new talents with different levels of experience. If you are interested in flexible hours, good salary and participating in some the of most exciting events in Montreal, go check out some of these agencies :
+Staffing agencies usually have their niches for the industries they supply but are always on the lookout for new talents with different levels of experience. If you are interested in flexible hours, good salary and participating in some the of most exciting events in Montreal, you should definitely check out some of these agencies. 
+
+## Some Staffing Agencies in Montreal:
 
 - [**Staff personnel**](https://staffpersonnel.com/indexen)
 - [**PromoStaff**](http://www.promostaffxm.com/)
