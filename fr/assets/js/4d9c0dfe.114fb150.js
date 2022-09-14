@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1415],{1981:s=>{s.exports=JSON.parse('{"label":"fonctionnalit\xe9s","permalink":"/fr/blog/tags/fonctionnalites","allTagsPath":"/fr/blog/tags","count":1}')}}]);
