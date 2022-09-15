@@ -26,7 +26,7 @@ function ContentBanner() {
       <div className={styles.contentBannerContainer}>
         <Logo />
         <h2 className={styles.contentBannerTitle}>
-          <div>{ContentBannerTranslation.title}</div>
+          {ContentBannerTranslation.title}
         </h2>
         <div className={styles.contentBannerBody}>
           <div>

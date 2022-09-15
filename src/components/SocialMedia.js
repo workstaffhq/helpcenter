@@ -1,6 +1,7 @@
 import React from 'react';
-import styles from './SocialMedia.module.css';
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Translate, {translate} from '@docusaurus/Translate';
+import styles from './SocialMedia.module.css';
 import {
   FacebookShareButton,
   LinkedinShareButton,
@@ -14,7 +15,7 @@ const SocialMediaTranslation =
 ;
 
 function SocialMedia({ metadata }) {
-  const baseUrl = "https://help-next.workstaff.app";
+  const {siteConfig: {url: baseUrl}} = useDocusaurusContext();
   const blogPageUrl = metadata.permalink;
   const title = metadata.title
   const description = metadata.description
