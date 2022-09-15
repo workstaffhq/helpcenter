@@ -11,4 +11,8 @@ csaldana:
 mrochette:
   name: Mathieu Rochette
   title: Coordonnateur au service client
-  image_url: https://help-next.workstaff.app/img/authors/mathieu.jpg
+  image_url: https://images.unsplash.com/photo-1557180295-76eee20ae8aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80
+alatulipe:
+  name: Alexandre Latulipe
+  title: Rédacteur
+  image_url: https://images.unsplash.com/photo-1660816610515-6b80b4008380?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=738&q=80

@@ -26,7 +26,7 @@ Une fois que vous avez créé votre projet, vous pouvez ajouter des quarts de tr
 
 ## Mode brouillon
 
-Lorsque vous créez un nouveau projet, Workstaff vous fait travailler en mode brouillon par défaut. Cela vous permet d'apporter toutes les modifications que vous souhaitez et de les appliquer au projet une fois que vous êtes satisfait en cliquant sur **Révisere et appliquer** sur la page du projet. Ce n'est qu'à ce moment-là que votre personnel recevra une notification concernant ses affectations.
+Lorsque vous créez un nouveau projet, Workstaff vous fait travailler en mode brouillon par défaut. Cela vous permet d'apporter toutes les modifications que vous souhaitez et de les appliquer au projet une fois que vous êtes satisfait en cliquant sur **Réviser et appliquer** sur la page du projet. Ce n'est qu'à ce moment-là que votre personnel recevra une notification concernant ses affectations.
 
 Vous pouvez toujours apporter des modifications à votre projet après l'avoir révisé et appliqué, et ces nouvelles modifications feront automatiquement repasser votre projet en mode brouillon.
 
