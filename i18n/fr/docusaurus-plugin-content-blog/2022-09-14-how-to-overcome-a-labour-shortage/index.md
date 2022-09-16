@@ -1,13 +1,13 @@
 ---
-slug: how-to-face-the-labour-shortage
-title: Comment faire face à la pénurie de main d'œuvre ?
+slug: how-to-ovecome-the-labour-shortage
+title: Comment surmonter la pénurie de main d'œuvre ?
 authors: [mrochette]
 tags: [industrie]
 image: ./image.jpg
 keywords: [pénurie de main d'oeuvre, rétention des employés, grande démission]
 ---
 
-# Comment faire face à la pénurie de main d'œuvre ?
+# Comment surmonter à la pénurie de main d'œuvre ?
 Suite à deux années statiques pour certains et mouvementées pour d’autres, d’innombrables personnes ont remis leurs priorités et leurs conditions de travail en question durant la pandémie. Salaires trop faibles, modalités de travail inflexibles, manque de possibilités d’avancement, emplois qui ne reflètent pas les valeurs des travailleurs, risques trop élevés liés à la santé, etc. Les raisons qui ont poussé des millions d’employés à quitter leur emploi sont aussi variées qu’elles sont valables.
 
 <!--truncate-->
