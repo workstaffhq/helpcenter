@@ -26,7 +26,7 @@ function SocialMedia({ metadata }) {
         <div>
           <FacebookShareButton
             url={baseUrl + blogPageUrl}
-            hashtag={"#hashtag"}
+            hashtag={"#workstaff"}
           >
             <i className="ws-facebook" />
           </FacebookShareButton>
@@ -35,7 +35,7 @@ function SocialMedia({ metadata }) {
           <TwitterShareButton
             url={baseUrl + blogPageUrl}
             title={title}
-            hashtag={"#hashtag"}
+            hashtag={"#workstaff"}
           >
             <i className="ws-twitter" />
           </TwitterShareButton>
