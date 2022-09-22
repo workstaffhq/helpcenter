@@ -11,8 +11,6 @@ If you manage a large team or are part of a complex organization, you do not nee
 
 If adopting Workstaff in smaller steps is not an option for your organization, our Customer Success team can help you plan your transition, and we even have the option to import batches of staff from a database you provide.
 
-[![](images/thumbnail-with-play.png)](https://www.loom.com/share/9a9f6a9cbe1240cfaa5ea785c569ea6a)
-
 ## Creating Profiles 
 
 1. In the main menu, go to the **Staff** section  
