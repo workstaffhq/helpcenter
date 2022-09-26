@@ -1,13 +1,13 @@
 ---
-slug: how-to-face-the-labour-shortage
-title: How to Face The Labour Shortage?
+slug: how-to-overcome-the-labour-shortage
+title: How to Overcome The Labour Shortage?
 authors: [mrochette]
 tags: [industry]
 image: ./image.jpg
 keywords: [labour shortage, employee retention, turnover, great resignation]
 ---
 
-# How to Face The Labour Shortage?
+# How to Overcome The Labour Shortage?
 
 After two years of stagnation for some and turmoil for others, countless people questioned their priorities and working conditions during the pandemic. Low wages, inflexible work arrangements, lack of growth opportunities, jobs that don't reflect workers' values, too many health risks, etc. The reasons why millions of employees have left their jobs are as varied as they are valid.
 
