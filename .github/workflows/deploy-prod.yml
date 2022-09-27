@@ -1,0 +1,45 @@
+name: Build and Deploy to S3 (help.workstaff.app)
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: npm
+
+      - name: Cache node modules
+        id: cache-npm
+        uses: actions/cache@v3
+        env:
+          cache-name: cache-node-modules
+        with:
+          # npm cache files are stored in `~/.npm` on Linux/macOS
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Install dependencies
+        run: npm install --frozen-lockfile
+      - name: Build website
+        run: npm run build
+
+      - name: Sync to S3
+        run: |
+          aws s3 sync ./build s3://help.workstaff.app/ --recursive --add-header="Cache-Control:max-age=1296000" --acl public-read --follow-symlinks --delete
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.HELPCENTER_AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/" "/index.html" "/fr" "/fr/index.html"
+
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.HELPCENTER_AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.HELPCENTER_AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'ca-central-1'
