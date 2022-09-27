@@ -11,6 +11,8 @@ Si vous gérez une grande équipe ou faites partie d'une organisation complexe, 
 
 Si l'adoption de Workstaff par petites étapes n'est pas une option pour votre organisation, notre équipe de Réussite Client peut vous aider à planifier votre transition, et nous avons même l'option d'importer des lots de personnel à partir d'une base de données que vous fournissez.
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/088eca0f78f34fde99882b8c65525b96" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Création de profils
 
 1. Dans le menu principal, allez à la section **Personnel**.
