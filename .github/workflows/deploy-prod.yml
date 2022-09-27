@@ -3,7 +3,7 @@ name: Build and Deploy to S3 (help.workstaff.app)
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
@@ -36,7 +36,7 @@ jobs:
 
       - name: Sync to S3
         run: |
-          aws s3 sync ./build s3://help.workstaff.app/ --recursive --add-header="Cache-Control:max-age=1296000" --acl public-read --follow-symlinks --delete
+          aws s3 sync ./build s3://help.workstaff.app/ --cache-control="max-age=1296000" --acl public-read --follow-symlinks --delete
           aws cloudfront create-invalidation --distribution-id ${{ secrets.HELPCENTER_AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/" "/index.html" "/fr" "/fr/index.html"
 
         env:
