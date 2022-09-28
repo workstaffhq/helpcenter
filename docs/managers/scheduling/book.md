@@ -6,6 +6,8 @@ sidebar_position: 4
 
 Once you have created your shifts, Workstaff allows you to book staff in the ways listed below.
 
+<iframe width="640" height="308" src="https://www.loom.com/embed/3bfd22c4abad46309caec76b0328a2ba" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Booking Staff From Your List of Suggestions
 Workstaff allows you to select staff from a list of suggestions based on the skills, availability and grades of each profile.
 1. On the project page, select the shift and click on **Book staff**
