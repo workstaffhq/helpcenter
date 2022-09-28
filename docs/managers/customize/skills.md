@@ -2,6 +2,8 @@
 
 Workstaff allows you to create skills that reflect the positions you associate with your shift. 
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/c86131093d274ae5ac7e79ac37f493b4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Creating Skills 
 
 1. In the main menu, go to the **Settings** section
