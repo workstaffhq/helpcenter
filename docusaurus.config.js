@@ -3,7 +3,7 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: `Workstaff - Help Center / Centre d'aide`,
+  title: `Workstaff`,
   tagline: 'DO NOT USE',
   url: 'https://help.workstaff.app',
   baseUrl: '/',

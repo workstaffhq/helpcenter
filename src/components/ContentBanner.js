@@ -31,6 +31,7 @@ function ContentBanner() {
         <div className={styles.contentBannerBody}>
           <div>
             {ContentBannerTranslation.content_banner_plan}
+            &nbsp;
             {ContentBannerTranslation.content_banner_create}
           </div>
         </div>
