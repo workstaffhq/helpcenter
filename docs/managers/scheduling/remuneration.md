@@ -6,6 +6,8 @@ Workstaff allows you to create your own premiums that you can later add to the r
 
 You can also customize your staff's remuneration conditions and to see at a glance all that is applicable to each shift.
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/97d66f48255149d599ba3d3a0ad6e409" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Change Remuneration Conditions For a Position
 When creating an event, you can change the remuneration conditions for a specific position. If unchanged, the remuneration will be the same as in the staff profiles.
 1. On the project page, go to the Remuneration tab

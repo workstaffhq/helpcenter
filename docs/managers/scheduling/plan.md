@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # Plan an Event
 
+<iframe width="640" height="306" src="https://www.loom.com/embed/987c200a36864fe9988d3527780713be" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ## Creating a New Project
 
 Creating a project in Workstaff is a quick and easy task:

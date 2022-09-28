@@ -6,6 +6,8 @@ sidebar_position : 4
 
 Une fois que vous avez créé vos équipes, Workstaff vous permet d'affecter du personnel à des quarts de la manière suivante.
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/9b084fce0bc044f9a535f2b8a46111cc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Affecter du personnel à partir de votre liste de suggestions
 Workstaff vous permet de sélectionner du personnel à partir d'une liste de suggestions basée sur les compétences, la disponibilité et les notes de chaque profil.
 1. Sur la page du projet, sélectionnez le quart et cliquez sur **Affecter du personnel**.
