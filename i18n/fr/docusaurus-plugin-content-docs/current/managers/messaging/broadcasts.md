@@ -10,6 +10,7 @@ courriels pour informer les équipes d'une information importante, leur demander
 
 Les diffusions sont envoyées individuellement à chaque membre de l'équipe, et chaque membre de l'équipe qui reçoit un message diffusé peut le marquer comme lu et/ou y répondre si un suivi est nécessaire.
 
+<iframe width="640" height="308" src="https://www.loom.com/embed/9738951b06aa4c8ca5b5c5153dc0a635" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Envoyer une diffusion
 

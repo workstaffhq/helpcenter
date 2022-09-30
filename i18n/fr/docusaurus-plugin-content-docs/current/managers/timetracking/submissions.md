@@ -9,8 +9,8 @@ Cette section vous permet de filtrer les feuilles de temps de la manière suivan
 - **En attente de saisie** : affiche uniquement les feuilles de temps que votre personnel n'a pas encore soumises.
 - **À approuver** : afficher toutes les feuilles de temps soumises par votre personnel.
 
-La fonction **Suivi du temps** vous permet d'avoir un aperçu du temps planifié et du temps rapporté.
-Vous avez la possibilité de modifier une feuille de temps si les informations qu'elle contient sont incorrectes ou si le personnel a oublié de pointer.
+La fonction **Suivi du temps** vous permet d'avoir un aperçu du temps planifié et du temps soumis.
+Vous avez la possibilité de modifier une feuille de temps si les informations qu'elle contient sont incorrectes ou si le personnel a oublié de pointer ses heures.
 
 Vous pouvez exporter des rapports Excel à partir des feuilles de temps en cliquant sur **Télécharger**. 
 
