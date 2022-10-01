@@ -12,6 +12,7 @@ activity, or any other one-way communication needs.
 Broadcasts are sent individually to each team member, and each team member who receives a broadcast message can mark 
 it as read and/or reply to it if any follow up is required. 
 
+<iframe width="640" height="308" src="https://www.loom.com/embed/c37df7aa88414780a542ce0a889fd09d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Send a Broadcast
 

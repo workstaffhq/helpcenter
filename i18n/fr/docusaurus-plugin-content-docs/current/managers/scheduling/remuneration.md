@@ -1,6 +1,6 @@
 # Primes et rémunération
 
-Workstaff vous permet de créer vos propres primes que vous pourrez ensuite ajouter aux conditions de rémunération de vos projets si nécessaire.
+Workstaff vous permet de créer vos propres primes que vous pourrez ensuite ajouter aux conditions de rémunération de vos projets, si nécessaire.
 
 Vous pouvez également personnaliser les conditions de rémunération de votre personnel et voir en un coup d'œil tout ce qui est applicable à chaque quart.
 
@@ -8,7 +8,7 @@ Vous pouvez également personnaliser les conditions de rémunération de votre p
 
 ## Modifier les conditions de rémunération d'un poste
 Lors de la création d'un événement, vous pouvez modifier les conditions de rémunération pour un poste spécifique. Si elles restent inchangées, la rémunération sera la même que dans les profils du personnel.
-1. Sur la page du projet, accédez à l'onglet Rémunération.
+1. Sur la page du projet, accédez à l'onglet **Rémunération**.
 2. Cliquez sur l'icône indiquée ci-dessous pour modifier les conditions de rémunération du poste.
    ![rem-role.png](Images/rem-role.png)
 3. Sélectionnez le type de rémunération et inscrivez le nouveau montant.

@@ -1,7 +1,7 @@
 ---
 slug: high-paying-gig-jobs-in-montreal
 title: Des petits boulots bien payés à Montréal
-authors: [alatulipe]
+authors: [pdauchez]
 tags: [industrie]
 image: ./image.jpg
 keywords: [petits boulots, agences de personnel, à la demande]

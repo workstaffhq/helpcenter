@@ -1,11 +1,11 @@
-# Pointage d'entrée / de sortie
+# Pointage des heures 
 
-Workstaff permet à vos employés de pointer à l'arrivée et au départ d'un quart grâce à différentes options que vous pouvez choisir.
+Workstaff permet à vos employés de pointer à l'arrivée et au départ d'un quart grâce à différentes options parmi lesquelles vous pouvez choisir.
 En tant qu'employeur, cette fonctionnalité vous permet de suivre le temps de votre personnel en temps réel.
 
 
 ## Options de pointage d'entrée et de sortie
-Vous pouvez personnaliser vos préférences en matière de **Suivi du temps** dans les [paramètres](../customize/account.md).   
+Vous pouvez personnaliser vos préférences en matière de **Suivi du temps** dans les [**paramètres**](../customize/account.md).   
 Vos employés pourront alors pointer et en sortie de quart depuis leur téléphone portable.  
 Une fois que vos employés ont pointé en entrée et en sortie d'un quart, ils seront invités à **[soumettre une feuille de temps](./submissions.md)** que vous pourrez ensuite examiner et approuver.
 

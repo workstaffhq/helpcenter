@@ -1,7 +1,7 @@
 ---
 slug: high-paying-gig-jobs-in-montreal
 title: High Paying Gig Jobs in Montreal
-authors: [alatulipe]
+authors: [pdauchez]
 tags: [industry]
 image: ./image.jpg
 keywords: [gigs, gig jobs, gig work, staffing agencies, staffing]
