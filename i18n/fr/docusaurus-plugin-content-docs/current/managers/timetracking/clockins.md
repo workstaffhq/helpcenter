@@ -1,6 +1,6 @@
 # Pointage des heures 
 
-Workstaff permet à vos employés de pointer à l'arrivée et au départ d'un quart grâce à différentes options parmi lesquelles pouvez choisir.
+Workstaff permet à vos employés de pointer à l'arrivée et au départ d'un quart grâce à différentes options parmi lesquelles vous pouvez choisir.
 En tant qu'employeur, cette fonctionnalité vous permet de suivre le temps de votre personnel en temps réel.
 
 
