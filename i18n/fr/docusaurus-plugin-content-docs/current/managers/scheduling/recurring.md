@@ -6,6 +6,8 @@ sidebar_position : 5
 
 Que vous souhaitiez créer des événements qui s'étendent sur une longue période ou créer des horaires qui se répètent d'une semaine à l'autre, Workstaff vous permet de diviser votre projet en horaires de la manière indiquée ci-dessous.
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/2a62dfa6453e4d0caad76d4b3abc47de" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Création d'un nouvel horaire
 
 1. Sur la page du projet, cliquez sur l'onglet “Horaire".

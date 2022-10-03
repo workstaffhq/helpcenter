@@ -5,6 +5,9 @@ sidebar_position: 5
 # Long-Running Events
 
 Whether you want to create events that span a long period of time or create schedules that repeat from week to week, Workstaff allows you to divide your project into schedules in the ways listed below.
+
+<iframe width="640" height="308" src="https://www.loom.com/embed/766b36a9fcee4754b9cb989fc87edd83" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Creating a New Schedule 
 1. On the project page, click on the schedule tab
 ![img_6.png](Images/img_6.png)

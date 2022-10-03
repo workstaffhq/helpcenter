@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Soumettre vos heures
 
-Une fois qu'un quart est terminé, on vous demandera de **Soumett votre heures pour un quart de travail terminé** sous **Choses à faire** sur la page **Aujourd'hui**.
+Une fois qu'un quart est terminé, on vous demandera de **Soumettre vos heures pour un quart de travail terminé** sous **Choses à faire** sur la page **Aujourd'hui**.
 
 Vous pouvez également accéder à vos feuilles de temps à soumettre en allant dans l'onglet **Profil**, puis en cliquant sur **Suivi des heures travaillées**.
 

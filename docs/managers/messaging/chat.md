@@ -11,6 +11,8 @@ Workstaff has integrated instant messaging to communicate with your staff and te
 You can only chat with team members who have installed the Workstaff mobile app.
 :::
 
+<iframe width="640" height="306" src="https://www.loom.com/embed/feb90a07f4d242de81e5c15c864b31c0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Types Of Conversations
 
 ### 1:1 (One to One)

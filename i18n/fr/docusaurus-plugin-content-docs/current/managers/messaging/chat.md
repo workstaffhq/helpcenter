@@ -11,6 +11,8 @@ Workstaff a intégré la messagerie instantanée pour communiquer plus efficacem
 Vous ne pouvez chatter qu'avec les membres de votre équipe qui ont installé l'application mobile Workstaff.
 :::
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/45060427159c41dcb02247df0d9efe33" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### Types de conversations
 
 ### 1:1 (un à un)
