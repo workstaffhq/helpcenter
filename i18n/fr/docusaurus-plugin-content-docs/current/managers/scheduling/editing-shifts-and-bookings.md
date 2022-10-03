@@ -2,6 +2,8 @@
 
 Sur la page du projet, vous pouvez facilement modifier plusieurs quarts de travail ou plusieurs affectations à la fois.
 
+<iframe width="640" height="306" src="https://www.loom.com/embed/6ee1dd771a8349efabcf148a89b5d036" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Sélection de plusieurs quarts de travail
 La sélection de plusieurs quarts de travail vous permet d'affecter du personnel aux quarts de travail sélectionnés et de les annuler en une seule manipulation.
 - Pour sélectionner tous les quarts de travail sur la page du projet, double-cliquez sur un quart de travail

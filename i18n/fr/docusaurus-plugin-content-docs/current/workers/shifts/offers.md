@@ -8,7 +8,7 @@ vers 15 heures, heure locale. Si une offre de travail vous intéresse, vous pouv
 
 ## Postuler aux quarts de travail ouverts et aux offres
 
-Vous pouvez facilement faire défiler les nouvelles offres de travail et y postuler dans l'onglet **Opportunités**.
+Vous pouvez facilement faire défiler les nouvelles offres de travail et postuler dans l'onglet **Opportunités**.
 
 1. Voir toutes les nouvelles offres dans l'onglet **Nouvelles**.
 2. Appuyez sur une offre pour en savoir plus sur le ou les quarts de travail.
@@ -18,7 +18,7 @@ Vous pouvez facilement faire défiler les nouvelles offres de travail et y postu
 Une fois que vous aurez soumis votre candidature, l'organisateur de l'événement la recevra et vous serez informé s'il vous sélectionne pour le poste.
 
 :::info Où trouver les offres ignorées ?
-Si vous avez ignoré une offre par inadvertance en consultant la liste et qu'elle a disparu de la liste **Nouvelles**, vous pouvez toujours la trouver sous l'onglet **Mises de côté**.
+Si vous avez mis une offre de côté par inadvertance en consultant la liste et qu'elle a disparu de la liste **Nouvelles**, vous pouvez toujours la trouver sous l'onglet **Mises de côté**.
 :::
 
 ## Offres auxquelles vous avez postulé
@@ -28,7 +28,7 @@ Une fois que vous avez postulé à une offre de travail, ses quarts apparaîtron
 
 Vous pouvez également voir une liste de toutes les offres actives auxquelles vous avez postulé en allant sur l'onglet **Appliquées** dans la section principale **Opportunités**.
 
-Lorsque vous ouvrez une demande, vous pouvez :
+Lorsque vous ouvrez une candidature, vous pouvez :
 
 - **Retirer votre candidature** si vous avez changé d'avis ou si vous n'êtes plus disponible pour ce travail.
 - **Contacter l'organisateur** si vous avez des questions concernant l'offre.

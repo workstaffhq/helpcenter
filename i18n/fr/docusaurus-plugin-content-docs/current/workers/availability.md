@@ -17,7 +17,7 @@ Préciser vos disponibilités est une tâche simple :
 :::tip Conseil de pro : Indiquez votre disponibilité pour plusieurs jours
 Parfois, votre disponibilité pour une période donnée est la même tous les jours. Au lieu de spécifier vos disponibilités jour par jour,
 vous pouvez spécifier vos disponibilités pour une plage de dates en tapant et en faisant glisser votre doigt pour sélectionner une plage de dates.
-:: :
+:::
 
 :::tip Conseil de pro : Copier / Coller vos disponibilités
 Une autre façon de gagner du temps est de copier vos disponibilités d'une période passée dans une nouvelle période.
