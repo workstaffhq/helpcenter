@@ -6,6 +6,8 @@ sidebar_position: 1
 Workstaff allows you to apply to open shifts your employer has published. New offer notifications are sent to you daily 
 around 3PM local time. If a work offer interests you, you can apply for it in a few seconds.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/8ad6749dac2f454b96d18aeb5f0a803c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Apply To Open Shifts And Offers
 
 You can easily scroll through new work offers and apply to them in the **Find Offers** tab.

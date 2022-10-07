@@ -6,6 +6,8 @@ sidebar_position: 4
 
 One of the first things you'll need to do after completing your profile is specifying your availabilities. This will help your manager easily book you on days you are free to work.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/cc7047905780432c9c8faef522eea0cd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## How To Specify Your Availability?
 
 Specifying your availability is a simple task:

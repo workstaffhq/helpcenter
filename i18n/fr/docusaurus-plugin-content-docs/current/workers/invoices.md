@@ -37,10 +37,10 @@ Si certains de vos quarts de travail n'apparaissent pas dans la section **Factur
 
 Une fois que vous avez effectué un quart de travail facturable, ce quart de travail, ainsi que tout autre quart de travail que vous avez effectué et qui peut également être facturé, sera listé tout en haut de la section de facturation.
 
-1. Tapez sur le bouton **+ Facture** à côté de l'horaire pour créer une facture en mode **Brouillon**
+1. Tapez sur le bouton **+ FACTURER** à côté de l'horaire pour créer une facture en mode **Brouillon**
 2. Vérifiez et/ou modifiez les informations de la facture. Vous pouvez toucher n'importe quelle ligne pour la modifier
 3. Vous pouvez également **Ajouter une ligne** pour ajouter toute ligne personnalisée non couverte par Workstaff
-4. Appuyez sur **Soumettre pour approbation** lorsque les informations sont correctes et que vous êtes prêt à soumettre votre facture.
+4. Appuyez sur **Envoyer** lorsque les informations sont correctes et que vous êtes prêt à soumettre votre facture.
 
 :::tip Conseil de pro
 Si vous avez travaillé sur plusieurs quarts de travail dans le même horaire, ils seront consolidés dans différentes lignes de la même facture. Si vous avez effectué plusieurs quarts de travail pour le même événement ou le même horaire, nous vous suggérons fortement **d'attendre d'avoir terminé tous les quarts avant de les facturer**.
@@ -50,9 +50,9 @@ Si vous avez travaillé sur plusieurs quarts de travail dans le même horaire, i
 
 Si vous avez soumis une facture, mais que vous devez la corriger, ou si votre employeur a demandé des corrections après que vous avez soumis une facture, vous devez la rappeler :
 
-1. Appuyez sur **Rappel** au bas de l'écran de la facture
+1. Appuyez sur **Annuler l'envoi** au bas de l'écran de la facture
 2. La facture revient en mode **Brouillon** et vous pouvez la modifier selon vos besoins
-3. Une fois vos modifications terminées, vous pouvez à nouveau **Soumettre pour approbation**
+3. Une fois vos modifications terminées, vous pouvez à nouveau **Envoyer**
 
 :::note
 Seules les factures qui n'ont pas encore été approuvées par votre employeur peuvent être rappelées. Une fois rappelée, une facture ne peut pas être supprimée et doit être annulée.

@@ -9,6 +9,8 @@ Une fois qu'un quart est terminé, on vous demandera de **Soumettre vos heures p
 
 Vous pouvez également accéder à vos feuilles de temps à soumettre en allant dans l'onglet **Profil**, puis en cliquant sur **Suivi des heures travaillées**.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/fa7bb1ba7bc1471db30cda413bc7ecee" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Soumettre une saisie de temps
 
 Vous avez la possibilité de soumettre vos heures juste après avoir quitté votre quart. Dans le cas où vous ne pouvez pas soumettre vos heures à ce moment,
@@ -16,7 +18,7 @@ vous pouvez accéder à toutes vos saisies de temps en allant sur l'onglet **Pro
 
 Une fois que vous avez cliqué sur **Soumettre tes heures** sur n'importe quelle entrée de temps, les heures **d'arrivée** et les heures de **départ** affichées par défaut sont les heures auxquelles vous avez pointé ou les heures de travail prévues si vous avez oublié de pointer.
 
-Assurez-vous que l'horaire, le temps de pause et la distance de déplacement (le cas échéant) sont corrects et appuyez sur **Soumettre**.
+Assurez-vous que l'horaire, le temps de pause et le temps de déplacement (le cas échéant) sont corrects et appuyez sur **Soumettre**.
 
 ## Processus d'approbation
 

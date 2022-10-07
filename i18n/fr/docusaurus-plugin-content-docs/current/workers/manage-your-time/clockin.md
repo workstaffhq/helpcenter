@@ -12,6 +12,8 @@ Le suivi du temps n'est pas disponible dans tous les plans de Workstaff. En fonc
 de pointer pour tous les quarts ou certains quarts.
 :::
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/a45299e764634c3bb4efd1b55001e8d0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Arrivée et départ
 
 Workstaff affichera les boutons "Débuter" et "Terminer" pour les quarts auxquels vous avez été affecté pour la journée en cours à quelques endroits :
@@ -24,7 +26,7 @@ Workstaff affichera les boutons "Débuter" et "Terminer" pour les quarts auxquel
 
 Lorsque vous pointez pour la première fois, l'application mobile vous demande l'autorisation d'accéder à votre position *pendant que vous utilisez l'application*.
 
-Workstaff ne saisit votre position qu'au moment où vous pointez et au moment où vous pointez. 
+Workstaff ne saisit votre position qu'au moment où vous pointez à votre arrivée et lors de votre départ. 
 **Workstaff ne suivra jamais votre position en d'autres occasions, et ne la suivra jamais activement**.
 
 De plus, vous pouvez décider de joindre ou non les données de localisation à vos [entrées de temps](./report-your-time.md) à votre employeur.
@@ -37,7 +39,7 @@ nous vous conseillons vivement d'activer la géolocalisation et d'inclure vos in
 
 ## Méthodes de suivi
 
-En fonction de la méthode de suivi du temps choisie par votre employeur, vous pouvez suivre votre temps de travail de plusieurs façons, énumérées ci-dessous.
+En fonction de la méthode de suivi du temps choisie par votre employeur, vous pouvez pointer vos heures de travail de plusieurs façons, énumérées ci-dessous.
 
 ### Pointer sans restriction
 Vous pourrez pointer vous-même en arrivant sur le lieu de travail, au début de votre quart.
