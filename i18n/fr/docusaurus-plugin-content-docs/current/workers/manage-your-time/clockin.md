@@ -13,6 +13,7 @@ de pointer pour tous les quarts ou certains quarts.
 :::
 
 <iframe width="640" height="307" src="https://www.loom.com/embed/a45299e764634c3bb4efd1b55001e8d0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Arrivée et départ
 
 Workstaff affichera les boutons "Débuter" et "Terminer" pour les quarts auxquels vous avez été affecté pour la journée en cours à quelques endroits :
