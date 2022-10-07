@@ -6,6 +6,8 @@ sidebar_position : 4
 
 L'une des premières choses que vous devrez faire après avoir rempli votre profil est de préciser vos disponibilités. Cela aidera votre gestionnaire à vous affecter facilement aux jours où vous êtes libre de travailler.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/5fcd7606a7d64f518f065284a76d976f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Comment préciser vos disponibilités ?
 
 Préciser vos disponibilités est une tâche simple :

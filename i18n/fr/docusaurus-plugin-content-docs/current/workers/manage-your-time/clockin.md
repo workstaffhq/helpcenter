@@ -12,6 +12,8 @@ Le suivi du temps n'est pas disponible dans tous les plans de Workstaff. En fonc
 de pointer pour tous les quarts ou certains quarts.
 :::
 
+<iframe width="608" height="1080" src="https://www.loom.com/embed/beae29b18d954f9e92a4d4a19863d650" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Arrivée et départ
 
 Workstaff affichera les boutons "Débuter" et "Terminer" pour les quarts auxquels vous avez été affecté pour la journée en cours à quelques endroits :

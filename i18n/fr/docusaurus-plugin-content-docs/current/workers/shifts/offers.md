@@ -6,6 +6,8 @@ sidebar_position : 1
 Workstaff vous permet de postuler aux quarts de travail ouverts que votre employeur a publiés. Les notifications de nouvelles offres vous sont envoyées quotidiennement
 vers 15 heures, heure locale. Si une offre de travail vous intéresse, vous pouvez y postuler en quelques secondes.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/b405394562264574bfc3380802222704" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Postuler aux quarts de travail ouverts et aux offres
 
 Vous pouvez facilement faire défiler les nouvelles offres de travail et postuler dans l'onglet **Opportunités**.
