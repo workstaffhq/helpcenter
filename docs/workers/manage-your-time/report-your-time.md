@@ -9,6 +9,8 @@ Once a shift is completed, you will be instructed to **Report your time on a pas
 
 You can also access your timesheets to submit by going to the **Profile** tab and then pressing on **Time Tracking**. 
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/74c60fbf4984483f8f664e2491a801c5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Submit a Time Entry
 
 You have an opportunity to submit your time right after you clock out of a shift. In case you can't submit the time at this moment,
@@ -17,7 +19,7 @@ you can access all of your time entries by going to the **Profile** tab and then
 Once you press **Submit Time** on any time entry, the default **Start Time** and **End Time** displayed are the times you 
 clocked in and out, or the planned work times if you forgot to clock in and out. 
 
-Make sure the schedule, break time and travel distance (if applicable) are correct and tap **Submit**. 
+Make sure the schedule, break time and travel time (if applicable) are correct and tap **Submit**. 
 
 ## Approval Process
 

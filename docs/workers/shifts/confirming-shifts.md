@@ -13,6 +13,8 @@ Is is important to respond to confirmation requests quickly. This will let your 
 know you're aware and committed, but it will also give them time to react should your availability change.   
 :::
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/ff852f43e6e544d0b47d70bff4606332" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 1. In the **Today** tab, scroll down to **Things To Do**
 2. Tap on **Confirm a future work schedule**
 3. **Confirm** or **Decline** the shift  

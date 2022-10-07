@@ -12,6 +12,8 @@ Time Tracking is not available on all Workstaff plans. Depending on your employe
 you to clock in to all or certain shifts.
 :::
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/40b56d51d7ad485daa205f73624da030" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Clock In and Out
 
 Workstaff will show Clock In and Clock Out buttons for shifts you're scheduled on the current day in a few locations:

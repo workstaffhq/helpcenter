@@ -16,7 +16,7 @@ vous pouvez accéder à toutes vos saisies de temps en allant sur l'onglet **Pro
 
 Une fois que vous avez cliqué sur **Soumettre tes heures** sur n'importe quelle entrée de temps, les heures **d'arrivée** et les heures de **départ** affichées par défaut sont les heures auxquelles vous avez pointé ou les heures de travail prévues si vous avez oublié de pointer.
 
-Assurez-vous que l'horaire, le temps de pause et la distance de déplacement (le cas échéant) sont corrects et appuyez sur **Soumettre**.
+Assurez-vous que l'horaire, le temps de pause et le temps de déplacement (le cas échéant) sont corrects et appuyez sur **Soumettre**.
 
 ## Processus d'approbation
 
