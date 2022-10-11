@@ -14,6 +14,7 @@ Vous pouvez profiter d’un essai gratuit du plan Pro de 14 jours que vous pouve
 ### Pour démarrer la période d’essai
 - Cliquez sur **Essai Pro GRATUIT** dans la partie supérieure droite de l’écran.
 - Cliquez ensuite sur **Essayer le plan Pro gratuitement pour 14 jours** ou sur **Essai gratuit 14 jours** dans la colonne **Pro**  
+
 Vous pouvez passer au plan Pro pendant ou au terme de votre période d’essai. 
 
 ### Pour passer au plan Pro
@@ -22,7 +23,8 @@ Vous pouvez passer au plan Pro pendant ou au terme de votre période d’essai.
 - Choisissez le nombre d’utilisateurs et cliquez sur **Procéder au paiement**
 - Entrez les informations de facturation
 - Entrez les informations relatives à votre carte de crédit
-- Vous serez facturé après les 14 jours d'essai
+
+Vous serez facturé après les 14 jours d'essai.
 
 Pour plus de détails sur les plans, visitez notre page [**Tarification**](https://workstaff.app/fr/pricing).
 

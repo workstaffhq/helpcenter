@@ -14,7 +14,8 @@ You can take advantage of a free 14-day trial of the Pro plan that you can start
 ### To start the 14-day trial
 - Click on **Try Pro for FREE** in the upper right hand corner of the screen to be redirected to the **Billing**.
 - Then click on **Try Pro FREE for 14 days** or **Try FREE for 14 days** in the **Pro** column  
- You can upgrade to the Pro plan during or after your 14-day trial. 
+ 
+You can upgrade to the Pro plan during or after your 14-day trial. 
 
 ### Upgrading to the Pro Plan 
 - Click on **Upgrade to Pro** in the upper right hand corner of the page
@@ -22,7 +23,8 @@ You can take advantage of a free 14-day trial of the Pro plan that you can start
 - Choose the number of users and click on **Proceed to Payment**
 - Enter your billing information
 - Enter your credit card information
-- You will be charged after the 14-day trial
+
+You will be charged after the 14-day trial.
 
 For more details on our plans, visit our [**Pricing**](https://workstaff.app/pricing) page.
 
