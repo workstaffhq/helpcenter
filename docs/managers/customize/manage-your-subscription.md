@@ -1,8 +1,3 @@
----
-titre : Manage Your Subscription
-sidebar_position :
----
-
 # Manage your subscription
 Once you have logged in to the platform, Workstaff allows you to manage your subscription yourself.
 To access your subscription information, go to the main **Settings** section, then to the **Billing** tab.

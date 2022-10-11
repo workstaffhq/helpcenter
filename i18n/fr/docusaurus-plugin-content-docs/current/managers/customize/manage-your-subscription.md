@@ -1,8 +1,3 @@
----
-titre : Gérer votre abonnement
-sidebar_position : 
----
-
 # Gérer votre abonnement
 Une fois connecté(e) à la plateforme, Workstaff vous permet de gérer votre abonnement vous-même.
 Afin d’accéder aux informations relatives à votre abonnement, rendez-vous dans la section principale **Paramètres**, puis dans l’onglet **Facturation**.
