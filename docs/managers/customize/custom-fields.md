@@ -1,4 +1,4 @@
-# Personalize staff profile fields
+# Personalize Staff Profile Fields
 
 Create custom fields to provide the most complete information to your staff profiles.
 
