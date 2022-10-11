@@ -1,4 +1,4 @@
-# Time tracking settings
+# Time Tracking Settings
 
 ## Setting Up Your Time Tracking Settings
 You can customize options related to tracking your team's time.
