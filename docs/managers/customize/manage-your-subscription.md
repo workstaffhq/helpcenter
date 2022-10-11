@@ -5,7 +5,7 @@ To access your subscription information, go to the main **Settings** section, th
 
 
 ## Upgrade to Pro
-When you sign up on Workstaff, your account is on the **Free plan** by default and gives you access to key features.
+When you first sign up on Workstaff, your account is on the **Free plan** by default and gives you access to key features.
 
 The **Pro plan** gives you access to all the key features as well as additional advanced productivity tools such as timesheets, invoices, integrated clock-in and clock-out, real-time staff attendance for each event, and much more!
 
