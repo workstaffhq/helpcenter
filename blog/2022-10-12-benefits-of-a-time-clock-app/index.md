@@ -51,5 +51,5 @@ The start and end times of staff shifts are automatically transcribed into times
 ### Use of Geolocation Data
 Workstaff provides access to the location of workers when they use the application. Their location is captured as they clock in and out and  helps build trust between employers and employees. Enabling this data is an optional option that each worker can choose to enable or not.
 
-To learn more about Workstaff, visit our [**website**](https://workstaff.app) and [**our documentation**](https://help.workstaff.app) about the different features.
+To learn more about Workstaff, visit our [**website**](https://workstaff.app) and our [**documentation**](https://help.workstaff.app) about the different features.
 

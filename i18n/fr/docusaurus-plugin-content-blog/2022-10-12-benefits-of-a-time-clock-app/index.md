@@ -50,5 +50,5 @@ Les heures de début et de fin des quarts de travail du personnel sont automatiq
 ### Utilisation des données de géolocalisation
 Workstaff permet d’accéder à la localisation des travailleurs lorsqu’ils utilisent l’application. Leur position est saisie au moment où ils pointent à leur arrivée et lors de leur départ. L’inclusion des données de géolocalisation aux entrées d’heures contribue à instaurer un climat de confiance entre employeurs et employés. L’activation dee ces données est une option facultative que chaque travailleur peut choisir d’activer ou non.
 
-Pour en savoir plus sur Workstaff, visitez notre [**site web**](https://workstaff.app/fr/) et [**notre documentation**](https://help.workstaff.app/fr/) à propos des fonctionnalités de la plateforme. 
+Pour en savoir plus sur Workstaff, visitez notre [**site web**](https://workstaff.app/fr/) et notre [**documentation**](https://help.workstaff.app/fr/) à propos des fonctionnalités de la plateforme. 
 
