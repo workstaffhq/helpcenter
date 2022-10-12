@@ -2,7 +2,7 @@
 slug: the-benefits-of-a-time-clock-app
 title: Les avantages d'une appli de pointage
 authors: [mrochette]
-tags: [industrie]
+tags: [gestion de temps]
 image: ./image.jpg
 keywords: [pointage, pointage des heures, pointage du personnel, suivi des heures]
 ---
