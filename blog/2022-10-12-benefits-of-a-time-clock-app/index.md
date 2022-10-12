@@ -11,6 +11,8 @@ keywords: [punch in, punch out, punch clock app, time clock app, punch in clock 
 
 Managing workforce time and attendance is an essential task that is supposed to be simple and efficient. In reality, it is often tedious and ironically wastes countless hours. Using a good clock in and out system has a myriad of benefits for both employers and their staff.
 
+<!--truncate-->
+
 Here are the key reasons why you should opt for a good punch clock app.
 
 ## Ensure Accurate Staff Clocking In & Out
