@@ -36,10 +36,10 @@ Workstaff allows your employees to clock in and out of a shift through different
 
 ### Customize your Clock In & Out Options
 The platform allows you to customize the options related to your team's time tracking.
-**Do not require timesheets**: by default, timesheets are mandatory for your staff. When this option is checked, timesheet submission will still be allowed, but will not be enforced and clock in reminders will be disabled
-**Unrestricted**: each employee can clock in and out by themselves, from their mobile phone, without any restriction
-**By QR code only**: clocking in requires staff to scan a QR code associated with the event.
-**By Team Leaders Only**: staff will be instructed to check in with team leaders that you have previously designated in the schedule to punch in and out of shifts.
+- **Do not require timesheets**: by default, timesheets are mandatory for your staff. When this option is checked, timesheet submission will still be allowed, but will not be enforced and clock in reminders will be disabled
+- **Unrestricted**: each employee can clock in and out by themselves, from their mobile phone, without any restriction
+- **By QR code only**: clocking in requires staff to scan a QR code associated with the event.
+- **By Team Leaders Only**: staff will be instructed to check in with team leaders that you have previously designated in the schedule to punch in and out of shifts.
 
 
 ### Real-time Attendance Tracking
