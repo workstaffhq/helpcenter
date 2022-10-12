@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3788],{9273:a=>{a.exports=JSON.parse('{"label":"time and attendance","permalink":"/blog/tags/time-and-attendance","allTagsPath":"/blog/tags","count":1}')}}]);
