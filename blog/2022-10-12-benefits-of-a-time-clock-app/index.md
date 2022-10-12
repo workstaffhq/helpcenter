@@ -2,7 +2,7 @@
 slug: the-benefits-of-a-time-clock-app
 title: The Benefits of a Time Clock App
 authors: [mrochette]
-tags: [industrie]
+tags: [industry]
 image: ./image.jpg
 keywords: [punch in, punch out, punch clock app, time clock app, punch in clock app, timesheet mobile app]
 ---
