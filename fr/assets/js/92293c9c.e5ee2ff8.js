@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6918],{2249:e=>{e.exports=JSON.parse('[{"label":"industrie","permalink":"/fr/blog/tags/industrie","count":4},{"label":"nouvelles","permalink":"/fr/blog/tags/nouvelles","count":1},{"label":"nouveaut\xe9s","permalink":"/fr/blog/tags/nouveautes","count":1}]')}}]);
