@@ -41,5 +41,7 @@ By default, Workstaff will request invoices for remunerated shifts of contractor
 ## Users
 The **Users** section allows you to manage who can access your Workstaff account. You can overview your active and inactive users, add and delete users to your account based on your organization's needs.
 
+See [**Manage Your Subscription**](https://help.workstaff.app/docs/managers/customize/manage-your-subscription/) for more details on how to manage users. 
+
 ## Departments
 You can split your Workstaff activity into multiple independent data silos to mimic your organization structure. Creating departments allows you to divide your staff and schedules in order to facilitate your operations. 

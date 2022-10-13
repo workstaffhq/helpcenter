@@ -43,4 +43,5 @@ La section **Utilisateurs** vous permet de gérer qui peut accéder à votre com
 
 ## Départements
 Vous pouvez scinder vos activités Workstaff en plusieurs sections pour refléter votre structure organisationnelle. La création de départements vous permet de diviser votre personnel et vos horaires afin de faciliter vos opérations.
-Traduit avec www.DeepL.com/Translator (version gratuite)
+
+Voir [**Gérez votre abonnement**](https://help.workstaff.app/fr/docs/managers/customize/manage-your-subscription/) pour plus de détails sur la gestion des utilisateurs. 

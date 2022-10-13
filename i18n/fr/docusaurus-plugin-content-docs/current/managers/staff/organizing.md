@@ -8,7 +8,7 @@ Une fois que vous avez créé un profil pour chaque travailleur, Workstaff vous 
 
 
 ## Départements
-Si vous faites partie d'une organisation complexe et que vous avez besoin de créer des calendriers distincts et des équipes différentes, vous pouvez créer des départements afin de diviser votre activité Workstaff en sections de données indépendantes qui imitent votre structure organisationnelle.
+Si vous faites partie d'une organisation complexe et que vous avez besoin de créer des calendriers distincts et des équipes différentes, vous pouvez créer des départements afin de diviser votre activité Workstaff en sections de données indépendantes qui reflètent votre structure organisationnelle.
 
 
 Les départements ne peuvent pas encore être modifiés en libre-service. Contactez-nous si vous souhaitez que des changements soient apportés à votre structure organisationnelle.
@@ -19,7 +19,7 @@ Vous pouvez créer des étiquettes et les associer aux profils de votre personne
 Pour créer des étiquettes :
 1. Dans le menu principal, allez dans la section **Paramètres**.
 2. Allez dans la section **Étiquettes**.
-3. Dans l'onglet texte en bas de la liste, tapez le nom de votre tag et cliquez sur **Ajouter**.
+3. Dans l'onglet texte en bas de la liste, tapez le nom de votre étiquette et cliquez sur **Ajouter**.
 
 Une fois les étiquettes créées, vous pouvez les associer aux profils de vos employés.
 
@@ -27,7 +27,7 @@ Une fois les étiquettes créées, vous pouvez les associer aux profils de vos e
 **[Créer des compétences](../customize/skills.md)** est essentiel pour ajouter des quarts, rechercher et réserver du personnel.   
 Lors de la création d'un quart, les compétences que vous avez associées à chaque profil vous permettent de sélectionner le personnel dans une liste de suggestions de candidats dont les compétences correspondent au poste.    
 :::note
-Vos employés peuvent ajouter des compétences à leur profil sur l'application mobile. Ces compétences apparaîtront comme des suggestions que vous pourrez choisir de conserver lors de la sélection des compétences dans leur profil.
+Vos employés peuvent ajouter des compétences à leur profil sur l'application mobile. De votre côté, ces compétences apparaîtront comme des suggestions que vous pourrez choisir de conserver lors de la sélection des compétences dans leur profil.
 :::
 
 ## Notation par étoiles
