@@ -39,7 +39,14 @@ Vous pourrez alors rechercher des travailleurs spécifiques en utilisant la barr
 ### Sélectionner le personnel sans l’affecter à des quarts
 Si vous souhaitez dresser une liste du personnel qui travaillera sur votre projet sans l'affecter à un poste spécifique, vous pouvez également cliquer sur **+** dans l'organiseur **Candidats** pour l'ajouter à votre liste de candidats que vous pourrez réserver ultérieurement.
 
-### Développer et réduire les affectations
+## Choisir un chef d'équipe 
+Une fois que vous avez affecté une personne à un quart, vous pouvez choisir d'en faire un chef d'équipe. 
+1. Sélectionnez l'affectation de la personne en cliquant sur la bulle de sa photo ou sur son nom dans le quart
+2. Cliquez sur l'icône de crayon **Modifier**
+![Chef.png](Images/Chef.png)
+3. Cochez **Chef d'équipe** et cliquez sur **Ok**.
+
+## Développer et réduire les affectations
 Lorsque vous inscrivez un grand nombre de personnes sur un projet, Workstaff réduit automatiquement les détails des affectations.
 Vous pouvez librement développer et réduire les détails de toutes vos équipes en cliquant sur l'icône **Développer/Réduire** en haut à droite de la page du projet.
 Vous pouvez également développer et réduire les détails de chaque affectation en plaçant votre curseur sur celle-ci et en cliquant sur l'icône **Développer/Réduire**.

@@ -37,7 +37,15 @@ You will then be able to search for specific staff using the search bar and the 
 ### Selecting Staff Without Booking Them Yet
 If you wish to make a list of the staff that will work on your project without booking them on any specific shift yet, you can also click on **+** in the **Candidates** organizer to add them top your list of candidates you can later book.
 
-### Expand and Collapse Bookings
+## Choosing a Team Leader
+Once you have booked someone for a shift, you can choose to make them a Team Leader.
+1. Select the person's booking by clicking on their photo bubble or their name in the shift
+2. Click on the pencil icon **Edit**
+
+![teamlead.png](Images/teamlead.png)
+3. Check off **Team Leader** and click **Ok**.
+
+## Expand and Collapse Bookings
 When you book a large amount of people on a project, Workstaff automatically collapses the shifts' details. 
 You can freely expand and collapse the details of all your shifts by clicking on the **Expand/Collapse** icon on the top right of the project page. 
 You can also expand and collapse the details of each shift by placing your cursor on it and clicking on the **Expand/Collapse** icon.  
