@@ -10,8 +10,8 @@ Une fois que vous avez créé vos équipes, Workstaff vous permet d'affecter du 
 
 ## Affecter du personnel à partir de votre liste de suggestions
 Workstaff vous permet de sélectionner du personnel à partir d'une liste de suggestions basée sur les compétences, la disponibilité et les notes de chaque profil.
-1. Sur la page du projet, sélectionnez le quart et cliquez sur **Affecter du personnel**.
-2. Sélectionnez le personnel que vous souhaitez réserver dans la liste de suggestions.
+1. Sur la page du projet, sélectionnez le quart et cliquez sur **Affecter du personnel**
+2. Sélectionnez le personnel que vous souhaitez réserver dans la liste de suggestions
 3. Cliquez sur **Affecter X personnes**.
 
 ## Affecter du personnel à l'aide de l'Organiseur de candidats

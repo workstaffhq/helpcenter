@@ -7,6 +7,8 @@ En tant qu'employeur, cette fonctionnalité vous permet de suivre le temps de vo
 ## Options de pointage d'entrée et de sortie
 Vous pouvez personnaliser vos préférences en matière de **Suivi du temps** dans les [**paramètres**](../customize/account.md).   
 Vos employés pourront alors pointer et en sortie de quart depuis leur téléphone portable.  
+
+
 Une fois que vos employés ont pointé au début et à la fin d'un quart, ils sont invités à **[soumettre une feuille de temps](./submissions.md)** que vous pourrez ensuite examiner et approuver.
 
 ## Suivi du temps en direct

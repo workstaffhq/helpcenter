@@ -8,10 +8,10 @@ Workstaff vous permet d'afficher des postes, ce qui signifie essentiellement que
 <iframe width="640" height="307" src="https://www.loom.com/embed/d09328b5769d4537a01a8a94ac8a8582" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ## Affichage d'un poste
-1. Sur la page du projet, allez à **Affichage**.
+1. Sur la page du projet, allez à **Affichage**
 2. Sélectionnez le poste que vous souhaitez publier
 3. Sous **Options d'affichage**, vous pouvez sélectionner si vous souhaitez afficher le poste :
-- **à tout mon personnel disponible ayant la compétence correspondante** : vous pouvez utiliser les filtres pour affiner votre recherche.
+- **à tout mon personnel disponible ayant la compétence correspondante** : vous pouvez utiliser les filtres pour affiner votre recherche
 - **à des personnes spécifiques** : vous pouvez sélectionner le personnel auquel vous souhaitez envoyer l'offre
 4. Allez dans la rubrique **Notes au personnel** pour ajouter toute information supplémentaire que les candidats peuvent lire à l'ouverture de l'offre
 5. Cliquez sur **Afficher**.

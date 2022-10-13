@@ -7,7 +7,7 @@ Une fois que vos employés ont pointé au début et à la fin d'un quart, ils so
 ## Feuilles de temps
 Vous pouvez facilement visualiser les feuilles de temps soumises par votre personnel en allant dans la section **Suivi du temps** du menu principal.
 Cette section vous permet de filtrer les feuilles de temps de la manière suivante :
-- **Tout** : Affiche toutes les feuilles de temps à venir, en attente et approuvées
+- **Tout** : affiche toutes les feuilles de temps à venir, en attente et approuvées
 - **En attente de saisie** : affiche uniquement les feuilles de temps que votre personnel n'a pas encore soumises
 - **À approuver** : affiche toutes les feuilles de temps soumises par votre personnel.
 

@@ -18,7 +18,7 @@ Pour envoyer une diffusion à votre personnel :
 
 1. Ouvrez le tiroir **Messagerie** en haut à droite de l'interface utilisateur principale de Workstaff.
 2. Cliquez sur l'onglet **Diffusions**.
-3. Cliquez sur **+**.
+3. Cliquez sur `+`.
 4. Sélectionnez les destinataires dans le champ `À :`. Vous pouvez également ajouter plusieurs (ou tous) travailleurs en utilisant l'icône de recherche.
 5. Indiquez un sujet et composez le corps de la diffusion, puis cliquez sur *Envoyer*.
 
