@@ -26,7 +26,8 @@ In this tab, you can see at a glance the **Candidates** that have applied for po
 4. Select the position and the shift(s) you wish to book the candidate for
 5. Click on **Book**  
    If you are not interested in an application, you can click on **Put aside** next the candidate’s name. You can later decide to move the staff you’ve put aside back to the list of Candidates by clicking on **Keep** next to their name.  
-   ![img_4.png](Images/img_4.png)
+
+![img_4.png](Images/img_4.png)
 
 
 ### Booking Staff That Does Not Appear in The Suggestions

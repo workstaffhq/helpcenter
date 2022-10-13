@@ -43,6 +43,7 @@ Si vous souhaitez dresser une liste du personnel qui travaillera sur votre proje
 Une fois que vous avez affecté une personne à un quart, vous pouvez choisir d'en faire un chef d'équipe. 
 1. Sélectionnez l'affectation de la personne en cliquant sur la bulle de sa photo ou sur son nom dans le quart
 2. Cliquez sur l'icône de crayon **Modifier**
+
 ![Chef.png](Images/Chef.png)
 3. Cochez **Chef d'équipe** et cliquez sur **Ok**.
 

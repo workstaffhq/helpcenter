@@ -21,7 +21,7 @@ Sélectionnez le **Fuseau horaire** de votre organisation et votre **Quartier g�
 3.  Le **Statut d'emploi** (Travailleur autonome / Pigiste, Salarié, Bénévole) que vous sélectionnez sera ajouté à tous les nouveaux profils de personnel. Vous pouvez toujours sélectionner un statut pour chaque membre du personnel en le modifiant directement dans son profil.
 
 ### Suivi du temps
-Vous pouvez personnaliser les options liées au suivi du temps de votre équipe.
+Vous pouvez personnaliser les [**options liées au suivi du temps**](timetracking-settings.md) de votre équipe.
 - **Ne pas exiger de feuille de temps au personnel** : par défaut, les feuilles de temps sont obligatoires pour le personnel. Lorsque cette option est cochée, la soumission des feuilles de temps sera toujours autorisée, mais ne sera pas imposée et les rappels de pointage seront désactivés.
 - **Sans restriction** : chaque employé peut pointer lui-même depuis son téléphone mobile, sans aucune restriction.
 - **Par code QR seulement** : le pointage nécessite que le personnel scanne un code QR associé à l'événement.
