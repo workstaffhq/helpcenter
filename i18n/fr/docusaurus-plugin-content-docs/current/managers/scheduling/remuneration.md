@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Primes et rémunération
 
 Workstaff vous permet de créer vos propres primes que vous pourrez ensuite ajouter aux conditions de rémunération de vos projets, si nécessaire.

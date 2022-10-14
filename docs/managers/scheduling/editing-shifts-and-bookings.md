@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Editing Shifts and Bookings
 
 On the project page, there are ways for you to easily edit multiple shifts or multiple bookings at once.
