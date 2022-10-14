@@ -13,6 +13,8 @@ status as an Autonomous Worker / Contractor.
 Once you have submitted your hours, and these hours have been approved, Workstaff allows you to quickly and effortlessly 
 create and send invoices to your employer.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/c81126a8c23a46658e8a8fe5767941dc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Accessing Your Invoices
 
 All the tools required to manage your invoices are located in the **Invoicing** section. You can access that section in a few ways:

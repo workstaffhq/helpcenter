@@ -11,6 +11,8 @@ Workstaff vous proposera de facturer vos heures travaillées que si votre employ
 
 Une fois que vous avez soumis vos heures, et que ces heures ont été approuvées, Workstaff vous permet de créer et d'envoyer des factures à votre employeur rapidement et sans effort.
 
+<iframe width="640" height="360" src="https://www.loom.com/embed/7358acf2f3474454a6a846603cc8c6a8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Accéder à vos factures
 
 Tous les outils nécessaires à la gestion de vos factures se trouvent dans la section **Facturation**. Vous pouvez accéder à cette section de plusieurs façons :
