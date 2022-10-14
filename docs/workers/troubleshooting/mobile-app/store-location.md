@@ -2,7 +2,7 @@
 title: I Cannot Download the Mobile App
 ---
 
-# I can't find the mobile app in the App Store or Play Store. What Should I Do?
+# The Mobile App Does Not Appear in the App Store or Play Store. What Can I Do?
 
 ## Problem
 
