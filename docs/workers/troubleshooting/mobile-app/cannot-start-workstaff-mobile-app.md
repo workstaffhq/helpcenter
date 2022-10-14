@@ -1,5 +1,5 @@
 ---
-title: The app does not start or appears frozen
+title: The App Does Not Start or Appears Frozen
 ---
 # The Workstaff mobile app will not start on my phone, what can I do?
 
