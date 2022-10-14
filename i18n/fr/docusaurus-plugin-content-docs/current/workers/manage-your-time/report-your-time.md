@@ -28,4 +28,4 @@ décider de corriger vos heures, auquel cas la correction sera affichée dans vo
 ## Facturez vos heures
 
 Si vous êtes un travailleur autonome ou un entrepreneur et que votre employeur a un plan Workstaff qui autorise les factures, vous pourrez
-[créer une facture](../invoices.md) pour vos heures approuvées directement depuis l'application mobile, du bout de vos doigts. 
+[**créer une facture**](../invoices.md) pour vos heures approuvées directement depuis l'application mobile, du bout de vos doigts. 

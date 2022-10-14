@@ -15,15 +15,15 @@ Si c'est votre cas, suivez ces instructions :
 
 ### Pour Android
 
-1. Assurez-vous que [la plus récente version](https://play.google.com/store/apps/details?id=app.workstaff) de l'application mobile Workstaff est installée sur votre téléphone.
-2. Assurez-vous qu'Android 5 ou une version ultérieure est installé sur votre téléphone.
+1. Assurez-vous que [**la plus récente version**](https://play.google.com/store/apps/details?id=app.workstaff) de l'application mobile Workstaff est installée sur votre téléphone
+2. Assurez-vous qu'Android 5 ou une version ultérieure est installé sur votre téléphone
 3. Arrêtez / fermez l'application Workstaff
-4. [Effacez les données de l'application](./clear-workstaff-mobile-app-data.md)
+4. [**Effacez les données de l'application**](./clear-workstaff-mobile-app-data.md).
 
 
 ### Pour iOS
 
-1. Assurez-vous que la dernière version de l'application mobile Workstaff est installée sur votre téléphone.
-2. Assurez-vous qu'iOS 12 ou une version ultérieure est installée sur votre appareil.
-3. Désinstallez l'appli en touchant et en maintenant l'icône de l'appli sur l'écran principal de votre téléphone, puis en sélectionnant **Supprimer l'appli**.
-4. Réinstallez l'application depuis le [App Store](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).
+1. Assurez-vous que la dernière version de l'application mobile Workstaff est installée sur votre téléphone
+2. Assurez-vous qu'iOS 12 ou une version ultérieure est installée sur votre appareil
+3. Désinstallez l'appli en touchant et en maintenant l'icône de l'appli sur l'écran principal de votre téléphone, puis en sélectionnant **Supprimer l'appli**
+4. Réinstallez l'application depuis le [**App Store**](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).

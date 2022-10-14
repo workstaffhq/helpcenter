@@ -14,10 +14,10 @@ que vous êtes conscient et engagé, mais aussi que vous avez le temps de réagi
 
 <iframe width="640" height="360" src="https://www.loom.com/embed/48b7710c41984901adcc751a7a83e646" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-1. Dans l'onglet **Aujourd'hui**, faites défiler vers le bas jusqu'à **Choses à faire**.
-2. Tapez sur **Confirmer un futur quart de travail**.
-3. **Confirmez** ou **Refusez** le quart. 
-4. **Envoyez la confirmation** à votre responsable
+1. Dans l'onglet **Aujourd'hui**, faites défiler vers le bas jusqu'à **Choses à faire**
+2. Tapez sur **Confirmer un futur quart de travail**
+3. **Confirmez** ou **Refusez** le quart
+4. **Envoyez la confirmation** à votre responsable.
 
 ## Et si je change d'avis ?
 

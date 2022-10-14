@@ -12,9 +12,9 @@ le lieu enregistré dans le profil du travailleur était trop importante. Par d�
 
 Ce problème est généralement résolu en modifiant la ville de résidence dans votre profil.
 
-1. Ouvrez votre application et allez dans l'onglet **Profil**.
-2. Tapez sur votre nom.
-3. Tapez sur **Informations de base**.
+1. Ouvrez votre application et allez dans l'onglet **Profil**
+2. Tapez sur votre nom
+3. Tapez sur **Informations de base**
 4. Changez la **Ville de résidence** par la ville la plus proche des quarts de travail que vous recherchez.
 
 ## Aucune compétence associée au profil

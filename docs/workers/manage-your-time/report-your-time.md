@@ -29,4 +29,4 @@ decide to correct your time, in which case the correction will be displayed in y
 ## Invoice Your Hours
 
 If you are an Autonomous Worker or Contractor and your employer is on a Workstaff plan that allows invoices, you will be able to 
-[create an invoice](../invoices.md) for your approved hours right from the mobile app in a single tap. 
+[**create an invoice**](../invoices.md) for your approved hours right from the mobile app in a single tap. 

@@ -20,7 +20,7 @@ Workstaff will show Clock In and Clock Out buttons for shifts you're scheduled o
 
 - On the **Today** page
 - In your agenda, inside the details of a shift
-- Within a small slide in drawer that appears at the bottom of main screen in any tab except **Today**
+- Within a small slide in drawer that appears at the bottom of main screen in any tab except **Today**.
 
 ## About Geolocation 
 
@@ -30,7 +30,7 @@ Workstaff only captures your location at the time you punch in and at the time y
 track your location in any other occasion, and will never actively track your location.**
 
 Moreover, you have full control on whether you attach the location data to the 
-[time entries you submit](./report-your-time.md) to your employer.
+[**time entries you submit**](./report-your-time.md) to your employer.
 
 :::tip Pro Tip
 Including your location data with your time entries really helps build trust with your employer, and it certifies you were
@@ -61,5 +61,5 @@ In this case, you will be instructed to go see a team lead in person so they can
 If you are a team lead on a project, you can clock your teammates in and out by following these steps: 
 1. In the **Today** tab, tap on **Track Time** 
 2. At the beginning of the shift, when your teammates come to you, tap on **Clock In** next to their name
-3. At the end of their shift, tap on **Clock out** next to their name.
+3. At the end of their shift, tap on **Clock out** next to their name
 4. You can then submit their time entry at this very moment, or wait later.

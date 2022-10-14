@@ -12,9 +12,9 @@ One of the first things you'll need to do after completing your profile is speci
 
 Specifying your availability is a simple task:
 
-1. Go to the **Profile** tab and tap on **My Availability**. You can also provide your availability from any day of the **Agenda**.
+1. Go to the **Profile** tab and tap on **My Availability**. You can also provide your availability from any day of the **Agenda**
 2. Select a date and specify whether you are available or not
-3. If you are available, select whether you are available **All Day**, during **Specific Periods** or during **Specific Times**
+3. If you are available, select whether you are available **All Day**, during **Specific Periods** or during **Specific Times**.
 
 :::tip Pro Tip: Specify your availability for many days
 Sometimes your availability for a certain period is the same every day. Instead of specifying your availability day by day, 
@@ -32,7 +32,7 @@ Once you have specified your availability on certain dates, these dates will be 
 
 - Green: Available
 - Yellow: Partially Available
-- Red: Not Available 
+- Red: Not Available.
 
 ## Set Your Availability Regularly
 

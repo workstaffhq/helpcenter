@@ -9,14 +9,14 @@ Dans certaines circonstances, vous pouvez avoir besoin d'effacer toutes les donn
 
 Pour réinitialiser les données de Workstaff sur Android :
 
-1. Assurez-vous que l'application mobile Workstaff est fermée.
-2. Ouvrez l'application **Settings** sur votre téléphone.
-3. Sélectionnez **Applications et notifications**.
-4. Sélectionnez **Workstaff** sous **Applications récentes**.
-5. Sélectionnez **Stockage et mise en cache**.
-6. Cliquez sur le bouton **Réinitialiser les données**.
+1. Assurez-vous que l'application mobile Workstaff est fermée
+2. Ouvrez l'application **Settings** sur votre téléphone
+3. Sélectionnez **Applications et notifications**
+4. Sélectionnez **Workstaff** sous **Applications récentes**
+5. Sélectionnez **Stockage et mise en cache**
+6. Cliquez sur le bouton **Réinitialiser les données**
 7. Lancez Workstaff et l'écran de connexion devrait s'afficher, ce qui signifie que vos données ont été correctement réinitialisées.
 
 ### Pour iOS / iPhone ?
 
-iOS / iPhone ne permet pas d'effacer uniquement les données de l'appli Workstaff. Vous devez donc supprimer l'application et la réinstaller depuis l'[App Store](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).
+iOS / iPhone ne permet pas d'effacer uniquement les données de l'appli Workstaff. Vous devez donc supprimer l'application et la réinstaller depuis l'[**App Store**](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).
