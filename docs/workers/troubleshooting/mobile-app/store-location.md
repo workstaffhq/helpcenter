@@ -18,4 +18,4 @@ The **Workstaff mobile app** is available on the App Store and Play Store in the
 - Canada
 - United States
 - France
-- Belgium
+- Belgium.
