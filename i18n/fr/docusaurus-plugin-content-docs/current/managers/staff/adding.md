@@ -5,11 +5,11 @@ sidebar_position : 1
 
 # Ajouter du personnel de votre équipe
 
-L'une des premières choses que vous devrez faire lorsque vous démarrez avec Workstaff est de créer un profil pour chaque travailleur que vous allez gérer au sein de la plateforme.
+L'une des premières choses que vous devez faire lorsque vous démarrez avec Workstaff est de créer un profil pour chaque travailleur que vous allez gérer au sein de la plateforme.
 
-Si vous gérez une grande équipe ou faites partie d'une organisation complexe, vous n'avez pas besoin d'ajouter tout le monde pour commencer avec Workstaff. En fait, nous suggérons généralement aux organisations qui rejoignent Workstaff de commencer par un sous-ensemble de leur personnel (une équipe, un département ou un projet spécifique) et d'ajouter progressivement d'autres employés au fur et à mesure qu'ils se familiarisent avec l'outil et le comprennent mieux.
+Si vous gérez une grande équipe ou faites partie d'une organisation complexe, vous n'avez pas besoin d'ajouter tout le monde pour commencer avec Workstaff. Nous suggérons généralement aux organisations qui rejoignent Workstaff de commencer par un sous-ensemble de leur personnel (une équipe, un département ou un projet spécifique) et d'ajouter progressivement d'autres employés au fur et à mesure qu'ils se familiarisent avec l'outil et le comprennent mieux.
 
-Si l'adoption de Workstaff par petites étapes n'est pas une option pour votre organisation, notre équipe de Réussite Client peut vous aider à planifier votre transition, et nous avons même l'option d'importer des lots de personnel à partir d'une base de données que vous fournissez.
+Si l'adoption de Workstaff par petites étapes n'est pas une option pour votre organisation, notre équipe de Réussite Client peut vous aider à planifier votre transition, et nous avons même l'option d'importer des lots de personnel à partir d'une base de données que vous nous fournissez.
 
 <iframe width="640" height="307" src="https://www.loom.com/embed/088eca0f78f34fde99882b8c65525b96" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -32,4 +32,4 @@ Lorsque le numéro de téléphone d'un membre du personnel est situé en dehors 
 
 Vous pouvez, en option, envoyer des courriels d'invitation automatiques au personnel que vous invitez. L'email envoyé par Workstaff contiendra des instructions pour installer l'application mobile, et inclura une marque de votre organisation (comme le logo).
 
-Pour envoyer des invitations, sélectionnez **Envoyer les instructions pour installer l'app mobile** avant de créer les profils. Lorsque cette option est sélectionnée, au moins une adresse électronique doit être fournie pour chaque employé.
+Pour envoyer des invitations, sélectionnez **Envoyer les instructions pour installer l'app mobile** avant de créer les profils. Lorsque cette option est sélectionnée, une adresse électronique doit au moins être fournie pour chaque employé.

@@ -20,7 +20,7 @@ To send a broadcast to your staff:
 
 1. Open the **Messaging** drawer on the top right hand side of the main Workstaff user interface.
 2. Click on the **Broadcasts** tab
-3. Click on +
+3. Click on `+`
 4. Select recipients in the `To:` field. You can also add many (or all) staff using the magnifying glass / search icon.
 5. Provide a subject and compose the broadcast body, then click *Send*
 

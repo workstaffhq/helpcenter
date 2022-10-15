@@ -14,5 +14,5 @@ Veiller à ce que votre compte Workstaff est prêt pour la facturation est simpl
 En plus de s'assurer qu'une **Adresse de facturation** est inscrite sur votre compte, les conditions suivantes doivent être remplies pour qu’un quart de travail donné soit facturable par l'un de vos employés :
 
 1. Le personnel qui a travaillé sur un quart doit avoir un statut d'emploi de **Travailleur autonome / Pigiste**.
-2. Le quart en question doit être rémunérée (voir l'onglet **Rémunération** du projet pour confirmer la rémunération des quarts).
+2. Le quart en question doit être rémunéré (voir l'onglet **Rémunération** du projet pour confirmer la rémunération des quarts).
 3. Une feuille de temps doit avoir été soumise **et approuvée** pour ce quart de travail.

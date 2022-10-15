@@ -14,7 +14,7 @@ Préciser vos disponibilités est une tâche simple :
 
 1. Allez dans l'onglet **Profil** et tapez sur **Mes disponibilités**. Vous pouvez également indiquer vos disponibilités à partir de n'importe quel jour de l'**Agenda**
 2. Sélectionnez une date et précisez si vous êtes disponible ou non
-3. Si vous êtes disponible, sélectionnez si vous êtes disponible **Toute la journée**, pendant des **Périodes spécifiques** ou pendant des **Heures spécifiques**
+3. Si vous êtes disponible, sélectionnez si vous êtes disponible **Toute la journée**, pendant des **Périodes spécifiques** ou pendant des **Heures spécifiques**.
 
 :::tip Conseil de pro : Indiquez votre disponibilité pour plusieurs jours
 Parfois, votre disponibilité pour une période donnée est la même tous les jours. Au lieu de spécifier vos disponibilités jour par jour,

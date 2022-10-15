@@ -23,14 +23,13 @@ Une fois que vous aurez soumis votre candidature, l'organisateur de l'événemen
 Si vous avez mis une offre de côté par inadvertance en consultant la liste et qu'elle a disparu de la liste **Nouvelles**, vous pouvez toujours la trouver sous l'onglet **Mises de côté**.
 :::
 
-## Offres auxquelles vous avez postulé
+## Offres pour lesquelles vous avez postulé
 
-Une fois que vous avez postulé à une offre de travail, ses quarts apparaîtront dans votre agenda principal en tant qu'éléments avec le statut **Appliqué**.
-(points et cartes jaunes).
+Une fois que vous avez postulé pour une offre de travail, les quarts apparaîtront dans votre agenda principal en tant qu'éléments avec le statut **Appliqué** (points et cartes jaunes).
 
-Vous pouvez également voir une liste de toutes les offres actives auxquelles vous avez postulé en allant sur l'onglet **Appliquées** dans la section principale **Opportunités**.
+Vous pouvez également voir une liste de toutes les offres actives pour lesquelles vous avez postulé en allant sur l'onglet **Appliquées** dans la section principale **Opportunités**.
 
 Lorsque vous ouvrez une candidature, vous pouvez :
 
-- **Retirer votre candidature** si vous avez changé d'avis ou si vous n'êtes plus disponible pour ce travail.
+- **Retirer votre candidature** si vous avez changé d'avis ou si vous n'êtes plus disponible pour ce travail
 - **Contacter l'organisateur** si vous avez des questions concernant l'offre.

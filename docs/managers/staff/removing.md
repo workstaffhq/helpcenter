@@ -30,7 +30,7 @@ To make a profile inactive:
 
 ### Reactivate an Inactive Profile
 
-You can reactivate an inactive profile at any time. To find an inactive profile, either use the Search Everywhere tool,
+You can reactivate an inactive profile at any time. To find an inactive profile, either use the Search Anything tool,
 or select the option to **Show** inactive profiles in the main **Staff** section: 
 
 ![Show inactive profiles](images/show-inactives.png)

@@ -13,7 +13,7 @@ Le tiroir du profil du personnel est aussi généralement accessible en cliquant
 
 ![Informations de contact](./Images/staff-profile.png)
 
-Workstaff permet de modifier les informations personnelles du personnel (telles que le nom, la date de naissance, le lieu) des profils [non réclamés](#profils-réclamés-et-non-réclamés) Pour modifier ces informations, cliquez sur le bouton stylo à côté du nom du personnel.
+Workstaff permet de modifier les informations personnelles du personnel (telles que le nom, la date de naissance, la ville de résidence) des profils [**non réclamés**](#profils-réclamés-et-non-réclamés) Pour modifier ces informations, cliquez sur le bouton stylo à côté du nom du personnel.
 
 ## Notation par étoiles
 
@@ -21,11 +21,11 @@ Vous pouvez noter chaque employé sur une échelle de 5 étoiles. Cette informat
 
 ## Étiquettes
 
-Les étiquettes sont de simples libellés qui peuvent être associés à chaque profil. Elles sont principalement utilisées pour [classer](./organizing.md) votre personnel et faciliter la [recherche](./search.md) dans votre base de données.
+Les étiquettes sont de simples libellés qui peuvent être associés à chaque profil. Elles sont principalement utilisées pour [**classer**](./organizing.md) votre personnel et faciliter la [**recherche**](./search.md) dans votre base de données.
 
 ## Champs personnalisés (Pro uniquement)
 
-Chaque [champ personnalisé](../customize/custom-fields.md) que vous avez défini dans les paramètres de votre compte sera répertorié sur le profil du personnel afin que les valeurs réelles puissent être fournies.
+Chaque [**champ personnalisé**](../customize/custom-fields.md) que vous avez défini dans les paramètres de votre compte sera répertorié sur le profil du personnel afin que les valeurs réelles puissent être fournies.
 
 Ces informations ne peuvent pas être modifiées par le personnel.
 
@@ -35,11 +35,11 @@ Chaque membre du personnel peut fournir un ensemble de compétences qui lui sont
 
 Le panneau **Compétences** vous permet de sélectionner un ensemble de compétences que vous considérez comme valables pour chaque employé. Toutes les compétences fournies par le personnel dans son profil seront affichées sous forme de suggestions, que vous êtes libre de conserver ou non. Vous pouvez également ajouter toute autre compétence si nécessaire.
 
-Il est essentiel que les bonnes compétences soient associées à chaque personnel pour utiliser Workstaff efficacement. Voir [Organiser et classer votre personnel](./organizing.md) pour plus de détails.
+Il est essentiel que les bonnes compétences soient associées à chaque membre du personnel pour utiliser Workstaff efficacement. Voir [**Organiser et classer votre personnel**](./organizing.md) pour plus de détails.
 
 ## Détails supplémentaires
 
-Les sections **À propos**, **Langues parlées**, **Expériences professionnelles** et **Transport** peuvent être remplies par les travailleurs directement dans l'application mobile une fois qu'ils ont [réclamé](#profils-réclamés-et-non-réclamés) leur compte.
+Les sections **À propos**, **Langues parlées**, **Expériences professionnelles** et **Transport** peuvent être remplies par les travailleurs directement dans l'application mobile une fois qu'ils ont [**réclamé**](#profils-réclamés-et-non-réclamés) leur compte.
 
 ## Informations de contact
 
@@ -49,7 +49,7 @@ Une fois qu'un profil a été réclamé par un travailleur, lui seul peut modifi
 
 ## Détails de l'emploi
 
-### Etat (actif/inactif)
+### État (actif/inactif)
 
 Il peut arriver que vous ayez besoin de masquer temporairement certains de vos employés sans supprimer complètement leur profil de votre base de données (ex : travailleurs saisonniers, en congé parental, etc.).
 Dans ce cas, vous pouvez rendre un profil inactif. Les profils inactifs resteront dans votre base de données et seront toujours consultables dans la recherche globale, mais ne seront pas affichés comme candidats et ne recevront pas d'offres de travail.
@@ -61,7 +61,7 @@ Ce numéro apparaîtra dans la plupart des exportations de données. Il s'agit d
 
 ### Date d'embauche
 
-Par défaut, ce champ est défini comme la date à laquelle vous avez créé le profil de l'employé dans Workstaff, mais vous pouvez le modifier comme vous le souhaitez.
+Par défaut, ce champ correspond à la date à laquelle vous avez créé le profil de l'employé dans Workstaff, mais vous pouvez le modifier comme vous le souhaitez.
 C'est la date de référence d'un employé pour déterminer son expérience / son ancienneté. Ce champ est utilisé notamment lors du tri des profils par ancienneté.
 
 ### Statut d'emploi
@@ -75,7 +75,7 @@ Workstaff traitera les profils des employés différemment en fonction de leur s
 ### Taux horaire
 
 Il s'agit du taux horaire par défaut qui sera utilisé lors du calcul de la rémunération de la personne. Ce taux
-peut être modifié si nécessaire à chaque affectation et ne devrait pas inclure de [Primes] (../customize/premiums.md).
+peut être modifié si nécessaire à chaque affectation et ne devrait pas inclure de [**Primes**](../customize/premiums.md).
 
 ### Départements
 
@@ -86,14 +86,14 @@ L'onglet **Historique de travail** vous permet de visualiser les affectations pa
 
 ## Profils réclamés et non réclamés
 
-Lorsque vous ajoutez initialement un profil de personnel dans Workstaff, ce profil est considéré comme étant _non réclamé_.
+Lorsque vous ajoutez initialement un profil de personnel dans Workstaff, ce profil est considéré comme étant _**non réclamé**_.
 
 Pour réclamer un profil, un employé doit installer l'application mobile et se connecter en utilisant le numéro de téléphone ou l'adresse e-mail associés à son profil.
 
 Une fois réclamé, le profil appartient au travailleur et certaines informations ne peuvent être modifiées que par le personnel, telles que :
 
 - Le nom, les informations de contact et la date de naissance.
-- Informations sur le lieu de travail
+- Les informations sur le lieu de travail
 
 ## Profils sans informations de contact (placeholders)
 

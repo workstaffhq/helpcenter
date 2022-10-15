@@ -21,7 +21,7 @@ Select your organization’s **Timezone** and your **Headquarters** location for
 3.  The **Default employment status** (Contractor/Freelancer, Payroll, Volunteer) you select will be added to all new staff profiles. You can still select a status for each staff member by editing it directly in their profile.
 
 ### Time Tracking
-You can customize options related to tracking your team's time.
+You can customize [**options related to tracking your team's time**](timetracking-settings.md).
 - **Do not require a timesheet from staff**: by default, timesheets are mandatory for staff. When this option is checked, timesheet submission will still be allowed but it won't be enforced and clock in reminders will be disabled
 - **Unrestricted**: each staff can clock in and out by themselves, from their mobile phone, without any restriction.
 - **Via QR code only**: clocking in and out requires the staff to scan a QR code associated with the event
@@ -40,6 +40,8 @@ By default, Workstaff will request invoices for remunerated shifts of contractor
 
 ## Users
 The **Users** section allows you to manage who can access your Workstaff account. You can overview your active and inactive users, add and delete users to your account based on your organization's needs.
+
+See [**Manage Your Subscription**](https://help.workstaff.app/docs/managers/customize/manage-your-subscription/) for more details on how to manage users. 
 
 ## Departments
 You can split your Workstaff activity into multiple independent data silos to mimic your organization structure. Creating departments allows you to divide your staff and schedules in order to facilitate your operations. 

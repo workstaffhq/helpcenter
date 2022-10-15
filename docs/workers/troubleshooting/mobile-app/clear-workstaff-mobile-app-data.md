@@ -19,4 +19,4 @@ To reset the Workstaff data on Android:
 
 ### For iOS / iPhone?
 
-iOS / iPhone does not allow to clear only the data of apps. Instead, you need to delete the app and re-install it from the [App Store](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).
+iOS / iPhone does not allow to clear only the data of apps. Instead, you need to delete the app and re-install it from the [**App Store**](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).
