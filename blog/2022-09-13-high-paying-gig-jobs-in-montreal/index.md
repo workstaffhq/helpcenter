@@ -10,7 +10,7 @@ keywords: [gigs, gig jobs, gig work, staffing agencies, staffing]
 # Some high paying gig jobs and where to get them!
 
 Whether you are a student or looking for flexibility, find out where to find well-paid gig jobs in Montreal.
-
+ 
 <!--truncate-->
 
 If you're tired of working for minimum wage, even though it's been rising steadily but never enough to keep up with inflation, which has reached unsustainable levels in recent months, rest assured: there are other opportunities out there!
