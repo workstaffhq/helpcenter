@@ -1,5 +1,6 @@
+---
 slug: /workers
-title: Bienvenue
+title: Welcome
 sidebar_position: 1
 ---
 
