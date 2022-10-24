@@ -13,15 +13,15 @@ Constantly looking for new talent with varying levels of experience, staffing ag
 
 <!--truncate-->
 
-## The Shift to Gig Work
-In the few years leading up to the pandemic, [**the gig economy**](9https://help.workstaff.app/blog/the-gigification-of-work/) has gathered a large number of on-demand and short-term work enthusiasts for the flexibility and autonomy they can benefit from. In 2018, workers practicing some form of gig work accounted for [**36% of the workforce**](https://www.gallup.com/workplace/240929/workplace-leaders-learn-real-gig-economy.aspx) in the United States. The pandemic has significantly accelerated this trend and the on-demand workforce has [**increased by 30%**](https://www.forbes.com/sites/serenitygibbons/2022/07/21/3-reasons-businesses-are-tapping-into-the-gig-economy/?sh=1b17902a101c). Opting for on-demand work is now commonplace, and relying on a staffing agency allows you to take advantage of a constant stream of temporary work offers, each as varied as the next.
-
-
 ## Staffing Agencies Offer High-Paying Flexible Jobs
 
 If you're tired of working for minimum wage, even though it's been rising steadily but never enough to keep up with inflation, which has reached unsustainable levels in recent months, rest assured: there are other opportunities out there!
 
 Whether you are a student or looking for flexible hours and good pay, staffing agencies offer a multitude of jobs in different industries such as events, security, installation services, marketing agencies, sports events, and much more!
+
+## The Shift to Gig Work
+
+In the few years leading up to the pandemic, [**the gig economy**](9https://help.workstaff.app/blog/the-gigification-of-work/) has gathered a large number of on-demand and short-term work enthusiasts for the flexibility and autonomy they can benefit from. In 2018, workers practicing some form of gig work accounted for [**36% of the workforce**](https://www.gallup.com/workplace/240929/workplace-leaders-learn-real-gig-economy.aspx) in the United States. The pandemic has significantly accelerated this trend and the on-demand workforce has [**increased by 30%**](https://www.forbes.com/sites/serenitygibbons/2022/07/21/3-reasons-businesses-are-tapping-into-the-gig-economy/?sh=1b17902a101c). Opting for on-demand work is now commonplace, and relying on a staffing agency allows you to take advantage of a constant stream of temporary work offers, each as varied as the next.
 
 ## The Great Return Of Events
 With the end of the Covid-19 restrictions, festivals, concerts, weddings, conventions and conferences are making a comeback. Event producers, large and small, often use staffing agencies that have a pool of part-time candidates that they usually pay well.
