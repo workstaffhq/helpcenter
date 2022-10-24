@@ -1,5 +1,5 @@
 ---
-slug: /travailleurs
+slug: /workers
 title: Bienvenue
 sidebar_position: 1
 ---
