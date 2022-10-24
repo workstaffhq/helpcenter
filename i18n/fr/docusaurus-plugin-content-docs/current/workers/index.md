@@ -1,6 +1,6 @@
 ---
-slug: /workers
-title: Welcome
+slug: /travailleurs
+title: Bienvenue
 sidebar_position: 1
 ---
 
