@@ -31,7 +31,7 @@ Qu'il s'agisse de fournir des serveurs aux traiteurs ou du personnel de promotio
 
 ## Quelques agences de staffing à Montréal
 Si vous êtes intéressé par des horaires flexibles, un bon salaire et avez envie de participer à certains des événements les plus excitants de Montréal, allez jeter un œil à certaines de ces agences :
-
+ 
 
 - [**Staff personnel**](https://staffpersonnel.com)
 - [**PromoStaff**](http://www.promostaff.ca)
