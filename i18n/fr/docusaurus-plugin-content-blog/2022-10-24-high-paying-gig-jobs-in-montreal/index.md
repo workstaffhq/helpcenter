@@ -22,7 +22,7 @@ Que vous soyez étudiant(e) ou en quête d’horaires flexibles et d’une bonne
 ## Le tournant vers le travail à la demande
 Au cours des quelques années précédant la pandémie, [**l’économie à la demande**](https://help.workstaff.app/fr/blog/the-gigification-of-work/) a rassemblé un grand nombre d’adeptes du travail à la demande et à court terme, pour la flexibilité et l’autonomie dont ils peuvent profiter. En 2018, les travailleurs pratiquant une forme de travail à la demande représentaient [**36% de la population active**](https://www.gallup.com/workplace/240929/workplace-leaders-learn-real-gig-economy.aspx) aux États-Unis. La pandémie a considérablement accéléré cette tendance et la main d'œuvre à la demande a connu [**une hausse de 30%**](https://www.forbes.com/sites/serenitygibbons/2022/07/21/3-reasons-businesses-are-tapping-into-the-gig-economy/?sh=1b17902a101c).
 
-Opter pour le travail à la demande est aujourd’hui monnaie courante et le fait de dépendre d’une agence de personnel permet de profiter d’un flux constant d’offres de travail temporaire toutes aussi variées les unes que les autres.
+Opter pour le travail à la demande est aujourd’hui monnaie courante et le fait de recourir à une agence de personnel permet de profiter d’un flux constant d’offres de travail temporaire toutes aussi variées les unes que les autres.
 
 ## Le grand retour des événements
 Avec la fin des restrictions liée à la Covid-19, les festivals, les concerts, les mariages, les conventions et les conférences sont de nouveau en action. Les producteurs d'événements, petits et grands, font souvent appel à des agences de recrutement qui disposent d'un vivier de candidats à temps partiel qu'ils rémunèrent généralement bien. 
