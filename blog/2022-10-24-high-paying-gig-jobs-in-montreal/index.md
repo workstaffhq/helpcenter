@@ -25,7 +25,7 @@ In the few years leading up to the pandemic, [**the gig economy**](9https://help
 
 Opting for on-demand work is now commonplace, and relying on a staffing agency allows you to take advantage of a constant stream of temporary work offers, each as varied as the next.
 
-## The Great Return Of Events
+## The Great Return of Events
 With the end of the Covid-19 restrictions, festivals, concerts, weddings, conventions and conferences are making a comeback. Event producers, large and small, often use staffing agencies that have a pool of part-time candidates that they usually pay well.
 
 Providing waiters for caterers or promotional staff to hand out flyers, workers can pick their jobs, locations and dates, giving them a great deal of freedom, and pay typically ranges from $18 to $30 per hour.
