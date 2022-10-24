@@ -7,10 +7,13 @@ image: ./image.jpg
 keywords: [petits boulots, agences de personnel, à la demande, agence de staffing, placement de personnel, emplois flexibles]
 ---
 
-# Les agences de personnels offrent des emplois flexibles et bien rémunérés :
+# Des emplois flexibles et bien rémunérés à Montréal et où les trouver !
+
 Constamment à la recherche de nouveaux talents dotés de différents niveaux d’expérience, les agences de personnel sont un bassin d’opportunités pour toute personne désirant bénéficier de davantage d’autonomie et d’une variété d’offres de travail à court terme.
 
 <!--truncate-->
+
+## Les agences de personnels offrent des emplois flexibles et bien rémunérés :
 
 Si vous en avez assez de travailler au salaire minimum, même s'il ne cesse d'augmenter, mais jamais assez pour contrer l'inflation qui a atteint des niveaux insoutenables ces derniers mois, rassurez-vous : il existe d'autres opportunités !
 

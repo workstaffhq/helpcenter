@@ -7,12 +7,13 @@ image: ./image.jpg
 keywords: [gigs, gig jobs, gig work, staffing agencies, staffing, high pay]
 ---
 
-# Some high paying gig jobs and where to get them!
+# Some High Paying Flexibles Jobs in Montreal and Where to Find Them! 
 
-## Staffing Agencies Offer High-Paying Flexible Jobs
 Constantly looking for new talent with varying levels of experience, staffing agencies are a pool of opportunity for anyone looking for more autonomy and a variety of short-term work opportunities.
 
 <!--truncate-->
+
+## Staffing Agencies Offer High-Paying Flexible Jobs
 
 If you're tired of working for minimum wage, even though it's been rising steadily but never enough to keep up with inflation, which has reached unsustainable levels in recent months, rest assured: there are other opportunities out there!
 
