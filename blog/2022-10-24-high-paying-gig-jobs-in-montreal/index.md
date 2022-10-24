@@ -27,9 +27,6 @@ With the end of the Covid-19 restrictions, festivals, concerts, weddings, conven
 ## Some Staffing Agencies in Montreal
 If you're interested in flexible hours, good pay, and the chance to participate in some of Montreal's most exciting events, check out some of these agencies.
 
-
-## A selection of staffing agencies in Montreal:
-
 - [**Staff personnel**](https://staffpersonnel.com/indexen)
 - [**PromoStaff**](http://www.promostaffxm.com/)
 - [**Cheers Événements**](https://www.cheersevenements.com)
