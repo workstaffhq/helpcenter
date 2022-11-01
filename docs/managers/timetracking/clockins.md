@@ -9,7 +9,7 @@ You can customize your **Time Tracking** preferences in the [settings](../custom
 Your staff will then be able to clock in and out of shifts from their mobile phones.  
 Once your employees have clocked in and out of a shift, they will be instructed to **[submit a timesheet](submissions.md)** that you can then review and approve. 
 
-### Clock in/Clock out via QR code
+### Downloading the QR code
 If you have chosen the clock in/clock out via QR Code option, you can download the QR code to use to clock in and out of a specific event.
 
 1. Go to your project page

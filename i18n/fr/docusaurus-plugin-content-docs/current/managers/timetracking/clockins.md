@@ -11,7 +11,7 @@ Vos employés pourront alors pointer et en sortie de quart depuis leur télépho
 
 Une fois que vos employés ont pointé au début et à la fin d'un quart, ils sont invités à **[soumettre une feuille de temps](./submissions.md)** que vous pourrez ensuite examiner et approuver.
 
-### Pointage par code QR
+### Télécharger le code QR
 
 Si vous avez choisi l’option de pointage par code QR, vous pouvez télécharger le code QR à utiliser par le personnel pour enregistrer leur arrivée et départ pour un événement donné.
 
