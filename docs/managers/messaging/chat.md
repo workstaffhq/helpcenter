@@ -35,6 +35,12 @@ associated with the project/schedule.
 2. Click on **Chat with team**
 3. Once you’ve started the conversation, you can always go back to it by clicking on the messaging icon in the top right corner of the page
 
+:::info
+Make sure to click **Review and Apply** on your project page before sending a team message. If your project is in **Draft** mode, you will not be able to start a team discussion.
+
+If you have made changes to the team booked for this project, make sure to also click **Review and Apply** so that team members are removed or added to this discussion.
+:::
+
 ## Sending Links in Chat Messages
 
 Clickable links to Web pages can also be sent in chat messages just by copy/pasting the link to the page you want to send. Links must start with either `http://...` or `https://` to be recognized by Workstaff as clickable links.

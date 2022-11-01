@@ -32,6 +32,12 @@ Lorsque des membres de l'équipe sont ajoutés ou retirés de l'équipe, ils son
 1. Pour commencer une nouvelle conversation d'équipe, cliquez sur l’icône de messagerie **Équipe** sur votre page de projet
 3. Une fois que vous avez commencé la conversation, vous pouvez toujours y revenir en cliquant sur l'icône de messagerie dans le coin supérieur droit de la page.
 
+:::info
+Veillez à cliquer sur **Réviser et Appliquer** sur votre page de projet avant d’envoyer un message d’équipe. Si votre projet est en mode **Brouillon**, vous ne serez pas en mesure de commencer une discussion d’équipe.
+
+Si vous avez apporté des modifications à l’équipe affectée à ce projet, veillez également à cliquer sur **Réserver et Appliquer** afin que les membre de l’équipe soient retirés ou ajoutés à cette discussion.
+:::
+
 ## Envoi de liens dans les messages de chat
 
 Les liens cliquables vers des pages Web peuvent également être envoyés dans des messages de chat en copiant/collant le lien vers la page que vous souhaitez envoyer. Les liens doivent commencer par `http://...` ou `https://` pour être reconnus par Workstaff comme des liens cliquables.
