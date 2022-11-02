@@ -7,8 +7,10 @@ sidebar_position : 5
 
 Workstaff vous permet de communiquer avec vos managers et vos équipes par messagerie instantanée. Vous pouvez accéder à toutes vos conversations dans l'onglet **Messages**.
 
+<iframe width="640" height="307" src="https://www.loom.com/embed/89da56374b5f4db9adbe0af334397137" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Envoi de messages à un organisateur
 Lorsque vous ouvrez une offre de travail sous l'onglet **Opportunités**, vous pouvez facilement joindre l'organisateur si vous avez des questions en cliquant sur l'icône de messagerie à côté du nom de l'organisateur, ou en cliquant sur le bouton **Contacter l'organisateur** en bas de l'écran.
 
-## Chat d'équipe
+## Chat d'équipe (pour les chefs d'équipes)
 Afin d'envoyer un message à toute l'équipe d'un événement auquel vous êtes affecté, tapez sur **Chat d'équipe** dans l'onglet **Aujourd'hui** pour envoyer un message à votre équipe travaillant sur l'événement du jour.
