@@ -45,7 +45,7 @@ Un bon système de pointeuse vous permet de faire bien plus que le simple suivi 
 
 Parmi ses nombreuses fonctionnalités, Workstaff est doté d’une appli mobile permettant aux employés de pointer leurs heures du bout de leurs doigts, et ce, en quelques secondes. La plateforme vous permet de faire le suivi des heures de vos travailleurs en temps réel, rappelle à votre personnel de soumettre ses feuilles de temps et permet même aux travailleurs autonomes de vous envoyer leurs factures à partir des heures approuvées.
 
-[**Visitez notre site web**] (https://workstaff.app/fr/) pour en savoir plus sur Workstaff et les fonctionnalités dont vous pouvez bénéficier pour faciliter vos opérations. 
+[**Visitez notre site web**](https://workstaff.app/fr/) pour en savoir plus sur Workstaff et les fonctionnalités dont vous pouvez bénéficier pour faciliter vos opérations. 
 
 
 
