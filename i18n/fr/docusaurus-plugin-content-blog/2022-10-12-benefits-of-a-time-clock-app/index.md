@@ -34,7 +34,7 @@ Nous le savons tous, le traitement de paie peut être un processus lent et fasti
 Utiliser un système de pointage représente un atout considérable qui garantit un énorme gain de temps et une diminution tout aussi importante du risque d’erreur lors du traitement de la paie. Une telle précision contribue à favoriser la confiance entre la direction et les employés.
 
 
-## Facilitez le travail des gestionnaires
+## Faciliter le travail des gestionnaires
 Les modalités de travail sont en constante évolution et ont connu une réelle transformation pendant la pandémie avec l’adoption massive du télétravail et du travail hybride. Bien qu’elles offrent davantage de confort et de flexibilité aux travailleurs, elles suscitent aussi des difficultés pour les employeurs lorsqu’il s’agit de faire le suivi du temps de leur personnel. Il en est de même pour les entreprises dont les activités sont menées dans des lieux différents.
 
 Une application de pointage permet de tenir le personnel informé de son emploi du temps et d’assurer le suivi des heures dans plusieurs endroits et de rendre ces données accessibles aux gestionnaires, peu importe où ils/elles se trouvent.
