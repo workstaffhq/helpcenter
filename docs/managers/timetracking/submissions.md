@@ -11,8 +11,6 @@ This section allows you to filter the timesheets in the ways listed below:
 - **Awaiting Submission**: display only the timesheets that your staff has not yet submitted
 - **To Approve**: display all timesheets submitted by your staff
 
-You can export excel reports from the timesheets by clicking on **Download**.
-
 ### Trust Verifications 
 For each timesheet, the Timesheets section shows you the scheduled time and the submitted time.
 If the information does not match, Workstaff will show you directly on the timesheet what the incorrect data is so that you can verify it, and if necessary, contact your staff.
@@ -25,3 +23,5 @@ The trust verifications are the following:
 
 You can edit a timesheet if the information it contains is incorrect or if the staff forgot to clock in or out.
 
+### Downloading Timesheets 
+You can export Excel reports from the timesheets for specific periods by selecting the dates and clicking **Download**. 

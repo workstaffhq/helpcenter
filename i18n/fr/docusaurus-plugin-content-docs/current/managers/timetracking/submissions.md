@@ -11,8 +11,6 @@ Cette section vous permet de filtrer les feuilles de temps de la manière suivan
 - **En attente de saisie** : affiche uniquement les feuilles de temps que votre personnel n'a pas encore soumises
 - **À approuver** : affiche toutes les feuilles de temps soumises par votre personnel.
 
-Vous pouvez exporter des rapports Excel à partir des feuilles de temps pour des périodes précises en sélectionnant les dates et en cliquant sur **Télécharger**. 
-
 ### Vérifications
 
 Pour chaque feuille de temps, la section **Suivi du temps** vous affiche le temps planifié et le temps soumis.
@@ -25,3 +23,6 @@ Les vérifications sont les suivantes :
 ![échoué.png](./Images/échoué.png)
 
 Vous avez la possibilité de modifier une feuille de temps si les informations qu'elle contient sont incorrectes ou si le personnel a oublié de pointer ses heures en cliquant sur l'icône de crayon à droite de la feuille de temps. 
+
+### Télécharger des feuilles de temps 
+Vous pouvez exporter des rapports Excel à partir des feuilles de temps pour des périodes précises en sélectionnant les dates et en cliquant sur **Télécharger**. 

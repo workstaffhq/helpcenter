@@ -21,6 +21,13 @@ Lorsque le temps facturé correspond à la saisie des heures et que le taux hora
 
 Si les informations ne correspondent pas, Workstaff vous montrera directement sur la facture quelles sont les données incorrectes afin que vous puissiez vérifier les informations et, si nécessaire, communiquer avec votre personnel pour qu'il soumette une nouvelle facture corrigée.
 
+## Vérification
+- Si les heures facturées correspondent aux heures prévues et si le taux horaire facturé correspond au taux planifié, les icônes de vérification sont vertes. 
+![correct.png](./Images/correct.png)
+
+- Si les heures facturées ne correspondent pas aux heures prévues et si le taux horaire facturé correspond au taux planifié, les icônes de vérification sont rouges. Passez votre curseur sur les icônes pour afficher le détail des vérifications. 
+![incorrect.png](./Images/incorrect.png) 
+
 ## Approbation
 
 Si les informations figurant sur la facture sont correctes, cliquez simplement sur **Approuver**. Votre personnel sera informé de l'approbation de la facture sur l'application mobile et de la suite du processus.
