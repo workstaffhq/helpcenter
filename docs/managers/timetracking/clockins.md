@@ -20,4 +20,6 @@ Click on **QR Code** to download the QR code for this project in PDF format.
 Keep track of your staff's time by going to the **Today** section in the main menu, and clicking on the event under the **Dashboard**. Staff presence will automatically update as staff clock in and out using the mobile app. 
 ![img.png](img.png)
 
+## Learn More
+Visit the [**Clock In and Out of Shifts**](https://help.workstaff.app/docs/workers/manage-your-time/clockin/) page in our Help Center **for workers** to learn more and share this information with your staff. 
 

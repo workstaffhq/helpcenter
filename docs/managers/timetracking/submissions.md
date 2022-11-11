@@ -25,3 +25,6 @@ You can edit a timesheet if the information it contains is incorrect or if the s
 
 ### Downloading Timesheets 
 You can export Excel reports from the timesheets for specific periods by selecting the dates and clicking **Download**. 
+
+## Learn More
+Visit the [**Report Your Time**](https://help.workstaff.app/docs/workers/manage-your-time/report-your-time/) page in our Help Center **for workers** to learn more and share this information with your staff. 

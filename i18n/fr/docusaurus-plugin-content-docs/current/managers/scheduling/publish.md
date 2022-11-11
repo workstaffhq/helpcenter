@@ -23,3 +23,6 @@ Si vous souhaitez à tout moment retirer l'affichage, allez dans l'onglet **Affi
 ## Marquer un poste comme étant comblé
 Une fois que les candidats ont posé leur candidature et que vous avez affecté du personnel pour au(x) quart(s), vous pouvez sélectionner le poste sur votre page de projet et cliquer sur **Marquer comme comblé...**. L'offre sera retirée et les candidats non-inscrits seront informés par un message de courtoisie leur indiquant que le poste a été comblé.
 ![maquer-comme-comblé.png](Images/marquer-comme-comblé.png)
+
+## En savoir plus
+Visitez la page [**Trouver du travail**](https://help.workstaff.app/fr/docs/workers/shifts/offers/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

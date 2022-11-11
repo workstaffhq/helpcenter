@@ -52,3 +52,6 @@ Pour ce faire, certaines parties de votre message peuvent inclure une syntaxe su
 |---------------|:--------------------------------------------------------------|------------------------------|----------------------------|
 | **Bold**      | Entourer le texte à mettre en gras de doubles astérisques     | `Mon nom est **John Smith**` | Mon nom est **John Smith** |
 | *Italique*    | Entourer le texte à mettre en italique d'un astérisque simple | `Mon nom est *John Smith*`   | Mon nom est *John Smith*   |
+
+## En savoir plus
+Visitez la page [**Envoyer des messages**](https://help.workstaff.app/fr/docs/workers/messaging/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

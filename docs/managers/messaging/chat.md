@@ -55,3 +55,7 @@ To do so, parts of your message can include additional syntax as described here:
 |------------|:--------------------------------------------------------|-----------------------------|---------------------------|
 | **Bold**   | Surround text to be put in bold with double asterisks   | `My name is **John Smith**` | My name is **John Smith** |
 | *Italic*   | Surround text to be put in italic with single asterisks | `My name is *John Smith*`   | My name is *John Smith*   |
+
+## Learn More
+Visit the [**Sending Messages**](https://help.workstaff.app/docs/workers/messaging/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+

@@ -33,3 +33,6 @@ If the information on the invoice is correct, simply click on **Approve**. Your 
 ## Downloading an Invoice
 
 You can export the invoice to a pdf format by going to **Actions** and clicking on **Download**.
+
+## Learn More
+Visit the [**Create Invoices for Your Work**](https://help.workstaff.app/docs/workers/invoices/) page in our Help Center **for workers** to learn more and share this information with your staff. 
