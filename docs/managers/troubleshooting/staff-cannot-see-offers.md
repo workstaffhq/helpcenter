@@ -13,7 +13,9 @@ Sometimes your staff can't see offers in the **Find Offers** tab of the mobile a
 This issue is usually resolved when you change the job offer distance.
 1. Go to the Display tab of your project
 2. Click on the **Location** button
+![distance1.png](./Images/distance1.png)
 3. Choose the distance to display the offer
+![distance2.png](./Images/distance2.png)
 
 
 This issue can also be resolved by having staff change the city of residence in their profile to a city closer to your location.
