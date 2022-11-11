@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # My staff Cannot Send Invoices
 
 Your staff may not be able to send an invoice after a shift. 
