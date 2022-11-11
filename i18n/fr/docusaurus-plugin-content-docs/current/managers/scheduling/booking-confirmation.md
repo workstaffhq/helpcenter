@@ -2,7 +2,7 @@
 sidebar_position : 5
 ---
 
-Confirmation des horaires par le personnel
+# Confirmation des horaires par le personnel
 
 
 Lorsque vous affectez du personnel à un quart de travail ou que vous apportez des changements à un horaire, Workstaff leur envoie une notification pour leur demander de confirmer leur horaire de travail.
