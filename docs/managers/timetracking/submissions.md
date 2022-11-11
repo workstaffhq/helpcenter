@@ -11,8 +11,17 @@ This section allows you to filter the timesheets in the ways listed below:
 - **Awaiting Submission**: display only the timesheets that your staff has not yet submitted
 - **To Approve**: display all timesheets submitted by your staff
 
-The **Timesheets** feature allows you to have an overview of the scheduled time and the reported time.
-You have the possibility to edit a timesheet if the information it contains is incorrect or if the staff forgot to clock in or clock out. 
+### Trust Verifications 
+For each timesheet, the Timesheets section shows you the scheduled time and the submitted time.
+If the information does not match, Workstaff will show you directly on the timesheet what the incorrect data is so that you can verify it, and if necessary, contact your staff.
 
-You can export excel reports from the timesheets by clicking on **Download**. 
+The trust verifications are the following:
+- **Passed**: if the submitted time matches the scheduled time and the time clock data is correct, the verification icon is green.
+![passed.png](./Images/passed.png)
+- **Failed**: if the submitted time does not match the planned time and the time clock data is incorrect, the check icon is red. Hover your cursor over the icon to view the verification details. Workstaff will tell you if the clocking in and out was done on time and at what distance from the work site.
+![failed.png](./Images/failed.png)
 
+You can edit a timesheet if the information it contains is incorrect or if the staff forgot to clock in or out.
+
+### Downloading Timesheets 
+You can export Excel reports from the timesheets for specific periods by selecting the dates and clicking **Download**. 
