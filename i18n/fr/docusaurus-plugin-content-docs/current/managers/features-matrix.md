@@ -1,5 +1,5 @@
 ---
-mots-clés : [fonctionnalités]
+keywords : [fonctionnalités]
 ---
 
 # Matrice des fonctionnalités
