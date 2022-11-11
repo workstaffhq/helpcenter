@@ -21,3 +21,7 @@ If this icon is:
 
 ## What if the person changes their mind?
 If a person has confirmed a shift, but for some reason cannot work it and must cancel it, they should contact their supervisor as soon as possible to have the necessary changes made in the schedule. 
+
+## Learn More
+Visit the [**Confirm Your Schedules**](https://help.workstaff.app/docs/workers/shifts/confirming-shifts/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+

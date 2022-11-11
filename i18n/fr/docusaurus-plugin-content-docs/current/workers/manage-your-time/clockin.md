@@ -3,7 +3,7 @@ title : Pointage
 sidebar_position : 2
 ---
 
-# Pointage au début et à la fin de vos quarts de travail
+# Pointage de vos heures
 
 L'application Workstaff vous permet de pointer vos quarts de travail du bout des doigts.
 

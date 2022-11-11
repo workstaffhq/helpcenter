@@ -21,3 +21,6 @@ Workstaff allows you to publish shifts, which essentially means that you can pos
 ## Marking a Position as Filled 
 Once candidates have applied for a position, and you’ve booked staff for the shift(s), you can select the position on your project page and click on **Mark as filled…** The position will then be unpublished and unbooked applicants will be notified with a courtesy message letting them know the position was filled. 
 ![mark_as_filled.png](Images/mark_as_filled.png)
+
+## Learn More
+Visit the [**Finding Work**](https://help.workstaff.app/docs/workers/shifts/offers/) page in our Help Center **for workers** to learn more and share this information with your staff. 

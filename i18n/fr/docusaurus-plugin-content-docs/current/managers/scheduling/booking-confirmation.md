@@ -23,3 +23,6 @@ Si cette icône est :
 
 ## Et si la personne change d’avis ?
 Si une personne a confirmé un quart, mais que, pour une raison quelconque, elle ne peut pas y travailler et doit l’annuler, elle doit contacter son responsable dès que possible afin que la modification soit faite dans l’horaire. 
+
+## En savoir plus
+Visitez la page [**Confirmer vos horaires**](https://help.workstaff.app/fr/docs/workers/shifts/confirming-shifts/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

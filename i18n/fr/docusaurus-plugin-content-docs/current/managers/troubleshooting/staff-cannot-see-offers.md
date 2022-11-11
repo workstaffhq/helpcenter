@@ -20,5 +20,5 @@ Ce problème est généralement résolu lorsque vous modifiez la distance d’af
 
 Ce problème peut aussi être résolu en demandant au personnel de modifier la ville de résidence dans leur profil pour une ville plus proche de votre lieu d’opérations.
 
-
-Visitez la page [**Je ne peux pas voir les offres de travail**](https://help.workstaff.app/fr/docs/workers/troubleshooting/cannot-see-offers/) de notre **Centre d’aide** pour les travailleurs afin d’en savoir plus et de partager ces informations avec votre personnel. 
+## En savoir plus
+Visitez la page [**Je ne peux pas voir les offres de travail**](https://help.workstaff.app/fr/docs/workers/troubleshooting/cannot-see-offers/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

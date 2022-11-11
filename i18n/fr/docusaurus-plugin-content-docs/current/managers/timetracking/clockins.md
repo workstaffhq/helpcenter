@@ -22,5 +22,5 @@ Si vous avez choisi l’option de pointage par code QR, vous pouvez télécharge
 ## Suivi du temps en direct
 Suivez le temps de votre personnel en allant dans la section **Aujourd'hui** du menu principal, et en cliquant sur l'événement sous le **Tableau de bord**. La présence du personnel sera automatiquement mise à jour au fur et à mesure que le personnel pointe à l'aide de l'application mobile.
 
-
-
+## En savoir plus
+Visitez la page [**Pointage de vos heures**](https://help.workstaff.app/fr/docs/workers/manage-your-time/clockin/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

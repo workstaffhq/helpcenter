@@ -26,3 +26,6 @@ Vous avez la possibilité de modifier une feuille de temps si les informations q
 
 ### Télécharger des feuilles de temps 
 Vous pouvez exporter des rapports Excel à partir des feuilles de temps pour des périodes précises en sélectionnant les dates et en cliquant sur **Télécharger**. 
+
+## En savoir plus
+Visitez la page [**Soumettre vos heures**](https://help.workstaff.app/fr/docs/workers/manage-your-time/report-your-time/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 
