@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Staff Cannot See Published Offers
+# My Staff Cannot See Published Offers
 
 ## No Skills Associated with the Profile
 In some cases we have observed, staff members were not able to see job offers because no skills had been added to their profile. Make sure you add skills to your staff's profiles so they can see jobs that match those skills.

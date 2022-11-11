@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Le personnel ne peut pas voir les offres de travail
+# Mon personnel ne peut pas voir les offres de travail
 
 ## Aucune compétence associée au profil
 Dans certains cas que nous avons observés, des membres du personnel n’étaient pas en mesure de voir les offres de travail car aucune compétence n’avait été ajoutée à leur profil. Assurez-vous d’ajouter des compétences au profil de votre personnel afin qu’il puisse voir les offres correspondant à ces compétences.
