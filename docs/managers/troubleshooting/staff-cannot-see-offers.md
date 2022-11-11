@@ -19,6 +19,6 @@ This issue is usually resolved when you change the job offer distance.
 
 
 This issue can also be resolved by having staff change the city of residence in their profile to a city closer to your location.
-
+  
 
 Visit the [**I Can’t See Published Offers**](https://help.workstaff.app/docs/workers/troubleshooting/cannot-see-offers/) page in our **Help Center** for workers to learn more and share this information with your staff. 

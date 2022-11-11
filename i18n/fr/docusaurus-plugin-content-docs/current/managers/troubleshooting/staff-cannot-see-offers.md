@@ -16,7 +16,7 @@ Ce problème est généralement résolu lorsque vous modifiez la distance d’af
 ![distance1.png](./Images/distance1.png)
 3. Choisissez la distance d’affichage de l’offre
 ![distance2,png](./Images/distance2.png)
-
+  
 
 Ce problème peut aussi être résolu en demandant au personnel de modifier la ville de résidence dans leur profil pour une ville plus proche de votre lieu d’opérations.
 
