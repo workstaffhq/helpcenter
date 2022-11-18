@@ -23,7 +23,7 @@ Une fois que les données ont été générées pour une période de paie, Works
   ![warning4.png](images/warning4.png)
 - Si des données sont obsolètes, des avertissements s’affichent aussi sur les talons de paie concernés.
   ![warning5.png](images/warning5.png)
-- Pour en savoir plus sur la problème lié à chaque talons marqué d’un avertissement, cliquez dessus pour l’afficher. Une fois dans la talon de paie, vous pouvez cliquer sur le quart marqué d’un avertissement sous **Gains détaillés** pour être redirigé vers la page du projet concerné.
+- Pour en savoir plus sur le problème lié à chaque talon marqué d’un avertissement, cliquez dessus pour l’afficher. Une fois dans le talon de paie, vous pouvez cliquer sur le quart marqué d’un avertissement sous **Gains détaillés** pour être redirigé vers la page du projet concerné.
   ![warning6.png](images/warning6.png)
 
 ## Rechercher et filtrer vos talons de paie
@@ -56,5 +56,11 @@ Tout le détail des entrées de paie - incluant les codes de projets, départeme
 Pour exporter les données de la période vers un fichier Excel, cliquez sur l’icône de téléchargement.
 ![excel.png](images/excel.png)
 
+## Redimensionner la période de paie
+Si nécessaire, Workstaff vous permet de redimensionner la première et la dernière période de paie. Pour ce faire:
+- Cliquez sur l’icône de rouage dans la partie supérieure de la page
+- Cliquez sur **Redimensionner la période…**
+- Choisissez la période à modifier et sélectionnez les nouvelles dates
+![resize.png](images/resize.png)
 
 

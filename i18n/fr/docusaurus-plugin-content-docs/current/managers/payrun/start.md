@@ -1,10 +1,7 @@
 ---
 title: Démarrer
 ---
-# Démarrer avec le module de paie 
-
-## Configurer votre compte pour la paie 
-
+# Démarrer avec le module de paie
 
 ## Configurer votre compte pour la paie
 Lorsque vous souhaitez commencer à utiliser le module de paie, il y a quelques étapes clés pour créer la structure qui vous permettra d’utiliser cet outil efficacement.
@@ -12,8 +9,8 @@ Lorsque vous souhaitez commencer à utiliser le module de paie, il y a quelques 
 1. Allez dans la section **Paie**
 2. Cliquez sur **Débuter**
 3. Choisissez la fréquence de paie
-- Hebdomadaire (52 périodes de paie par an)
-- Quinzomadaire (24 périodes de paie par an)
+- **Hebdomadaire** (52 périodes de paie par an)
+- **Quinzomadaire** (24 périodes de paie par an)
 4. Choisissez la date de début de la première période.
 
 ## Exclure les travailleurs autonomes de la paie
