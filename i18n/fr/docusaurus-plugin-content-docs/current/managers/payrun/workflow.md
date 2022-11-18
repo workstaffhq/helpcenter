@@ -48,6 +48,7 @@ Pour naviguer facilement d’un talon de paie à un autre, cliquez sur **Précé
 
 ## Marquer comme final
 Le module vous aide à suivre exactement où vous en êtes dans la préparation de votre paie. Marquez les talons finalisés en cliquant sur **Marquer sur final** Workstaff s’assurera que les données restent figées dans le temps.
+
 ![final.png](images/final.png)
 
 ## Exportez sur Excel
