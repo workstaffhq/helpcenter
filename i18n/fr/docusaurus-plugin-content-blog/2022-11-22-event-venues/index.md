@@ -1,6 +1,6 @@
 ---
 slug: 8-venues-in-montreal-for-corporate-events
-title: 8 venues in Montreal for a memorable corporate event!
+title: 8 salles à Montréal pour un événement corporatif des plus réussis!
 authors: [mbeaudoin]
 tags: [nouvelles]
 image: ./image.jpg
