@@ -10,6 +10,8 @@ keywords: [événements, traiteur]
 
 Le moment tant attendu est enfin arrivé : les temps plus froids, l’odeur de sapin dans toute la maison et les chocolats chauds sous les couvertures. Eh oui, l’hiver est à nos portes et c’est aussi le temps des fameux partys de Noël.
 
+<!--truncate-->
+
 Bien que ces célébrations soient synonymes de plaisir et de rassemblement, leur organisation n’est pas toujours simple et peut devenir un vrai casse-tête!
 
 Nous avons donc pensé à toi, toi qui dois organiser LE party de l’année!

@@ -9,6 +9,8 @@ keywords: [events, caterers]
 # 8 venues in Montreal for a memorable corporate event!
 The long awaited moment has finally arrived: colder weather, the smell of fir throughout the house and hot chocolate under the covers. Yes, winter is upon us and it's also time for the famous Christmas parties for employees.
 
+<!--truncate-->
+
 Although these celebrations are all about fun and togetherness, organizing them is not always easy and can turn into a real headache!
 
 So we thought of you, the person who has to organize THE party of the year!  We wanted to simplify your task by suggesting 8 must-see places for a successful office or family party!
