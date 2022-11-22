@@ -49,6 +49,7 @@ Located in the old Dalhousie Station, Cirque Éloize takes place in a historic b
 Of course, who doesn't know the Montreal Museum of Fine Arts? But did you know that they also offer the possibility to rent a private space in this majestic setting? And what's more, all guests have the chance to admire the works of the collection!
 
 **Address**: 1380 Sherbrooke Street, Montreal  
+[*8Learn More**](https://www.mbam.qc.ca/en/the-museum/space-rentals/)
 
 ## 7. Le Windsor
 Le Windsor offers you magnificent rooms whose décor is influenced by the Victorian and French Renaissance styles. What better place for an elegant and refined party than a ballroom?
