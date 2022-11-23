@@ -21,10 +21,9 @@ In addition to its beautiful decor, Crew Collective Café offers a unique space 
 **Address**: 360 rue Saint-Jacques, Montréal  
 [**Learn More**](https://www.crewcollectivecafe.com/espace-a-louer-rentable-spaces?lang=en)
 
-{::options parse_block_html="false" /}
 
 <div align="center">
-https://www.instagram.com/p/CkGVopOLRtO/?utm_source=ig_web_copy_link
+https://www.instagram.com/p/CkGVopOLRtO/embed
 </div> 
 
 ## 2. Le Livrart 
