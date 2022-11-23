@@ -2,7 +2,7 @@
 
 Une fois que vos employés ont pointé au début et à la fin d'un quart, ils sont invités à soumettre leurs feuilles de temps à partir de leur téléphone portable. Workstaff facilite le suivi des soumissions de temps de votre personnel.
 
-<iframe width="640" height="308" src="https://www.loom.com/embed/2c0b27319e5441ceb3eb9256a54e68ba" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="640" height="307" src="https://www.loom.com/embed/f769ca8c89e24901991ba0b5267d53b9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Feuilles de temps
 Vous pouvez facilement visualiser les feuilles de temps soumises par votre personnel en allant dans la section **Suivi du temps** du menu principal.
