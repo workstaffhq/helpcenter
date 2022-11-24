@@ -23,7 +23,7 @@ En plus de posséder un magnifique décor, le Crew Collective Café propose un e
 **Adresse** : 360 rue Saint-Jacques, Montréal  
 [**En savoir plus**](https://www.crewcollectivecafe.com/espace-a-louer-rentable-spaces)
 
-![Crew Collective Café.png](images/Crew%20Collective%20Café.png)
+![Crew Collective Café.png](images/Crew%20Collective%20Café.jpg)
 
 ## 2. Le Livrart
 Le Livrart est un organisme à but non lucratif situé dans un ancien presbytère du Plateau-Mont-Royal. Ce centre d’art multidisciplinaire possède plusieurs salles qui peuvent accueillir tes événements de tous types pour permettre à tes invités de s’éclater comme jamais!
@@ -31,7 +31,7 @@ Le Livrart est un organisme à but non lucratif situé dans un ancien presbytèr
 **Adresse** : 3980 rue Saint-Denis, Montréal  
 [**En savoir plus**](https://lelivart.com/salle/)
 
-![Livart.png](images/Livart.png)
+![Livart.png](images/Livart.jpg)
 
 ## 3. Café Constance
 Situé dans le Quartier des Spectacles de Montréal, le Café Constance est en plein cœur de l’action. Le café t’accueille pour tes événements, tes 5-7 ou toutes autres occasions, le tout dans un décor qui rappelle les Grands Ballets Canadiens.
@@ -39,7 +39,7 @@ Situé dans le Quartier des Spectacles de Montréal, le Café Constance est en p
 **Adresse** : 1436 rue Balmoral, Montréal  
 [**En savoir plus**](https://www.instagram.com/cafeconstance/?utm_medium=copy_link)
 
-![Café Constance.png](images/Café%20Constance.png)
+![Café Constance.png](images/Café%20Constance.jpg)
 
 ## 4. Musée McCord
 L’incontournable Musée McCord propose aussi la possibilité de réserver un espace pour tes événements privés. Situé au Centre-Ville de Montréal, l’endroit peut accueillir jusqu’à 300 invités. L’architecture ajoute définitivement un côté glamour à ton party!
@@ -55,7 +55,7 @@ Situé dans l’ancienne Gare Dalhousie, le Cirque Éloize prend place dans un b
 **Adresse** : 417 rue Berri, Montréal  
 [**En savoir plus**](https://www.eloize-events.com/nosstudios/)
 
-![Cirque Éloize.png](images/Cirque%20Éloize.png)
+![Cirque Éloize.png](images/Cirque%20Éloize.jpg)
 
 ## 6. Musée des Beaux-Arts de Montréal
 Évidemment, qui ne connaît pas le Musée des Beaux-Arts de Montréal? Mais savais-tu qu’ils offraient aussi la possibilité de réserver un espace privé dans ce majestueux décor? Petit plus, tous les invités ont aussi la chance d’admirer les œuvres de la collection!
@@ -71,7 +71,7 @@ Le Windsor te propose de magnifiques salles dont le décor est influencé par le
 **Adresse** : 1170 rue Peel, Montréal  
 [**En savoir plus**](https://lewindsormontreal.com/fr)
 
-![Le Windsor.png](images/Le%20Windsor.png)
+![Le Windsor.png](images/Le%20Windsor.jpg)
 
 ## 8. Centre des sciences de Montréal
 Les salles du Centre des sciences de Montréal, avec leurs larges baies vitrées et leurs terrasses, offrent une vue panoramique époustouflante sur la ville et sur le fleuve. C’est définitivement l’endroit pour tes prochains partys!
@@ -79,7 +79,7 @@ Les salles du Centre des sciences de Montréal, avec leurs larges baies vitrées
 **Adresse** : 2 rue de la Commune Ouest, Montréal  
 [**En savoir plus**](https://www.vieuxportdemontreal.com/salles-a-louer)
 
-![Centre des sciences de Montréal.png](images/Centre%20des%20sciences%20de%20Montréal.png)
+![Centre des sciences de Montréal.png](images/Centre%20des%20sciences%20de%20Montréal.jpg)
 
 ## Quelques traiteurs
 Certaines de ces salles te permettent aussi de faire appel au traiteur de ton choix. En voici quelques-uns que nous te suggérons dans la région de Montréal!
