@@ -25,8 +25,8 @@ En plus de posséder un magnifique décor, le Crew Collective Café propose un e
 
 ![Crew Collective Café.png](images/Crew%20Collective%20Café.jpg)
 
-## 2. Le Livrart
-Le Livrart est un organisme à but non lucratif situé dans un ancien presbytère du Plateau-Mont-Royal. Ce centre d’art multidisciplinaire possède plusieurs salles qui peuvent accueillir tes événements de tous types pour permettre à tes invités de s’éclater comme jamais!
+## 2. Le Livart
+Le Livart est un organisme à but non lucratif situé dans un ancien presbytère du Plateau-Mont-Royal. Ce centre d’art multidisciplinaire possède plusieurs salles qui peuvent accueillir tes événements de tous types pour permettre à tes invités de s’éclater comme jamais!
 
 **Adresse** : 3980 rue Saint-Denis, Montréal  
 [**En savoir plus**](https://lelivart.com/salle/)
