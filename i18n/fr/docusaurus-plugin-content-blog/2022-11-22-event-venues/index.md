@@ -55,7 +55,7 @@ Situé dans l’ancienne Gare Dalhousie, le Cirque Éloize prend place dans un b
 **Adresse** : 417 rue Berri, Montréal  
 [**En savoir plus**](https://www.eloize-events.com/nosstudios/)
 
-![Cirque Éloize.png](images/Cirque%20Éloize.jpg)
+![Cirque Éloize.png](images/Cirque%20Éloize.jpg) 
 
 ## 6. Musée des Beaux-Arts de Montréal
 Évidemment, qui ne connaît pas le Musée des Beaux-Arts de Montréal? Mais savais-tu qu’ils offraient aussi la possibilité de réserver un espace privé dans ce majestueux décor? Petit plus, tous les invités ont aussi la chance d’admirer les œuvres de la collection!

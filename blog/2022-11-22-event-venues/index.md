@@ -27,7 +27,7 @@ In addition to its beautiful decor, Crew Collective Café offers a unique space 
 The Livart is a non-profit organization located in a former presbytery in the Plateau-Mont-Royal. This multidisciplinary art center has several rooms that can accommodate your events of all types to allow your guests to have the time of their lives!
 
 **Address**: 3980 rue Saint-Denis, Montréal  
-[**Learn More**](https://lelivart.com/en/room/)
+[**Learn More**](https://lelivart.com/en/room/) 
 
 ![Livart.png](images/Livart.jpg)
 
