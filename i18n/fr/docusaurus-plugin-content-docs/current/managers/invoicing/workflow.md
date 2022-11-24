@@ -5,6 +5,8 @@ sidebar_position: 2
 
 ## Processus de facturation
 
+<iframe width="640" height="306" src="https://www.loom.com/embed/08196f1caebd4aca9e869b3159ffdfb3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Soumission
 
 Lorsque le personnel soumet une facture, vous pouvez la consulter dans la section **Factures** du menu principal.

@@ -4,6 +4,8 @@ title: Workflow
 
 # Invoicing Workflow
 
+<iframe width="640" height="306" src="https://www.loom.com/embed/7692605809734421bebc222443ffebf7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Submission
 
 When staff submits an invoice, you can view it in the **Invoices** section of the main menu.
