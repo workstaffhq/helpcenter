@@ -1,5 +1,6 @@
 ---
 title: Démarrer
+sidebar_position: 1
 ---
 # Démarrer avec le module de paie
 

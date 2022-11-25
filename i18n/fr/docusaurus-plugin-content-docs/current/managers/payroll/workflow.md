@@ -1,5 +1,6 @@
 ---
 title: Marche à suivre
+sidebar_position: 2
 ---
 
 # Marche à suivre
