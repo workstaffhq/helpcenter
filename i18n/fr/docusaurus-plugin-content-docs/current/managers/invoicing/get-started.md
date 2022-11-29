@@ -1,5 +1,5 @@
 ---
-title: Démarrer
+title: Démarrage
 sidebar_position: 1
 ---
 

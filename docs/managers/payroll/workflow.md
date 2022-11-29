@@ -5,10 +5,10 @@ sidebar_position: 2
 
 # Working Through Your Pay Runs
 
-Once your [initial pay period](./start.md) is created, Workstaff will show you a summary of all employees that have had earnings during the pay period.
+Once your [initial pay period](./get-started.md) is created, Workstaff will show you a summary of all employees that have had earnings during the pay period.
 
 :::info
-It is possible that upon generating a pay run, some of your staff do not show up or have incomplete data. If you think some staff members are missing or have incomplete data, make sure their employment status as well as shifts are meeting the [prerequisites](./start.md#prerequisites) to be considered in pay runs.
+It is possible that upon generating a pay run, some of your staff do not show up or have incomplete data. If you think some staff members are missing or have incomplete data, make sure their employment status as well as shifts are meeting the [prerequisites](./get-started.md#prerequisites) to be considered in pay runs.
 :::
 
 ## Pay Periods Are Snapshots Frozen In Time
@@ -71,7 +71,7 @@ Here are the different possible warnings:
 
 Workstaff allows you to search and filter pay stubs to display only data relevant for different tasks.
 
-If you want to find a specific employee's pay stubs for a specific time period, type their name in the text field on the top right of the stubs table.
+If you want to find a specific employee's pay stubs for a specific time period, type their name or file number in the text field on the top right of the stubs table.
 
 Use the search filters to view stubs by status (**All; Open stubs only; Final stubs only**) or related warnings (**Show obsolete stubs; Show stubs with zero earnings**).
 

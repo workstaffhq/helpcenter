@@ -22,7 +22,7 @@ Une fois qu'une période de paie est satisfaisante, le module vous aide à suivr
 les talons comme _Finaux_. Lorsqu'un talon est marqué comme final, Workstaff le gèle afin que vous puissiez conserver les données historiques sans vous préoccuper 
 d'éventuels changements non désirés dans vos données de paie.
 
-Pour commencer avec la Paie, [continuez à lire](./start.md)...
+Pour commencer avec la Paie, [continuez à lire](./get-started.md)...
 
 :::info
 Le module Paie est disponible sur le plan **Max**. Si vous êtes actuellement abonné au plan **Pro**, vous pouvez essayer le module avec

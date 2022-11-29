@@ -3,33 +3,32 @@ title: Configuration
 sidebar_position: 3
 ---
 
-# Configuring Payroll
+# Configuration de la paie
 
-To change options related to how you use the Payroll module, go to **Settings** / **Payroll**.
+Pour modifier les options liées à la façon dont vous utilisez le module Paie, allez dans **Paramètres** / **Paie**.
 
-## Setting Up Your Pay Calendar {#calendar}
+## Établir votre calendrier de paie {#calendar}
 
-The following pay calendars are supported by Workstaff:
+Les calendriers de paie suivants sont pris en charge par Workstaff :
 
-- **Weekly** (52 pay periods per year)
-- **Bi-Weekly** (24 pay periods per year)
+- **Hebdomadaire** (52 périodes par année)
+- **Bi-hebdomadaire** (24 périodes par année)
 
 :::note
-If your organization uses a different type of pay calendar, please [contact us](mailto:help@workstaff.app), and we'll consider adding support for it.
+Si votre organisation utilise un autre type de calendrier, veuillez nous [contacter](mailto:help@workstaff.app), et nous envisagerons de le prendre en charge.
 :::
 
-To calculate the boundaries of each pay period, Workstaff only needs to know the type of calendar and a **reference date**. 
-The reference date represents the first day of any period in your pay calendar. All pay periods boundaries will be calculated from
-that reference date.
+Pour calculer les délimitations de chaque période de paie, Workstaff a seulement besoin de connaître le type de calendrier et une **date de référence**.
+La date de référence représente le premier jour de n'importe quelle période dans votre calendrier de paie. Les dates de toutes les périodes de paie seront calculées à partir de cette date de référence.
 
-### Changing Your Pay Calendar
+### Modification de votre calendrier
 
-If for any reason you need to change your pay calendar after you started processing pay periods, you can do so by simply adjusting the type of pay calendar and, optionally, change the reference date. The dates of your next pay period will be calculated according to the new calendar. 
+Si vous devez modifier votre calendrier de paie une fois que vous avez commencé à traiter les périodes, vous pouvez ajuster le type de calendrier et, facultativement, modifier sa date de référence. Les dates de votre prochaine période de paie seront automatiquement calculées en fonction du nouveau calendrier.
 
-Under some circumstances, you may need to [slightly adjust dates](./workflow.md#resize) of your current or next pay period during the transition from a pay calendar to another.
+Dans certaines circonstances, vous devrez peut-être [ajuster légèrement les dates](./workflow.md#resize) de votre période de paie actuelle ou la suivante pendant la transition.
 
-## Control Which Staff Is Included in Pay Runs {#employment-statuses}
+## Sélectionner le personnel à inclure dans la paie {#employment-statuses}
 
-By default, all of your remunerated staff with employment statuses **Contractor / Freelancer** and **Employee** are included in pay runs. 
+Par défaut, tous les membres de votre équipe rémunérés avec les statuts d'emploi **Travailleur autonome** et **Employé** sont inclus dans les périodes de paie.
 
-Select the option **Exclude contractors from payroll** in the settings if you want to exclude contractors / freelancers workers from you pay runs. This option is useful to prevent redundant information when you are using [integrated contractor invoices](../invoicing/index.md).
+Sélectionnez l'option **Exclure les travailleurs autonomes de la paie** dans les paramètres si vous voulez exclure les sous-traitants / travailleurs indépendants de vos périodes de paie. Cette option est utile pour éviter des informations répétitives lorsque vous utilisez [les factures intégrées des entrepreneurs](../invoicing/index.md).

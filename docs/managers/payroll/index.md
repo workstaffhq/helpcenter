@@ -22,7 +22,7 @@ Once a pay period is satisfactory, the module helps you track your progress in p
 stubs as _Final_. When a stub is marked as final, Workstaff freezes it so you can keep the historical data without worrying about 
 possible unwanted future changes in your Workstaff data.
 
-To get started with Payroll, [continue reading](./start.md)...
+To get started with Payroll, [continue reading](./get-started.md)...
 
 :::info
 The module is available on the **Max** plan. If you currently subscribe to the **Pro** plan, you can try the module with

@@ -24,11 +24,11 @@ that reference date.
 
 ### Changing Your Pay Calendar
 
-If for any reason you need to change your pay calendar after you started processing pay periods, you can do so by simply adjusting the type of pay calendar and, optionally, change the reference date. The dates of your next pay period will be calculated according to the new calendar. 
+If you need to change your pay calendar once you start processing pay periods, you can adjust the type of pay calendar and, optionally, change its reference date. The dates of your next pay period will be calculated according to the new calendar. 
 
-Under some circumstances, you may need to [slightly adjust dates](./workflow.md#resize) of your current or next pay period during the transition from a pay calendar to another.
+Under some circumstances, you may need to [slightly adjust dates](./workflow.md#resize) of your current or next pay period during the transition.
 
-## Control Which Staff Is Included in Pay Runs {#employment-statuses}
+## Select Staff To Include in Pay Runs {#employment-statuses}
 
 By default, all of your remunerated staff with employment statuses **Contractor / Freelancer** and **Employee** are included in pay runs. 
 
