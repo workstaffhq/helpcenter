@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Help Center",
+    "description": "The title in the navbar"
+  },
+  "item.label.For Managers": {
+    "message": "For Managers",
+    "description": "Navbar item with label For Managers"
+  },
+  "item.label.For Workers": {
+    "message": "For Workers",
+    "description": "Navbar item with label For Workers"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  }
+}

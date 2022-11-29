@@ -19,6 +19,10 @@
     "message": "Factures",
     "description": "The label for category Invoices in sidebar managersSidebar"
   },
+  "sidebar.managersSidebar.category.Payroll": {
+    "message": "Paie",
+    "description": "The label for category Payroll in sidebar managersSidebar"
+  },
   "sidebar.managersSidebar.category.Settings & Customizations": {
     "message": "Paramètres et personalisation",
     "description": "The label for category Settings & Customizations in sidebar managersSidebar"
