@@ -9,5 +9,5 @@ Although Workstaff will generate invoice skeletons automatically for your contra
 On your end, you are able to [review, reconcile and approve invoices](workflow.md) submitted by your contractors.
 
 :::info
-Invoicing is an optional feature that can be enabled or disabled in your [account settings](../customize/account.md#Invoicing). See [Getting Started With Invoicing](./start.md) for steps to be ready to receive invoices from contractors.
+Invoicing is an optional feature that can be enabled or disabled in your [account settings](../customize/account.md#Invoicing). See [Getting Started With Invoicing](./get-started.md) for steps to be ready to receive invoices from contractors.
 :::
