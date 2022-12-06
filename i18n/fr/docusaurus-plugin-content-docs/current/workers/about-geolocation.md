@@ -2,7 +2,7 @@
 title: À propos de la géolocalisation
 ---
 
-# Comment Workstaff utilise votre position géographique
+# Comment Workstaff utilise données de localisation
 
 Il est fréquent et tout à fait compréhensible que les gens se préoccupent de la façon dont les applications utilisent leurs données de localisation, car les abus sont nombreux. L'objectif de cette page est d'expliquer exactement comment Workstaff utilise votre position géographique et de préciser que cette utilisation est sûre et respecte pleinement votre vie privée.
 
