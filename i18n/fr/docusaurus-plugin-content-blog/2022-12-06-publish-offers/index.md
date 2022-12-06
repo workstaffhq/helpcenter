@@ -1,5 +1,5 @@
 ---
-slug: gagnez-du-temps-avec-la-publication-d-offres
+slug: save-time-with-our-offer-publishing-feature
 title: Gagnez du temps avec la publication d'offres!
 authors: [mrochette]
 tags: [fonctionnalités]
@@ -32,10 +32,9 @@ Grâce aux notes au personnel, ajouter tout détail supplémentaire concernant v
 ### Pour les travailleurs
 Une fois l’offre publiée, elle est immédiatement visible par toutes les personnes concernées et elles peuvent y appliquer en quelques secondes du bout de leurs doigts grâce à l’appli mobile Workstaff.
 
-![gifphoneFR.gif](images/FRphone.gif)
-
 Lorsque votre personnel a soumis ses candidatures, elles sont mises en évidence afin que vous puissiez les traiter rapidement et pourvoir les postes vacants en quelques clics.
 
+![gifphoneFR.gif](images/FRphone.gif)
 
 ## À vous de jouer !
 Publiez facilement des offres de postes à votre personnel en vous rendant dans l’onglet **Affichage** de la page de votre projet. Choisissez le poste à afficher et les personnes pour qui cette offre sera visible. Et le tour est joué !

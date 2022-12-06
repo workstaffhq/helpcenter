@@ -32,10 +32,9 @@ With the staff notes, adding any additional details about your offer is easy and
 ### For workers
 Once the offer is published, it is immediately visible to everyone involved and they can apply in seconds with the Workstaff mobile app.
 
-![Enphone.gif](images/ENphone.gif)
-
 Once the applications are received, they are highlighted so that you can process them quickly and fill the vacancies in a few clicks.
 
+![Enphone.gif](images/ENphone.gif)
 
 ## It's your turn!
 Easily post job offers to your staff by going to the **Publishing** tab on your project page. Choose the position you want to post and the people for whom this offer will be visible. And that's it!
