@@ -37,7 +37,7 @@ Once the applications are received, they are highlighted so that you can process
 
 ![Enphone.gif](images/ENphone.gif)
 
-## It's your turn!
+## It's Your Turn!
 Easily post job offers to your staff by going to the **Publishing** tab on your project page. Choose the position you want to post and the people for whom this offer will be visible. And that's it!
 
 To learn more, visit our [**Help Center**](https://help.workstaff.app/docs/managers/scheduling/publish/) for more details on posting work opportunities on Workstaff. 
