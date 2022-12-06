@@ -2,7 +2,7 @@
 title: About Geolocation
 ---
 
-# How Workstaff uses your location data
+# About Geolocation
 
 It is common - and completely understandable - for people to have concerns on how apps use their location data, as abuses are widespread. This page's goal is to explain exactly how Workstaff uses your location and make it clear that its use is safe and fully respects your privacy.
 
