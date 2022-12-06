@@ -1,6 +1,6 @@
 ---
 slug: save-time-with-our-offer-publishing-feature
-title: Gagnez du temps avec la publication d'offres!
+title: Gagnez du temps avec la publication d'offres
 authors: [mrochette]
 tags: [fonctionnalités]
 image: ./image.jpg
