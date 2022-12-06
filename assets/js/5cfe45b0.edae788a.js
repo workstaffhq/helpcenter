@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7727],{5630:s=>{s.exports=JSON.parse('{"label":"fonctionnalit\xe9s","permalink":"/blog/tags/fonctionnalites","allTagsPath":"/blog/tags","count":1}')}}]);
