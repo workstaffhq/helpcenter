@@ -28,4 +28,4 @@ Si, pour une raison quelconque, vous souhaitez révoquer l'accès à votre posit
 
 ## Puis-je autoriser l'accès à ma localisation uniquement lorsque je le souhaite?
 
-Oui ! Lorsque Workstaff demande l'autorisation d'accéder à votre emplacement, vous pouvez utiliser l'option **Autoriser une seule fois** pour partager votre emplacement actuel une seule fois. La prochaine fois que vous pointez à l'entrée ou à la sortie d'un quart, votre téléphone vous demandera à nouveau l'autorisation. De cette façon, vous pouvez contrôler exactement quand vous partagez vos données de localisation.
+Oui ! Lorsque Workstaff demande l'autorisation d'accéder à votre emplacement, vous pouvez utiliser l'option **Autoriser une fois** pour partager votre emplacement actuel une seule fois. La prochaine fois que vous pointez à l'entrée ou à la sortie d'un quart, votre téléphone vous demandera à nouveau l'autorisation. De cette façon, vous pouvez contrôler exactement quand vous partagez vos données de localisation.
