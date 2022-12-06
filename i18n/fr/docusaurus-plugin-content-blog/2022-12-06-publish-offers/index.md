@@ -1,13 +1,13 @@
 ---
 slug: save-time-with-our-offer-publishing-feature
-title: Gagnez du temps avec la publication d'offres
+title: Gagnez du temps avec notre outil de publication d'offres
 authors: [mrochette]
 tags: [fonctionnalités]
 image: ./image.jpg
 keywords: [publier une offre, planification]
 ---
 
-# Gagnez du temps avec notre module de publication d’offres
+
 
 Chez Workstaff, nous sommes conscients du fait que la planification du personnel présente parfois son lot de difficultés. Trouver des candidats disponibles pour des quarts de travail peut s’avérer laborieux. L’utilisation de différents canaux de communication pour contacter les travailleurs afin de connaître leurs disponibilités peut être une véritable perte de temps et il est si facile de ne plus s’y retrouver.
 
