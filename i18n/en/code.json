@@ -40,15 +40,11 @@
   },
   "Help Center": {
     "message": "Help Center",
-    "description": "Landing page title"
+    "description": "Meta title of home page for SEO"
   },
   "Your one stop for anything Workstaff": {
     "message": "Your one stop for anything Workstaff",
     "description": "Landing page subtitle"
-  },
-  "Obtenez de l'aide sur l'utilisation de Workstaff": {
-    "message": "Obtenez de l'aide sur l'utilisation de Workstaff",
-    "description": "Meta description for SEO"
   },
   "Search": {
     "message": "Search",
@@ -308,5 +304,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Your one stop for learning Workstaff and getting help": {
+    "message": "Your one stop for learning Workstaff and getting help",
+    "description": "Meta description for SEO"
   }
 }

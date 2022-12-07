@@ -45,3 +45,11 @@ To limit the amount of text appearing in the blog post preview, use
 ```html
 <!--truncate-->
 ```
+
+#### Translation (i18n)
+
+Whenever you make changes to React components that requires translating its content, use the following command:
+
+``` shell
+$ npm run write-translations -- --locale fr
+```

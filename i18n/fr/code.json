@@ -193,7 +193,7 @@
   },
   "Help Center": {
     "message": "Centre d'aide",
-    "description": "Landing page title"
+    "description": "Meta title of home page for SEO"
   },
   "Your one stop for anything Workstaff": {
     "message": "Apprenez tout sur Workstaff",
@@ -284,5 +284,33 @@
   "theme.CodeBlock.wordWrapToggle": {
     "message": "Basculer le retour à la ligne",
     "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "Your one stop for learning Workstaff and getting help": {
+    "message": "Votre guichet unique pour apprendre Workstaff et y obtenir de l'aide",
+    "description": "Meta description for SEO"
+  },
+  "theme.admonition.note": {
+    "message": "remarque",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "astuce",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "attention",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
   }
 }
