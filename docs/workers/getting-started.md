@@ -31,7 +31,7 @@ Make sure you use the same phone number or email address that your employer used
 5. Enter the sign in code, then tap **Sign In**
 6. You are now logged in! 
 
-If you're having trouble signing in, see **[I Can't Log In](troubleshooting/i-cant-login.md)** for more details.
+If you're having trouble signing in, see **[I Can't Log In](troubleshooting/login.md)** for more details.
 
 ## Complete Your Profile 
 

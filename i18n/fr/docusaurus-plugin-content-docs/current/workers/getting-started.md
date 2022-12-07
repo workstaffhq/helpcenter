@@ -30,7 +30,7 @@ Assurez-vous d'utiliser le même numéro de téléphone ou la même adresse éle
 5. Saisissez le code de connexion, puis appuyez sur **Se connecter**
 6. Vous êtes maintenant connecté !
 
-Si vous avez des difficultés à vous connecter, consultez **[Je ne peux pas me connecter](troubleshooting/i-cant-login.md)** pour plus de détails.
+Si vous avez des difficultés à vous connecter, consultez **[Je n'arrive pas à me connecter](troubleshooting/login.md)** pour plus de détails.
 
 ## Complétez votre profil
 
