@@ -2,8 +2,6 @@ import React from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Translate, {translate} from "@docusaurus/Translate";
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 
@@ -19,11 +17,10 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description={translate({message: 'Obtenez de l\'aide sur l\'utilisation de Workstaff', description: 'Meta description for SEO'})}>
+      title={translate({message: 'Help Center', description: 'Meta title of home page for SEO'})}
+      description={translate({message: 'Your one stop for learning Workstaff and getting help', description: 'Meta description for SEO'})}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
