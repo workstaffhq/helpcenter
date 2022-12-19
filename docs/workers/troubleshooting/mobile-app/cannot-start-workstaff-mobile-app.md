@@ -24,6 +24,6 @@ If that is your case, follow these instructions:
 ### For iOS
 
 1. Make sure the latest Workstaff mobile app version is installed on your phone.
-2. Make sure iOS 12 or later is installed on your device.
+2. Make sure iOS 13 or later is installed on your device.
 3. Uninstall the app by touching and holding the app icon on your main phone screen, and selecting **Remove app**
 4. Re-install the app from the [**App Store**](https://apps.apple.com/us/app/workstaff/id1458402928?ls=1).
