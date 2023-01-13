@@ -6,3 +6,6 @@ Vous pouvez personnaliser les options relatives au suivi du temps de votre équi
 - **Sans restriction** : chaque employé peut pointer lui-même, depuis son téléphone mobile, sans aucune restriction
 - **Par code QR seulement** : le pointage nécessite que le personnel scanne un code QR associé à l'événement
 - **Par les chefs d'équipe seulement** : le personnel sera invité à se rendre en personne auprès du chef d'équipe pour pointer les entrées et sorties de quart. Voir [**Réserver votre équipe**](../scheduling/book.md) pour en savoir plus sur les chefs d'équipe.
+
+### Approbation de feuilles de temps par les chefs d'équipe 
+Lorsque cette option est activée, les chefs d’équipe peuvent examiner/approuver les entrées de temps pour les quarts de travail effectués par d’autres personnes. Leurs propres saisies de temps seront également approuvées automatiquement. Vous pouvez désactiver cette option si vous ne faites pas confiance à vos chefs d’équipe pour l’approbation des heures, y compris leurs propres heures.
