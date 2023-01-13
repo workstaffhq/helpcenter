@@ -33,5 +33,5 @@ Vous pouvez spécifier des taux horaires pour chaque compétence dans le profil 
 Les nouveaux taux horaires par compétence seront appliqués à tous les quarts à partir de la date de changement sélectionnée.
 
 :::note
-Si vous ne souhaitez pas ajouter des taux horaires à chaque compétence d'une personne, c’est le taux horaire de base qui sera utilisé pour les quarts correspondant aux compétences pour lesquelles aucun taux n'a été défini.
+Vous n'avez pas besoin de spécifier un taux horaire pour chaque compétence d'un profil: c’est le taux horaire de base qui sera utilisé pour les quarts correspondant aux compétences pour lesquelles aucun taux n'a été défini.
 :::
