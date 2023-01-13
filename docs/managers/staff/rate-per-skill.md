@@ -23,10 +23,9 @@ For each staff member, Workstaff allows you to specify hourly rates for each ski
 When you book someone for a specific role, their rate for the corresponding skill will be applied to the remuneration conditions. 
 
 - Go to the **Employment** tab of the worker's profile
-- Under Remuneration, click on **Plan a change and/or specify per-skill rates**
+- Under **Remuneration**, click on **Plan a change and/or specify per-skill rates**
 - Select the date from which the rate change will be effective
-- Select a skill
-- Enter the corresponding hourly rate and click on **+**
+- Select a skill, enter the corresponding hourly rate and click on **+**
 - Click on **Save**.
 
 The new per-skill rates will be applied to all shifts as of the selected change date.
