@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Planifier des changements de taux horaires et spécifier des taux par compétence
 
-Workstaff vous permet d’ajouter aux profils de chaque personne des taux horaires par compétence et de planifier des changements de rémunération qui prendront effet à des dates précises.
+Workstaff vous permet d’ajouter aux profils de chaque membre du personnel des taux horaires par compétence et de planifier des changements de rémunération qui prendront effet à des dates précises.
 
 ## Planifier un changement de taux horaire
 - Allez dans l’onglet **Emploi** du profil de la personne
