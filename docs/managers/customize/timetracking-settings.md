@@ -7,3 +7,6 @@ You can customize options related to tracking your team's time.
 - **Via QR code only**: clocking in and out requires the staff to scan a QR code associated with the event
 - **Via team leads only**: the staff will be instructed to go see the team lead in person to clock in and out of shifts. See [**Book Your Team**](../scheduling/book.md) for more details about team leads.
 
+### Timesheet Approval by Teams Leads
+When this option is enabled, team leads are able to review/approve time entries for shifts worked by others. Their own time submissions will also be automatically approved. You can disable this option if you don't trust your team leads with time approval, including their own time.
+

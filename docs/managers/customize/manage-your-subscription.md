@@ -7,7 +7,7 @@ To access your subscription information, go to the main **Settings** section, th
 ## Upgrade to Pro
 When you first sign up on Workstaff, your account is on the **Free plan** by default and gives you access to key features.
 
-The **Pro plan** gives you access to all the key features as well as additional advanced productivity tools such as timesheets, invoices, integrated clock-in and clock-out, real-time staff attendance for each event, and much more!
+The **Pro plan** gives you access to all the key features as well as additional advanced productivity tools such as integrated clock-in and clock-out, real-time staff attendance for each event, timesheets, and much more!
 
 You can take advantage of a free 14-day trial of the Pro plan that you can start yourself directly within Workstaff.
 
@@ -25,6 +25,16 @@ You can upgrade to the Pro plan during or after your 14-day trial.
 - Enter your credit card information.
 
 You will be charged after the 14-day trial.
+
+## Upgrade to Max
+The **Max** plan gives you access to all the features of the Pro plan as well as additional productivity tools such as built-in freelancer invoicing, advanced remuneration with premiums, payroll/payrun and more!
+
+### Upgrading to the Max Plan
+- Go to the **Settings** section, then to **Billing**
+- Then click on **Upgrade** in the Max column
+- Choose the number of users and click on **Proceed to Payment**
+- Enter your billing information
+- Enter your credit card information.
 
 For more details on our plans, visit our [**Pricing**](https://workstaff.app/pricing) page.
 
