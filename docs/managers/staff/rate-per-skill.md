@@ -7,6 +7,8 @@ sidebar_position: 6
 
 Workstaff allows you to add hourly rates per skill to each worker's profile and plan pay changes that will take effect on specific dates.
 
+<iframe width="640" height="338" src="https://www.loom.com/embed/9cb03b99bcc64fd0861c48f55638c9ed" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Planning a Rate Change
 
 - Go to the **Employment** tab of the worker's profile
@@ -33,5 +35,5 @@ The rate you define for the each skill will be applied to the remuneration condi
 The new per-skill rates will be applied to all shifts as of the selected date of change.
 
 :::note  
-If you do not want to change the hourly rate for all of a person's skills, the base hourly rate will be used for the shifts that match the skills for which no rate has been specified.  
+If you do not wish add hourly rates for all of a person's skills, the base hourly rate will be used for the shifts that match the skills for which no rate has been specified.  
 :::
