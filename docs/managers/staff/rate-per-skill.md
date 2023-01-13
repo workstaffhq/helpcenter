@@ -9,7 +9,7 @@ Workstaff allows you to add hourly rates per skill to each worker's profile and 
 
 ## Planning a Rate Change
 - Go to the **Employment** tab of the worker's profile
-- Under Remuneration, click on **Plan a change and/or specify per-skill rates**
+- Under **Remuneration**, click on **Plan a change and/or specify per-skill rates**
 - Select the date that the rate change will be effective
 - Enter the **New Base Hourly Rate**
 - Click on **Save**.
