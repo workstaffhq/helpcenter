@@ -35,5 +35,5 @@ The rate you define for the each skill will be applied to the remuneration condi
 The new per-skill rates will be applied to all shifts as of the selected date of change.
 
 :::note  
-If you do not wish add hourly rates for all of a person's skills, the base hourly rate will be used for the shifts that match the skills for which no rate has been specified.  
+You do not need to specify an hourly rates for all of a person's skills: the base hourly rate will be used for the shifts that match the skills for which no rate has been specified.
 :::
