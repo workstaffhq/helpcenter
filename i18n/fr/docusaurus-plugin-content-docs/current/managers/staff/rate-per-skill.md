@@ -19,7 +19,9 @@ Vous avez la possibilité de choisir que le changement de taux soit applicable �
 :::
 
 ## Ajouter des taux horaires par compétence
-Avec Workstaff, pour chaque membre du personnel, vous pouvez spécifier des taux horaires pour chaque compétence dans leur profil. Lorsque vous réservez quelqu'un pour un rôle spécifique, leur taux pour la compétence correspondante sera appliqué aux conditions de rémunération.
+
+Vous pouvez spécifier des taux horaires pour chaque compétence dans le profile de chacun des membres du personnel. Lorsque vous réservez quelqu'un pour un rôle spécifique, leur taux pour la compétence correspondante sera automatiquement appliqué aux conditions de rémunération.
+
 - Allez dans l’onglet **Emploi** du profil de la personne
 - Sous **Rémunération**, cliquez sur **Planifier un changement/taux par compétence**
 - Sélectionnez la date à partir de laquelle le changement de taux prend effet
