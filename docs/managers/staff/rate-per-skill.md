@@ -8,6 +8,7 @@ sidebar_position: 6
 Workstaff allows you to add hourly rates per skill to each worker's profile and plan pay changes that will take effect on specific dates.
 
 ## Planning a Rate Change
+
 - Go to the **Employment** tab of the worker's profile
 - Under **Remuneration**, click on **Plan a change and/or specify per-skill rates**
 - Select the date that the rate change will be effective
@@ -15,12 +16,13 @@ Workstaff allows you to add hourly rates per skill to each worker's profile and 
 - Click on **Save**.
 
 :::note  
-You can choose to have the rate change apply to a past date. In this case, the remuneration for all shifts worked on or after that date will be changed.  
+You can choose to have the rate change apply to a past date. In this case, the remuneration for all shifts worked on or after that date will be affected.  
 :::
 
-## Specifying Per-Skill Rates
+## Specifying Per-Skill Hourly Rates
+
 For each staff member, Workstaff allows you to specify hourly rates for each skill in their profile.
-When you book someone for a specific role, their rate for the corresponding skill will be applied to the remuneration conditions. 
+The rate you define for the each skill will be applied to the remuneration conditions whenever you book someone for a specific role. 
 
 - Go to the **Employment** tab of the worker's profile
 - Under **Remuneration**, click on **Plan a change and/or specify per-skill rates**
@@ -28,7 +30,7 @@ When you book someone for a specific role, their rate for the corresponding skil
 - Select a skill, enter the corresponding hourly rate and click on **+**
 - Click on **Save**.
 
-The new per-skill rates will be applied to all shifts as of the selected change date.
+The new per-skill rates will be applied to all shifts as of the selected date of change.
 
 :::note  
 If you do not want to change the hourly rate for all of a person's skills, the base hourly rate will be used for the shifts that match the skills for which no rate has been specified.  
