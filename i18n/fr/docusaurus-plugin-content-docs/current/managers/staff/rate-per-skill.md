@@ -7,6 +7,8 @@ sidebar_position: 6
 
 Workstaff vous permet d’ajouter aux profils de chaque membre du personnel des taux horaires par compétence et de planifier des changements de rémunération qui prendront effet à des dates précises.
 
+<iframe width="640" height="339" src="https://www.loom.com/embed/8e6ca059d3ae4810a4ef3070536e8857" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Planifier un changement de taux horaire
 - Allez dans l’onglet **Emploi** du profil de la personne
 - Sous **Rémunération**, cliquez sur **Planifier un changement/taux par compétence**
@@ -20,7 +22,7 @@ Vous avez la possibilité de choisir que le changement de taux soit applicable �
 
 ## Ajouter des taux horaires par compétence
 
-Vous pouvez spécifier des taux horaires pour chaque compétence dans le profile de chacun des membres du personnel. Lorsque vous réservez quelqu'un pour un rôle spécifique, leur taux pour la compétence correspondante sera automatiquement appliqué aux conditions de rémunération.
+Vous pouvez spécifier des taux horaires pour chaque compétence dans le profil de chacun des membres du personnel. Lorsque vous réservez quelqu'un pour un rôle spécifique, son taux pour la compétence correspondante sera automatiquement appliqué aux conditions de rémunération.
 
 - Allez dans l’onglet **Emploi** du profil de la personne
 - Sous **Rémunération**, cliquez sur **Planifier un changement/taux par compétence**
@@ -31,5 +33,5 @@ Vous pouvez spécifier des taux horaires pour chaque compétence dans le profile
 Les nouveaux taux horaires par compétence seront appliqués à tous les quarts à partir de la date de changement sélectionnée.
 
 :::note
-Si vous ne souhaitez pas changer le taux horaire pour toutes les compétences d'une personne, c’est le taux horaire de base qui sera utilisé pour les quarts correspondant aux compétences pour lesquelles aucun taux n'a été défini.
+Vous n'avez pas besoin de spécifier un taux horaire pour chaque compétence d'un profil: c’est le taux horaire de base qui sera utilisé pour les quarts correspondant aux compétences pour lesquelles aucun taux n'a été défini.
 :::
