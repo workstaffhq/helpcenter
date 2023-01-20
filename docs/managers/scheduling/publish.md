@@ -19,7 +19,7 @@ Workstaff allows you to publish shifts, which essentially means that you can pos
 - **Urgent**: Staff will be notified immediately with a clear mention that the opportunity is urgent
 6. Click on **Publish**.
 
-![img_2.png](Images/img_2.png)
+![Publishing](Images/publishing.png)
 
 If you wish to unpublish an offer at any time, go to the **Publishing** tab, select the job and click **Unpublish**.
 
