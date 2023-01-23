@@ -28,7 +28,7 @@ Par défaut, la première personne affectée au client se voit attribuer les rô
 Workstaff vous permet aussi d’affecter une équipe de gestion à chacun de vos projets, qu’ils soient associés à un client ou non.
 
 :::note  
-Si vous souhaitez affecter une équipe de gestion au projet d’un client auquel une équipe est déjà associée, c’est l’équipe affectée spécifiquement au projet qui en aura la charge.
+Lorsque vous assignez une équipe de gestion à un client, cette équipe sera automatiquement affectée à tous les projets créés pour ce client. Cependant, vous avez la possibilité de modifier l'équipe assignée pour chaque projet spécifique.
 :::
 
 ### Pour affecter une équipe de gestion à un projet :

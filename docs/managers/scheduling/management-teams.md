@@ -28,7 +28,7 @@ By default, the first person assigned to the client is assigned the roles of **L
 Workstaff also allows you to assign a management team to each of your projects, whether they are associated with a client or not.
 
 :::note  
-If you want to assign a management team to a client’s project that already has a team associated with them, the team assigned specifically to the project will be in charge of it.
+When you assign a management team to a client, that team will be automatically assigned to all projects created for that client. However, you have the option to change the assigned team for each specific project.
 :::
 
 ### To assign a management team to a project:
