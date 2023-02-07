@@ -6,6 +6,8 @@ sidebar_position: 10
 
 Workstaff vous permet d’affecter des équipes de gestion spécifiques à chacun de vos clients et projets. Vous pouvez ajouter de personnes que vous le souhaitez à ces équipes et choisir lesquelles sont incluses dans les discussions d’équipe en lien avec ces projets. Chaque membre de l’équipe de gestion peut ainsi voir exactement quels sont les projets qui lui sont assignés dans le Calendrier, en choisissant d’afficher ses **horaires seulement**.
 
+<iframe width="640" height="304" src="https://www.loom.com/embed/72412b7bef8e41179806bc96109b06a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Affecter une équipe de gestion à un client
 
 Lorsque vous associez une équipe de gestion à un client, elle sera automatiquement affectée à tous les projets que vous créez pour ce client.
