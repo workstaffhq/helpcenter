@@ -5,7 +5,7 @@ sidebar_position: 3
 # Afficher des offres 
 Workstaff vous permet d'afficher des postes, ce qui signifie essentiellement que vous pouvez publier des offres que vos employés peuvent consulter et auxquelles ils peuvent appliquer depuis leur téléphone portable. Les notifications de nouvelles offres sont envoyées au personnel une fois par jour à 15 heures, heure locale. Lorsque les employés ont appliqué au quart que vous avez publié, vous pouvez choisir qui affecter à partir d'une liste de candidats.
 
-<iframe width="640" height="307" src="https://www.loom.com/embed/d09328b5769d4537a01a8a94ac8a8582" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe width="640" height="307" src="https://www.loom.com/embed/bafe986b976c41b9babb04a8b0664aeb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Affichage d'un poste
 1. Sur la page du projet, allez à **Affichage**
