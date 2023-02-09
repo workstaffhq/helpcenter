@@ -5,7 +5,7 @@ sidebar_position: 3
 # Publish Shifts
 Workstaff allows you to publish shifts, which essentially means that you can post offers that your staff can review and apply to from their mobile phones. New offer notifications are sent to staff once a day at 3PM local time. When staff have applied to the shift you have published, you can choose who to book from a list of candidates.
 
-<iframe width="640" height="306" src="https://www.loom.com/embed/59f701f530814f9896abf2bfdcb34ad6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="640" height="307" src="https://www.loom.com/embed/c96022293ac844c18e4233404d7bec8a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Publishing a Shift 
 1. On the project page, go to **Publishing**.
