@@ -24,9 +24,6 @@ Once you have created your project, you can add shifts:
 5. Fill-in the number of staff needed
 6. If you wish, you can add a label and select break and travel times
 
-![img_1.png](Images/img_1.png)
-
-
 ## Draft Mode 
 
 When creating a new project, Workstaff makes you work in draft mode by default. This allows you to make any changes you want and apply them to the project once you are satisfied by clicking on **Review and Apply** on the project page. Only then will your staff receive a notification regarding their bookings.
