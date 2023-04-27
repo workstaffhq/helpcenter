@@ -24,5 +24,12 @@ Si cette icône est :
 ## Et si la personne change d’avis ?
 Si une personne a confirmé un quart, mais que, pour une raison quelconque, elle ne peut pas y travailler et doit l’annuler, elle doit contacter son responsable dès que possible afin que la modification soit faite dans l’horaire. 
 
+## Et si la personne n'arrive pas à/oublie de confirmer son quart?
+Dans le cas où certaines personnes que vous avez affectées à des quarts de travail ne sont pas en mesure de confirmer leur affectation à ces quarts, vous avez la possibilité de le faire vous-même afin que toutes les informations concernant la planification de votre projet soient à jour.
+
+Pour marquer un quart comme confirmée, sélectionnez l'affectation et cliquez sur le bouton **Marquer comme confirmé**.
+
+![mark-as-confirmed.png](Images/mark-as-confirmed.png)
+
 ## En savoir plus
 Visitez la page [**Confirmer vos horaires**](https://help.workstaff.app/fr/docs/workers/shifts/confirming-shifts/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

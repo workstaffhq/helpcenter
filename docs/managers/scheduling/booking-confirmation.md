@@ -19,8 +19,14 @@ If this icon is:
 - **Orange**: the person has not confirmed this shift within the required timeframe.
 
 
-## What if the person changes their mind?
+## What if the Person Changes Their Mind?
 If a person has confirmed a shift, but for some reason cannot work it and must cancel it, they should contact their supervisor as soon as possible to have the necessary changes made in the schedule. 
+
+## What if the Person Cannot or Forgets to Confirm?
+In the event that some of the people you have assigned to shifts are not able to confirm their shifts, you have the option of marking those shifts as confirmed so that all your project scheduling information is up-to-date.
+In order to mark a booking as confirmed, select the booking and click on the **Mark as Confirmed** button. 
+
+![mark-as-confirmed.png](Images/mark-as-confirmed.png)
 
 ## Learn More
 Visit the [**Confirm Your Schedules**](https://help.workstaff.app/docs/workers/shifts/confirming-shifts/) page in our Help Center **for workers** to learn more and share this information with your staff. 
