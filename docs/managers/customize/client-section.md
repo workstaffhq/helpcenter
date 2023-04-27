@@ -1,10 +1,10 @@
-# Manage your client list
+# Manage Your Client List
 
 The client section has been created in order to make it easier for you to track your clients.
 All the clients you previously added when creating new projects are now listed in this section.
 
 
-## Adding a new client
+## Adding a New Client
 In the main menu, go to the **Clients** section
 - Click on **Add Client**
 - Fill in the company name
@@ -26,14 +26,14 @@ In the **Clients** section, Workstaff allows you to know if each client:
 - Has been invited to use **Workstaff Connect**
 - Has not been invited.
 
-You can invite a client to us Workstaff Connect in just a few steps:
+You can invite a client to use **Workstaff Connect** in just a few steps:
 - Click on your client’s name in the list
 - Head to the **Connect** tab on their profile
 - Click on **Enable access for this client**
 - Share the displayed link with your client.
 
 :::info
-Workstaff Connect is the client portal created by Workstaff that allows your clients to send you staff requests, and allows you to share the projects of your choice with your clients. To learn more about Workstaff Connect, [contact Us](mailto:support@workstaff.app).
+**Workstaff Connect** is the client portal created by Workstaff that allows your clients to send you staff requests, and allows you to share the projects of your choice with your clients. [**Contact us**](mailto:support@workstaff.app) to learn more about **Connect**.
 :::
 
 ## Project History
@@ -41,7 +41,7 @@ Keep track of all the projects you have created for each specific client with th
 
 ## Archiving/Deleting a client
 You can archive a client by clicking on **Archive** next to their name in the client list.
-All archived clients can be un-archived by heading to the “Archived” tab of the **Clients** section, and clicking on **Un-archive**.
+All archived clients can be un-archived by heading to the **Archived** tab of the **Clients** section, and clicking on **Un-archive**.
 
 You can also delete a client by clicking on **Delete**.
 
