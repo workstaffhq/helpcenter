@@ -39,7 +39,7 @@ You can invite a client to use **Workstaff Connect** in just a few steps:
 ## Project History
 Keep track of all the projects you have created for each specific client with the **Project History**.
 
-## Archiving/Deleting a client
+## Archiving/Deleting a Client
 You can archive a client by clicking on **Archive** next to their name in the client list.
 All archived clients can be un-archived by heading to the **Archived** tab of the **Clients** section, and clicking on **Un-archive**.
 
