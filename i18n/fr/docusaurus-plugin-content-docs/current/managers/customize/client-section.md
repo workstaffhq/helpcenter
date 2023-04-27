@@ -14,7 +14,7 @@ Une fois que vous avez ajouté un client à votre liste, vous pouvez afficher so
 Sous **Informations de base**, vous pouvez modifier son nom et ajouter son adresse.
 
 ## Équipe de gestion
-Workstaff vous permet d'affecter des [**équipes de gestion spécifiques**] (https://help.workstaff.app/fr/docs/managers/scheduling/management-teams/) à chacun de vos clients. Vous pouvez ajouter autant de personnes que vous le souhaitez à ces équipes et choisir lesquelles seront incluses dans les discussions d'équipe liées à ces projets. Lorsque vous affectez une équipe de gestion à un client, elle est automatiquement affectée à tous les projets que vous créez pour ce client.
+Workstaff vous permet d'affecter des [**équipes de gestion spécifiques**](https://help.workstaff.app/fr/docs/managers/scheduling/management-teams/) à chacun de vos clients. Vous pouvez ajouter autant de personnes que vous le souhaitez à ces équipes et choisir lesquelles seront incluses dans les discussions d'équipe liées à ces projets. Lorsque vous affectez une équipe de gestion à un client, elle est automatiquement affectée à tous les projets que vous créez pour ce client.
 
 
 ## Endroit par défaut pour les projets
