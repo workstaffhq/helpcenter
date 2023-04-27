@@ -41,7 +41,7 @@ Gardez une trace de tous les projets que vous avez créés pour chaque client gr
 
 ## Archiver/supprimer un client
 Vous pouvez archiver un client en cliquant sur **Archiver** à côté de son nom dans la liste des clients.
-Tous les clients archivés peuvent être désarchivés en allant dans l'onglet "Archivé" de la section **Clients** et en cliquant sur **Désarchiver**.
+Tous les clients archivés peuvent être désarchivés en allant dans l'onglet **Archivés** de la section **Clients** et en cliquant sur **Désarchiver**.
 
 Vous pouvez également supprimer un client en cliquant sur **Supprimer**.
 
