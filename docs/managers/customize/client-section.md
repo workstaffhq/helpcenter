@@ -1,6 +1,6 @@
 # Manage Your Client List
 
-The client section has been created in order to make it easier for you to track your clients.
+The **Client** section has been created in order to make it easier for you to track your clients.
 All the clients you previously added when creating new projects are now listed in this section.
 
 
