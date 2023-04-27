@@ -33,7 +33,7 @@ Vous pouvez inviter un client à utiliser Workstaff Connect en quelques étapes 
 - Partagez le lien affiché avec votre client.
 
 :::info
-**Workstaff Connect** est le portail client créé par Workstaff qui permet à vos clients de vous envoyer des demandes de personnel, et vous permet de partager les projets de votre choix avec vos clients. [**Contactez nous**] (mailto:support@workstaff.app) pour en savoir plus sur **Connect**.
+**Workstaff Connect** est le portail client créé par Workstaff qui permet à vos clients de vous envoyer des demandes de personnel, et vous permet de partager les projets de votre choix avec vos clients. [**Contactez nous**](mailto:support@workstaff.app) pour en savoir plus sur **Connect**.
 :::
 
 ## Historique du projet
