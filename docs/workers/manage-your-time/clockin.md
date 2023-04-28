@@ -54,6 +54,10 @@ and out of shifts.
 Team leads can present the QR code from their own phone, or QR codes can be printed in advance. Make sure 
 you know how to find the QR code before starting your shift. If unsure, contact your employer.
 
+There are two ways you can scan the QR code to clock in and out:
+- **Via the Workstaff app**: After tapping on **Clock In/Clock Out**, press **Scan QR Code**
+- **Via your mobile phone camera app**: Open your camera app, scan the QR Code and press the link in order to be redirected to the Workstaff mobile app to confirm your clock in/out.
+
 ### Punch Via Your Team Lead
 
 In this case, you will be instructed to go see a team lead in person so they can clock in and out for you, from their mobile phone. 
