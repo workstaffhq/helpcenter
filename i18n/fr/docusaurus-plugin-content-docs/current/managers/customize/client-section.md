@@ -1,7 +1,7 @@
 # Gérez votre liste de clients
 
-La section **Clients** a été créée pour faciliter le suivi de vos clients.
-Tous les clients que vous avez précédemment ajoutés lors de la création de nouveaux projets sont désormais répertoriés dans cette section.
+La section **Clients** a été créée pour vous aider à suivre et à gérer vos clients de manière efficace. En utilisant cette section, Workstaff vous permettra de consulter rapidement votre liste de clients et de créer des profils clients. Ces profils peuvent être ensuite associés à vos projets pour vous aider à mieux organiser votre calendrier.
+Lorsqu'un client est associé à un projet, son nom apparaîtra sur la page du projet et sur votre calendrier. De plus, vous pourrez consulter l'historique de vos projets pour chaque client enregistré.
 
 ## Ajouter un nouveau client
 Dans le menu principal, allez dans la section **Clients**.
@@ -18,32 +18,16 @@ Workstaff vous permet d'affecter des [**équipes de gestion spécifiques**](http
 
 
 ## Endroit par défaut pour les projets
-Vous pouvez définir un emplacement de projet par défaut qui sera automatiquement attribué à tous les nouveaux projets créés pour ce client. Notez que vous pouvez toujours modifier l'emplacement de chaque projet individuel.
-
-## Statut Connect
-Dans la section **Clients**, Workstaff vous permet de savoir si chaque client :
-- est actif sur Workstaff Connect
-- a été invité à utiliser Workstaff Connect
-- n'a pas été invité.
-
-Vous pouvez inviter un client à utiliser Workstaff Connect en quelques étapes seulement :
-- Cliquez sur le nom de votre client dans la liste
-- Allez dans l'onglet **Connect** de son profil
-- Cliquez sur **Activer l'accès pour ce client**
-- Partagez le lien affiché avec votre client.
-
-:::info
-**Workstaff Connect** est le portail client créé par Workstaff qui permet à vos clients de vous envoyer des demandes de personnel, et vous permet de partager les projets de votre choix avec vos clients. [**Contactez nous**](mailto:support@workstaff.app) pour en savoir plus sur **Connect**.
-:::
+Vous avez la possibilité de désigner un emplacement de projet par défaut qui sera automatiquement assigné à tous les nouveaux projets créés pour ce client. Cependant, veuillez noter que vous pouvez toujours modifier l'emplacement pour chaque projet individuel si nécessaire.
 
 ## Historique du projet
-Gardez une trace de tous les projets que vous avez créés pour chaque client grâce à l'**Historique des projets**.
+**L'historique des projets** vous permet de conserver une trace de tous les projets que vous avez créés pour chacun de vos clients.
 
 ## Archiver/supprimer un client
 Vous pouvez archiver un client en cliquant sur **Archiver** à côté de son nom dans la liste des clients.
-Tous les clients archivés peuvent être désarchivés en allant dans l'onglet **Archivés** de la section **Clients** et en cliquant sur **Désarchiver**.
+Lorsque vous archivez un client, il sera retiré de votre liste de clients actifs et sera placé dans l'onglet **Archivés**. Vous pourrez toujours accéder aux informations et à l'historique de projets associés à ce client et, si besoin, vous pourrez choisir de le **désarchiver**.
 
-Vous pouvez également supprimer un client en cliquant sur **Supprimer**.
+Vous pouvez également supprimer définitivement un client de votre liste en cliquant sur **Supprimer**.
 
 :::note
 Vous ne pouvez supprimer un client que s'il n'est rattaché à aucun projet.

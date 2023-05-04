@@ -1,7 +1,7 @@
 # Manage Your Client List
 
-The **Client** section has been created in order to make it easier for you to track your clients.
-All the clients you previously added when creating new projects are now listed in this section.
+The **Clients** section has been designed to make it easy for you to track and manage your clients. With this section, Workstaff allows you to quickly view your list of clients and create client profiles that can be associated with your projects to maximize your calendar organization.
+When a client is associated with a project, the client's name will appear on the project page and in the calendar. Additionally, you will be able to view the project history for each of your clients.
 
 
 ## Adding a New Client
@@ -18,32 +18,16 @@ Under **Basic Information**, you can edit their name and add their address.
 Workstaff allows you to assign [**specific management teams**](https://help.workstaff.app/docs/managers/scheduling/management-teams/) to each of your clients. You can add as many people as you want to these teams and choose which ones are included in the team discussions related to these projects. When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.
 
 ## Default Project Location
-You can set a default project location that will be automatically assigned to all new projects created for this client. Note that you can still edit the location for each individual project.
-
-## Connect Status
-In the **Clients** section, Workstaff allows you to know if each client:
-- Is active on **Workstaff Connect**
-- Has been invited to use **Workstaff Connect**
-- Has not been invited.
-
-You can invite a client to use **Workstaff Connect** in just a few steps:
-- Click on your client’s name in the list
-- Head to the **Connect** tab on their profile
-- Click on **Enable access for this client**
-- Share the displayed link with your client.
-
-:::info
-**Workstaff Connect** is the client portal created by Workstaff that allows your clients to send you staff requests, and allows you to share the projects of your choice with your clients. [**Contact us**](mailto:support@workstaff.app) to learn more about **Connect**.
-:::
+You have the option to designate a default project location that will be automatically assigned to any new projects created for this client. However, please keep in mind that you can still modify the location for each individual project if necessary.
 
 ## Project History
-Keep track of all the projects you have created for each specific client with the **Project History**.
+The **Project History** allows you to keep track of all the projects you have created for each one of your clients.
 
 ## Archiving/Deleting a Client
 You can archive a client by clicking on **Archive** next to their name in the client list.
-All archived clients can be un-archived by heading to the **Archived** tab of the **Clients** section, and clicking on **Un-archive**.
+When you archive a client, they will be removed from your active client list and moved to the "Archived" tab. This way, you can still access information and project history related to this client and choose to **unarchive** them if necessary.
 
-You can also delete a client by clicking on **Delete**.
+You can also permanently remove a client from your list by clicking on **Delete**.
 
 :::note
 You can only delete a client if they are not attached to any project.
