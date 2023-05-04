@@ -7,6 +7,7 @@ sidebar_position: 10
 Workstaff allows you to assign specific management teams to each of your clients and projects. You can add as many people as you want to these teams and choose which ones are included in the team discussions related to these projects. Each member of the management team can then see exactly which projects are assigned to them in the **Calendar**, by choosing to display their **schedules only**.
 
 <iframe width="640" height="307" src="https://www.loom.com/embed/763626cdd70747a98ae921fa0afe55f5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Assigning a Management Team to a Client
 
 When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.

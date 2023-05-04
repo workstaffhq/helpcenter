@@ -51,6 +51,12 @@ Si votre employeur a choisi cette méthode de suivi du temps, vous devrez scanne
 Les chefs d'équipe peuvent présenter le code QR depuis leur propre téléphone, ou les codes QR peuvent être imprimés à l'avance. Assurez-vous
 de savoir où trouver le code QR avant de commencer votre quart. En cas de doute, contactez votre employeur.
 
+:::info
+Il y a deux façons de scanner le code QR pour pointer à l'arrivée et au départ :
+- **Dans l'application Workstaff** : Après avoir appuyé sur **Débuter/Terminer**, appuyez sur **Balayer le code QR**.
+- **Via l'application de l'appareil photo de votre téléphone portable** : Ouvrez l'application de votre appareil photo, balayer le code QR et appuyez sur le lien afin d'être redirigé vers l'application mobile Workstaff pour confirmer votre arrivée/départ.
+:::
+- 
 ### Pointer via votre chef d'équipe
 
 Dans ce cas, on vous demandera d'aller voir un chef d'équipe en personne pour qu'il puisse pointer pour vous, à partir de son téléphone mobile.

@@ -13,6 +13,7 @@ Les calendriers de paie suivants sont pris en charge par Workstaff :
 
 - **Hebdomadaire** (52 périodes par année)
 - **Bi-hebdomadaire** (24 périodes par année)
+- **Mensuel** (12 périodes par année)
 
 :::note
 Si votre organisation utilise un autre type de calendrier, veuillez nous [contacter](mailto:help@workstaff.app), et nous envisagerons de le prendre en charge.

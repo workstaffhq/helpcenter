@@ -13,6 +13,7 @@ The following pay calendars are supported by Workstaff:
 
 - **Weekly** (52 pay periods per year)
 - **Bi-Weekly** (24 pay periods per year)
+- **Monthly** (12 periods per year)
 
 :::note
 If your organization uses a different type of pay calendar, please [contact us](mailto:help@workstaff.app), and we'll consider adding support for it.
