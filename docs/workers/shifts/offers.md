@@ -33,3 +33,18 @@ When opening an application, you can:
 
 - **Withdraw your application** if you changed your mind or become unavailable for this work
 - **Message the organizer** in case you have any question regarding offer.
+
+
+## Explore Offers from an Additional Work Location
+
+The offers presented to you are determined by the proximity between the job site and the city of residence listed in your profile. By default, any jobs located more than 100km away from your city of residence will not appear in the **Find Offers** tab.
+
+Workstaff provides you with the capability to include a secondary work location, enabling you to view and apply for offers in another area.
+
+To proceed with this feature, follow these steps:
+1.	Navigate to the **Profile** tab
+2.	Select your name at the top of the screen
+3.	Choose **Work Locations**
+4.	Add a city under the **Secondary Area** section.
+
+![secondary-work-location.png](Images/secondary-work-location.PNG)
