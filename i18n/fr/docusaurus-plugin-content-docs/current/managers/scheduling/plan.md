@@ -15,7 +15,7 @@ Créer un projet dans Workstaff est une tâche rapide et facile:
 
 ![creer-projet.png](Images/creer-projet.png)
 
-## Ajouter des quarts de travail
+### Ajouter des quarts de travail
 Une fois que vous avez créé votre projet, vous pouvez ajouter des quarts de travail :
 1. Sur la page du projet, cliquez sur **Ajouter un quart**
 2. Sélectionnez la ou les dates
@@ -26,7 +26,7 @@ Une fois que vous avez créé votre projet, vous pouvez ajouter des quarts de tr
 
 
 
-## Mode brouillon
+### Mode brouillon
 
 Lorsque vous créez un nouveau projet, Workstaff vous fait travailler en mode brouillon par défaut. Cela vous permet d'apporter toutes les modifications que vous souhaitez et de les appliquer au projet une fois que vous êtes satisfait en cliquant sur **Réviser et appliquer** sur la page du projet. Ce n'est qu'à ce moment-là que votre personnel recevra une notification concernant ses affectations.
 
@@ -35,3 +35,10 @@ Vous pouvez toujours apporter des modifications à votre projet après l'avoir r
 :::note
 Il est essentiel de **Réviser et appliquer** les modifications apportées à votre projet régulièrement afin de garder vos informations à jour et d'éviter de submerger le projet avec des changements massifs lors de la révision et de l'application.
 :::
+
+## Créer un nouveau quart
+Avec Workstaff, vous avez la possibilité de créer un nouveau quart directement sans avoir à créer un nouveau projet au préalable.
+
+Pour ce faire, il vous suffit de cliquer sur le bouton **Nouveau quart** situé dans l'onglet **Aujourd’hui** ou dans la section **Calendrier**. Ensuite, fournissez les détails nécessaires pour votre quart et indiquez s’il doit être associée à un projet existant ou à un nouveau projet. En sélectionnant **Dans un nouveau projet**, un nouveau projet sera automatiquement généré avec ce nouveau quart.
+
+![Nouveau-quart.png](Images/Nouveau-quart.png)
