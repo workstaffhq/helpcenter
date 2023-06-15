@@ -37,8 +37,9 @@ Il est essentiel de **Réviser et appliquer** les modifications apportées à vo
 :::
 
 ## Créer un nouveau quart
-Avec Workstaff, vous avez la possibilité de créer un nouveau quart directement sans avoir à créer un nouveau projet au préalable.
 
-Pour ce faire, il vous suffit de cliquer sur le bouton **Nouveau quart** situé dans l'onglet **Aujourd’hui** ou dans la section **Calendrier**. Ensuite, fournissez les détails nécessaires pour votre quart et indiquez s’il doit être associée à un projet existant ou à un nouveau projet. En sélectionnant **Dans un nouveau projet**, un nouveau projet sera automatiquement généré avec ce nouveau quart.
+Workstaff vous offre la possibilité de créer un nouveau quart directement sans avoir à créer un nouveau projet au préalable.
+
+Pour ce faire, il vous suffit de cliquer sur le bouton **Nouveau quart** situé dans l'onglet **Aujourd’hui** ou dans la section **Calendrier**. Ensuite, fournissez les détails nécessaires pour votre quart et indiquez s’il doit être associé à un projet existant ou à un nouveau projet. En sélectionnant **Dans un nouveau projet**, un nouveau projet sera automatiquement généré pour contenir votre nouveau quart.
 
 ![Nouveau-quart.png](Images/Nouveau-quart.png)
