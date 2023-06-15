@@ -33,3 +33,17 @@ Lorsque vous ouvrez une candidature, vous pouvez :
 
 - **Retirer votre candidature** si vous avez changé d'avis ou si vous n'êtes plus disponible pour ce travail
 - **Contacter l'organisateur** si vous avez des questions concernant l'offre.
+
+## Explorer les offres d'un autre lieu de travail
+
+Les offres qui vous sont présentées sont déterminées par la proximité entre le lieu de travail et la ville de résidence indiquée dans votre profil. Par défaut, les emplois situés à plus de 100 km de votre ville de résidence n'apparaîtront pas dans l'onglet **Offres**.
+
+Workstaff vous offre la possibilité d'inclure un deuxième lieu de travail, ce qui vous permet de consulter et de postuler à des offres dans une autre région.
+
+Pour utiliser cette fonction, procédez comme suit :
+1. Naviguez jusqu'à l'onglet **Profil**
+2. Sélectionnez votre nom en haut de l'écran
+3. Choisissez **Lieux de travail**
+4. Ajoutez une ville dans la section **Région secondaire**.
+
+![region-secondaire.png](Images/region-secondaire.PNG)
