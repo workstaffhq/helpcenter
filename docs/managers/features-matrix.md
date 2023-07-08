@@ -19,6 +19,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | [Basic Remuneration](#remuneration)                |     ✅     |    ✅     |    ✅     |
 | [Time Tracking / Timesheets](#timesheets)          |           |    ✅     |    ✅     |
 | [Clock in/out with reminders](#timesheets)         |           |    ✅     |    ✅     |
+| Receive photos from staff in the field             |           |    ✅     |    ✅     |
 | Realtime staff presence                            |           |    ✅     |    ✅     |
 | [Broadcasts](#chat)                                |           |    ✅     |    ✅     |
 | Custom Fields for staff profiles                   |           |    ✅     |    ✅     |
