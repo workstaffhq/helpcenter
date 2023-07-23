@@ -41,9 +41,6 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
         },
@@ -84,7 +81,6 @@ const config = {
             position: 'left',
             label: 'For Workers',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
           {
             type: 'localeDropdown',
             position: 'right',
@@ -113,11 +109,7 @@ const config = {
               {
                 label: 'Features Matrix',
                 to: '/docs/managers/features-matrix',
-              },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              }
             ],
           },
           {
