@@ -1,0 +1,38 @@
+{
+  "IndexDocument": {
+    "Suffix": "index.html"
+  },
+  "ErrorDocument": {
+    "Key": "error.html"
+  },
+  "RoutingRules": [
+    {
+      "Condition": {
+        "KeyPrefixEquals": "en/"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "help.workstaff.app",
+        "ReplaceKeyPrefixWith": ""
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app"
+      }
+    }
+  ]
+}
