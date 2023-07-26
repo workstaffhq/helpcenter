@@ -21,3 +21,20 @@ Selecting multiple bookings allows you to cancel multiple bookings at once.
 - To select specific bookings, press **Ctrl** (Windows) or **Command** (macOS) and select the bookings you wish to edit
 
 ![select_multiple_bookings.png](Images/select_multiple_bookings.png)
+
+## Editing Shifts 
+Workstaff allows you edit, repeat and delete your shifts, even after you have booked staff.
+Select the shift you wish to edit and follow the following instructions: 
+1. **Editing a Shift**: Click on the **Edit** button in order to modify the label, the planned time and the number of staff needed for the shift.
+2. **Repeating a shift**: Click on the **Repeat** button, choose the date you wish to copy the shift on. Note that if you have already booked staff on that shift, they will be copied with the shift.
+3. **Cancelling a shift**: Click on the **Cancel** button. 
+
+![editing-shift.png](Images/editing-shift.png)
+
+## Editing Bookings
+Select the booking you wish to edit by clicking on the name of one of the people you have booked and follow the following instructions: 
+1. **Editing a Booking**: Click on the **Edit** button in order to modify the schedule for this specific booking. Provide a detailed schedule for each staff.
+2. **Swapping Staff on a Booking**: Click on the **Swap** button after selection the booking, and select the person you wish to place the booked staff member with.
+3. **Cancelling a Booking**: Click on the **Cancel** button and the booking will be vacant and ready to be filled with another staff member. 
+
+![editing-booking.png](Images/editing-booking.png)
