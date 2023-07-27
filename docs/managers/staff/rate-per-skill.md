@@ -1,6 +1,6 @@
 ---
 sidebar_label: Planning Rate Changes and Per-Skill Rates
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Planning Hourly Rate Changes and Specifying Per-Skill Rates

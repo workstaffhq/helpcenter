@@ -1,6 +1,6 @@
 ---
 sidebar_label: Remove Staff from Your Database
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Removing Staff From Your Database

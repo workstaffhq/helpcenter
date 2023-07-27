@@ -30,6 +30,16 @@ Dans cet onglet, vous pouvez voir en un coup d'œil les **Candidats** qui ont ap
 Si une candidature ne vous intéresse pas, vous pouvez cliquer sur **Mettre de côté** à côté du nom du candidat. Vous pouvez décider ultérieurement de remettre un candidat que vous avez mis de côté dans la liste des candidats en cliquant sur **Garder** à côté de son nom.  
 ![réserver.png](Images/réserver.png)
 
+### Trier vos candidats
+Après avoir cliqué sur le bouton **Garder** pour valider vos candidats, vous pouvez voir qui a postulé pour chaque poste en sélectionnant le poste et en vérifiant si un point bleu apparaît sur leur photo.
+
+:::info
+Conseils pour comprendre l'affichage des candidats :
+- **Point bleu** : Indique que le candidat a postulé pour le poste
+- **Nom apparaissant en gris clair** : Cela signifie que la compétence requise pour le poste sélectionné est absente de son profil.
+:::
+
+![trier-candidats.png](Images/trier-candidats.png)
 
 ### Affecter du personnel qui n'apparaît pas dans les suggestions
 Si vous souhaitez réserver du personnel qui n'apparaît pas dans votre liste de suggestions, vous pouvez accéder à l'ensemble de votre liste de personnel en cliquant sur **+** dans l’organiseur de **Candidats**.

@@ -29,6 +29,16 @@ In this tab, you can see at a glance the **Candidates** that have applied for po
 
 ![img_4.png](Images/img_4.png)
 
+### Sorting Your Candidates
+After clicking on the **Keep** button to mark your candidates for consideration, you can view who has applied for each position by selecting the position, and checking if a blue dot appears on their photo.
+
+:::info
+Tips for understanding candidate display:
+- **Blue dot**: Indicates the candidate has applied for the position
+- **Name appearing in light grey**: This means the required skill for the selected position is absent from their profile.
+:::
+
+![sorting-candidates.png](Images/sorting-candidates.png)
 
 ### Booking Staff That Does Not Appear in The Suggestions
 If you wish to book staff that doesn't appear in your list of suggestions, you can access your entire staff list by clicking on **+** in the **Candidates** organizer.
