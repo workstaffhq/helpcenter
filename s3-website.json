@@ -18,11 +18,172 @@
     },
     {
       "Condition": {
+        "KeyPrefixEquals": "blog/the-rebirth-of-the-event-industry"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/the-rebirth-of-the-event-industry/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/product-updates-august-2022"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/product-updates-august-2022/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/the-gigification-of-work"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/the-gigification-of-work/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/how-to-overcome-the-labour-shortage"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/how-to-overcome-the-labour-shortage/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/the-benefits-of-a-time-clock-app"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/the-benefits-of-a-time-clock-app/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/high-paying-flexible-jobs-in-montreal"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/high-paying-flexible-jobs-in-montreal/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/8-venues-in-montreal-for-corporate-events"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/8-venues-in-montreal-for-corporate-events/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "blog/save-time-with-our-offer-publishing-feature"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/save-time-with-our-offer-publishing-feature/"
+      }
+    },
+    {
+      "Condition": {
         "KeyPrefixEquals": "blog/"
       },
       "Redirect": {
         "Protocol": "https",
-        "HostName": "workstaff.app"
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "blog/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/the-rebirth-of-the-event-industry"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/the-rebirth-of-the-event-industry/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/product-updates-august-2022"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/product-updates-august-2022/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/the-gigification-of-work"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/the-gigification-of-work/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/how-to-overcome-the-labour-shortage"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/how-to-overcome-the-labour-shortage/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/the-benefits-of-a-time-clock-app"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/the-benefits-of-a-time-clock-app/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/high-paying-flexible-jobs-in-montreal"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/high-paying-flexible-jobs-in-montreal/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/8-venues-in-montreal-for-corporate-events"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/8-venues-in-montreal-for-corporate-events/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/blog/save-time-with-our-offer-publishing-feature"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/save-time-with-our-offer-publishing-feature/"
       }
     },
     {
