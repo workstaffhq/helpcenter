@@ -18,7 +18,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/the-rebirth-of-the-event-industry"
+        "KeyPrefixEquals": "blog/the-rebirth-of-the-event-industry/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -28,7 +28,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/product-updates-august-2022"
+        "KeyPrefixEquals": "blog/product-updates-august-2022/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -38,7 +38,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/the-gigification-of-work"
+        "KeyPrefixEquals": "blog/the-gigification-of-work/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -48,7 +48,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/how-to-overcome-the-labour-shortage"
+        "KeyPrefixEquals": "blog/how-to-overcome-the-labour-shortage/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -58,7 +58,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/the-benefits-of-a-time-clock-app"
+        "KeyPrefixEquals": "blog/the-benefits-of-a-time-clock-app/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -68,7 +68,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/high-paying-flexible-jobs-in-montreal"
+        "KeyPrefixEquals": "blog/high-paying-flexible-jobs-in-montreal/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -78,7 +78,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/8-venues-in-montreal-for-corporate-events"
+        "KeyPrefixEquals": "blog/8-venues-in-montreal-for-corporate-events/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -88,7 +88,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/save-time-with-our-offer-publishing-feature"
+        "KeyPrefixEquals": "blog/save-time-with-our-offer-publishing-feature/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -98,7 +98,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "blog/"
+        "KeyPrefixEquals": "blog/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -108,7 +108,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/the-rebirth-of-the-event-industry"
+        "KeyPrefixEquals": "fr/blog/the-rebirth-of-the-event-industry/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -118,7 +118,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/product-updates-august-2022"
+        "KeyPrefixEquals": "fr/blog/product-updates-august-2022/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -128,7 +128,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/the-gigification-of-work"
+        "KeyPrefixEquals": "fr/blog/the-gigification-of-work/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -138,7 +138,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/how-to-overcome-the-labour-shortage"
+        "KeyPrefixEquals": "fr/blog/how-to-overcome-the-labour-shortage/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -148,7 +148,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/the-benefits-of-a-time-clock-app"
+        "KeyPrefixEquals": "fr/blog/the-benefits-of-a-time-clock-app/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -158,7 +158,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/high-paying-flexible-jobs-in-montreal"
+        "KeyPrefixEquals": "fr/blog/high-paying-flexible-jobs-in-montreal/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -168,7 +168,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/8-venues-in-montreal-for-corporate-events"
+        "KeyPrefixEquals": "fr/blog/8-venues-in-montreal-for-corporate-events/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -178,7 +178,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/save-time-with-our-offer-publishing-feature"
+        "KeyPrefixEquals": "fr/blog/save-time-with-our-offer-publishing-feature/index.html"
       },
       "Redirect": {
         "Protocol": "https",
@@ -188,11 +188,12 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/blog/"
+        "KeyPrefixEquals": "fr/blog/index.html"
       },
       "Redirect": {
         "Protocol": "https",
-        "HostName": "workstaff.app"
+        "HostName": "workstaff.app",
+        "ReplaceKeyPrefixWith": "fr/blog/"
       }
     }
   ]
