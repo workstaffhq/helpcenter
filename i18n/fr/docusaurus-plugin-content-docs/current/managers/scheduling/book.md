@@ -28,6 +28,7 @@ Dans cet onglet, vous pouvez voir en un coup d'œil les **Candidats** qui ont ap
 5. Cliquez sur **Affecter**.
 
 Si une candidature ne vous intéresse pas, vous pouvez cliquer sur **Mettre de côté** à côté du nom du candidat. Vous pouvez décider ultérieurement de remettre un candidat que vous avez mis de côté dans la liste des candidats en cliquant sur **Garder** à côté de son nom.  
+
 ![réserver.png](Images/réserver.png)
 
 ### Trier vos candidats
@@ -44,6 +45,7 @@ Conseils pour comprendre l'affichage des candidats :
 ### Affecter du personnel qui n'apparaît pas dans les suggestions
 Si vous souhaitez réserver du personnel qui n'apparaît pas dans votre liste de suggestions, vous pouvez accéder à l'ensemble de votre liste de personnel en cliquant sur **+** dans l’organiseur de **Candidats**.
 Vous pourrez alors rechercher des travailleurs spécifiques en utilisant la barre de recherche et les filtres. Une fois sélectionnés, ils seront ajoutés à l'organisateur de **Candidats**.
+
 ![ajouter-candidats.png](Images/ajouter-candidats.png)
 
 ### Sélectionner le personnel sans l’affecter à des quarts
@@ -53,7 +55,6 @@ Si vous souhaitez dresser une liste du personnel qui travaillera sur votre proje
 Une fois que vous avez affecté une personne à un quart, vous pouvez choisir d'en faire un chef d'équipe. 
 1. Sélectionnez l'affectation de la personne en cliquant sur la bulle de sa photo ou sur son nom dans le quart
 2. Cliquez sur l'icône de crayon **Modifier**
-
 ![Chef.png](Images/Chef.png)
 3. Cochez **Chef d'équipe** et cliquez sur **Ok**.
 
