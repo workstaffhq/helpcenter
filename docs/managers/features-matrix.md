@@ -82,6 +82,8 @@ Below is an extensive list of features included in each Workstaff plan.
 | See who declined offers                                                   |     ✅     |    ✅     |    ✅     |
 | Review applicants                                                         |     ✅     |    ✅     |    ✅     |
 | Push and email notifications to staff of work opportunities               |     ✅     |    ✅     |    ✅     |
+| *Urgent* offers                                                           |           |    ✅     |    ✅     |
+| *First Come, First Served* offers                                         |           |    ✅     |    ✅     |
 
 ## Remuneration {#remuneration}
 
