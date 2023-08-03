@@ -24,7 +24,7 @@ Once you have created the form, you have the following options available:
 
 ![google-forms.png](Images/google-forms.png)
 
-::: note
+:::note
 Information provided by candidates in response to additional questions will not be displayed in their Workstaff profiles. However, you will be able to access it through the answers collected on Google Forms and the Google Sheet generated from these answers.
 :::
 
