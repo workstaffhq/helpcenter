@@ -1,6 +1,6 @@
 ---
 sidebar_label: Add Staff to Your Database
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Adding Staff From Your Team

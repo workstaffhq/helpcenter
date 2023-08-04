@@ -24,7 +24,7 @@ Une fois le formulaire créé, vous disposez des options suivantes :
 
 ![google-forms.png](Images/google-forms.png)
 
-::: note
+:::note
 Les informations fournies par les candidats en réponse aux questions supplémentaires ne seront pas affichées dans leur profil Workstaff. Cependant, vous pourrez y accéder grâce aux réponses collectées dans les formulaires Google et au document Google Sheet générée à partir de ces réponses.
 :::
 
