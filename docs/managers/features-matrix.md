@@ -217,7 +217,7 @@ Below is an extensive list of features included in each Workstaff plan.
 These addons currently need to be enabled for your account by our Customer Success team on request - 
 [let us know](mailto:customer.success@workstaff.app) if you're interested to try them out.
 
-| Feature                                  | Free Plan | Pro Plan | Max Plan |
-|------------------------------------------|:---------:|:--------:|:--------:|
-| Transaction Pro (Quickbooks data export) |           |    ✅     |    ✅     |
-| Onboarding via Google Forms              |           |          |    ✅     |
+| Feature                                                | Free Plan | Pro Plan | Max Plan |
+|--------------------------------------------------------|:---------:|:--------:|:--------:|
+| Transaction Pro (Quickbooks data export)               |           |    ✅     |    ✅     |
+| [Onboarding via Google Forms](../addons/google-forms/) |           |          |    ✅     |
