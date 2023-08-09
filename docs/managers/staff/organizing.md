@@ -1,6 +1,6 @@
 ---
 sidebar_label: Organize & Classify
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Organizing & Classifying Your Staff

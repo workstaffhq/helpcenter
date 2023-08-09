@@ -1,6 +1,6 @@
 ---
 sidebar_label: Staff Profiles
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # The Staff Profile

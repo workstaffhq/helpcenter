@@ -22,3 +22,20 @@ La sélection de plusieurs affectations vous permet d'annuler plusieurs affectat
 - Pour sélectionner des affectations spécifiques, appuyez sur **Ctrl** (Windows) ou **Command** (macOS) et sélectionnez les affectations que vous souhaitez modifier.
 
 ![selection-affectations.png](Images/selection-affectations.png)
+
+## Modifier des quarts de travail
+Workstaff vous permet de modifier, de répéter et de supprimer vos quarts de travail, même après avoir réservé du personnel.
+Sélectionnez le quart que vous souhaitez modifier et suivez les instructions suivantes :
+1. **Modifier un quart** : Cliquez sur le bouton **Modifier** pour modifier l’étiquette, l'heure prévue et le nombre de personnes nécessaires pour le quart
+2. **Répéter un quart** : Cliquez sur le bouton **Répéter**, choisissez la date à laquelle vous souhaitez copier le quart. Notez que si vous avez déjà réservé du personnel pour cette équipe, il sera copié avec l'équipe
+3. **Annuler un quart** : Cliquez sur le bouton **Annuler**.
+
+![modifier-quart.png](Images/modifier-quart.png)
+
+## Modifier des affectations
+Sélectionnez l’affection que vous souhaitez modifier en cliquant sur le nom de l'une des personnes que vous avez inscrites et suivez les instructions suivantes :
+1. **Modifier une affectation** : Cliquez sur le bouton **Modifier** pour changer les heures de cette affectation spécifique et/ou fournissez un horaire détaillé pour chaque membre du personnel affecté à un quart.
+2. **Remplacer le personnel** : Cliquez sur le bouton **Remplacer** après avoir sélectionné l’affectation et sélectionnez la personne avec laquelle vous souhaitez remplacer le membre du personnel.
+3. **Annuler une affectation** : Cliquez sur le bouton **Annuler** et le poste sera vacant et prêt à être comblé par un autre membre du personnel. 
+
+![modifier-affectation.png](Images/modifier-affectation.png)

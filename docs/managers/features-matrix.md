@@ -16,7 +16,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Staff invitations                                  |     ✅     |    ✅     |    ✅     |
 | Staff ratings                                      |     ✅     |    ✅     |    ✅     |
 | [Messaging / Chat](#chat)                          |     ✅     |    ✅     |    ✅     |
-| [Basic Remuneration](#remuneration)                |     ✅     |    ✅     |    ✅     |
+| [Basic Remuneration](#remuneration)                |           |    ✅     |    ✅     |
 | [Time Tracking / Timesheets](#timesheets)          |           |    ✅     |    ✅     |
 | [Clock in/out with reminders](#timesheets)         |           |    ✅     |    ✅     |
 | Receive photos from staff in the field             |           |    ✅     |    ✅     |
@@ -26,7 +26,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | [Budget and financial reports](#reports)           |           |    ✅     |    ✅     |
 | Clients management                                 |           |    ✅     |    ✅     |
 | Departments                                        |           |          |    ✅     |
-| [Advanced Remuneration (premiums)](#remuneration)  |           |          |    ✅     |
+| [Advanced Remuneration (Premiums)](#remuneration)  |           |          |    ✅     |
 | [Integrated invoicing for contractors](#invoicing) |           |          |    ✅     |
 | [Payroll / Pay run](#payroll)                      |           |          |    ✅     |
 
@@ -89,10 +89,10 @@ Below is an extensive list of features included in each Workstaff plan.
 
 | Feature                                         | Free Plan | Pro Plan | Max Plan |
 |-------------------------------------------------|:---------:|:--------:|:--------:|
-| Per hour or per shift remuneration              |     ✅     |    ✅     |    ✅     |
-| Volunteering                                    |     ✅     |    ✅     |    ✅     |
-| Paid travel time                                |     ✅     |    ✅     |    ✅     |
-| Remuneration conditions per role and per shift  |     ✅     |    ✅     |    ✅     |
+| Per hour or per shift remuneration              |           |    ✅     |    ✅     |
+| Volunteering                                    |           |    ✅     |    ✅     |
+| Paid travel time                                |           |    ✅     |    ✅     |
+| Remuneration conditions per role and per shift  |           |    ✅     |    ✅     |
 | Amount per travel hour premiums (differentials) |           |          |    ✅     |
 | Amount per work hour premiums (differentials)   |           |          |    ✅     |
 | Amount per shift premiums (differentials)       |           |          |    ✅     |
@@ -212,3 +212,12 @@ Below is an extensive list of features included in each Workstaff plan.
 | Project budgets |     ✅     |    ✅     |    ✅     |
 | Actual costs    |           |    ✅     |    ✅     |
 
+## Addons {#addons}
+
+These addons currently need to be enabled for your account by our Customer Success team on request - 
+[let us know](mailto:customer.success@workstaff.app) if you're interested to try them out.
+
+| Feature                                                | Free Plan | Pro Plan | Max Plan |
+|--------------------------------------------------------|:---------:|:--------:|:--------:|
+| Transaction Pro (Quickbooks data export)               |           |    ✅     |    ✅     |
+| [Onboarding via Google Forms](../addons/google-forms/) |           |          |    ✅     |
