@@ -87,22 +87,24 @@ Below is an extensive list of features included in each Workstaff plan.
 
 ## Remuneration {#remuneration}
 
-| Feature                                         | Free Plan | Pro Plan | Max Plan |
-|-------------------------------------------------|:---------:|:--------:|:--------:|
-| Per hour or per shift remuneration              |           |    ✅     |    ✅     |
-| Volunteering                                    |           |    ✅     |    ✅     |
-| Paid travel time                                |           |    ✅     |    ✅     |
-| Remuneration conditions per role and per shift  |           |    ✅     |    ✅     |
-| Amount per travel hour premiums                 |           |          |    ✅     |
-| Amount per work hour premiums                   |           |          |    ✅     |
-| Amount per shift premiums                       |           |          |    ✅     |
-| Percent of base wage premiums                   |           |          |    ✅     |
-| Automatic premiums based on time range          |           |          |    ✅     |
-| Automatic premiums based on days of week        |           |          |    ✅     |
-| Automatic premiums based on skills              |           |          |    ✅     |
-| Automatic premiums based on custom field values |           |          |    ✅     |
-| Automatic premiums based on employment status   |           |          |    ✅     |
-| Automatic premiums based on team lead           |           |          |    ✅     |
+| Feature                                                         | Free Plan | Pro Plan | Max Plan |
+|-----------------------------------------------------------------|:---------:|:--------:|:--------:|
+| Per hour or per shift remuneration                              |           |    ✅     |    ✅     |
+| Volunteering                                                    |           |    ✅     |    ✅     |
+| Paid travel time                                                |           |    ✅     |    ✅     |
+| Remuneration conditions per role and per shift                  |           |    ✅     |    ✅     |
+| Scheduled base hourly rate changes / history on worker profiles |           |    ✅     |    ✅     |
+| Different base hourly rates per skill on worker profiles        |           |    ✅     |    ✅     |
+| Amount per travel hour premiums                                 |           |          |    ✅     |
+| Amount per work hour premiums                                   |           |          |    ✅     |
+| Amount per shift premiums                                       |           |          |    ✅     |
+| Percent of base wage premiums                                   |           |          |    ✅     |
+| Automatic premiums based on time range                          |           |          |    ✅     |
+| Automatic premiums based on days of week                        |           |          |    ✅     |
+| Automatic premiums based on skills                              |           |          |    ✅     |
+| Automatic premiums based on custom field values                 |           |          |    ✅     |
+| Automatic premiums based on employment status                   |           |          |    ✅     |
+| Automatic premiums based on team lead                           |           |          |    ✅     |
 
 ## Time Tracking {#timesheets}
 

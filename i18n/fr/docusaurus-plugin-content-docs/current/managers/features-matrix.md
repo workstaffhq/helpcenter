@@ -16,7 +16,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Invitations du personnel                                     |      ✅       |    ✅     |    ✅     |
 | Évaluation du personnel                                      |      ✅       |    ✅     |    ✅     |
 | [Messagerie / Chat](#chat)                                   |      ✅       |    ✅     |    ✅     |
-| [Rémuneration de base](#remuneration)                        |      ✅       |    ✅     |    ✅     |
+| [Rémuneration de base](#remuneration)                        |              |    ✅     |    ✅     |
 | [Feuilles de temps](#timesheets)                             |              |    ✅     |    ✅     |
 | [Pointage des travailleurs avec rappels](#timesheets)        |              |    ✅     |    ✅     |
 | Suivi de la présence du personnel en direct                  |              |    ✅     |    ✅     |
@@ -84,16 +84,24 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 
 ## Rémunération {#remuneration}
 
-| Fonctionnalité                                              | Plan Gratuit | Plan Pro | Plan Max |
-|-------------------------------------------------------------|:------------:|:--------:|:--------:|
-| Rémunération à l'heure ou au quart de travail               |      ✅       |    ✅     |    ✅     |
-| Bénévolat                                                   |      ✅       |    ✅     |    ✅     |
-| Temps de déplacement rémunéré                               |      ✅       |    ✅     |    ✅     |
-| Conditions de rémunération par rôle et par quart            |      ✅       |    ✅     |    ✅     |
-| Montant des primes par heure de déplacement (différentiels) |              |          |    ✅     |
-| Montant des primes par heure de travail (différentiel)      |              |          |    ✅     |
-| Montant des primes par quart de travail (différentiel)      |              |          |    ✅     |
-| Primes basées sur le pourcentage (différentiel)             |              |          |    ✅     |
+| Fonctionnalité                                                  | Plan Gratuit | Plan Pro | Plan Max |
+|-----------------------------------------------------------------|:------------:|:--------:|:--------:|
+| Rémunération à l'heure ou au quart de travail                   |              |    ✅     |    ✅     |
+| Bénévolat                                                       |              |    ✅     |    ✅     |
+| Temps de déplacement rémunéré                                   |              |    ✅     |    ✅     |
+| Conditions de rémunération par rôle et par quart                |              |    ✅     |    ✅     |
+| Changements planifiés aux taux horaires de base du personnel    |              |    ✅     |    ✅     |
+| Taux horaire de base différent en fonction du poste occupé      |              |    ✅     |    ✅     |
+| Primes par heure de déplacement                                 |              |          |    ✅     |
+| Primes par heure de travail                                     |              |          |    ✅     |
+| Primes par quart de travail                                     |              |          |    ✅     |
+| Primes basées sur un pourcentage du salaire de base             |              |          |    ✅     |
+| Primes automatiques en fonction des heures travaillées          |              |          |    ✅     |
+| Primes automatiques en fonction des jours de la semaine         |              |          |    ✅     |
+| Primes automatiques en fonction des compétences                 |              |          |    ✅     |
+| Primes automatiques en fonction des champs personnalisés        |              |          |    ✅     |
+| Primes automatiques en fonction du statut d'emploi              |              |          |    ✅     |
+| Primes automatiques en fonction de la désignation chef d'équipe |              |          |    ✅     |
 
 ## Suivi du temps {#timesheets}
 
