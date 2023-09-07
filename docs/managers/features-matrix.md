@@ -8,27 +8,27 @@ Below is an extensive list of features included in each Workstaff plan.
 
 ## Main features
 
-| Feature                                            | Free Plan | Pro Plan | Max plan |
-|----------------------------------------------------|:---------:|:--------:|:--------:|
-| [Project-based scheduling](#scheduling)            |     ✅     |    ✅     |    ✅     |
-| [Open shifts / offers](#offers)                    |     ✅     |    ✅     |    ✅     |
-| [Staff database management](#staff)                |     ✅     |    ✅     |    ✅     |
-| Staff invitations                                  |     ✅     |    ✅     |    ✅     |
-| Staff ratings                                      |     ✅     |    ✅     |    ✅     |
-| [Messaging / Chat](#chat)                          |     ✅     |    ✅     |    ✅     |
-| [Basic Remuneration](#remuneration)                |           |    ✅     |    ✅     |
-| [Time Tracking / Timesheets](#timesheets)          |           |    ✅     |    ✅     |
-| [Clock in/out with reminders](#timesheets)         |           |    ✅     |    ✅     |
-| Receive photos from staff in the field             |           |    ✅     |    ✅     |
-| Realtime staff presence                            |           |    ✅     |    ✅     |
-| [Broadcasts](#chat)                                |           |    ✅     |    ✅     |
-| Custom Fields for staff profiles                   |           |    ✅     |    ✅     |
-| [Budget and financial reports](#reports)           |           |    ✅     |    ✅     |
-| Clients management                                 |           |    ✅     |    ✅     |
-| Departments                                        |           |          |    ✅     |
-| [Advanced Remuneration (Premiums)](#remuneration)  |           |          |    ✅     |
-| [Integrated invoicing for contractors](#invoicing) |           |          |    ✅     |
-| [Payroll / Pay run](#payroll)                      |           |          |    ✅     |
+| Feature                                                         | Free Plan | Pro Plan | Max plan |
+|-----------------------------------------------------------------|:---------:|:--------:|:--------:|
+| [Project-based scheduling](#scheduling)                         |     ✅     |    ✅     |    ✅     |
+| [Open shifts / offers](#offers)                                 |     ✅     |    ✅     |    ✅     |
+| [Staff database management](#staff)                             |     ✅     |    ✅     |    ✅     |
+| Staff invitations                                               |     ✅     |    ✅     |    ✅     |
+| Staff ratings                                                   |     ✅     |    ✅     |    ✅     |
+| [Messaging / Chat](#chat)                                       |     ✅     |    ✅     |    ✅     |
+| [Basic Remuneration](#remuneration)                             |           |    ✅     |    ✅     |
+| [Time Tracking / Timesheets](#timesheets)                       |           |    ✅     |    ✅     |
+| [Clock in/out with reminders](#timesheets)                      |           |    ✅     |    ✅     |
+| Receive photos from staff in the field                          |           |    ✅     |    ✅     |
+| Realtime staff presence                                         |           |    ✅     |    ✅     |
+| [Broadcasts](#chat)                                             |           |    ✅     |    ✅     |
+| Custom Fields for staff profiles                                |           |    ✅     |    ✅     |
+| [Budget and financial reports](#reports)                        |           |    ✅     |    ✅     |
+| Clients management                                              |           |    ✅     |    ✅     |
+| Departments                                                     |           |          |    ✅     |
+| [Advanced Remuneration (Premiums/Differentials)](#remuneration) |           |          |    ✅     |
+| [Integrated invoicing for contractors](#invoicing)              |           |          |    ✅     |
+| [Payroll / Pay run](#payroll)                                   |           |          |    ✅     |
 
 ## Staff database management {#staff}
 
@@ -93,10 +93,16 @@ Below is an extensive list of features included in each Workstaff plan.
 | Volunteering                                    |           |    ✅     |    ✅     |
 | Paid travel time                                |           |    ✅     |    ✅     |
 | Remuneration conditions per role and per shift  |           |    ✅     |    ✅     |
-| Amount per travel hour premiums (differentials) |           |          |    ✅     |
-| Amount per work hour premiums (differentials)   |           |          |    ✅     |
-| Amount per shift premiums (differentials)       |           |          |    ✅     |
-| Percent-based premiums (differentials)          |           |          |    ✅     |
+| Amount per travel hour premiums                 |           |          |    ✅     |
+| Amount per work hour premiums                   |           |          |    ✅     |
+| Amount per shift premiums                       |           |          |    ✅     |
+| Percent of base wage premiums                   |           |          |    ✅     |
+| Automatic premiums based on time range          |           |          |    ✅     |
+| Automatic premiums based on days of week        |           |          |    ✅     |
+| Automatic premiums based on skills              |           |          |    ✅     |
+| Automatic premiums based on custom field values |           |          |    ✅     |
+| Automatic premiums based on employment status   |           |          |    ✅     |
+| Automatic premiums based on team lead           |           |          |    ✅     |
 
 ## Time Tracking {#timesheets}
 
