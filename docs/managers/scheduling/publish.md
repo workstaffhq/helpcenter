@@ -13,13 +13,17 @@ Workstaff allows you to publish shifts, which essentially means that you can pos
 3. Under **Publishing Options**, you can select whether you want to publish the shift:
 - **to staff with matching skills**: you can use the filters to further narrow your search
 - **to specific people**: you can select the staff you wish to send the offer to
-4. Go under **Notes to staff** to add any additional information that the candidates can read upon opening the offer
-5. Choose the notification mode for this offer:
+4. Additionally, you can choose between further options:
+- **First Come, First Served**: When this option is selected, applicants will be automatically booked and confirmed in the order they apply
+- **Require Complete Availability**: When this option is selected, Workstaff will only accept applications that are available for all shifts published for this role in the project
+5. Go under **Notes to staff** to add any additional information that the candidates can read upon opening the offer
+6. Choose the notification mode for this offer:
 - **Normal**: Staff will be notified on the next notification window at  3PM local time
 - **Urgent**: Staff will be notified immediately with a clear mention that the opportunity is urgent
-6. Click on **Publish**.
+7. Click on **Publish**.
 
 ![Publishing](Images/publishing.png)
+
 
 If you wish to unpublish an offer at any time, go to the **Publishing** tab, select the job and click **Unpublish**.
 
