@@ -12,10 +12,8 @@ La création de vos propres primes est une tâche simple et rapide. Une fois cr�
 4. Remplissez les champs et choisissez si le taux est monétaire ou un pourcentage du salaire de base.
 ![Premiums.png](Images/Premiums.png)
 
-## Primes automatiques 
-Workstaff vous permet d'ajouter des primes automatiques aux conditions de rémunération de vos projets.
-
-Lorsque vous créez une nouvelle prime, vous pouvez définir les règles et faire en sorte que la prime s'applique automatiquement aux quarts de travail correspondants :
+## Primes automatisées 
+Lors de la création d'une nouvelle prime, vous pouvez choisir de l'appliquer automatiquement aux quarts de travail lorsqu'une ou plusieurs des conditions suivantes sont remplies :
 
 - **Pour toute heure travaillée entre “Début” et “Fin”**: La prime s'appliquera à toutes les heures travaillées entre l'heure de début et l'heure de fin que vous avez sélectionnées;
 - **Lorsque le quart est pour ces compétences**: Chaque fois qu'un travailleur est affecté à l'une des compétences sélectionnées, la prime est appliquée aux conditions de rémunération de son affectation;
@@ -24,4 +22,4 @@ Lorsque vous créez une nouvelle prime, vous pouvez définir les règles et fair
 - **Lorsque le statut d'emploi de la personne est "..."**: La prime est automatiquement appliquée à tous les employés inscrits ayant le statut d'emploi sélectionné dans leur profil;
 - **Lorsque la personne est désignée comme chef d'équipe**: La prime est automatiquement appliquée à tous les chefs d'équipe désignés pour le projet.
 
-![premiumrules.png](Images/premiumrules.png)
+![Prime automatisée](Images/prime-auto.png)

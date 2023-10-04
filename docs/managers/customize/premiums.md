@@ -14,9 +14,7 @@ Creating your own premiums is a quick and easy task. Once created, your premiums
 
 ## Automated Premiums 
 
-Workstaff allows you to add automated premiums to your projects’ remuneration conditions.
-
-When creating a new premium, you can set the rules and have the premium applied to corresponding shifts automatically:
+When creating a new premium, you can choose for it to be automatically applied to shifts when one or more of the following conditions are met:
 
 - **To any hour worked between “start time” and “end time”**: The premium will applied to all the hours worked between the start and end time you selected;
 - **When shift is for any of these skills**: Every time a worker is booked for one of the selected roles, the premium is applied to their booking’s remuneration conditions;
@@ -25,4 +23,8 @@ When creating a new premium, you can set the rules and have the premium applied 
 - **When staff employment status “…”**: The premium is automatically applied to all booked staff having the selected employment status in their profile.
 - **When staff is flagged as a team lead on the shift**: The premium is automatically applied to all designated team leads on the project. 
 
-![premiumrules.png](Images/premiumrules.png)
+:::note
+If you select multiple conditions for the same premium, please be aware that all of these conditions must be fulfilled for the premium to be applicable to shifts.
+:::
+
+![Automated premium](Images/automated-premium.png)
