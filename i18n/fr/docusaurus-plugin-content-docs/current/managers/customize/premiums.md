@@ -22,4 +22,8 @@ Lors de la création d'une nouvelle prime, vous pouvez choisir de l'appliquer au
 - **Lorsque le statut d'emploi de la personne est "..."**: La prime est automatiquement appliquée à tous les employés inscrits ayant le statut d'emploi sélectionné dans leur profil;
 - **Lorsque la personne est désignée comme chef d'équipe**: La prime est automatiquement appliquée à tous les chefs d'équipe désignés pour le projet.
 
+:::note
+  Si vous sélectionnez plusieurs conditions pour la même prime, sachez que toutes ces conditions doivent être remplies pour que la prime soit applicable aux quarts de travail.
+:::
+
 ![Prime automatisée](Images/prime-auto.png)
