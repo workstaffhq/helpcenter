@@ -13,7 +13,8 @@ Whether you want to create events that span a long period of time or create sche
 ![img_6.png](Images/img_6.png)
 2. Click on **New**
 3. Select the dates and whether you wish to copy the schedule from an existing one in the project
-4. You can then create shifts in this new schedule 
+4. Once the new schedule is creating, you can edit its location if it is different from the initial project location
+5. You can then create shifts in this new schedule.
 
 ## Repeating a Schedule 
 If your schedule always follows the same structure, you have the possibility to repeat a schedule you have already created in the project as many times as you want. 
@@ -32,3 +33,17 @@ If your schedule always follows the same structure, you have the possibility to 
 
 ## Deleting a Schedule
 To delete a schedule, select it in the schedule tab and click on **Delete**.  
+
+## Adding a location
+If your projects contain multiple locations, Workstaff allows you to create schedules for different addresses on the same day within one single project. 
+Here are the steps to follow: 
+1. On the project page, click on the schedule tab
+2. Click on **Add location**
+![Adding a location](Images/add-location-1.png)
+3. Enter the new address
+4. Select whether you wish to **copy the current schedule to this location** in order to copy the same shift(s) to the new location
+5. Once the new location has been added, you can edit its label, and it will also be displayed in the calendar after the project title.
+![Adding a location](Images/add-location-2.png)
+
+
+

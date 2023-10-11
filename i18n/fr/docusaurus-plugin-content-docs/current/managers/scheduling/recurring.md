@@ -14,7 +14,8 @@ Que vous souhaitiez créer des événements qui s'étendent sur une longue péri
    ![onglet-horaires.png](Images/onglet-horaires.png)
 2. Cliquez sur **Nouveau**
 3. Sélectionnez les dates et indiquez si vous souhaitez copier l'horaire à partir d'un horaire existant dans le projet
-4. Vous pouvez ensuite créer des quarts de travail dans ce nouvel horaire.
+4. Une fois le nouvel horaire créé, vous pouvez modifier son emplacement s'il est différent de l'emplacement initial du projet.
+5. Vous pouvez ensuite créer des quarts de travail dans ce nouvel horaire.
 
 ## Répéter un horaire
 
@@ -35,3 +36,14 @@ Si votre horaire suit toujours la même structure, vous avez la possibilité de 
 
 ## Supprimer un horaire
 Pour supprimer un horaire, sélectionnez-le dans le tiroir des horaires et cliquez sur **Supprimer**. 
+
+## Ajouter un emplacement
+Si vos projets comportent plusieurs sites, Workstaff vous permet de créer des horaires pour différents emplacements le même jour au sein d'un seul et même projet.
+Voici les étapes à suivre :
+1. Sur la page du projet, cliquez sur l'onglet des horaires
+2. Cliquez sur **Ajouter un emplacement**
+![Ajouter un emplacement](Images/emplacement.png)
+3. Saisissez la nouvelle adresse
+4. Sélectionnez si vous souhaitez **copier l’horaire actuel à cet emplacement** afin de copier le/les même(s) quart(s) vers le nouveau lieu
+5. Une fois que le nouveau lieu a été ajouté, vous pouvez modifier son libellé, et il sera également affiché dans le calendrier après le titre du projet.
+![Ajouter un emplacement](Images/emplacement-2.png)
