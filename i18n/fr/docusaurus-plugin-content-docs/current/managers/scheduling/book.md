@@ -36,7 +36,7 @@ Si une candidature ne vous intéresse pas, vous pouvez cliquer sur **Mettre de c
 Lorsque les membres de votre personnel [**indiquent leur disponibilité via l'application mobile**](https://help.workstaff.app/fr/docs/workers/availability/), ces informations sont affichées dans différentes sections de la plateforme web, notamment:
 - **La liste de suggestions du personnel**
 - **L'organisateur de candidats**
-- **La vue "Jour" du calendrier**
+- **La vue "Jour"** du calendrier
 
 La disponibilité du personnel est indiquée par différentes couleurs:
 - **Gris**: Aucune information de disponibilité fournie
