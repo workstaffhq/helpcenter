@@ -31,6 +31,20 @@ Si une candidature ne vous intéresse pas, vous pouvez cliquer sur **Mettre de c
 
 ![réserver.png](Images/réserver.png)
 
+## Disponibilité du personnel
+
+Lorsque les membres de votre personnel [**indiquent leur disponibilité via l'application mobile**](https://help.workstaff.app/fr/docs/workers/availability/), ces informations sont affichées dans différentes sections de la plateforme web, notamment:
+- **La liste de suggestions du personnel**
+- **L'organisateur de candidats**
+- **La vue "Jour" du calendrier**
+
+La disponibilité du personnel est indiquée par différentes couleurs:
+- **Gris**: Aucune information de disponibilité fournie
+- **Vert**: Disponible
+- **Orange**: Partiellement disponible (déjà planifié pour une partie du créneau que vous vous apprêtez à attribuer)
+- **Rouge**: Indisponible
+Ce système de codes couleurs vous permet de comprendre rapidement le statut de disponibilité de vos membres du personnel, facilitant ainsi la gestion efficace des quarts de travail et des affectations.
+
 ### Trier vos candidats
 Après avoir cliqué sur le bouton **Garder** pour valider vos candidats, vous pouvez voir qui a postulé pour chaque poste en sélectionnant le poste et en vérifiant si un point bleu apparaît sur leur photo.
 
