@@ -70,7 +70,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Share notes with team                                     |     ✅     |    ✅     |    ✅     |
 | Share documents with team                                 |     ✅     |    ✅     |    ✅     |
 | Associate projects to clients                             |           |    ✅     |    ✅     |
-| Auto-fill shifts                                          |           |    ✅     |    ✅     |
+| Magic fill: Intelligent automatic filling of shifts       |           |    ✅     |    ✅     |
 
 ## Open shifts / Offers {#offers}
 

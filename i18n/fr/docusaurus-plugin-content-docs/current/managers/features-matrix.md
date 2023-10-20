@@ -70,6 +70,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Partager des documents avec l'équipe                                      |      ✅       |    ✅     |    ✅     |
 | Remplissage automatique des quarts de travail                             |              |    ✅     |    ✅     |
 | Associer un client à un projet                                            |              |    ✅     |    ✅     |
+| Remplissage Magique: Affectations automatiques intelligentes              |              |    ✅     |    ✅     |
 
 ## Quarts ouverts / Offres de travail {#offers}
 
