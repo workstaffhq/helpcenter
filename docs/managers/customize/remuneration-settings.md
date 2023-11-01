@@ -27,7 +27,7 @@ For instance, if the weekly limit is set to 30 hours, any hours worked beyond th
 
 **Daily Overtime**   
 Similarly, if the daily limit is 8 hours, Workstaff displays any extra hours worked on the daily calendar view when this limit is surpassed.
-![Daily Overtime](Images/DOT.png)
+![Daily Overtime](Images/DOT.png) 
 
 **Combined Daily and Weekly Overtime**   
 When both weekly and daily overtime rules are set, weekly overtime is calculated from regular hours after daily overtime has been factored in.
