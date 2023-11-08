@@ -46,8 +46,9 @@ The pay stub screen shows, for one worker at a time, both the high level summary
 1. **Stub Navigator**: You can directly navigate through pay stubs without the need to come back to the main pay period screen to process the pay stubs.
 2. **Mark as Final button**: Mark stubs as final once you've processed them to keep track of your progress and instruct Workstaff to leave the stubs untouched even when re-generating the pay period.
 3. **Earnings Summary**: This shows a sum of all earnings, grouped by earning code and rate. These are the numbers that are usually input in your payroll management software.
-4. **Work Log**: This table shows, for every day of the period, a summary of hours worked, pauses and travel time. This can be used to quickly identify and quantify overtime. 
-5. **Detailed Earnings**: This table shows every earning entry for the worker on the pay run, and allows to easily navigate to the corresponding project.
+4. **Overtime**: Workstaff automatically applies rate premiums on hours worked beyond the defined overtime limits. Weekly overtime is calculated based on regular hours after daily overtime has been accounted for.Weekly overtime premiums are calculated on the basis of a weighted average of earnings for the given period.
+5. **Work Log**: This table shows, for every day of the period, a summary of hours worked, pauses and travel time. This can be used to quickly identify and quantify overtime. 
+6. **Detailed Earnings**: This table shows every earning entry for the worker on the pay run, and allows to easily navigate to the corresponding project.
 
 
 ## Warnings and Alerts

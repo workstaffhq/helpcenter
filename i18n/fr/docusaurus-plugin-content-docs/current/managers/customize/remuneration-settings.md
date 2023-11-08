@@ -7,9 +7,14 @@ Once you input values in the chosen options, they will automatically be applied 
 ![Rémunération](Images/paramètre-rémunération.png)
 
 
-## Temps supplémentaire 
-L'outil de calcul des heures supplémentaires de Workstaff permet de rémunérer correctement les membres du personnel qui travaillent au-delà de leurs heures normales de travail.
+## Calcul des heures supplémentaires
+L'outil de calcul des heures supplémentaires de Workstaff permet de s'assurer que les employés sont correctement rémunérés pour le temps supplémentaire qu'ils ont effectué. Voici comment il fonctionne :
 
-Vous pouvez définir jusqu'à deux options de calcul des heures supplémentaires **hebdomadaires** et **journalières**.
+### Définition des règles relatives aux heures supplémentaires
+Vous avez la possibilité d'établir jusqu'à deux règles hebdomadaires et deux règles journalières de calcul des heures supplémentaires. Ces règles définissent le nombre maximum d'heures que les employés peuvent travailler sans avoir à payer d'heures supplémentaires.
 
-![Temps supplémentaire](Images/temps-supp.png)
+![Heures supplémentaires](Images/Supp-setting.png)
+
+### Primes tarifaires automatisées
+Workstaff applique automatiquement des primes de taux sur les heures travaillées au-delà des limites définies pour les heures supplémentaires. Les heures supplémentaires hebdomadaires sont calculées sur la base des heures normales, une fois que les heures supplémentaires journalières ont été comptabilisées.
+

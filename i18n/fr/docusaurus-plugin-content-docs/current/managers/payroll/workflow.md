@@ -46,8 +46,9 @@ L'écran du talon de paie affiche, pour un travailleur à la fois, le résumé �
 1. **Navigateur de talon**: Vous pouvez naviguer à travers les bulletins de paie sans avoir à revenir à l'écran principal de la période de paie pour les traiter.
 2. **Bouton _Marquer comme Final_**: Marquez les talons comme définitifs une fois que vous les avez traités pour garder une trace de votre progression et indiquer à Workstaff de ne plus les modifier, même lors d'une nouvelle génération de la période de paie.
 3. **Sommes des gains**: Il s'agit de la somme de tous les revenus, regroupés par code de gain et par taux. En règle générles, ce sont les chiffres qui devraient être saisis dans votre logiciel de gestion de la paie.
-4. **Journal de travail**: Ce tableau présente, pour chaque jour de la période, un résumé des heures travaillées, des pauses et des temps de déplacement. Il peut être utilisé pour identifier et quantifier rapidement les heures supplémentaires.
-5. **Gains détaillés**: Ce tableau montre chaque entrée de salaire pour le travailleur sur la période et permet de naviguer facilement vers le projet correspondant si nécessaire.
+4. **Heures supplémentaires** : Workstaff applique automatiquement des primes de taux sur les heures travaillées au-delà des limites définies pour les heures supplémentaires. Les heures supplémentaires hebdomadaires sont calculées sur la base des heures normales après comptabilisation des heures supplémentaires journalières. Les primes d'heures supplémentaires hebdomadaires sont calculées sur la base d'une moyenne pondérée des salaires pour la période donnée.
+5. **Journal de travail**: Ce tableau présente, pour chaque jour de la période, un résumé des heures travaillées, des pauses et des temps de déplacement. Il peut être utilisé pour identifier et quantifier rapidement les heures supplémentaires.
+6. **Gains détaillés**: Ce tableau montre chaque entrée de salaire pour le travailleur sur la période et permet de naviguer facilement vers le projet correspondant si nécessaire.
 
 ## Avertissements et alertes
 
