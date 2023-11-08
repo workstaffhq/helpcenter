@@ -27,7 +27,7 @@ Le module Paie comporte 2 écrans principaux : l'écran de la période de paie e
 
 ### Écran de la période de paie
 
-![Écran de la période de paie](./images/payroll-ui-annotated.png)
+![Écran de la période de paie](./images/paystub-ui-annotated.png)
 
 L'écran de la période de paie présente une vue d'ensemble de tous les talons des employés, permet de les filtrer et de les trier et facilite le suivi de la progression du traitement de la paie.
 
@@ -102,9 +102,9 @@ Vous pouvez tout de même générer les données de la période en cours avant q
 Si nécessaire, Workstaff vous permet de redimensionner votre première et votre dernière période de paie (qui peut être la même période si vous venez de commencer à utiliser le module et que vous avez une seule période).
 
 1. Cliquez sur l'icône représentant un engrenage en haut à droite de la page de la période de paie.
-1. Sélectionner **Redimensionner la période...**.
+2. Sélectionner **Redimensionner la période...**.
   ![resize.png](images/resize.png)
-1. Choississez une nouvelle date de début et/ou de fin.
+3. Choississez une nouvelle date de début et/ou de fin.
 
 :::note
 Vous ne pouvez réduire ou prolonger une période de paie existante que par un nombre limité de jours. Cette durée dépend de votre calendrier de paie, mais en général, Workstaff ne vous permettra pas de prolonger une période plus de deux fois la taille d'une période de paie standard dans le calendrier de paie utilisé pour votre compte.
