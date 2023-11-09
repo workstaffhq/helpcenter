@@ -21,5 +21,5 @@ Keep track of your staff's time by going to the **Today** section in the main me
 ![img.png](img.png)
 
 ## Learn More
-Visit the [**Clock In and Out of Shifts**](https://help.workstaff.app/docs/workers/manage-your-time/clockin/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+Visit the [**Clock In and Out of Shifts**](../../workers/manage-your-time/clockin.md) page in our Help Center **for workers** to learn more and share this information with your staff. 
 

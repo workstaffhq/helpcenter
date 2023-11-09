@@ -29,5 +29,5 @@ In order to mark a booking as confirmed, select the booking and click on the **M
 ![mark-as-confirmed.png](Images/mark-as-confirmed.png)
 
 ## Learn More
-Visit the [**Confirm Your Schedules**](https://help.workstaff.app/docs/workers/shifts/confirming-shifts/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+Visit the [**Confirm Your Schedules**](../../workers/shifts/confirming-shifts.md) page in our Help Center **for workers** to learn more and share this information with your staff. 
 

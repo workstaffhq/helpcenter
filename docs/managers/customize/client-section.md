@@ -15,7 +15,7 @@ Once you have added a client to your list, you can display their profile by clic
 Under **Basic Information**, you can edit their name and add their address.
 
 ## Management Team
-Workstaff allows you to assign [**specific management teams**](https://help.workstaff.app/docs/managers/scheduling/management-teams/) to each of your clients. You can add as many people as you want to these teams and choose which ones are included in the team discussions related to these projects. When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.
+Workstaff allows you to assign [**specific management teams**](../scheduling/management-teams.md) to each of your clients. You can add as many people as you want to these teams and choose which ones are included in the team discussions related to these projects. When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.
 
 ## Default Project Location
 You have the option to designate a default project location that will be automatically assigned to any new projects created for this client. However, please keep in mind that you can still modify the location for each individual project if necessary.
