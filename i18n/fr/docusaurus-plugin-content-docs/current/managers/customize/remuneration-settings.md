@@ -1,4 +1,8 @@
-# Paramètres de la rémunération
+---
+title: Rémunération et temps supplémentaire
+---
+
+# Personnaliser la rémunération et les heures supplémentaires
 
 Workstaff allows you to customize the way your remuneration is calculated for your account. To do so, head to the **Account** tab of the **Settings** section, and scroll down to **Remuneration**.
 

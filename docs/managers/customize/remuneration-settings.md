@@ -1,4 +1,8 @@
-# Remuneration Settings 
+---
+title: Remuneration & Overtime
+---
+
+# Remuneration & Overtime Settings 
 
 Workstaff allows you to customize the way your remuneration is calculated for your account. To do so, head to the **Account** tab of the **Settings** section, and scroll down to **Remuneration**.
 

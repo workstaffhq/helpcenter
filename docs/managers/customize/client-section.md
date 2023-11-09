@@ -1,3 +1,7 @@
+--- 
+title: Clients
+---
+
 # Manage Your Client List
 
 The **Clients** section has been designed to make it easy for you to track and manage your clients. With this section, Workstaff allows you to quickly view your list of clients and create client profiles that can be associated with your projects to maximize your calendar organization.

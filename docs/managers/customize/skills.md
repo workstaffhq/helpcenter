@@ -1,3 +1,7 @@
+---
+title: Skills / Roles
+---
+
 # Use Your Own Skills / Roles
 
 Workstaff allows you to create skills that reflect the positions you associate with your shift. 

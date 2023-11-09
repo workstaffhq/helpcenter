@@ -1,3 +1,7 @@
+---
+title: Suivi du temps
+---
+
 # Paramètres de suivi du temps
   
 ## Configurez vos paramètres de suivi du temps

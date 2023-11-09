@@ -1,3 +1,7 @@
+---
+title: Time Tracking
+---
+
 # Time Tracking Settings
 
 ## Setting Up Your Time Tracking Settings

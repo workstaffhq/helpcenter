@@ -1,3 +1,7 @@
+---
+title: Clients
+---
+
 # Gérez votre liste de clients
 
 La section **Clients** a été créée pour vous aider à suivre et à gérer vos clients de manière efficace. En utilisant cette section, Workstaff vous permettra de consulter rapidement votre liste de clients et de créer des profils clients. Ces profils peuvent être ensuite associés à vos projets pour vous aider à mieux organiser votre calendrier.

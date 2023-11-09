@@ -23,10 +23,6 @@
     "message": "Features Matrix",
     "description": "The label of footer link with label=Features Matrix linking to /docs/managers/features-matrix"
   },
-  "link.item.label.Blog": {
-    "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to /blog"
-  },
   "link.item.label.Support": {
     "message": "Support",
     "description": "The label of footer link with label=Support linking to mailto:support@workstaff.app"

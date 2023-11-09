@@ -1,8 +1,7 @@
-# Gérez votre abonnement
+# Gérer votre plan
+
 Une fois connecté(e) à la plateforme, Workstaff vous permet de gérer votre abonnement vous-même.
 Afin d’accéder aux informations relatives à votre abonnement, allez dans la section principale **Paramètres**, puis dans l’onglet **Facturation**.
-
-
 
 ## Passer à Pro
 Lorsque vous joignez Workstaff, votre compte est sur le **plan Gratuit** par défaut et vous donne accès aux fonctionnalités clés.
@@ -38,36 +37,16 @@ Le plan **Max** vous permet d’accéder à l’ensemble des fonctionnalités du
 
 Pour plus de détails sur les plans, visitez notre page [**Tarification**](https://workstaff.app/fr/pricing).
 
-## Gérer les utilisateurs
-Workstaff vous permet d’ajouter ou de retirer des utilisateurs en fonction de vos besoins. Les utilisateurs correspondent aux employés administratifs/de bureau et à toute personne devant accéder aux fonctionnalités employeur de Workstaff. 
+## Annuler votre plan
 
-Vous pouvez ajouter ou enlever des utilisateurs vous-même et à tout moment directement dans Workstaff. Vos charges mensuelles seront automatiquement ajustées et les charges du mois courant seront chargées ou créditées au prorata.
-
-### Ajouter un utilisateur
-- Allez dans la section principale **Paramètres**, puis rendez-vous dans l’onglet **Utilisateurs**
-- Entrez le prénom, le nom et le courriel du nouvel utilisateur
-- Cliquez sur **Inviter**.
-
-### Retirer un utilisateur
-- Allez dans la section principale **Paramètres**, puis rendez-vous dans l’onglet **Utilisateurs**
-- Cliquez sur **Supprimer** à côté du nom de l’utilisateur.
-
-### Désactiver un utilisateur
-Les utilisateurs peuvent être désactivés temporairement lorsque, par exemple, vos activités sont saisonnières. Les utilisateurs inactifs ne peuvent pas se connecter et ne sont pas pris en considération par la limite de comptes.
-Pour désactiver un utilisateur, cliquez sur **Désactiver** à côté du nom de l’utilisateur.
-
-### Remplacer un utilisateur
-Workstaff vous permet de remplacer un utilisateur sans avoir à en ajouter un de plus à votre abonnement.
-
-Pour remplacer un utilisateur :
-- Désactivez l’utilisateur à remplacer dans un premier temps
-- Entrez ensuite les informations du nouvel utilisateur
-- Cliquez sur **Inviter** pour que cet utilisateur remplace celui que vous venez de désactiver.
-
-## Annuler votre plan Pro
 Vous pouvez annuler votre plan Pro à tout moment et vous réabonner plus tard lorsque vous aurez à nouveau besoin des outils de productivité du plan Pro.
 
-### Pour annuler votre plan Pro
+### Pour annuler votre plan
+
 - Allez dans la section principale **Paramètres**, puis rendez-vous dans l’onglet **Facturation**
 - Cliquez sur **Gérer mon abonnement…**
 - Cliquez ensuite sur l’abonnement à supprimer, cliquez ensuite sur **Annuler l’abonnement**.
+
+:::note
+Même si vous pouvez annuler votre abonnement à tout moment, Workstaff ne remboursera pas les montants déjà encourus pour la période en cours.
+:::

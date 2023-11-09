@@ -1,8 +1,9 @@
 ---
+title: Google Forms
 sidebar_position: 1
 ---
 
-# Simplifiez le processus d'intégration de votre personnel avec l'extension Google Forms de Workstaff
+# Intégration avec Google Forms
 
 Simplifiez le processus de candidature et d'intégration de votre personnel grâce à l'extension Google Forms de Workstaff. Demandez à vos candidats de remplir ces formulaires afin de recueillir des informations essentielles pour votre organisation et votre planification. Gagnez du temps en créant automatiquement leur profil à partir des informations contenues dans leurs réponses. Profitez de la commodité et de l'efficacité de la solution intégrée de Workstaff pour une expérience d'intégration plus fluide.
 
