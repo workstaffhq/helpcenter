@@ -29,6 +29,19 @@ In this tab, you can see at a glance the **Candidates** that have applied for po
 
 ![img_4.png](Images/img_4.png)
 
+## Staff Availability
+When your staff members [**share their availability using the mobile app**](https://help.workstaff.app/docs/workers/availability/), this information is displayed in various sections of the web platform, including:
+- **Staff Suggestion List** 
+- **Candidate Organizer** 
+- **Day View** of the calendar.
+
+Staff availability is indicated by different colors:
+- **Grey**: No availability information provided 
+- **Green**: Available 
+- **Orange**: Partially available (already scheduled for a part of the shift you are planning to assign)
+- **Red**: Unavailable.
+This colour-coded system helps you quickly understand the availability status of your staff members, making it easier to efficiently manage shifts and bookings.
+
 ### Sorting Your Candidates
 After clicking on the **Keep** button to mark your candidates for consideration, you can view who has applied for each position by selecting the position, and checking if a blue dot appears on their photo.
 

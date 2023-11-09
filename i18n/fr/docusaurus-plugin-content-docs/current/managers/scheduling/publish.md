@@ -13,11 +13,14 @@ Workstaff vous permet d'afficher des postes, ce qui signifie essentiellement que
 3. Sous **Options d'affichage**, vous pouvez sélectionner si vous souhaitez afficher le poste :
 - **à tout mon personnel disponible ayant la compétence correspondante** : vous pouvez utiliser les filtres pour affiner votre recherche
 - **à des personnes spécifiques** : vous pouvez sélectionner le personnel auquel vous souhaitez envoyer l'offre
-4. Allez dans la rubrique **Notes au personnel** pour ajouter toute information supplémentaire que les candidats peuvent lire à l'ouverture de l'offre
-5. Choisissez le mode de notification pour cette offre : 
+4. Vous pouvez aussi choisir parmi d'autres options :
+- **Premier arrivé, premier servi** : Lorsque cette option est sélectionnée, les candidats sont automatiquement affectés et confirmés dans l’ordre de réception de leur candidature.
+- **Exiger une disponibilité complète** : Lorsque cette option est sélectionnée, Workstaff n'accepte que les candidatures de personnes qui sont disponibles pour tous les quarts publiés pour ce rôle dans le projet.
+5. Allez dans la rubrique **Notes au personnel** pour ajouter toute information supplémentaire que les candidats peuvent lire à l'ouverture de l'offre
+6. Choisissez le mode de notification pour cette offre : 
 - **Normal**: le personnel sera informé lors de la prochaine fenêtre de notification à 15h, heure locale
 - **Urgent**: le personnel sera immédiatement informé avec une mention claire que l'opportunité est urgente 
-6. Cliquez sur **Afficher**.
+7. Cliquez sur **Afficher**.
 
 ![affichage.png](Images/affichage.png)
 
