@@ -45,7 +45,9 @@ Par défaut, Workstaff demandera des factures pour les quarts de travail rémun�
 ## Utilisateurs
 La section **Utilisateurs** vous permet de gérer qui peut accéder à votre compte Workstaff. Vous pouvez visualiser vos utilisateurs actifs et inactifs, ajouter et supprimer des utilisateurs à votre compte en fonction des besoins de votre organisation.
 
+Voir [**Gérez votre abonnement**](../billing/manage-users.md) pour plus de détails sur la gestion des utilisateurs.
+
 ## Départements
 Vous pouvez scinder vos activités Workstaff en plusieurs sections pour refléter votre structure organisationnelle. La création de départements vous permet de diviser votre personnel et vos horaires afin de faciliter vos opérations.
 
-Voir [**Gérez votre abonnement**](../billing/index.md) pour plus de détails sur la gestion des utilisateurs. 
+
