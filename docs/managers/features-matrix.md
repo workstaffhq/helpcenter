@@ -112,6 +112,7 @@ Below is an extensive list of features included in each Workstaff plan.
 |----------------------------------------------------------|:---------:|:--------:|:--------:|
 | View staff schedule                                      |     ✅     |    ✅     |    ✅     |
 | Track work times, travel times and unpaid pauses         |           |    ✅     |    ✅     |
+| Track and identify overtime                              |           |    ✅     |    ✅     |
 | Clock in/out with QR Code                                |           |    ✅     |    ✅     |
 | Enforce clock in/out via QR code                         |           |    ✅     |    ✅     |
 | Geolocated clock in/out                                  |           |    ✅     |    ✅     |
@@ -143,6 +144,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Consolidate earnings for employees and contractors within pay periods |           |          |    ✅     |
 | Weekly (52/year) and Bi-Weekly (26/year) pay periods                  |           |          |    ✅     |
 | Daily and weekly work hours summary per staff                         |           |          |    ✅     |
+| Overtime; Remunerate hours worked in overtime                         |           |          |    ✅     |
 | Detection of non-approved hours                                       |           |          |    ✅     |
 | Detection of unprocessed shifts                                       |           |          |    ✅     |
 | Detection of schedule and remuneration changes                        |           |          |    ✅     |

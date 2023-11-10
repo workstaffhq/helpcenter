@@ -5,6 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start --host 0.0.0.0",
+    "start-fr": "docusaurus start --host 0.0.0.0 --locale fr",
     "build": "docusaurus build",
     "build-next": "docusaurus build --config docusaurus.config.next.js",
     "swizzle": "docusaurus swizzle",
@@ -15,19 +16,19 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.1.0",
-    "@docusaurus/preset-classic": "^2.1.0",
-    "@mdx-js/react": "^1.6.21",
+    "@docusaurus/core": "^2.4.3",
+    "@docusaurus/preset-classic": "^2.4.3",
+    "@mdx-js/react": "^1.6.22",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "https://github.com/workstaffhq/docusaurus-lunr-search",
     "docusaurus-plugin-sass": "^0.2.2",
     "file-loader": "^6.2.0",
     "prism-react-renderer": "^1.2.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-share": "^4.4.0",
-    "sass": "^1.53.0",
+    "sass": "^1.69.5",
     "url-loader": "^4.1.1"
   },
   "browserslist": {

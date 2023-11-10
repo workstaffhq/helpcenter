@@ -310,7 +310,23 @@
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tags",
+    "message": "Étiquettes",
     "description": "The title of the tag list page"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Principal",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Encart de documentation",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Fermer la barre de navigation",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Afficher/cache la barre de navigation",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
   }
 }

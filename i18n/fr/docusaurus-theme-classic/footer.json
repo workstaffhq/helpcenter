@@ -7,10 +7,6 @@
     "message": "Courriel",
     "description": "The label of footer link with label=Email linking to mailto:support@workstaff.app"
   },
-  "link.item.label.Blog": {
-    "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to /blog"
-  },
   "copyright": {
     "message": "Copyright © 2021 Workstaff Inc.",
     "description": "The footer copyright"

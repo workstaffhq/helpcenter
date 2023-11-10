@@ -11,8 +11,8 @@
     "message": "For Workers",
     "description": "Navbar item with label For Workers"
   },
-  "item.label.Blog": {
-    "message": "Blog",
-    "description": "Navbar item with label Blog"
+  "logo.alt": {
+    "message": "Workstaff Logo",
+    "description": "The alt text of navbar logo"
   }
 }

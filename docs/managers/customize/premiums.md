@@ -1,3 +1,7 @@
+---
+title: Premiums
+---
+
 # Create Your Own Premiums 
 
 Workstaff allows you to create your own premiums that you can later add to the remuneration conditions in your projects if required.

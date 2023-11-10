@@ -1,3 +1,7 @@
+---
+title: Champs personnalisés
+---
+
 # Personnalisez les champs de profil du personnel
 
 Créez des champs personnalisés pour fournir les informations les plus complètes aux profils de vos employés.
