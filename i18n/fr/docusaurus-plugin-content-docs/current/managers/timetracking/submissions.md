@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Soumission et approbation des heures
 
 Une fois que vos employés ont pointé au début et à la fin d'un quart, ils sont invités à soumettre leurs feuilles de temps à partir de leur téléphone portable. Workstaff facilite le suivi des soumissions de temps de votre personnel.

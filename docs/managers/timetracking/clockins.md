@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Clock In / Clock Out
 
 Workstaff allows your employees to clock in and out of a shift through different options you can choose from.

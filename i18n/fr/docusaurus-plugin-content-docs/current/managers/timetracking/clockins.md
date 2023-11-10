@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Pointage des heures 
 
 Workstaff permet à vos employés de pointer à l'arrivée et au départ d'un quart grâce à différentes options parmi lesquelles vous pouvez choisir.

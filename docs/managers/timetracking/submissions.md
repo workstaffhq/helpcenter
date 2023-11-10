@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Time Submission & Approval
 
 Once your staff have clocked in and out of a shift, they'll be instructed to submit their timesheets from their mobile phone. Workstaff facilitates keeping track of your staff’s time submissions.
