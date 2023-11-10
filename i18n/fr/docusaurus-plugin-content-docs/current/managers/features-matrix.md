@@ -110,6 +110,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 |----------------------------------------------------------------------------------------|:------------:|:--------:|:--------:|
 | Visualiser l'horaire du personnel                                                      |      ✅       |    ✅     |    ✅     |
 | Suivi des temps de travail, des temps de déplacement et des pauses non rémunérées      |              |    ✅     |    ✅     |
+| Suivi automatique des heures supplémentaires                                           |              |    ✅     |    ✅     |
 | Pointage par code QR                                                                   |              |    ✅     |    ✅     |
 | Pointage par code QR obligatoire                                                       |              |    ✅     |    ✅     |
 | Pointage géolocalisé                                                                   |              |    ✅     |    ✅     |
@@ -140,6 +141,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Consolider les gains des employés et des contractants au sein des périodes de paie |              |          |    ✅     |
 | Périodes de paie hebdomadaires (52/an) et bi-hebdomadaires (26/an)                 |              |          |    ✅     |
 | Résumé des heures de travail quotidiennes et hebdomadaires par personnel           |              |          |    ✅     |
+| Temps supplémentaire: Rémunération des heures supplémentaires                      |              |          |    ✅     |
 | Détection des heures non approuvées                                                |              |          |    ✅     |
 | Détection des quarts de travail non traités                                        |              |          |    ✅     |
 | Détection des changements aux horaires et de rémunération                          |              |          |    ✅     |
