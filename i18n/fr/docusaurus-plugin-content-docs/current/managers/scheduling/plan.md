@@ -2,7 +2,7 @@
 sidebar_position : 2
 ---
 
-# Planifier un événement
+# Planifier un projet
 
 <iframe width="640" height="307" src="https://www.loom.com/embed/4449efc8035b4e6b977bbe421ba41cc9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

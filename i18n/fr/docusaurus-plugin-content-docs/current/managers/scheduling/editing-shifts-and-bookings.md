@@ -24,18 +24,29 @@ La sélection de plusieurs affectations vous permet d'annuler plusieurs affectat
 ![selection-affectations.png](Images/selection-affectations.png)
 
 ## Modifier des quarts de travail
-Workstaff vous permet de modifier, de répéter et de supprimer vos quarts de travail, même après avoir réservé du personnel.
+Workstaff vous permet de modifier, de répéter et de supprimer vos quarts de travail, même après avoir réservé du personnel.   
 Sélectionnez le quart que vous souhaitez modifier et suivez les instructions suivantes :
-1. **Modifier un quart** : Cliquez sur le bouton **Modifier** pour modifier l’étiquette, l'heure prévue et le nombre de personnes nécessaires pour le quart
-2. **Répéter un quart** : Cliquez sur le bouton **Répéter**, choisissez la date à laquelle vous souhaitez copier le quart. Notez que si vous avez déjà réservé du personnel pour cette équipe, il sera copié avec l'équipe
-3. **Annuler un quart** : Cliquez sur le bouton **Annuler**.
+1. **Modifier un quart** : Modifiez l’étiquette, l'heure prévue et le nombre de personnes nécessaires pour le quart.
+2. **Changer de poste** : Modifiez le poste d’un quart de travail et de toutes les personnes qui y sont inscrites.
+3. **Fractionner un quart** : Divisez une équipe pour répartir le temps planifié entre différents postes pour toutes les personnes affectées au quart.
+4. **Répéter un quart** : Cliquez sur le bouton **Répéter**, choisissez la date à laquelle vous souhaitez copier le quart. Notez que si vous avez déjà affecté du personnel à ce quart, il sera copié avec le quart. 
+5. **Annuler un quart** : Cliquez sur le bouton **Annuler** pour supprimer le quart.
 
-![modifier-quart.png](Images/modifier-quart.png)
+![modifier-quarts.png](Images/modifer-quarts.png)
 
 ## Modifier des affectations
 Sélectionnez l’affection que vous souhaitez modifier en cliquant sur le nom de l'une des personnes que vous avez inscrites et suivez les instructions suivantes :
-1. **Modifier une affectation** : Cliquez sur le bouton **Modifier** pour changer les heures de cette affectation spécifique et/ou fournissez un horaire détaillé pour chaque membre du personnel affecté à un quart.
-2. **Remplacer le personnel** : Cliquez sur le bouton **Remplacer** après avoir sélectionné l’affectation et sélectionnez la personne avec laquelle vous souhaitez remplacer le membre du personnel.
-3. **Annuler une affectation** : Cliquez sur le bouton **Annuler** et le poste sera vacant et prêt à être comblé par un autre membre du personnel. 
+1. **Modifier une affectation** : Modifiez les heures de cette affectation spécifique et/ou fournissez un horaire détaillé pour chaque membre du personnel affecté à un quart.
+2. **Changer le poste** : Modifiez le poste de la personne sélectionnée.
+3. **Fractionner** : Divisez une réservation pour répartir le temps planifié entre différents postes pour la personne sélectionnée.
+4. **Remplacer le personnel** : Sélectionnez la personne avec laquelle vous souhaitez remplacer le membre du personnel.
+5. **Annuler une affectation** : Cliquez sur le bouton **Annuler** et le poste sera vacant et prêt à être comblé par un autre membre du personnel."e poste sera vacant et prêt à être comblé par un autre membre du personnel. 
 
-![modifier-affectation.png](Images/modifier-affectation.png)
+![modifier-affectation.png](Images/modifer-affectation.png)
+
+## Annuler les dernières modifications
+Workstaff vous offre la possibilité d'annuler les dernières modifications apportées à vos projets. Cette fonction sert de filet de sécurité, vous permettant de revenir en arrière et de corriger toute modification ou erreur.
+
+1. **Annuler la modification précédente** : Cette fonction vous permet de revenir sur la dernière action effectuée dans votre projet. Qu'il s'agisse d'ajouter, de supprimer ou de modifier des quarts et des affections, cette fonction rétablit rapidement l'état antérieur du projet. Vous pouvez l'utiliser pour revenir sur une série d'actions, en annulant progressivement toutes les modifications effectuées depuis la dernière version enregistrée du projet.
+2. **Annuler tout le brouillon** : Cette fonction vous permet d'annuler toutes les modifications non enregistrées et de ramener le projet à son dernier état enregistré. Si vous avez effectué plusieurs ajustements mais que vous souhaitez revenir à la version originale enregistrée sans avoir à annuler individuellement chaque changement, cette fonction efface toutes les modifications apportées au projet, ce qui permet de faire table rase pour les modifications ou les révisions ultérieures.
+![annuler.png](Images/annuler.png)

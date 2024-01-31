@@ -2,7 +2,7 @@
 sidebar_position : 6
 ---
 
-# Événements de longue durée
+# Projets de longue durée
 
 Que vous souhaitiez créer des événements qui s'étendent sur une longue période ou créer des horaires qui se répètent d'une semaine à l'autre, Workstaff vous permet de diviser votre projet en horaires de la manière indiquée ci-dessous.
 

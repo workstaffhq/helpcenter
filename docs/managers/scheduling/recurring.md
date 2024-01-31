@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Long-Running Events
+# Long-Running Projects
 
 Whether you want to create events that span a long period of time or create schedules that repeat from week to week, Workstaff allows you to divide your project into schedules in the ways listed below.
 
