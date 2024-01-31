@@ -32,4 +32,4 @@ Pour marquer un quart comme confirmée, sélectionnez l'affectation et cliquez s
 ![mark-as-confirmed.png](Images/mark-as-confirmed.png)
 
 ## En savoir plus
-Visitez la page [**Confirmer vos horaires**](https://help.workstaff.app/fr/docs/workers/shifts/confirming-shifts/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 
+Visitez la page [**Confirmer vos horaires**](../../workers/shifts/confirming-shifts.md) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

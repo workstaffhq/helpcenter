@@ -38,4 +38,4 @@ Once candidates have applied for a position, and you’ve booked staff for the s
 ![mark_as_filled.png](Images/mark_as_filled.png)
 
 ## Learn More
-Visit the [**Finding Work**](https://help.workstaff.app/docs/workers/shifts/offers/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+Visit the [**Finding Work**](../../workers/shifts/offers.md) page in our Help Center **for workers** to learn more and share this information with your staff. 

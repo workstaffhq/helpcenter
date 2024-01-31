@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Time Submission & Approval
 
 Once your staff have clocked in and out of a shift, they'll be instructed to submit their timesheets from their mobile phone. Workstaff facilitates keeping track of your staff’s time submissions.
@@ -27,4 +31,4 @@ You can edit a timesheet if the information it contains is incorrect or if the s
 You can export Excel reports from the timesheets for specific periods by selecting the dates and clicking **Download**. 
 
 ## Learn More
-Visit the [**Report Your Time**](https://help.workstaff.app/docs/workers/manage-your-time/report-your-time/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+Visit the [**Report Your Time**](../../workers/manage-your-time/report-your-time.md) page in our Help Center **for workers** to learn more and share this information with your staff. 

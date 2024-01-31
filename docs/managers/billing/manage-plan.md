@@ -1,8 +1,11 @@
-# Manage Your Subscription
+---
+title: Manage Your Plan
+---
+
+# Manage Your Workstaff Plan
+
 Once you have logged in to the platform, Workstaff allows you to manage your subscription yourself.
 To access your subscription information, go to the main **Settings** section, then to the **Billing** tab.
-
-
 
 ## Upgrade to Pro
 When you first sign up on Workstaff, your account is on the **Free plan** by default and gives you access to key features.
@@ -13,11 +16,11 @@ You can take advantage of a free 14-day trial of the Pro plan that you can start
 
 ### To start the 14-day trial
 - Click on **Try Pro for FREE** in the upper right hand corner of the screen to be redirected to the **Billing**.
-- Then click on **Try Pro FREE for 14 days** or **Try FREE for 14 days** in the **Pro** column. 
- 
-You can upgrade to the Pro plan during or after your 14-day trial. 
+- Then click on **Try Pro FREE for 14 days** or **Try FREE for 14 days** in the **Pro** column.
 
-### Upgrading to the Pro Plan 
+You can upgrade to the Pro plan during or after your 14-day trial.
+
+### Upgrading to the Pro Plan
 - Click on **Upgrade to Pro** in the upper right hand corner of the page
 - Then click on **Upgrade Now** in the Pro column
 - Choose the number of users and click on **Proceed to Payment**
@@ -38,36 +41,16 @@ The **Max** plan gives you access to all the features of the Pro plan as well as
 
 For more details on our plans, visit our [**Pricing**](https://workstaff.app/pricing) page.
 
-## Managing Seats
-Workstaff allows you to add or remove seats according to your needs. Seats are administrative/office users and anyone who needs access to Workstaff's employer features. You can add or remove seats yourself at any time directly in Workstaff. Your monthly charges will be automatically adjusted and current month charges will be charged or credited on a prorated basis.
+## Cancelling Your Plan
 
-### Adding a Seat
-- Go to the main section **Settings**, then go to the **Users** tab
-- Enter the first name, last name and email of the new user
-- Click on **Invite**.
-
-### Removing a Seat
-- Go to the main **Settings** section, then go to the **Users** tab
-- Click on **Delete** next to the user's name.
-
-### Deactivating a Seat
-Users can be temporarily deactivated when, for example, your business is seasonal. Inactive users cannot log in and do not count towards your seat limit.
-
-To deactivate a seat, click **Deactivate** next to the user's name.
-
-### Replacing a seat
-Workstaff allows you to replace a user without having to add another seat to your subscription.
-
-To replace a seat:
-- First deactivate the seat to be replaced
-- Then enter the new seat’s information
-- Click on **Invite** to have this seat replace the one you just deactivated.
-
-## Cancelling Your Pro Plan
 You can cancel your Pro plan at any time and re-subscribe later when you need the Pro plan productivity tools again.
 
-### To Cancel Your Pro Plan
+### To Cancel Your Plan
+
 - Go to the main **Settings** section, then go to the **Billing** tab
 - Click on **Manage subscription...**
 - Click on the subscription you wish to cancel, then click on **Cancel Subscription**.
 
+:::note
+Although you can cancel your subscription at any time, Workstaff will not refund any amounts already charged for the current period.
+:::

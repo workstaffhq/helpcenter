@@ -1,3 +1,7 @@
+---
+title: Compétences / Rôles
+---
+
 # Utilisez vos propres compétences/rôles
 
 Workstaff vous permet de créer des compétences qui reflètent les rôles que vous associez à votre quart.

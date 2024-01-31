@@ -1,3 +1,7 @@
+---
+title: Clients
+---
+
 # Gérez votre liste de clients
 
 La section **Clients** a été créée pour vous aider à suivre et à gérer vos clients de manière efficace. En utilisant cette section, Workstaff vous permettra de consulter rapidement votre liste de clients et de créer des profils clients. Ces profils peuvent être ensuite associés à vos projets pour vous aider à mieux organiser votre calendrier.
@@ -14,7 +18,7 @@ Une fois que vous avez ajouté un client à votre liste, vous pouvez afficher so
 Sous **Informations de base**, vous pouvez modifier son nom et ajouter son adresse.
 
 ## Équipe de gestion
-Workstaff vous permet d'affecter des [**équipes de gestion spécifiques**](https://help.workstaff.app/fr/docs/managers/scheduling/management-teams/) à chacun de vos clients. Vous pouvez ajouter autant de personnes que vous le souhaitez à ces équipes et choisir lesquelles seront incluses dans les discussions d'équipe liées à ces projets. Lorsque vous affectez une équipe de gestion à un client, elle est automatiquement affectée à tous les projets que vous créez pour ce client.
+Workstaff vous permet d'affecter des [**équipes de gestion spécifiques**](../scheduling/management-teams.md) à chacun de vos clients. Vous pouvez ajouter autant de personnes que vous le souhaitez à ces équipes et choisir lesquelles seront incluses dans les discussions d'équipe liées à ces projets. Lorsque vous affectez une équipe de gestion à un client, elle est automatiquement affectée à tous les projets que vous créez pour ce client.
 
 
 ## Endroit par défaut pour les projets

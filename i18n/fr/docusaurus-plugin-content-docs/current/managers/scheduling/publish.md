@@ -37,4 +37,4 @@ Une fois que les candidats ont posé leur candidature et que vous avez affecté 
 ![maquer-comme-comblé.png](Images/marquer-comme-comblé.png)
 
 ## En savoir plus
-Visitez la page [**Trouver du travail**](https://help.workstaff.app/fr/docs/workers/shifts/offers/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 
+Visitez la page [**Trouver du travail**](../../workers/shifts/offers.md) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

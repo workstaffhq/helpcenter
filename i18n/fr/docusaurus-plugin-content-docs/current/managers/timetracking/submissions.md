@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Soumission et approbation des heures
 
 Une fois que vos employés ont pointé au début et à la fin d'un quart, ils sont invités à soumettre leurs feuilles de temps à partir de leur téléphone portable. Workstaff facilite le suivi des soumissions de temps de votre personnel.
@@ -28,4 +32,4 @@ Vous avez la possibilité de modifier une feuille de temps si les informations q
 Vous pouvez exporter des rapports Excel à partir des feuilles de temps pour des périodes précises en sélectionnant les dates et en cliquant sur **Télécharger**. 
 
 ## En savoir plus
-Visitez la page [**Soumettre vos heures**](https://help.workstaff.app/fr/docs/workers/manage-your-time/report-your-time/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 
+Visitez la page [**Soumettre vos heures**](../../workers/manage-your-time/report-your-time.md) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

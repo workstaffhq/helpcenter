@@ -18,7 +18,7 @@ En passant votre curseur sur les photos, vous pouvez afficher le nom de la perso
 - Marquer la photo comme favorite
 - Télécharger la photo
 - Supprimer la photo
-![event-photos-1.png](Images/event-photos-1.png)
+![event-photos-1.png](../scheduling/Images/event-photos-1.png)
 
 Si vous devez supprimer plusieurs photos, vous pouvez cliquer sur **Sélection multiple**, puis sur le bouton **Supprimer**.
 
@@ -26,7 +26,7 @@ Workstaff vous permet également de filtrer les photos soumises par votre person
 1. Filtrer par rôle
 2. Filtrer par personne
 3. Afficher uniquement les photos favorites
-![event-photos-2.png](Images/event-photos-2.png)
+![event-photos-2.png](../scheduling/Images/event-photos-2.png)
 
 Pour afficher les photos qui viennent d'être soumises par vos collaborateurs, vous pouvez cliquer sur le bouton **Actualiser**.
-![event-photos-3.png](Images/event-photos-3.png)
+![event-photos-3.png](../scheduling/Images/event-photos-3.png)

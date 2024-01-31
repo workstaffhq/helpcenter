@@ -24,7 +24,7 @@
     "description": "The label for category Payroll in sidebar managersSidebar"
   },
   "sidebar.managersSidebar.category.Settings & Customizations": {
-    "message": "Paramètres et personalisation",
+    "message": "Paramètres / Personalisation",
     "description": "The label for category Settings & Customizations in sidebar managersSidebar"
   },
   "sidebar.workersSidebar.category.Troubleshooting": {
@@ -54,5 +54,17 @@
   "sidebar.managersSidebar.category.Troubleshooting": {
     "message": "Dépannage",
     "description": "The label for category Troubleshooting in sidebar managersSidebar"
+  },
+  "sidebar.managersSidebar.category.Billing & Subscription": {
+    "message": "Facturation / Abonnement",
+    "description": "The label for category Execute in sidebar managersSidebar"
+  },
+  "sidebar.managersSidebar.category.Execute": {
+    "message": "Exécuter",
+    "description": "The label for category Execute in sidebar managersSidebar"
+  },
+  "sidebar.managersSidebar.category.Addons": {
+    "message": "Extensions",
+    "description": "The label for category Addons in sidebar managersSidebar"
   }
 }

@@ -39,4 +39,4 @@ Si les informations figurant sur la facture sont correctes, cliquez simplement s
 Vous pouvez exporter la facture au format pdf en allant dans **Actions** et en cliquant sur **Télécharger**.
 
 ## En savoir plus
-Visitez la page [**Créez des factures pour votre travail**](https://help.workstaff.app/fr/docs/workers/invoices/) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 
+Visitez la page [**Créez des factures pour votre travail**](../../workers/invoices.md) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 

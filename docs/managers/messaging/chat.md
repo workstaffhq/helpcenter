@@ -57,5 +57,5 @@ To do so, parts of your message can include additional syntax as described here:
 | *Italic*   | Surround text to be put in italic with single asterisks | `My name is *John Smith*`   | My name is *John Smith*   |
 
 ## Learn More
-Visit the [**Sending Messages**](https://help.workstaff.app/docs/workers/messaging/) page in our Help Center **for workers** to learn more and share this information with your staff. 
+Visit the [**Sending Messages**](../../workers/messaging.md) page in our Help Center **for workers** to learn more and share this information with your staff. 
 
