@@ -8,16 +8,6 @@
   "RoutingRules": [
     {
       "Condition": {
-        "KeyPrefixEquals": "en/"
-      },
-      "Redirect": {
-        "Protocol": "https",
-        "HostName": "help.workstaff.app",
-        "ReplaceKeyPrefixWith": ""
-      }
-    },
-    {
-      "Condition": {
         "KeyPrefixEquals": "en/topics/delete-account"
       },
       "Redirect": {
@@ -210,6 +200,16 @@
         "Protocol": "https",
         "HostName": "workstaff.app",
         "ReplaceKeyPrefixWith": "fr/blog/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "en/"
+      },
+      "Redirect": {
+        "Protocol": "https",
+        "HostName": "help.workstaff.app",
+        "ReplaceKeyPrefixWith": ""
       }
     }
   ]
