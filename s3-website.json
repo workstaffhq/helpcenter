@@ -8,7 +8,7 @@
   "RoutingRules": [
     {
       "Condition": {
-        "KeyPrefixEquals": "en/topics/delete-account"
+        "KeyPrefixEquals": "en/topics/delete-account/index.html"
       },
       "Redirect": {
         "ReplaceKeyPrefixWith": "/docs/workers/troubleshooting/close-account/"
@@ -16,7 +16,7 @@
     },
     {
       "Condition": {
-        "KeyPrefixEquals": "fr/topics/delete-account"
+        "KeyPrefixEquals": "fr/topics/delete-account/index.html"
       },
       "Redirect": {
         "ReplaceKeyPrefixWith": "/fr/docs/workers/troubleshooting/close-account/"
