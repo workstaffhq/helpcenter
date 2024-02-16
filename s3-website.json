@@ -18,6 +18,22 @@
     },
     {
       "Condition": {
+        "KeyPrefixEquals": "en/topics/delete-account"
+      },
+      "Redirect": {
+        "ReplaceKeyPrefixWith": "/docs/workers/troubleshooting/close-account/"
+      }
+    },
+    {
+      "Condition": {
+        "KeyPrefixEquals": "fr/topics/delete-account"
+      },
+      "Redirect": {
+        "ReplaceKeyPrefixWith": "/fr/docs/workers/troubleshooting/close-account/"
+      }
+    },
+    {
+      "Condition": {
         "KeyPrefixEquals": "blog/the-rebirth-of-the-event-industry/index.html"
       },
       "Redirect": {
