@@ -25,16 +25,29 @@ Selecting multiple bookings allows you to cancel multiple bookings at once.
 ## Editing Shifts 
 Workstaff allows you edit, repeat and delete your shifts, even after you have booked staff.
 Select the shift you wish to edit and follow the following instructions: 
-1. **Editing a Shift**: Click on the **Edit** button in order to modify the label, the planned time and the number of staff needed for the shift.
-2. **Repeating a shift**: Click on the **Repeat** button, choose the date you wish to copy the shift on. Note that if you have already booked staff on that shift, they will be copied with the shift.
-3. **Cancelling a shift**: Click on the **Cancel** button. 
+1. **Edit**: Modify the label, the planned time and/or the number of staff needed for the shift.
+2. **Change Position**: Change the position of a shift and of all the people booked on it.
+3. **Split**: Divide a shift to allocate the planned time among different positions for all bookings within this shift.
+4. **Repeat**: Choose the date you wish to copy the shift on. Note that if you have already booked staff on that shift, they will be copied with the shift.
+5. **Cancel**: Click on **Cancel** to delete the selected shift.
 
-![editing-shift.png](Images/editing-shift.png)
+![editing-shift.png](Images/edit-shifts.png)
 
 ## Editing Bookings
-Select the booking you wish to edit by clicking on the name of one of the people you have booked and follow the following instructions: 
-1. **Editing a Booking**: Click on the **Edit** button in order to modify the schedule for this specific booking. Provide a detailed schedule for each staff.
-2. **Swapping Staff on a Booking**: Click on the **Swap** button after selection the booking, and select the person you wish to place the booked staff member with.
-3. **Cancelling a Booking**: Click on the **Cancel** button and the booking will be vacant and ready to be filled with another staff member. 
+Select the booking you wish to edit by clicking on the name of one of the people you have booked and follow the following instructions:
+1. **Edit a Booking**: Modify the schedule for this specific booking. Provide a detailed schedule for each staff.
+2. **Change Position**: Change the position of the selected worker.
+3. **Split**: Divide a booking to allocate the planned time among different positions for the selected worker.
+4. **Swap Staff on a Booking**: Click on the **Swap** button after selecting the booking, and select the person you wish to replace the booked staff member with.
+5. **Cancel**: Click on the **Cancel** button and the booking will be vacant and ready to be filled with another staff member.
 
 ![editing-booking.png](Images/editing-booking.png)
+
+## Reverting the Last Changes 
+Workstaff offers you the flexibility to revert the last changes within your projects. This feature serves as a safety net, allowing you to backtrack and correct any modifications or mistakes.
+
+Workstaff offers you the flexibility to revert the last changes within your projects. This feature serves as a safety net, allowing you to backtrack and correct any modifications or mistakes.
+
+1. **Revert Last Changes**: This function enables you to retract the most recent action performed in your project. Whether it’s adding, deleting, or modifying shifts and bookings, it swiftly restores the project to its previous state. You can use it to backtrack through a series of actions, progressively reverting all changes made since the last saved version of the project.
+2. **Discard All Draft Changes**: This function allows you to discard all unsaved modifications and revert the project to its last saved state. If you've made multiple adjustments but wish to return to the original saved version without individually undoing each change, this feature efficiently clears all draft modifications, ensuring a clean slate for further editing or review.
+![undo.png](Images/Undo.png)

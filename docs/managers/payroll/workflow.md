@@ -104,9 +104,9 @@ If necessary, Workstaff allows you to resize your first and last pay period (whi
 
 To do so:
 1. Click on the cog icon at the top right of the Pay Period page
-1. Select **Resize pay period...**. <br/>
+2. Select **Resize pay period...**. <br/>
   ![resize.png](images/resize.png)
-1. Choose the new start and/or end date.
+3. Choose the new start and/or end date.
 
 :::note
 You can shrink or extend an existing pay period by only a limited number of days. That number depends on your pay calendar but generally speaking, Workstaff will not let you extend a period larger than twice the size of a standard pay period in the pay calendar in use for your account.
