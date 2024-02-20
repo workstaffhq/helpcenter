@@ -31,20 +31,21 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 
 ## Gestion de la base de données {#staff}
 
-| Fonctionnalité                                  | Plan Gratuit | Plan Pro | Plan Max |
-|-------------------------------------------------|:------------:|:--------:|:--------:|
-| Inviter / Ajouter du personnel                  |      ✅       |    ✅     |    ✅     |
-| Rechercher, trier et filtrer la base de données |      ✅       |    ✅     |    ✅     |
-| Profils actifs / inactifs                       |      ✅       |    ✅     |    ✅     |
-| Lieu                                            |      ✅       |    ✅     |    ✅     |
-| Notation par étoiles                            |      ✅       |    ✅     |    ✅     |
-| Compétences                                     |      ✅       |    ✅     |    ✅     |
-| Étiquettes                                      |      ✅       |    ✅     |    ✅     |
-| Télécharger la base de données du personnel     |      ✅       |    ✅     |    ✅     |
-| Profils fictifs (sans l'app mobile)             |      ✅       |    ✅     |    ✅     |
-| Champs personnalisés                            |              |    ✅     |    ✅     |
-| Organiser par départements                      |              |    ✅     |    ✅     |
-| Afficher l'historique de travail                |              |    ✅     |    ✅     |
+| Fonctionnalité                                    | Plan Gratuit | Plan Pro | Plan Max |
+|---------------------------------------------------|:------------:|:--------:|:--------:|
+| Inviter / Ajouter du personnel                    |      ✅       |    ✅     |    ✅     |
+| Rechercher, trier et filtrer la base de données   |      ✅       |    ✅     |    ✅     |
+| Profils actifs / inactifs                         |      ✅       |    ✅     |    ✅     |
+| Lieu                                              |      ✅       |    ✅     |    ✅     |
+| Notation par étoiles                              |      ✅       |    ✅     |    ✅     |
+| Compétences                                       |      ✅       |    ✅     |    ✅     |
+| Étiquettes                                        |      ✅       |    ✅     |    ✅     |
+| Télécharger la base de données du personnel       |      ✅       |    ✅     |    ✅     |
+| Profils fictifs (sans l'app mobile)               |      ✅       |    ✅     |    ✅     |
+| Champs personnalisés                              |              |    ✅     |    ✅     |
+| Organiser par départements                        |              |    ✅     |    ✅     |
+| Afficher l'historique de travail                  |              |    ✅     |    ✅     |
+| 🔥 Avertissements disciplinaires (ex: _no shows_) |              |    ✅     |    ✅     |
 
 ## Planification {#scheduling}
 
@@ -122,6 +123,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Vérification de confiance                                                              |              |    ✅     |    ✅     |
 | Téléchargement des données détaillées de la feuille de temps                           |              |    ✅     |    ✅     |
 | Pointage par les chefs d'équipe obligatoire                                            |              |    ✅     |    ✅     |
+| 🔥 Suivi des _no shows_ et absences                                                    |              |    ✅     |    ✅     |
 
 ## Facturation des sous-traitants {#invoicing}
 
