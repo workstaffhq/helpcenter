@@ -46,6 +46,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Custom Fields                             |           |    ✅     |    ✅     |
 | Organize by department                    |           |    ✅     |    ✅     |
 | Show work history                         |           |    ✅     |    ✅     |
+| 🔥 Disciplinary Warnings (ex: no shows)   |           |    ✅     |    ✅     |
 
 ## Scheduling {#scheduling}
 
@@ -125,6 +126,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Download detailed timesheet data                         |           |    ✅     |    ✅     |
 | Download detailed timesheet data                         |           |    ✅     |    ✅     |
 | Enforce clock in / out via team leads                    |           |    ✅     |    ✅     |
+| 🔥 No shows / Absence tracking                           |           |    ✅     |    ✅     |
 
 ## Invoicing {#invoicing}
 
