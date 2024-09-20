@@ -25,7 +25,8 @@ In this tab, you can see at a glance the **Candidates** that have applied for po
 3. Click on "Book"
 4. Select the position and the shift(s) you wish to book the candidate for
 5. Click on **Book**  
-   If you are not interested in an application, you can click on **Put aside** next the candidate’s name. You can later decide to move the staff you’ve put aside back to the list of Candidates by clicking on **Keep** next to their name.  
+
+If you are not interested in an application, you can click on **Put aside** next the candidate’s name. You can later decide to move the staff you’ve put aside back to the list of Candidates by clicking on **Keep** next to their name.  
 
 ![img_4.png](Images/img_4.png)
 
@@ -40,6 +41,7 @@ Staff availability is indicated by different colors:
 - **Green**: Available 
 - **Orange**: Partially available (already scheduled for a part of the shift you are planning to assign)
 - **Red**: Unavailable.
+
 This colour-coded system helps you quickly understand the availability status of your staff members, making it easier to efficiently manage shifts and bookings.
 
 ### Sorting Your Candidates
@@ -56,6 +58,7 @@ Tips for understanding candidate display:
 ### Booking Staff That Does Not Appear in The Suggestions
 If you wish to book staff that doesn't appear in your list of suggestions, you can access your entire staff list by clicking on **+** in the **Candidates** organizer.
 You will then be able to search for specific staff using the search bar and the filters. Once selected, they will be added to the **Candidates** organizer.  
+
 ![img_3.png](Images/img_3.png)
 
 ### Selecting Staff Without Booking Them Yet

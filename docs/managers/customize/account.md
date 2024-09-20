@@ -24,6 +24,10 @@ Select your organization’s **Timezone** and your **Headquarters** location for
 2. Select your **Default remuneration mode** (None; Hourly, Volunteer). The mode you select will be applied to all new events
 3.  The **Default employment status** (Contractor/Freelancer, Payroll, Volunteer) you select will be added to all new staff profiles. You can still select a status for each staff member by editing it directly in their profile.
 
+### Notifications
+**Enable upcoming shift reminders** to help reduce no-shows. The staff will receive reminders of upcoming shifts around 24h before their first shift on a project. 
+When this option is enabled, staff can also be **asked to reconfirm their shifts when reminders are sent**, ensuring their commitment.
+
 ### Time Tracking
 You can customize [**options related to tracking your team's time**](timetracking-settings.md).
 - **Do not require a timesheet from staff**: by default, timesheets are mandatory for staff. When this option is checked, timesheet submission will still be allowed but it won't be enforced and clock in reminders will be disabled
@@ -31,13 +35,11 @@ You can customize [**options related to tracking your team's time**](timetrackin
 - **Via QR code only**: clocking in and out requires the staff to scan a QR code associated with the event
 - **Via team leads only**: the staff will be instructed to go see the team lead in person to clock in and out of shifts
 
-
 ### Invoicing
-
 If you work with contractors/freelancers, fill-in the invoicing information so they can submit invoices. This information is used on generated invoices.
 
 :::note
-A **Billing Address* *must* be provided in your account before any contractor can submit an invoice via Workstaff. 
+A **Billing Address must** be provided in your account before any contractor can submit an invoice via Workstaff. 
 :::
 
 By default, Workstaff will request invoices for remunerated shifts of contractors. When the **Do not require invoices from contractors** is checked, invoices submission will still be allowed but it won't be enforced.

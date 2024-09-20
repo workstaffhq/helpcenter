@@ -24,6 +24,10 @@ Sélectionnez le **Fuseau horaire** de votre organisation et votre **Quartier g�
 2. Sélectionnez votre **Mode de rémunération** (Non défini ; À l'heure, Bénévole (non rémunéré). Le mode que vous sélectionnez sera appliqué à tous les nouveaux événements.
 3.  Le **Statut d'emploi** (Travailleur autonome / Pigiste, Salarié, Bénévole) que vous sélectionnez sera ajouté à tous les nouveaux profils de personnel. Vous pouvez toujours sélectionner un statut pour chaque membre du personnel en le modifiant directement dans son profil.
 
+### Notifications
+**Activer les rappels de quarts à venir** afin de réduire les absences. L'équipe recevra des rappels de leurs prochains quarts environ 24 heures avant leur premier quart sur chaque projet.
+Quand cette option est activée, il est aussi possible de **demander au personnel de reconfirmer leurs horaires lors de l’envoi de rappels**, garantissant que le personnel est toujours mobilisé.
+
 ### Suivi du temps
 Vous pouvez personnaliser les [**options liées au suivi du temps**](timetracking-settings.md) de votre équipe.
 - **Ne pas exiger de feuille de temps au personnel** : par défaut, les feuilles de temps sont obligatoires pour le personnel. Lorsque cette option est cochée, la soumission des feuilles de temps sera toujours autorisée, mais ne sera pas imposée et les rappels de pointage seront désactivés.
@@ -31,9 +35,7 @@ Vous pouvez personnaliser les [**options liées au suivi du temps**](timetrackin
 - **Par code QR seulement** : le pointage nécessite que le personnel scanne un code QR associé à l'événement.
 - **Par les chefs d'équipe uniquement** : le personnel sera invité à se rendre en personne auprès du chef d'équipe pour pointer au début et à la fin d’un quart de travail.
 
-
 ### Factures
-
 Si vous travaillez avec des travailleurs autonomes / pigistes, remplissez les informations de facturation afin qu'ils puissent soumettre des factures. Ces informations sont utilisées sur les factures générées.
 
 :::note
