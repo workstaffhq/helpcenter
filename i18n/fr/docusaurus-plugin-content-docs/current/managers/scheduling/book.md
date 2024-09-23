@@ -43,6 +43,7 @@ La disponibilité du personnel est indiquée par différentes couleurs:
 - **Vert**: Disponible
 - **Orange**: Partiellement disponible (déjà planifié pour une partie du créneau que vous vous apprêtez à attribuer)
 - **Rouge**: Indisponible
+
 Ce système de codes couleurs vous permet de comprendre rapidement le statut de disponibilité de vos membres du personnel, facilitant ainsi la gestion efficace des quarts de travail et des affectations.
 
 ### Trier vos candidats
