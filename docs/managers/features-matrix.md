@@ -8,228 +8,250 @@ Below is an extensive list of features included in each Workstaff plan.
 
 ## Main features
 
-| Feature                                                         | Free Plan | Pro Plan | Max plan |
-|-----------------------------------------------------------------|:---------:|:--------:|:--------:|
-| [Project-based scheduling](#scheduling)                         |     ✅     |    ✅     |    ✅     |
-| [Open shifts / offers](#offers)                                 |     ✅     |    ✅     |    ✅     |
-| [Staff database management](#staff)                             |     ✅     |    ✅     |    ✅     |
-| Staff invitations                                               |     ✅     |    ✅     |    ✅     |
-| Staff ratings                                                   |     ✅     |    ✅     |    ✅     |
-| [Messaging / Chat](#chat)                                       |     ✅     |    ✅     |    ✅     |
-| [Basic Remuneration](#remuneration)                             |           |    ✅     |    ✅     |
-| [Time Tracking / Timesheets](#timesheets)                       |           |    ✅     |    ✅     |
-| [Clock in/out with reminders](#timesheets)                      |           |    ✅     |    ✅     |
-| Receive photos from staff in the field                          |           |    ✅     |    ✅     |
-| Realtime staff presence                                         |           |    ✅     |    ✅     |
-| [Broadcasts](#chat)                                             |           |    ✅     |    ✅     |
-| Custom Fields for staff profiles                                |           |    ✅     |    ✅     |
-| [Budget and financial reports](#reports)                        |           |    ✅     |    ✅     |
-| Clients management                                              |           |    ✅     |    ✅     |
-| Departments                                                     |           |          |    ✅     |
-| [Advanced Remuneration (Premiums/Differentials)](#remuneration) |           |          |    ✅     |
-| [Integrated invoicing for contractors](#invoicing)              |           |          |    ✅     |
-| [Payroll / Pay run](#payroll)                                   |           |          |    ✅     |
+| Feature                                                         | Pro Plan | Max plan |
+|-----------------------------------------------------------------|:--------:|:--------:|
+| [Project-based scheduling](#scheduling)                         |    ✅     |    ✅     |
+| [Open shifts / offers](#offers)                                 |    ✅     |    ✅     |
+| [Staff database management](#staff)                             |    ✅     |    ✅     |
+| Staff invitations                                               |    ✅     |    ✅     |
+| Staff ratings                                                   |    ✅     |    ✅     |
+| [Messaging / Chat](#chat)                                       |    ✅     |    ✅     |
+| [Broadcasts](#chat)                                             |    ✅     |    ✅     |
+| Custom Fields for staff profiles                                |    ✅     |    ✅     |
+| [Budget and financial reports](#reports)                        |          |    ✅     |
+| Clients management                                              |          |    ✅     |
+| Departments                                                     |          |    ✅     |
+| [Basic Remuneration](#remuneration)                             |  Add-on  |    ✅     |
+| [Time Tracking / Timesheets](#timesheets)                       |  Add-on  |    ✅     |
+| [Clock in/out with reminders](#timesheets)                      |  Add-on  |    ✅     |
+| Realtime staff presence                                         |  Add-on  |    ✅     |
+| Receive photos from staff in the field                          |  Add-on  |  Add-on  |
+| [Advanced Remuneration (Premiums/Differentials)](#remuneration) |          |  Add-on  |
+| [Integrated invoicing for contractors](#invoicing)              |          |  Add-on  |
+| [Payroll / Pay run](#payroll)                                   |          |  Add-on  |
+| [Client Portal](#client-portal)                                 |          |  Add-on  |
 
 ## Staff database management {#staff}
 
-| Feature                                   | Free Plan | Pro Plan | Max Plan |
-|-------------------------------------------|:---------:|:--------:|:--------:|
-| Invite / Add staff                        |     ✅     |    ✅     |    ✅     |
-| Search, sort and filter database          |     ✅     |    ✅     |    ✅     |
-| Active/Inactive profiles                  |     ✅     |    ✅     |    ✅     |
-| Location                                  |     ✅     |    ✅     |    ✅     |
-| Star Rating                               |     ✅     |    ✅     |    ✅     |
-| Skills                                    |     ✅     |    ✅     |    ✅     |
-| Tagging                                   |     ✅     |    ✅     |    ✅     |
-| Download staff database                   |     ✅     |    ✅     |    ✅     |
-| Placeholder profiles (without mobile app) |     ✅     |    ✅     |    ✅     |
-| Custom Fields                             |           |    ✅     |    ✅     |
-| Organize by department                    |           |    ✅     |    ✅     |
-| Show work history                         |           |    ✅     |    ✅     |
-| 🔥 Disciplinary Warnings (ex: no shows)   |           |    ✅     |    ✅     |
+| Feature                                                            | Pro Plan | Max Plan |
+|--------------------------------------------------------------------|:--------:|:--------:|
+| Invite / Add staff                                                 |    ✅     |    ✅     |
+| Search, sort and filter database                                   |    ✅     |    ✅     |
+| Active/Inactive profiles                                           |    ✅     |    ✅     |
+| Location                                                           |    ✅     |    ✅     |
+| Star Rating                                                        |    ✅     |    ✅     |
+| Skills                                                             |    ✅     |    ✅     |
+| Tagging                                                            |    ✅     |    ✅     |
+| Download staff database                                            |    ✅     |    ✅     |
+| Placeholder profiles (without mobile app)                          |    ✅     |    ✅     |
+| Custom Fields                                                      |    ✅     |    ✅     |
+| Show calendar & work history                                       |    ✅     |    ✅     |
+| Manage availabilities                                              |    ✅     |    ✅     |
+| Organize by department                                             |          |    ✅     |
+| 🔥 Disciplinary Warnings (ex: no shows)                            |          |    ✅     |
+| Onboarding management                                              |          |    ✅     |
+| Onboarding via [Google Forms](../addons/google-forms/) integration |          |  Add-on  |
 
 ## Scheduling {#scheduling}
 
-| Feature                                                   | Free Plan | Pro Plan | Max Plan |
-|-----------------------------------------------------------|:---------:|:--------:|:--------:|
-| Project-based scheduling                                  |     ✅     |    ✅     |    ✅     |
-| Specify location for projects                             |     ✅     |    ✅     |    ✅     |
-| Recurring / ongoing / weekly schedules                    |     ✅     |    ✅     |    ✅     |
-| Draft schedule changes                                    |     ✅     |    ✅     |    ✅     |
-| Clone / repeat shifts                                     |     ✅     |    ✅     |    ✅     |
-| Clone / repeat schedules and booked staff                 |     ✅     |    ✅     |    ✅     |
-| Global calendar view per day, week and month              |     ✅     |    ✅     |    ✅     |
-| View staff availability                                   |     ✅     |    ✅     |    ✅     |
-| Ask staff for schedule confirmation via push notification |     ✅     |    ✅     |    ✅     |
-| View confirmation status of                               |     ✅     |    ✅     |    ✅     |
-| Schedule Unpaid breaks / pauses                           |     ✅     |    ✅     |    ✅     |
-| Schedule travel time                                      |     ✅     |    ✅     |    ✅     |
-| Detailed / fine-grained work schedules                    |     ✅     |    ✅     |    ✅     |
-| Mark role / position as filled                            |     ✅     |    ✅     |    ✅     |
-| Double-booking protection                                 |     ✅     |    ✅     |    ✅     |
-| Print weekly schedules / Share as PDF                     |     ✅     |    ✅     |    ✅     |
-| Share notes with team                                     |     ✅     |    ✅     |    ✅     |
-| Share documents with team                                 |     ✅     |    ✅     |    ✅     |
-| Associate projects to clients                             |           |    ✅     |    ✅     |
-| Magic fill: Intelligent automatic filling of shifts       |           |    ✅     |    ✅     |
+| Feature                                                   | Pro Plan | Max Plan |
+|-----------------------------------------------------------|:--------:|:--------:|
+| Project-based scheduling                                  |    ✅     |    ✅     |
+| Complex project segmentation                              |    ✅     |    ✅     |
+| Specify location for projects                             |    ✅     |    ✅     |
+| Recurring / ongoing / weekly schedules                    |    ✅     |    ✅     |
+| Draft schedule changes                                    |    ✅     |    ✅     |
+| Clone / repeat shifts                                     |    ✅     |    ✅     |
+| Clone / repeat schedules and booked staff                 |    ✅     |    ✅     |
+| Global calendar view per day, week and month              |    ✅     |    ✅     |
+| View  & Manage staff availability                         |    ✅     |    ✅     |
+| Ask staff for schedule confirmation via push notification |    ✅     |    ✅     |
+| Double-confirmations / Re-confirmations                   |    ✅     |    ✅     |
+| View confirmation status of shifts                        |    ✅     |    ✅     |
+| Schedule Unpaid breaks / pauses                           |    ✅     |    ✅     |
+| Schedule travel time                                      |    ✅     |    ✅     |
+| Detailed / fine-grained work schedules                    |    ✅     |    ✅     |
+| Mark role / position as filled                            |    ✅     |    ✅     |
+| Double-booking protection                                 |    ✅     |    ✅     |
+| Print weekly schedules / Share as PDF                     |    ✅     |    ✅     |
+| Share notes with team                                     |    ✅     |    ✅     |
+| Share documents with team                                 |    ✅     |    ✅     |
+| Magic fill: Intelligent automatic filling of shifts       |    ✅     |    ✅     |
+| Associate projects to clients                             |          |    ✅     |
 
 ## Open shifts / Offers {#offers}
 
-| Feature                                                                   | Free Plan | Pro Plan | Max Plan |
-|---------------------------------------------------------------------------|:---------:|:--------:|:--------:|
-| Publish work opportunities to staff database based on skills and distance |     ✅     |    ✅     |    ✅     |
-| Publish work opportunities to specific staff                              |     ✅     |    ✅     |    ✅     |
-| See who opened/consulted offers                                           |     ✅     |    ✅     |    ✅     |
-| See who declined offers                                                   |     ✅     |    ✅     |    ✅     |
-| Review applicants                                                         |     ✅     |    ✅     |    ✅     |
-| Push and email notifications to staff of work opportunities               |     ✅     |    ✅     |    ✅     |
-| *Urgent* offers                                                           |           |    ✅     |    ✅     |
-| *First Come, First Served* offers                                         |           |    ✅     |    ✅     |
+| Feature                                                                   | Pro Plan | Max Plan |
+|---------------------------------------------------------------------------|:--------:|:--------:|
+| Publish work opportunities to staff database based on skills and distance |    ✅     |    ✅     |
+| Publish work opportunities to specific staff                              |    ✅     |    ✅     |
+| See who opened/consulted offers                                           |    ✅     |    ✅     |
+| See who declined offers                                                   |    ✅     |    ✅     |
+| Review & select applicants                                                |    ✅     |    ✅     |
+| Push and email notifications to staff of work opportunities               |    ✅     |    ✅     |
+| *Urgent* offers                                                           |          |    ✅     |
+| *First Come, First Served* offers                                         |          |    ✅     |
 
 ## Remuneration {#remuneration}
 
-| Feature                                                         | Free Plan | Pro Plan | Max Plan |
-|-----------------------------------------------------------------|:---------:|:--------:|:--------:|
-| Per hour or per shift remuneration                              |           |    ✅     |    ✅     |
-| Volunteering                                                    |           |    ✅     |    ✅     |
-| Paid travel time                                                |           |    ✅     |    ✅     |
-| Remuneration conditions per role and per shift                  |           |    ✅     |    ✅     |
-| Scheduled base hourly rate changes / history on worker profiles |           |    ✅     |    ✅     |
-| Different base hourly rates per skill on worker profiles        |           |    ✅     |    ✅     |
-| Amount per travel hour premiums                                 |           |          |    ✅     |
-| Amount per work hour premiums                                   |           |          |    ✅     |
-| Amount per shift premiums                                       |           |          |    ✅     |
-| Percent of base wage premiums                                   |           |          |    ✅     |
-| Automatic premiums based on time range                          |           |          |    ✅     |
-| Automatic premiums based on days of week                        |           |          |    ✅     |
-| Automatic premiums based on skills                              |           |          |    ✅     |
-| Automatic premiums based on custom field values                 |           |          |    ✅     |
-| Automatic premiums based on employment status                   |           |          |    ✅     |
-| Automatic premiums based on team lead                           |           |          |    ✅     |
+| Feature                                                      | Pro Plan | Max Plan |
+|--------------------------------------------------------------|:--------:|:--------:|
+| Per hour or per shift remuneration                           |  Add-on  |    ✅     |
+| Volunteering                                                 |  Add-on  |    ✅     |
+| Paid travel time                                             |  Add-on  |    ✅     |
+| Remuneration conditions per role and per shift               |  Add-on  |    ✅     |
+| Default pay rates for all staff                              |  Add-on  |    ✅     |
+| Default pay rates per skill                                  |  Add-on  |    ✅     |
+| Scheduled base pay rate changes / history on worker profiles |  Add-on  |    ✅     |
+| Different base pay rates per skill on worker profiles        |  Add-on  |    ✅     |
+| Remunerate overtime                                          |  Add-on  |    ✅     |
+| Amount per travel hour premiums                              |          |  Add-on  |
+| Amount per work hour premiums                                |          |  Add-on  |
+| Amount per shift premiums                                    |          |  Add-on  |
+| Percent of base wage premiums                                |          |  Add-on  |
+| Automatic premiums based on time range                       |          |  Add-on  |
+| Automatic premiums based on days of week                     |          |  Add-on  |
+| Automatic premiums based on skills                           |          |  Add-on  |
+| Automatic premiums based on custom field values              |          |  Add-on  |
+| Automatic premiums based on employment status                |          |  Add-on  |
+| Automatic premiums based on team lead                        |          |  Add-on  |
 
 ## Time Tracking {#timesheets}
 
-| Feature                                                  | Free Plan | Pro Plan | Max Plan |
-|----------------------------------------------------------|:---------:|:--------:|:--------:|
-| View staff schedule                                      |     ✅     |    ✅     |    ✅     |
-| Track work times, travel times and unpaid pauses         |           |    ✅     |    ✅     |
-| Track and identify overtime                              |           |    ✅     |    ✅     |
-| Clock in/out with QR Code                                |           |    ✅     |    ✅     |
-| Enforce clock in/out via QR code                         |           |    ✅     |    ✅     |
-| Geolocated clock in/out                                  |           |    ✅     |    ✅     |
-| Team leads can track time (clock in/out) of colleagues   |           |    ✅     |    ✅     |
-| Team leads can submit timesheets on behalf of colleagues |           |    ✅     |    ✅     |
-| Team leads can review hours submitted by colleagues      |           |    ✅     |    ✅     |
-| Timesheet approval                                       |           |    ✅     |    ✅     |
-| Timesheet corrections                                    |           |    ✅     |    ✅     |
-| Trust verifications (                                    |           |    ✅     |    ✅     |
-| Download detailed timesheet data                         |           |    ✅     |    ✅     |
-| Download detailed timesheet data                         |           |    ✅     |    ✅     |
-| Enforce clock in / out via team leads                    |           |    ✅     |    ✅     |
-| 🔥 No shows / Absence tracking                           |           |    ✅     |    ✅     |
+| Feature                                                  | Pro Plan | Max Plan |
+|----------------------------------------------------------|:--------:|:--------:|
+| View staff schedule                                      |    ✅     |    ✅     |
+| Track work times, travel times and unpaid pauses         |  Add-on  |    ✅     |
+| Track and identify overtime                              |  Add-on  |    ✅     |
+| Clock in/out with QR Code                                |  Add-on  |    ✅     |
+| Enforce clock in/out via QR code                         |  Add-on  |    ✅     |
+| Geolocated clock in/out                                  |  Add-on  |    ✅     |
+| Team leads can track time (clock in/out) of colleagues   |  Add-on  |    ✅     |
+| Team leads can submit timesheets on behalf of colleagues |  Add-on  |    ✅     |
+| Team leads can review hours submitted by colleagues      |  Add-on  |    ✅     |
+| Timesheet approval                                       |  Add-on  |    ✅     |
+| Timesheet corrections                                    |  Add-on  |    ✅     |
+| Trust verifications                                      |  Add-on  |    ✅     |
+| Download summarized timesheet data                       |  Add-on  |    ✅     |
+| Download detailed timesheet data                         |  Add-on  |    ✅     |
+| Enforce clock in / out via team leads                    |  Add-on  |    ✅     |
+| 🔥 No shows / Absence tracking                           |          |    ✅     |
 
 ## Invoicing {#invoicing}
 
-| Feature                                                     | Free Plan | Pro Plan | Max Plan |
-|-------------------------------------------------------------|:---------:|:--------:|:--------:|
-| Contractors can create and submit invoices via mobile app   |           |          |    ✅     |
-| Invoices can only be submitted once timesheets are approved |           |          |    ✅     |
-| Automatic invoice lines reconciliation                      |           |          |    ✅     |
-| Mark invoice as approved                                    |           |          |    ✅     |
-| Mark invoice as paid                                        |           |          |    ✅     |
-| Download and print invoice                                  |           |          |    ✅     |
+| Feature                                                     | Pro Plan | Max Plan |
+|-------------------------------------------------------------|:--------:|:--------:|
+| Contractors can create and submit invoices via mobile app   |  Add-on  |  Add-on  |
+| Invoices can only be submitted once timesheets are approved |  Add-on  |  Add-on  |
+| Automatic invoice lines reconciliation                      |  Add-on  |  Add-on  |
+| Mark invoice as approved                                    |  Add-on  |  Add-on  |
+| Mark invoice as paid                                        |  Add-on  |  Add-on  |
+| Download and print invoice                                  |  Add-on  |  Add-on  |
 
 ## Payroll / Pay Run {#payroll}
 
-| Feature                                                               | Free Plan | Pro Plan | Max Plan |
-|-----------------------------------------------------------------------|:---------:|:--------:|:--------:|
-| Consolidate earnings for employees and contractors within pay periods |           |          |    ✅     |
-| Weekly (52/year) and Bi-Weekly (26/year) pay periods                  |           |          |    ✅     |
-| Daily and weekly work hours summary per staff                         |           |          |    ✅     |
-| Overtime; Remunerate hours worked in overtime                         |           |          |    ✅     |
-| Detection of non-approved hours                                       |           |          |    ✅     |
-| Detection of unprocessed shifts                                       |           |          |    ✅     |
-| Detection of schedule and remuneration changes                        |           |          |    ✅     |
-| Prevention of changes after a stub has been marked as processed       |           |          |    ✅     |
-| Download detailed earnings data to Excel/CSV                          |           |          |    ✅     |
+| Feature                                                               | Pro Plan | Max Plan |
+|-----------------------------------------------------------------------|:--------:|:--------:|
+| Consolidate earnings for employees and contractors within pay periods |  Add-on  |  Add-on  |
+| Weekly (52/year) and Bi-Weekly (26/year) pay periods                  |  Add-on  |  Add-on  |
+| Daily and weekly work hours summary per staff                         |  Add-on  |  Add-on  |
+| Overtime; Remunerate hours worked in overtime                         |  Add-on  |  Add-on  |
+| Detection of non-approved hours                                       |  Add-on  |  Add-on  |
+| Detection of unprocessed shifts                                       |  Add-on  |  Add-on  |
+| Detection of schedule and remuneration changes                        |  Add-on  |  Add-on  |
+| Prevention of changes after a stub has been marked as processed       |  Add-on  |  Add-on  |
+| Download detailed earnings data to Excel/CSV                          |  Add-on  |  Add-on  |
 
 ## Messaging {#chat}
 
-| Feature                                      | Free Plan | Pro Plan | Max Plan |
-|----------------------------------------------|:---------:|:--------:|:--------:|
-| Integrated chat messaging                    |     ✅     |    ✅     |    ✅     |
-| 1-1 chats                                    |     ✅     |    ✅     |    ✅     |
-| Team chats                                   |     ✅     |    ✅     |    ✅     |
-| Rich text (formatting) and links in messages |     ✅     |    ✅     |    ✅     |
-| Broadcasts                                   |           |    ✅     |    ✅     |
+| Feature                                      | Pro Plan | Max Plan |
+|----------------------------------------------|:--------:|:--------:|
+| Integrated two-way chat messaging            |    ✅     |    ✅     |
+| 1-1 chats                                    |    ✅     |    ✅     |
+| Team chats                                   |    ✅     |    ✅     |
+| Rich text (formatting) and links in messages |    ✅     |    ✅     |
+| Close / end conversation                     |    ✅     |    ✅     |
+| One-way Broadcasts                           |    ✅     |    ✅     |
 
 ## Mobile App {#mobile}
 
-| Feature                                                               | Free Plan | Pro Plan | Max Plan |
-|-----------------------------------------------------------------------|:---------:|:--------:|:--------:|
-| Manage profile (contact info, picture, skills, work experience, etc.) |     ✅     |    ✅     |    ✅     |
-| Change contact information                                            |     ✅     |    ✅     |    ✅     |
-| View work schedule and agenda                                         |     ✅     |    ✅     |    ✅     |
-| Manage detailed availability                                          |     ✅     |    ✅     |    ✅     |
-| View work opportunities (open shifts)                                 |     ✅     |    ✅     |    ✅     |
-| Submit application to opportunities                                   |     ✅     |    ✅     |    ✅     |
-| Confirm work schedules                                                |     ✅     |    ✅     |    ✅     |
-| Request cancellations                                                 |     ✅     |    ✅     |    ✅     |
-| View shift and schedule details                                       |     ✅     |    ✅     |    ✅     |
-| View team / colleagues on shifts                                      |     ✅     |    ✅     |    ✅     |
-| View shared documents                                                 |     ✅     |    ✅     |    ✅     |
-| Chat with employer                                                    |     ✅     |    ✅     |    ✅     |
-| Team chat                                                             |     ✅     |    ✅     |    ✅     |
-| Receive [push notifications](#notifications)                          |     ✅     |    ✅     |    ✅     |
-| Manage notifications preferences                                      |     ✅     |    ✅     |    ✅     |
-| View colleague contact information                                    |           |    ✅     |    ✅     |
-| Clock in/out                                                          |           |    ✅     |    ✅     |
-| Clock in/out by team leads                                            |           |    ✅     |    ✅     |
-| Clock in/out with QR Code                                             |           |    ✅     |    ✅     |
-| Submit timesheet                                                      |           |    ✅     |    ✅     |
-| Submit timesheet for colleagues                                       |           |    ✅     |    ✅     |
-| Create and submit invoices from approved timesheets (contractors)     |           |          |    ✅     |
-| Download and print submitted invoices (contractors)                   |           |          |    ✅     |
+| Feature                                                               | Pro Plan | Max Plan |
+|-----------------------------------------------------------------------|:--------:|:--------:|
+| Manage profile (contact info, picture, skills, work experience, etc.) |    ✅     |    ✅     |
+| Change contact information                                            |    ✅     |    ✅     |
+| View work schedule and agenda                                         |    ✅     |    ✅     |
+| Manage detailed availability                                          |    ✅     |    ✅     |
+| View work opportunities (open shifts)                                 |    ✅     |    ✅     |
+| Submit application to opportunities                                   |    ✅     |    ✅     |
+| Confirm work schedules                                                |    ✅     |    ✅     |
+| Request cancellations                                                 |    ✅     |    ✅     |
+| View shift and schedule details                                       |    ✅     |    ✅     |
+| View team / colleagues on shifts                                      |    ✅     |    ✅     |
+| View shared documents                                                 |    ✅     |    ✅     |
+| Chat with employer                                                    |    ✅     |    ✅     |
+| Team chat                                                             |    ✅     |    ✅     |
+| Receive [push notifications](#notifications)                          |    ✅     |    ✅     |
+| Manage notifications preferences                                      |    ✅     |    ✅     |
+| View colleague contact information                                    |    ✅     |    ✅     |
+| Clock in/out                                                          |  Add-on  |    ✅     |
+| Clock in/out by team leads                                            |  Add-on  |    ✅     |
+| Clock in/out with QR Code                                             |  Add-on  |    ✅     |
+| Submit timesheet                                                      |  Add-on  |    ✅     |
+| Submit timesheet for colleagues                                       |  Add-on  |    ✅     |
+| Create and submit invoices from approved timesheets (contractors)     |          |  Add-on  |
+| Download and print submitted invoices (contractors)                   |          |  Add-on  |
 
 ## Notifications {#notifications}
 
-| Feature                             | Channels | Free Plan | Pro Plan | Max Plan |
-|-------------------------------------|:---------|:---------:|:--------:|:--------:|
-| New offers notification             | ✉️ 📱    |     ✅     |    ✅     |    ✅     |
-| New booking notification            | ✉️ 📱    |     ✅     |    ✅     |    ✅     |
-| Schedule change notification        | ✉️ 📱    |     ✅     |    ✅     |    ✅     |
-| Booking cancelled notification      | ✉️ 📱    |     ✅     |    ✅     |    ✅     |
-| New chat message notification       | ✉️ 📱    |     ✅     |    ✅     |    ✅     |
-| New broadcast message notification  | ✉️ 📱    |     ✅     |    ✅     |    ✅     |
-| Cancellation requested notification | ✉️       |     ✅     |    ✅     |    ✅     |
-| Clock in reminder notification      | 📱️      |     ✅     |    ✅     |    ✅     |
+| Feature                               | Channels | Pro Plan | Max Plan |
+|---------------------------------------|:---------|:--------:|:--------:|
+| New offers notification               | ✉️ 📱    |    ✅     |    ✅     |
+| New booking notification              | ✉️ 📱    |    ✅     |    ✅     |
+| Schedule change notification          | ✉️ 📱    |    ✅     |    ✅     |
+| Booking cancelled notification        | ✉️ 📱    |    ✅     |    ✅     |
+| New chat message notification         | ✉️ 📱    |    ✅     |    ✅     |
+| New broadcast message notification    | ✉️ 📱    |    ✅     |    ✅     |
+| Cancellation requested notification   | ✉️       |    ✅     |    ✅     |
+| Clock in reminder notification        | 📱️      |  Add-on  |    ✅     |
+| New disciplinary warning notification | ✉️ 📱    |          |    ✅     |
 
 ## Settings & Customization {#settings}
 
-| Feature                                 | Free Plan | Pro Plan | Max Plan |
-|-----------------------------------------|:---------:|:--------:|:--------:|
-| Custom logo and company info            |     ✅     |    ✅     |    ✅     |
-| Custom first day of week                |     ✅     |    ✅     |    ✅     |
-| Timezones support                       |     ✅     |    ✅     |    ✅     |
-| Customize skills / roles and set colors |     ✅     |    ✅     |    ✅     |
-| Customize tags for staff profiles       |     ✅     |    ✅     |    ✅     |
-| Custom fields for staff profiles        |     ✅     |    ✅     |    ✅     |
-| Departments                             |           |          |    ✅     |
-| Premiums                                |           |          |    ✅     |
+| Feature                                 | Pro Plan | Max Plan |
+|-----------------------------------------|:--------:|:--------:|
+| Custom logo and company info            |    ✅     |    ✅     |
+| Custom first day of week                |    ✅     |    ✅     |
+| Multiple timezones support              |    ✅     |    ✅     |
+| Customize skills / roles and set colors |    ✅     |    ✅     |
+| Customize tags for staff profiles       |    ✅     |    ✅     |
+| Custom fields for staff profiles        |    ✅     |    ✅     |
+| Departments                             |          |    ✅     |
+| Premiums                                |          |  Add-on  |
 
 ## Reporting {#reports}
 
-| Feature         | Free Plan | Pro Plan | Max Plan |
-|-----------------|:---------:|:--------:|:--------:|
-| Project budgets |     ✅     |    ✅     |    ✅     |
-| Actual costs    |           |    ✅     |    ✅     |
+| Feature         | Pro Plan | Max Plan |
+|-----------------|:--------:|:--------:|
+| Project budgets |          |    ✅     |
+| Actual costs    |          |    ✅     |
+
+## Client Portal {#client-portal}
+
+Available as an add-on, the [Workstaff Client Portal](https://workstaff.app/client-portal) helps staffing organizations
+bring their clients closer with a dedicated and personalized online portal for sharing projects, photos and more.
+
+| Feature                                                                 | Pro Plan | Max Plan |
+|-------------------------------------------------------------------------|:--------:|:--------:|
+| Share staffing projects (team, schedules, completion) with your clients |          |  Add-on  |
+| Share project photos with your clients                                  |          |  Add-on  |
+| Share approved timesheets with your clients                             |          |  Add-on  |
+| Dedicated Web address for your portal, branded to your organization     |          |  Add-on  |
 
 ## Addons {#addons}
 
 These addons currently need to be enabled for your account by our Customer Success team on request - 
-[let us know](mailto:customer.success@workstaff.app) if you're interested to try them out.
+[let us know](mailto:customer.success@workstaff.app) if you're interested in trying them out.
 
-| Feature                                                | Free Plan | Pro Plan | Max Plan |
-|--------------------------------------------------------|:---------:|:--------:|:--------:|
-| Transaction Pro (Quickbooks data export)               |           |    ✅     |    ✅     |
-| [Onboarding via Google Forms](../addons/google-forms/) |           |          |    ✅     |
+| Feature                                                                                | Pro Plan | Max Plan |
+|----------------------------------------------------------------------------------------|:--------:|:--------:|
+| Transaction Pro (Quickbooks data export for Bills) - available with the Payroll add-on |    ✅     |    ✅     |
