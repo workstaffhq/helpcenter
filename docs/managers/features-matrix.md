@@ -94,25 +94,27 @@ Below is an extensive list of features included in each Workstaff plan.
 
 ## Remuneration {#remuneration}
 
-| Feature                                                         | Pro Plan | Max Plan |
-|-----------------------------------------------------------------|:--------:|:--------:|
-| Per hour or per shift remuneration                              |  Add-on  |    ✅     |
-| Volunteering                                                    |  Add-on  |    ✅     |
-| Paid travel time                                                |  Add-on  |    ✅     |
-| Remuneration conditions per role and per shift                  |  Add-on  |    ✅     |
-| Scheduled base hourly rate changes / history on worker profiles |  Add-on  |    ✅     |
-| Different base hourly rates per skill on worker profiles        |  Add-on  |    ✅     |
-| Remunerate overtime                                             |  Add-on  |    ✅     |
-| Amount per travel hour premiums                                 |          |  Add-on  |
-| Amount per work hour premiums                                   |          |  Add-on  |
-| Amount per shift premiums                                       |          |  Add-on  |
-| Percent of base wage premiums                                   |          |  Add-on  |
-| Automatic premiums based on time range                          |          |  Add-on  |
-| Automatic premiums based on days of week                        |          |  Add-on  |
-| Automatic premiums based on skills                              |          |  Add-on  |
-| Automatic premiums based on custom field values                 |          |  Add-on  |
-| Automatic premiums based on employment status                   |          |  Add-on  |
-| Automatic premiums based on team lead                           |          |  Add-on  |
+| Feature                                                      | Pro Plan | Max Plan |
+|--------------------------------------------------------------|:--------:|:--------:|
+| Per hour or per shift remuneration                           |  Add-on  |    ✅     |
+| Volunteering                                                 |  Add-on  |    ✅     |
+| Paid travel time                                             |  Add-on  |    ✅     |
+| Remuneration conditions per role and per shift               |  Add-on  |    ✅     |
+| Default pay rates for all staff                              |  Add-on  |    ✅     |
+| Default pay rates per skill                                  |  Add-on  |    ✅     |
+| Scheduled base pay rate changes / history on worker profiles |  Add-on  |    ✅     |
+| Different base pay rates per skill on worker profiles        |  Add-on  |    ✅     |
+| Remunerate overtime                                          |  Add-on  |    ✅     |
+| Amount per travel hour premiums                              |          |  Add-on  |
+| Amount per work hour premiums                                |          |  Add-on  |
+| Amount per shift premiums                                    |          |  Add-on  |
+| Percent of base wage premiums                                |          |  Add-on  |
+| Automatic premiums based on time range                       |          |  Add-on  |
+| Automatic premiums based on days of week                     |          |  Add-on  |
+| Automatic premiums based on skills                           |          |  Add-on  |
+| Automatic premiums based on custom field values              |          |  Add-on  |
+| Automatic premiums based on employment status                |          |  Add-on  |
+| Automatic premiums based on team lead                        |          |  Add-on  |
 
 ## Time Tracking {#timesheets}
 
@@ -129,8 +131,8 @@ Below is an extensive list of features included in each Workstaff plan.
 | Team leads can review hours submitted by colleagues      |  Add-on  |    ✅     |
 | Timesheet approval                                       |  Add-on  |    ✅     |
 | Timesheet corrections                                    |  Add-on  |    ✅     |
-| Trust verifications (                                    |  Add-on  |    ✅     |
-| Download detailed timesheet data                         |  Add-on  |    ✅     |
+| Trust verifications                                      |  Add-on  |    ✅     |
+| Download summarized timesheet data                       |  Add-on  |    ✅     |
 | Download detailed timesheet data                         |  Add-on  |    ✅     |
 | Enforce clock in / out via team leads                    |  Add-on  |    ✅     |
 | 🔥 No shows / Absence tracking                           |          |    ✅     |
@@ -139,12 +141,12 @@ Below is an extensive list of features included in each Workstaff plan.
 
 | Feature                                                     | Pro Plan | Max Plan |
 |-------------------------------------------------------------|:--------:|:--------:|
-| Contractors can create and submit invoices via mobile app   |          |  Add-on  |
-| Invoices can only be submitted once timesheets are approved |          |  Add-on  |
-| Automatic invoice lines reconciliation                      |          |  Add-on  |
-| Mark invoice as approved                                    |          |  Add-on  |
-| Mark invoice as paid                                        |          |  Add-on  |
-| Download and print invoice                                  |          |  Add-on  |
+| Contractors can create and submit invoices via mobile app   |  Add-on  |  Add-on  |
+| Invoices can only be submitted once timesheets are approved |  Add-on  |  Add-on  |
+| Automatic invoice lines reconciliation                      |  Add-on  |  Add-on  |
+| Mark invoice as approved                                    |  Add-on  |  Add-on  |
+| Mark invoice as paid                                        |  Add-on  |  Add-on  |
+| Download and print invoice                                  |  Add-on  |  Add-on  |
 
 ## Payroll / Pay Run {#payroll}
 
@@ -168,7 +170,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | 1-1 chats                                    |    ✅     |    ✅     |
 | Team chats                                   |    ✅     |    ✅     |
 | Rich text (formatting) and links in messages |    ✅     |    ✅     |
-| Close conversation                           |    ✅     |    ✅     |
+| Close / end conversation                     |    ✅     |    ✅     |
 | One-way Broadcasts                           |    ✅     |    ✅     |
 
 ## Mobile App {#mobile}
@@ -243,6 +245,7 @@ bring their clients closer with a dedicated and personalized online portal for s
 | Share staffing projects (team, schedules, completion) with your clients |          |  Add-on  |
 | Share project photos with your clients                                  |          |  Add-on  |
 | Share approved timesheets with your clients                             |          |  Add-on  |
+| Dedicated Web address for your portal, branded to your organization     |          |  Add-on  |
 
 ## Addons {#addons}
 
