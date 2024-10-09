@@ -51,7 +51,7 @@ You can suspend your plan at any time and re-subscribe later when you need the W
 ### Suspending Your Plan
 - Go to the main **Settings** section, then go to the **Billing** tab
 - Click on **Manage subscription**
-- Click on the subscription you wish to suspend, select how much time you want the suspension to last and click on **Cancel Subscription*
+- Click on the subscription you wish to suspend, select how much time you want the suspension to last and click on **Cancel Subscription**
 
 ### Cancelling Your Plan
 Are you considering leaving us? We’re sad to see you go! Cancellation is certainly possible, but it must be handled by our team. 
