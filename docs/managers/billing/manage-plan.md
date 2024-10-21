@@ -11,21 +11,8 @@ To access your subscription information, go to the main **Settings** section, th
 The **Pro plan** gives you access to all the essential features, while the **Max plan** offers everything in Pro, plus advanced productivity tools like integrated clock-in/out, real-time staff attendance tracking for each event, timesheets, and more!
 For more details on our plans, visit our [**Pricing**](https://workstaff.app/pricing) page.
 
-You can take advantage of a free 14-day trial of the Max plan that you can start yourself directly within Workstaff.
-
-### To start the 14-day trial
-Click on **Start for FREE** in the upper right hand corner to be redirected to start the trial. 
-When you first sign up on Workstaff, your account is on the **Max plan** by default, our most advanced offering, for up to 5 workers.
-
-You can sign up to the Pro or Max plan during or after your 14-day trial by clicking on **Purchase** in the upper right hand corner of the page.
-
 ### Purchasing a Plan
-- Click on **Purchase** in the upper right hand corner of the page
-- Choose the payment frequency, the number of workers and of managers and click on **Buy Now**
-- Enter your billing information
-- Enter your credit card information
-
-You will be charged after the 14-day trial.
+To subscribe to a Workstaff plan, we invite you to [**Book a Demo**](https://workstaff.app/book-a-demo) with one of our sales representatives. They will demonstrate our product in action and answer all your questions.
 
 ## Upgrade your Plan
 Upgrade your plan to unlock the Max Plan and increase the number of workers and managers to better meet your growing needs.

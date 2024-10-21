@@ -4,24 +4,11 @@ Une fois connecté(e) à la plateforme, Workstaff vous permet de gérer votre ab
 Afin d’accéder aux informations relatives à votre abonnement, allez dans la section principale **Paramètres**, puis dans l’onglet **Facturation**.
 
 ## Souscrire à un Plan
-Le **plan Pro** vous permet d’accéder à l’ensemble des fonctionnalités clés, tandis que le **plan Max** offre toutes les fonctionnalités du plan Pro, ainsi que des outils de productivité additionnels tels que le clock-in et clock-out intégré, la présence du personnel en temps réel pour chaque événement, les feuilles de temps, et bien plus encore!
+Le **plan Pro** vous permet d’accéder à l’ensemble des fonctionnalités clés, tandis que le **plan Max** offre toutes les fonctionnalités du plan Pro, ainsi que des outils de productivité additionnels tels que le clock-in et clock-out intégré, la présence du personnel en temps réel pour chaque événement, les feuilles de temps, et bien plus encore !
 Pour plus de détails sur les plans, visitez notre page [**Tarification**](https://workstaff.app/fr/pricing).
 
-Vous pouvez profiter d’un essai gratuit du plan Max de 14 jours que vous pouvez débuter vous-même, directement dans Workstaff.
-
-### Pour démarrer la période d’essai
-Cliquez sur **Essai GRATUIT** dans la partie supérieure droite de l’écran pour être redirigé vers la version d'essai.
-Lorsque vous vous inscrivez pour la première fois sur Workstaff, votre compte est sur le **plan Max** par défaut, notre offre la plus avancée, pour un maximum de 5 travailleurs.
-
-Vous pouvez passer au plan Pro ou Max pendant ou au terme de votre période d’essai en cliquant sur "Acheter" dans la partie supérieure droite de l’écran. 
-
 ### Acheter un plan
-- Cliquez sur "Acheter" dans la partie supérieure droite de l’écran
-- Choisissez la fréquence des paiements, le nombre de travailleurs et de gestionnaires et cliquez sur **Acheter**
-- Entrez les informations de facturation
-- Entrez les informations relatives à votre carte de crédit
-
-Vous serez facturé après les 14 jours d'essai.
+Pour vous abonner à un plan Workstaff, nous vous invitons à [**Planifier une démo**](https://workstaff.app/fr/planifier-une-demo) avec l’un de nos représentants commerciaux. Il vous présentera notre produit en action et répondra à toutes vos questions.
 
 ## Passer à un plan supérieur
 Passez à un plan supérieur pour débloquer le plan Max et augmentez le nombre de travailleurs et de gestionnaires afin de mieux répondre à vos besoins croissants.
