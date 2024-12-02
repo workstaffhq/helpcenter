@@ -24,7 +24,7 @@ In this tab, you can see at a glance the **Candidates** that have applied for po
 2. In the "Candidates" organizer, place your cursor on the candidate's name
 3. Click on "Book"
 4. Select the position and the shift(s) you wish to book the candidate for
-5. Click on **Book**  
+5. Click on **Book**.
 
 If you are not interested in an application, you can click on **Put aside** next the candidate’s name. You can later decide to move the staff you’ve put aside back to the list of Candidates by clicking on **Keep** next to their name.  
 
@@ -34,13 +34,14 @@ If you are not interested in an application, you can click on **Put aside** next
 When your staff members [**share their availability using the mobile app**](../../workers/availability.md), this information is displayed in various sections of the web platform, including:
 - **Staff Suggestion List** 
 - **Candidate Organizer** 
-- **Day View** of the calendar.
+- **Day View** of the calendar
 
 Staff availability is indicated by different colors:
-- **Grey**: No availability information provided 
-- **Green**: Available 
-- **Orange**: Partially available (already scheduled for a part of the shift you are planning to assign)
-- **Red**: Unavailable.
+- **Grey**: No availability information provided by the worker.
+- **Green**: The staff has indicated they are available. 
+- **Orange**: The staff is partially available, and the proposed shift overlaps with their unavailable period.
+- **Red**: The staff has indicated they are unavailable.
+- **Blue**: The staff is already scheduled for all or part of the shift you are planning to assign.
 
 This colour-coded system helps you quickly understand the availability status of your staff members, making it easier to efficiently manage shifts and bookings.
 
@@ -49,7 +50,7 @@ After clicking on the **Keep** button to mark your candidates for consideration,
 
 :::info
 Tips for understanding candidate display:
-- **Blue dot**: Indicates the candidate has applied for the position
+- **Blue dot**: Indicates the candidate has applied for the position.
 - **Name appearing in light grey**: This means the required skill for the selected position is absent from their profile.
 :::
 

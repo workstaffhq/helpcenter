@@ -39,10 +39,11 @@ Lorsque les membres de votre personnel [**indiquent leur disponibilité via l'ap
 - **La vue "Jour"** du calendrier
 
 La disponibilité du personnel est indiquée par différentes couleurs:
-- **Gris**: Aucune information de disponibilité fournie
-- **Vert**: Disponible
-- **Orange**: Partiellement disponible (déjà planifié pour une partie du créneau que vous vous apprêtez à attribuer)
-- **Rouge**: Indisponible
+- **Gris**: Aucune information de disponibilité fournie par le personnel.
+- **Vert**: Le personnel a indiqué être disponible.
+- **Orange**: Le personnel est partiellement disponible, et le créneau proposé chevauche sa période d’indisponibilité.
+- **Rouge**: Le personnel a indiqué être indisponible.
+- **Bleu**: Le personnel est déjà planifié pour tout ou partie du créneau que vous vous apprêtez à attribuer.
 
 Ce système de codes couleurs vous permet de comprendre rapidement le statut de disponibilité de vos membres du personnel, facilitant ainsi la gestion efficace des quarts de travail et des affectations.
 
@@ -51,7 +52,7 @@ Après avoir cliqué sur le bouton **Garder** pour valider vos candidats, vous p
 
 :::info
 Conseils pour comprendre l'affichage des candidats :
-- **Point bleu** : Indique que le candidat a postulé pour le poste
+- **Point bleu** : Indique que le candidat a postulé pour le poste.
 - **Nom apparaissant en gris clair** : Cela signifie que la compétence requise pour le poste sélectionné est absente de son profil.
 :::
 
