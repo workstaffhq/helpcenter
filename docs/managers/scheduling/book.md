@@ -37,11 +37,11 @@ When your staff members [**share their availability using the mobile app**](../.
 - **Day View** of the calendar
 
 Staff availability is indicated by different colors:
-- **Grey**: No availability information provided
-- **Green**: Available 
-- **Orange**: Partially available
-- **Red**: Unavailable
-- **Blue**: Already scheduled for all or part of the shift you are planning to assign
+- **Grey**: No availability information provided by the worker.
+- **Green**: The staff has indicated they are available. 
+- **Orange**: The staff is partially available, and the proposed shift overlaps with their unavailable period.
+- **Red**: The staff has indicated they are unavailable.
+- **Blue**: The staff is already scheduled for all or part of the shift you are planning to assign.
 
 This colour-coded system helps you quickly understand the availability status of your staff members, making it easier to efficiently manage shifts and bookings.
 

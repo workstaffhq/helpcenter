@@ -52,7 +52,7 @@ If you have worked on multiple shifts within the same schedule, they will be con
 
 ## Modify / Recall a Submitted Invoice {#recall}
 
-If you've submitted an invoice but need to correct it, or if your employer as requested corrections after your submitted an invoice, your need to recall it:
+If you've submitted an invoice but need to correct it, or if your employer as requested corrections after you submitted an invoice, you need to recall it:
 
 1. Tap **Recall** at the bottom of the invoice screen
 2. The invoice gets back to **Draft** mode and you can edit it as per your needs
