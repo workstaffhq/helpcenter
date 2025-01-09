@@ -29,6 +29,7 @@ You can edit a timesheet if the information it contains is incorrect or if the s
 
 ### Approving Accurate Timesheets 
 Accurate timesheets can be approved in bulk by selecting **Approve all accurate timesheets** from the action menu.
+
 ![approve-accurate.png](./Images/approve-accurate.png)
 
 ### Downloading Timesheets 

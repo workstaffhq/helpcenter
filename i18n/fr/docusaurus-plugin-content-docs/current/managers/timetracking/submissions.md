@@ -30,6 +30,7 @@ Vous avez la possibilité de modifier une feuille de temps si les informations q
 
 ### Approuver les feuilles de temps valides
 Les feuilles de temps valides peuvent être approuvées en une seule fois en sélectionnant **Approuver toutes les entrées valides** dans le menu d'action.
+
 ![approuver-valides.png](./Images/approuver-valides.png)
 
 ### Télécharger des feuilles de temps 
