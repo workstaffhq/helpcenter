@@ -4,8 +4,7 @@ sidebar_position: 7
 
 # Uploading documents to your projects
 
-
-When you create a project, Workstaff allows you to upload pdf documents to share with your staff.
+When you create a project, Workstaff allows you to upload PDF documents, as well as PNG and JPG images, to share with your staff.
 
 There are several places you can go to upload documents:
 - On your project page, go to the **Notes & Documents** tab and click **Upload** to choose which documents to attach to the project

@@ -9,3 +9,7 @@ Workstaff allows you to customize the way your remuneration is calculated for yo
 Once you input values in the chosen options, they will automatically be applied to shifts when the specified conditions are fulfilled.
 
 ![Remuneration](Images/remuneration-settings.png)
+
+## Standard Pay Rates
+
+Standard pay rates will apply to all your staff when no [specific pay rate](../staff/rate-per-skill.md) is set in their profiles. Individual rates set for workers will always take precedence over the standard rates.
