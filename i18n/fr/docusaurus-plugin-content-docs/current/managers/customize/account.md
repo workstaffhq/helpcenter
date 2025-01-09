@@ -21,8 +21,8 @@ Sélectionnez le **Fuseau horaire** de votre organisation et votre **Quartier g�
 
 ### Valeurs par défaut
 1. Sélectionnez qui, parmi les utilisateurs de votre compte, sera le **Contact principal**.
-2. Sélectionnez votre **Mode de rémunération** (Non défini ; À l'heure, Bénévole (non rémunéré). Le mode que vous sélectionnez sera appliqué à tous les nouveaux événements.
-3.  Le **Statut d'emploi** (Travailleur autonome / Pigiste, Salarié, Bénévole) que vous sélectionnez sera ajouté à tous les nouveaux profils de personnel. Vous pouvez toujours sélectionner un statut pour chaque membre du personnel en le modifiant directement dans son profil.
+2. Sélectionnez votre **Mode de rémunération** (Non défini; À l'heure, Bénévole (non rémunéré)). Le mode que vous sélectionnez sera appliqué à tous les nouveaux événements.
+3. Le **Statut d'emploi** (Travailleur autonome / Pigiste, Salarié, Bénévole) que vous sélectionnez sera ajouté à tous les nouveaux profils de personnel. Vous pouvez toujours sélectionner un statut pour chaque membre du personnel en le modifiant directement dans son profil.
 
 ### Notifications
 **Activer les rappels de quarts à venir** afin de réduire les absences. L'équipe recevra des rappels de leurs prochains quarts environ 24 heures avant leur premier quart sur chaque projet.
@@ -45,7 +45,16 @@ Une **Adresse de facturation** doit être inscrite dans votre compte avant qu'un
 Par défaut, Workstaff demandera des factures pour les quarts de travail rémunérés des travailleurs autonomes. Lorsque la case **Ne pas exiger les factures des travailleurs autonomes** est cochée, la soumission de factures sera toujours autorisée, mais ne sera pas imposée.
 
 ## Utilisateurs
-La section **Utilisateurs** vous permet de gérer qui peut accéder à votre compte Workstaff. Vous pouvez visualiser vos utilisateurs actifs et inactifs, ajouter et supprimer des utilisateurs à votre compte en fonction des besoins de votre organisation.
+La section **Utilisateurs** vous permet de gérer qui peut accéder à votre compte Workstaff. Vous pouvez visualiser vos utilisateurs actifs et inactifs, ajouter ou supprimer des utilisateurs de votre compte, et gérer leurs rôles et permissions en fonction des besoins de votre organisation.
+
+### Rôles des utilisateurs
+- **Propriétaire du compte**: L’utilisateur principal qui dispose d’un contrôle total sur le compte. Il est responsable de la gestion de la facturation, des paramètres du compte et des permissions des utilisateurs. Le propriétaire peut transférer la propriété, ajouter ou supprimer des utilisateurs, et prendre des décisions clés concernant la configuration et l’utilisation du compte.
+- **Administrateur**: Dispose du même niveau d’accès que le propriétaire du compte, y compris la gestion des utilisateurs, des paramètres et de la configuration du compte. La principale différence réside dans leurs responsabilités : les administrateurs ne détiennent pas la propriété du compte et ne sont pas responsables des décisions globales, telles que la facturation ou les transferts de propriété.
+- **Membre**: A accès à toutes les zones du compte, à l’exception des paramètres et de tout ce qui concerne la rémunération, y compris la paie et la facturation, sauf si une permission explicite lui est accordée.
+
+:::note
+Un **propriétaire de compte** peut transférer la propriété du compte à un autre gestionnaire depuis le menu d’actions à droite de son nom. Depuis ce même tableau, l’accès aux informations de rémunération peut être accordé aux membres par un administrateur ou le propriétaire du compte.
+:::
 
 Voir [**Gérez votre abonnement**](../billing/manage-users.md) pour plus de détails sur la gestion des utilisateurs.
 

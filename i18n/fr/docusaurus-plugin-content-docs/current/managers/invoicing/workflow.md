@@ -27,7 +27,7 @@ Si les informations ne correspondent pas, Workstaff vous montrera directement su
 - Si les heures facturées correspondent aux heures prévues et si le taux horaire facturé correspond au taux planifié, les icônes de vérification sont vertes. 
 ![correct.png](./Images/correct.png)
 
-- Si les heures facturées ne correspondent pas aux heures prévues et si le taux horaire facturé correspond au taux planifié, les icônes de vérification sont rouges. Passez votre curseur sur les icônes pour afficher le détail des vérifications. 
+- Si les heures facturées ne correspondent pas aux heures prévues et si le taux horaire facturé ne correspond pas au taux planifié, les icônes de vérification sont rouges. Passez votre curseur sur les icônes pour afficher le détail des vérifications. 
 ![incorrect.png](./Images/incorrect.png) 
 
 ## Approbation

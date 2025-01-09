@@ -12,7 +12,8 @@ To change options related to how you use the Payroll module, go to **Settings** 
 The following pay calendars are supported by Workstaff:
 
 - **Weekly** (52 pay periods per year)
-- **Bi-Weekly** (24 pay periods per year)
+- **Bi-Weekly** (26 pay periods per year)
+- **Semi-Monthly** (24 pay periods per year)
 - **Monthly** (12 periods per year)
 
 :::note

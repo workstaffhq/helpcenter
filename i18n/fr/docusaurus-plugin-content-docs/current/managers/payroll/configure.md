@@ -12,7 +12,8 @@ Pour modifier les options liées à la façon dont vous utilisez le module Paie,
 Les calendriers de paie suivants sont pris en charge par Workstaff :
 
 - **Hebdomadaire** (52 périodes par année)
-- **Bi-hebdomadaire** (24 périodes par année)
+- **Bi-hebdomadaire** (26 périodes par année)
+- **Semi-mensuelle** (24 périodes par année)
 - **Mensuel** (12 périodes par année)
 
 :::note

@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Joindre des documents à vos projets 
 
-Lorsque vous créez un projet, Workstaff vous permet d’y joindre des documents au format pdf à partager avec le personnel que vous y avez affecté.
+Lorsque vous créez un projet, Workstaff vous permet d’y joindre des documents au format PDF ainsi que des images PNG et JPG à partager avec le personnel que vous y avez affecté.
 
 Vous pouvez vous rendre à plusieurs endroits pour téléverser des documents :
 - Sur la page de votre projet, allez dans l’onglet **Notes et documents** et cliquez sur **Téléverser** pour choisir les documents à joindre au projet
