@@ -90,7 +90,7 @@ The **Calendar** tab provides a detailed view of a staff member’s agenda, show
 
 It is recommended that staff update their availability regularly in the calendar via the application. If this information is not up to date and the worker’s actual availability is known, it is possible to replace the information entered by the staff by manually updating their availability in the system.
 
-![Replace availability](./Images/replace-availability.png)
+![Replace availability](./images/replace-availability.png)
 
 Once availability is specified on certain dates, these dates will be highlighted as follows:
 - **Green**: Available
