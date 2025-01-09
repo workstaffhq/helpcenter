@@ -84,8 +84,18 @@ can be overridden as needed everytime a person is booked and should not include 
 You can associate each staff profile with none, one or more departments. Profiles associated with specific departments 
 will always show up only when you're working in the context of that department.
 
-## Booking History
-The **Booking History** tab allows you to view your staff's past bookings.
+## Calendar
+
+The **Calendar** tab provides a detailed view of a staff member’s agenda, showing their availability as well as their past and future bookings.
+
+It is recommended that staff update their availability regularly in the calendar via the application. If this information is not up to date and the worker’s actual availability is known, it is possible to replace the information entered by the staff by manually updating their availability in the system.
+
+![Replace availability](./Images/replace-availability.png)
+
+Once availability is specified on certain dates, these dates will be highlighted as follows:
+- **Green**: Available
+- **Yellow**: Partially Available
+- **Red**: Not Available
 
 ## Claimed vs Unclaimed Profiles
 
