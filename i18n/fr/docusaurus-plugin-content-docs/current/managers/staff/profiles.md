@@ -81,8 +81,18 @@ peut être modifié si nécessaire à chaque affectation et ne devrait pas inclu
 
 Vous pouvez associer chaque profil de personnel à aucun, un ou plusieurs départements. Les profils associés à des départements spécifiques apparaîtront seulement que lorsque vous travaillez dans le contexte de ce département.
 
-## Historique de travail
-L'onglet **Historique de travail** vous permet de visualiser les affectations passées de votre personnel.
+## Calendrier
+
+L’onglet **Calendrier** offre une vue détaillée de l’agenda d’un membre du personnel, affichant ses disponibilités ainsi que ses réservations passées et futures.
+
+Il est recommandé au personnel de mettre à jour régulièrement leurs disponibilités dans le calendrier via l’application. Dans le cas où ces informations ne seraient pas à jour et que la disponibilité réelle d’un membre du personnel est connue, il est possible de remplacer les données saisies par le personnel en mettant à jour manuellement ses disponibilités dans le système.
+
+![Remplacer la disponibilité](./Images/replace-availability.png)
+
+Une fois les disponibilités spécifiées pour certaines dates, ces dernières seront mises en évidence comme suit :
+- **Vert** : Disponible
+- **Jaune** : Partiellement disponible
+- **Rouge** : Non disponible
 
 ## Profils réclamés et non réclamés
 
