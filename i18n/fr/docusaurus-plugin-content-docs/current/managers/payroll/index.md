@@ -25,6 +25,5 @@ d'éventuels changements non désirés dans vos données de paie.
 Pour commencer avec la Paie, [continuez à lire](./get-started.md)...
 
 :::info
-Le module Paie est disponible sur le plan **Max**. Si vous êtes actuellement abonné au plan **Pro**, vous pouvez essayer le module avec
-2 périodes de paies gratuites. Une fois que vous aurez traité 2 périodes, vous devrez passer à la formule **Max** pour continuer à utiliser cette fonctionnalité.
+Consultez notre [Matrice des fonctionnalités](../features-matrix.md) pour vérifier si cela est inclus dans votre plan.
 :::

@@ -25,6 +25,5 @@ possible unwanted future changes in your Workstaff data.
 To get started with Payroll, [continue reading](./get-started.md)...
 
 :::info
-The module is available on the **Max** plan. If you currently subscribe to the **Pro** plan, you can try the module with
-2 complimentary pay runs. Once you have processed 2 pay runs, you'll need to upgrade to **Max** to continue using the feature.
+Take a look at our [Feature Matrix](../features-matrix.md) to see if this is included in your plan.
 :::
