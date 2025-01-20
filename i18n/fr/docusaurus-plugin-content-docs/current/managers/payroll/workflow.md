@@ -27,7 +27,7 @@ Le module Paie comporte 2 écrans principaux : l'écran de la période de paie e
 
 ### Écran de la période de paie
 
-![Écran de la période de paie](./images/paystub-ui-annotated.png)
+![Écran de la période de paie](./images/payroll-ui-annotated.png)
 
 L'écran de la période de paie présente une vue d'ensemble de tous les talons des employés, permet de les filtrer et de les trier et facilite le suivi de la progression du traitement de la paie.
 
