@@ -25,5 +25,5 @@ possible unwanted future changes in your Workstaff data.
 To get started with Payroll, [continue reading](./get-started.md)...
 
 :::info
-Take a look at our [Feature Matrix](../features-matrix.md) to see if this is included in your plan.
+Take a look at our [Feature Matrix](../features-matrix.md) to see if this feature is included in your plan.
 :::

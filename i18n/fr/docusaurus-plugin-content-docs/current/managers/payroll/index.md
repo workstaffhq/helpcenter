@@ -25,5 +25,5 @@ d'éventuels changements non désirés dans vos données de paie.
 Pour commencer avec la Paie, [continuez à lire](./get-started.md)...
 
 :::info
-Consultez notre [Matrice des fonctionnalités](../features-matrix.md) pour vérifier si cela est inclus dans votre plan.
+Consultez notre [Matrice des fonctionnalités](../features-matrix.md) pour vérifier si cette fonctionnalité est incluse dans votre plan.
 :::
