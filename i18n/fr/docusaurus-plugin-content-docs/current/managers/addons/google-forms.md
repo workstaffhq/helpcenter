@@ -20,7 +20,7 @@ L’intégration de Google Forms de Workstaff facilite les candidatures et l’i
 - Une fenêtre Google s’ouvrira, vous demandant de saisir vos identifiants Google afin de connecter les deux applications.
 
 :::note
-Nous vous recommandons d’utiliser un compte Google générique. Cela permettra à tous les utilisateurs ayant accès à cette adresse courriel de modifier les formulaires.
+Nous recommandons d’utiliser un **compte Google partagé** (par exemple, un compte d’équipe ou de département) plutôt qu’un compte personnel. Cela permet à tous les membres de l’équipe ayant accès à ce compte de modifier les formulaires.
 :::
 
 :::info
@@ -56,7 +56,7 @@ Avant de partager le lien du formulaire Google avec les candidats, assurez-vous 
 Pour générer un lien partageable, cliquez sur **Envoyer** dans le coin supérieur droit du formulaire, puis sélectionnez **Envoyer par lien**. Vous pouvez raccourcir l'URL si nécessaire, puis cliquer sur **Copier**. Le lien peut ensuite être partagé sur votre site web, vos réseaux sociaux ou via tout autre canal de votre choix.
 
 :::note
-**Ne partagez pas le lien présent dans la barre d’adresse du formulaire Google avec vos candidats.** Générer un lien de partage dédié garantit une configuration correcte pour le partage.
+**Évitez de partager l’URL directement depuis la barre d’adresse du navigateur.** Utilisez toujours le lien de partage généré via le menu **Envoyer** pour garantir que vos candidats puisse accéder au formulaire et le remplir correctement.
 :::
 
 Une fois que les candidats soumettent leurs réponses via un formulaire Google, Workstaff crée automatiquement un profil candidat, garantissant que leurs informations sont prêtes pour l’intégration. Consultez **[Gérez les candidats ayant soumis leur candidature via Google Forms](../staff/staff-onboarding.md#gérez-les-candidats-ayant-soumis-leur-candidature-via-google-forms)** pour les prochaines étapes.

@@ -20,7 +20,7 @@ Workstaff’s Google Forms integration simplifies staff application and onboardi
 - A Google window will appear, asking for your Google account credentials to connect the two applications.
 
 :::note
-We recommend using a **generic Google account**. This will allow all users with access to this account to edit the forms.
+We recommend using a **shared Google account** (e.g., a team or department account) rather than a personal one. This allows all team members with access to that account to edit the forms.
 :::
 
 :::info
@@ -56,7 +56,7 @@ Before sharing the Google Form link with candidates, ensure the **Settings** are
 To generate a shareable link for your form, click **Send** in the top-right corner, then select **Send via Link**. You can shorten the URL if needed, then click **Copy** to share the link through your website, social media, or any preferred channel.
 
 :::note
-**Do not share the link from the URL bar of the Google Form to your candidates.** Generating a dedicated shareable link ensures the proper configuration for sharing.
+**Avoid sharing the URL directly from the browser's address bar.** Always use the shareable link generated through the **Send** menu to ensure your candidates can access and complete the form properly.
 :::
 
 Once applicants submit their responses through a Google Form, Workstaff automatically creates a candidate profile, ensuring their information is ready for onboarding. See **[Managing Google Forms Candidates](../staff/staff-onboarding.md#managing-google-forms-candidates)** for the next steps.
