@@ -5,30 +5,70 @@ sidebar_position: 1
 
 # Intégration avec Google Forms
 
-Simplifiez le processus de candidature et d'intégration de votre personnel grâce à l'extension Google Forms de Workstaff. Demandez à vos candidats de remplir ces formulaires afin de recueillir des informations essentielles pour votre organisation et votre planification. Gagnez du temps en créant automatiquement leur profil à partir des informations contenues dans leurs réponses. Profitez de la commodité et de l'efficacité de la solution intégrée de Workstaff pour une expérience d'intégration plus fluide.
+## Simplifiez votre processus de recrutement avec l’intégration Google Forms de Workstaff
 
-Voici un guide étape par étape sur la façon dont cela fonctionne :
+L’intégration de Google Forms de Workstaff facilite les candidatures et l’intégration de votre personnel. Voici pourquoi vous allez l’adorer :
+- **Gagnez du temps :** Créez automatiquement des profils de personnel à partir des réponses aux formulaires Google, réduisant ainsi la saisie manuelle.
+- **Personnalisez facilement :** Adaptez vos formulaires avec des champs personnalisés pour recueillir toutes les informations nécessaires dès le départ.
+- **Partage simplifié :** Partagez vos formulaires via un simple lien et collectez les réponses sans effort.
 
-1.	Contactez notre équipe Customer Success pour activer l'extension **Google Forms** pour votre compte Workstaff.
-2.	Allez dans la section **Paramètres** et cliquez sur **Extensions**.
-3.	Sous **Google Forms**, cliquez sur **Configurer**.
-4.	Créez votre formulaire de demande en cliquant sur le bouton **+** et sélectionnez le titre et la langue.
-5.	Choisissez les champs supplémentaires spécifiques à Workstaff que vous souhaitez inclure dans le formulaire. Lorsque les candidats remplissent ces champs dans le formulaire Google, les informations sont automatiquement ajoutées à leur profil de candidat dans Workstaff.
+## Commencer en 3 étapes simples
 
-Workstaff génère un formulaire dans votre compte Google Forms, demandant aux personnes interrogées leur prénom, leur nom, leur adresse électronique et les champs supplémentaires choisis. Une fois le formulaire créé, vous avez la liberté de le modifier selon vos besoins, par exemple en ajoutant des images, en changeant l'ordre des questions ou en ajoutant de nouvelles questions.
+### 1. Ajout de l’extension Google Forms
 
-
-Une fois le formulaire créé, vous disposez des options suivantes :
-1.	**Accéder au formulaire Google** et partager le lien avec vos candidats
-2.	**Pause du formulaire** : Cette action empêche les candidats de soumettre leurs réponses. Vous pouvez réactiver le formulaire Google en cliquant sur le bouton vert.
-3.	**Supprimer le formulaire** : Si nécessaire, vous pouvez choisir de supprimer entièrement le formulaire.
-
-![google-forms.png](Images/google-forms.png)
+- Dans la section Paramètres, ouvrez le menu **Ajouts** et cliquez sur **Activer** sous **Google Forms**.
+- Une fenêtre Google s’ouvrira, vous demandant de saisir vos identifiants Google afin de connecter les deux applications.
 
 :::note
-Les informations fournies par les candidats en réponse aux questions supplémentaires ne seront pas affichées dans leur profil Workstaff. Cependant, vous pourrez y accéder grâce aux réponses collectées dans les formulaires Google et au document Google Sheet générée à partir de ces réponses.
+Nous recommandons d’utiliser un **compte Google partagé** (par exemple, un compte d’équipe ou de département) plutôt qu’un compte personnel. Cela permet à tous les membres de l’équipe ayant accès à ce compte de modifier les formulaires.
 :::
 
-Une fois qu'un membre du personnel a rempli et envoyé le formulaire Google, Workstaff crée un profil de candidat temporaire pour lui, garantissant que toutes les informations essentielles sont facilement accessibles pour les profils de votre personnel et le processus d'intégration.
+:::info
+Consultez notre [Matrice des fonctionnalités](../features-matrix.md) pour vérifier si cette fonctionnalité est incluse dans votre plan. Pour toute question, n’hésitez pas à contacter notre équipe [Customer Success](mailto:customer.success@workstaff.app).
+:::
 
+### 2. Création d'un formulaire de candidature
 
+- Dans le menu **Ajouts**, cliquez sur **Configurer** sous **Google Forms** puis créez votre formulaire de candidature en cliquant sur le bouton **+**. 
+- Sélectionnez un titre et une langue pour le formulaire.
+- Choisissez les **champs personnalisés à inclure** dans le formulaire (les réponses saisies dans ces champs par les candidats mettront automatiquement à jour leur profil dans Workstaff).
+
+Workstaff crée un formulaire dans votre compte Google Forms, collectant le prénom, nom, adresse email et les champs supplémentaires choisis. Vous pouvez ensuite le personnaliser selon vos besoins : ajouter des images, réorganiser les questions ou en ajouter de nouvelles.
+
+:::note
+Nous vous recommandons de **[créer des champs personnalisés](../staff/organizing.md#champs-personnalisés)** au préalable afin de pouvoir les sélectionner dans votre formulaire Google.
+:::
+
+:::note
+Les informations saisies par les candidats dans des questions ajoutées directement sur le formulaire Google (en dehors de Workstaff) ne seront pas synchronisées avec leur profil Workstaff.  Cependant, vous pourrez les consulter dans l’onglet **Réponses** du formulaire Google ou dans un Google Sheet associé en cliquant sur **Lien vers Sheets**. 
+:::
+
+**Conseil de pro :** Configurez une validation des réponses pour garantir que les candidats fournissent les bonnes informations. Par exemple, pour s’assurer qu’ils entrent une adresse courriel plutôt qu’une adresse postale, utilisez une expression régulière comme ^\S+@\S+$ dans le champ correspondant.
+
+![Validation de réponse](Images/validation-reponse.png)
+
+### 3. Partage du lien aux candidats
+
+Avant de partager le lien du formulaire Google avec les candidats, assurez-vous que les **Paramètres** sont correctement configurés. Pour permettre à tous d’accéder au formulaire, vérifiez que l’option **Restreindre aux utilisateurs de votre organisation et de ses organisations de confiance** est décochée.
+
+![Paramètres du formulaire](Images/form-parametres.png)
+
+Pour générer un lien partageable, cliquez sur **Envoyer** dans le coin supérieur droit du formulaire, puis sélectionnez **Envoyer par lien**. Vous pouvez raccourcir l'URL si nécessaire, puis cliquer sur **Copier**. Le lien peut ensuite être partagé sur votre site web, vos réseaux sociaux ou via tout autre canal de votre choix.
+
+:::note
+**Évitez de partager l’URL directement depuis la barre d’adresse du navigateur.** Utilisez toujours le lien de partage généré via le menu **Envoyer** pour garantir que vos candidats puisse accéder au formulaire et le remplir correctement.
+:::
+
+Une fois que les candidats soumettent leurs réponses via un formulaire Google, Workstaff crée automatiquement un profil candidat, garantissant que leurs informations sont prêtes pour l’intégration. Consultez **[Gérez les candidats ayant soumis leur candidature via Google Forms](../staff/staff-onboarding.md#gérez-les-candidats-ayant-soumis-leur-candidature-via-google-forms)** pour les prochaines étapes.
+
+## Gestion des formulaires
+
+1. **Accéder au formulaire Google**, puis cliquez sur le crayon dans le coin inférieur droit pour le modifier. 
+2. **Mettre le formulaire sur pause** : Cette action empêche les candidats de soumettre leurs réponses. Vous pouvez réactiver le formulaire Google en cliquant sur le bouton vert.
+3. **Supprimer le formulaire** : Si nécessaire, vous pouvez choisir de supprimer entièrement le formulaire.
+
+![Configuration Google Forms Addon](Images/google-forms.png)
+
+:::note
+Saisissez une adresse électronique sous **Notifications par courriel** pour recevoir des alertes en cas de réussite ou d'échec de la soumission.
+:::
