@@ -47,7 +47,7 @@ Information provided by candidates in additional questions added directly to the
 
 ![Response Validation](Images/response-validation.png)
 
-### 3. Sharing The Form To Candidates
+### 3. Sharing The Form With Candidates
 
 Before sharing the Google Form link with candidates, ensure the **Settings** are properly configured. To allow everyone to access the form, make sure the **Restrict to users in your organization and its trusted organizations** option is unchecked.
 
