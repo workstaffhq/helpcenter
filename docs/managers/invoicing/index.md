@@ -2,7 +2,7 @@
 
 If you work with self-employed / contractors staff, Workstaff empowers them to create and submit invoices from the mobile app for the shifts they have worked on. 
 
-Invoices are generated based on approved time entries as well as remuneration conditions you provided to Workstaff, thus greatly limiting the possibility of errors along the way. You and your contractors save time and efforts, and the invoicing process which is traditionally a big pain and lots of back and forths, is transformed into a smooth and near frictionless process. 
+Invoices are generated based on approved time entries as well as compensation conditions you provided to Workstaff, thus greatly limiting the possibility of errors along the way. You and your contractors save time and efforts, and the invoicing process which is traditionally a big pain and lots of back and forths, is transformed into a smooth and near frictionless process. 
 
 Although Workstaff will generate invoice skeletons automatically for your contractors, they can still add line items or change the automatically generated ones if needed.
 

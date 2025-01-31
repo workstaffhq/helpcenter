@@ -12,7 +12,7 @@ sidebar_position: 1
 There are a few considerations to take into account before starting with Payroll:
 
 - Your staff should have the correct [employment statuses](./configure.md#employment-statuses) associated with their profile
-- The [remuneration for your staff's shifts](../scheduling/remuneration.md) must be accurate
+- The [compensation for your staff's shifts](../scheduling/remuneration.md) must be accurate
 - You should already be regularly and consistently [approving time entries](../timetracking/submissions.md) for these shifts
 
 Workstaff uses this information to generate your pay runs so you will not benefit from the payroll module's full potential 

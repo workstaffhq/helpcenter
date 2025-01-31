@@ -1,14 +1,14 @@
 ---
-title: Remuneration
+title: Compensation
 ---
 
-# Remuneration Settings 
+# Compensation Settings 
 
-Workstaff allows you to customize the way your remuneration is calculated for your account. To do so, head to the **Account** tab of the **Settings** section, and scroll down to **Remuneration**.
+Workstaff allows you to customize the way your compensation is calculated for your account. To do so, head to the **Account** tab of the **Settings** section, and scroll down to **Compensation**.
 
 Once you input values in the chosen options, they will automatically be applied to shifts when the specified conditions are fulfilled.
 
-![Remuneration](Images/remuneration-settings.png)
+![Compensation](Images/remuneration-settings.png)
 
 ## Standard Pay Rates
 

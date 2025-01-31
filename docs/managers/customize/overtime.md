@@ -4,11 +4,11 @@ title: Overtime
 
 # Configure Overtime
 
-Workstaff can calculate [and remunerate](../payroll/overtime.md) overtime automatically, both daily and weekly. When overtime rules are configured in your account, Workstaff will display warnings at relevant locations, such as the weekly calendar view or when booking staff. These warnings are designed to highlight situations where unwanted overtime would be introduced by booking a certain staff.
+Workstaff can calculate [and compensate](../payroll/overtime.md) overtime automatically, both daily and weekly. When overtime rules are configured in your account, Workstaff will display warnings at relevant locations, such as the weekly calendar view or when booking staff. These warnings are designed to highlight situations where unwanted overtime would be introduced by booking a certain staff.
 
 ## Setting Overtime Rules & Options
 
-To customize the way Workstaff calculates overtime for hours worked by your team, go to **Settings / Account** and scroll down to the **Remuneration** panel.
+To customize the way Workstaff calculates overtime for hours worked by your team, go to **Settings / Account** and scroll down to the **Compensation** panel.
 
 ![Overtime](Images/overtime.png)
 
