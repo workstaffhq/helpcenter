@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Overtime
 
-Workstaff can calculate [and remunerate](../payroll/overtime.md) overtime automatically, both daily and weekly.
+Workstaff can calculate [and compensate](../payroll/overtime.md) overtime automatically, both daily and weekly.
 
 ## Warnings
 
@@ -89,6 +89,6 @@ When both daily and weekly rules are present, Workstaff first applies daily rule
 | Daily Overtime @8h   | 1   |     | 2   | 1   | 1   |     |     |     
 | Weekly Overtime @35h |     |     |     |     | 5   | 6   |     |     
 
-## Overtime remuneration
+## Overtime compensation
 
-It is the Payroll module that calculates [precise remuneration for hours worked in overtime](../payroll/overtime.md). Make sure you plan includes this functionality if you wish to remunerate overtime hours.
+It is the Payroll module that calculates [precise compensation for hours worked in overtime](../payroll/overtime.md). Make sure you plan includes this functionality if you wish to compensate overtime hours.

@@ -21,7 +21,7 @@ Select your organization’s **Timezone** and your **Headquarters** location for
 
 ### Defaults
 1. Select who amongst your account users will be the **Default contact person**.
-2. Select your **Default remuneration mode** (None; Hourly, Volunteer). The mode you select will be applied to all new events.
+2. Select your **Default compensation mode** (None; Hourly, Volunteer). The mode you select will be applied to all new events.
 3. The **Default employment status** (Contractor/Freelancer, Payroll, Volunteer) you select will be added to all new staff profiles. You can still select a status for each staff member by editing it directly in their profile.
 
 ### Notifications
@@ -42,7 +42,7 @@ If you work with contractors/freelancers, fill-in the invoicing information so t
 A **Billing Address must** be provided in your account before any contractor can submit an invoice via Workstaff. 
 :::
 
-By default, Workstaff will request invoices for remunerated shifts of contractors. When the **Do not require invoices from contractors** is checked, invoices submission will still be allowed but it won't be enforced.
+By default, Workstaff will request invoices for compensated shifts of contractors. When the **Do not require invoices from contractors** is checked, invoices submission will still be allowed but it won't be enforced.
 
 ## Users
 The **Users** section allows you to manage who can access your Workstaff account. You can overview your active and inactive users, add or delete users from your account, and manage their roles and permissions based on your organization's needs.
@@ -50,10 +50,10 @@ The **Users** section allows you to manage who can access your Workstaff account
 ### User Roles
 - **Account Owner**: The primary user with full control over the account. They are responsible for managing billing, account settings, and user permissions. The Account Owner can transfer ownership, add or remove users, and make key decisions about account configuration and usage.
 - **Administrator**: Has the same level of access as the Account Owner, including full permissions to manage users, settings, and account configurations. The key difference lies in their responsibilities: Administrators can manage the account but do not hold ownership and are not responsible for overarching decisions such as billing or ownership transfers.
-- **Member**: Has access to all areas of the account except settings and anything related to remuneration, including payroll and billing, unless explicitly granted permission.
+- **Member**: Has access to all areas of the account except settings and anything related to compensation, including payroll and billing, unless explicitly granted permission.
 
 :::note
-**Account Owners** can transfer ownership of the account to another manager user through the action menu next to their name. From the same table, remuneration access can be granted to Members by an Administrator or the Account Owner.
+**Account Owners** can transfer ownership of the account to another manager user through the action menu next to their name. From the same table, compensation access can be granted to Members by an Administrator or the Account Owner.
 :::
 
 See [**Manage Your Subscription**](../billing/manage-users.md) for more details on how to manage users. 

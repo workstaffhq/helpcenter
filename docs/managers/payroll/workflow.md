@@ -13,9 +13,9 @@ It is possible that upon generating a pay run, some of your staff do not show up
 
 ## Pay Periods Are Snapshots Frozen In Time
 
-Each pay period in Workstaff is a snapshot of your pay data taken at the moment the period was generated. Workstaff does not automatically update payroll data when adjustments are made to the underlying data such as remunerations or time entries. 
+Each pay period in Workstaff is a snapshot of your pay data taken at the moment the period was generated. Workstaff does not automatically update payroll data when adjustments are made to the underlying data such as compensation or time entries. 
 
-As you work through your pay run, you may need to adjust remuneration or time entries. When you do so, Workstaff will identify the changes and warn you that the payroll data is not in sync. To synchronize the payroll data, you need to manually re-generate the pay period.
+As you work through your pay run, you may need to adjust compensation or time entries. When you do so, Workstaff will identify the changes and warn you that the payroll data is not in sync. To synchronize the payroll data, you need to manually re-generate the pay period.
 
 :::note
 Stubs marked as **Final** are not re-generated automatically. To update a stub that has been marked as finalized, you first need to re-open it, then re-generate the pay period. 
@@ -61,7 +61,7 @@ Here are the different possible warnings:
   ![warning2.png](images/warning2.png)
 - **Some shifts are not included**: this warning appears when new shifts were added or approved after the pay period was last generated. As such, this data is not yet included in the pay period, and it usually needs to be re-generated. Click **Re-generate** to have the missing time entries included and the period data updated.
   ![warning3.png](images/warning3.png)
-- **Remuneration data for some shifts has changed**: This warning displays if there are changes to the compensation data for at least one staff member for hours worked during the period.
+- **Compensation data for some shifts has changed**: This warning displays if there are changes to the compensation data for at least one staff member for hours worked during the period.
   ![warning4.png](images/warning4.png)
 - If any data is out of date, warnings will also appear on the far right of affected pay stubs in the pay period screen:
   ![warning5.png](images/warning5.png)
@@ -80,7 +80,7 @@ Use the search filters to view stubs by status (**All; Open stubs only; Final st
 
 ## Mark Stubs as Final
 
-The module helps you track exactly where you are in your payroll preparation. Mark finalized stubs by clicking on **Mark as Final**. Workstaff will then ensure that its data remains frozen, even if the underlying data, such as remuneration or time entries, was to change.
+The module helps you track exactly where you are in your payroll preparation. Mark finalized stubs by clicking on **Mark as Final**. Workstaff will then ensure that its data remains frozen, even if the underlying data, such as compensation or time entries, was to change.
 
 ![final.png](images/final.png)
 

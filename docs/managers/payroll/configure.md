@@ -32,6 +32,6 @@ Under some circumstances, you may need to [slightly adjust dates](./workflow.md#
 
 ## Select Staff To Include in Pay Runs {#employment-statuses}
 
-By default, all of your remunerated staff with employment statuses **Contractor / Freelancer** and **Employee** are included in pay runs. 
+By default, all of your compensated staff with employment statuses **Contractor / Freelancer** and **Employee** are included in pay runs. 
 
 Select the option **Exclude contractors from payroll** in the settings if you want to exclude contractors / freelancers workers from you pay runs. This option is useful to prevent redundant information when you are using [integrated contractor invoices](../invoicing/index.md).

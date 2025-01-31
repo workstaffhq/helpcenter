@@ -31,7 +31,7 @@ You'll need to provide a few invoicing-related information before you can use th
 Only shifts meeting the following criteria can be invoiced:
 
 - Shift must have been completed
-- Shift must be remunerated (must have earnings)
+- Shift must be compensated (must have earnings)
 - A time entry must have been [**submitted and approved**](./manage-your-time/report-your-time.md)
 - Your employer must have declared your employment status as Autonomous Worker.
 
