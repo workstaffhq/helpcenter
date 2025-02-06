@@ -23,12 +23,12 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | [Budget et rapports financiers](#reports)                    |          |    ✅     |
 | Gestion des clients                                          |          |    ✅     |
 | Départements                                                 |          |    ✅     |
-| [Rémuneration de base](#remuneration)                        |  Add-on  |    ✅     |
+| [Rémuneration de base](#compensation)                        |  Add-on  |    ✅     |
 | [Feuilles de temps](#timesheets)                             |  Add-on  |    ✅     |
 | [Pointage des travailleurs avec rappels](#timesheets)        |  Add-on  |    ✅     |
 | Suivi de la présence du personnel en direct                  |  Add-on  |    ✅     |
 | Recevez des photos de votre personnel sur le terrain         |  Add-on  |  Add-on  |
-| [Rémunération avancée (primes)](#remuneration)               |  Add-on  |  Add-on  |
+| [Rémunération avancée (primes)](#compensation)               |  Add-on  |  Add-on  |
 | [Facturation intégrée pour les sous-traitants](#invoicing)   |  Add-on  |  Add-on  |
 | [Préparation de la paie](#payroll)                           |  Add-on  |  Add-on  |
 | [Portail client](#client-portal)                             |  Add-on  |  Add-on  |
@@ -96,7 +96,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Offres *urgentes*                                                                                              |          |    ✅     |
 | Offres *premier arrivé, premier servi*                                                                         |          |    ✅     |
 
-## Rémunération {#remuneration}
+## Rémunération {#compensation}
 
 | Fonctionnalité                                                  | Plan Pro | Plan Max |
 |-----------------------------------------------------------------|:--------:|:--------:|
@@ -203,7 +203,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Soumission de feuilles de temps                                                                   |  Add-on  |    ✅     |
 | Soumissions de feuilles de temps pour des collègues                                               |  Add-on  |    ✅     |
 | Créer et soumettre des factures à partir de feuilles de temps approuvées (travailleurs autonomes) |  Add-on  |  Add-on  |
-| Téléchargez et imprimez les factures soumises (travailleurs autonomes)                            |  Add-on  |  Add-on  |
+| Télécharger et imprimer les factures soumises (travailleurs autonomes)                            |  Add-on  |  Add-on  |
 
 ## Notifications {#notifications}
 
@@ -251,6 +251,17 @@ projets, des photos et bien plus encore.
 | Partage des photos de votre personnel sur le terrain                           |  Add-on  |  Add-on  |
 | Partage des feuilles de temps approuvées avec votre client                     |  Add-on  |  Add-on  |
 | Adresse web dédiée pour le portail, à l'effigie de votre organisation          |  Add-on  |  Add-on  |
+
+## Rapports de Terrain {#field-reports}
+
+Les [Rapports de Terrain](../addons/field-reports/) vous permettent de collecter des retours structurés de votre personnel, offrant une meilleure visibilité et facilitant la prise de décision.
+
+| Fonctionnalité                                                                 | Plan Pro | Plan Max |
+|--------------------------------------------------------------------------------|:--------:|:--------:|
+| Création de questionnaires personnalisables                                    |  Add-on  |  Add-on  |
+| Suivi des réponses aux questionnaires par projet                               |  Add-on  |  Add-on  |
+| Téléchargement des réponses vers Excel                                         |  Add-on  |  Add-on  |
+| Partage des réponses avec votre client sur le [Portail Client](#client-portal) |  Add-on  |  Add-on  |
 
 ## Fonctions optionnelles {#addons}
 

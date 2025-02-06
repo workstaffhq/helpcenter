@@ -76,7 +76,7 @@ Workstaff will treat employee profiles differently depending on their employment
 
 ### Hourly Rate
 
-This is the default hourly rate that will be used when calculating remuneration for the person. This rate
+This is the default hourly rate that will be used when calculating compensation for the person. This rate
 can be overridden as needed everytime a person is booked and should not include any possible [Premium](../customize/premiums.md).
 
 ### Departments

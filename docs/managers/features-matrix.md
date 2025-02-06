@@ -251,6 +251,17 @@ bring their clients closer with a dedicated and personalized online portal for s
 | Share approved timesheets with your clients                             |  Add-on  |  Add-on  |
 | Dedicated Web address for your portal, branded to your organization     |  Add-on  |  Add-on  |
 
+## Field Reports {#field-reports}
+
+The [Field Reports](../addons/field-reports/) feature help you collect structured feedback from your staff, ensuring better visibility and improved decision-making.
+
+| Feature                                                                 | Pro Plan | Max Plan |
+|-------------------------------------------------------------------------|:--------:|:--------:|
+| Create customizable questionnaires                                      |  Add-on  |  Add-on  |
+| Tracking questionnaire responses by project                             |  Add-on  |  Add-on  |
+| Download responses to Excel                                             |  Add-on  |  Add-on  |
+| Share answers with your clients on the [Client Portal](#client-portal)  |  Add-on  |  Add-on  |
+
 ## Addons {#addons}
 
 These addons currently need to be enabled for your account by our Customer Success team on request - 

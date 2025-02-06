@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Client Portal
 
 The Client Portal provides your clients with an easy-to-use web dashboard where they can view their staffing projects, submit staff requests and monitor real-time progress.
