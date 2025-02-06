@@ -41,7 +41,7 @@ Un questionnaire peut également être attribué par défaut à un client. Pour 
 
 ### 3. Collecte des Rapports de Terrain auprès du personnel
 
-### Assigner un questionnaire à un projet :
+#### Assigner un questionnaire à un projet :
 
 1. Rendez-vous sur la page de votre projet.
 2. Cliquez sur **Paramètres**.
@@ -50,7 +50,7 @@ Un questionnaire peut également être attribué par défaut à un client. Pour 
 5. Choisissez s’il doit être appliqué à une compétence spécifique.
 6. Définissez si la réponse est requise, précisez la fréquence, le délai de réponse, puis cliquez sur **Ajouter**.
 
-### Gérer les réponses aux Rapports de Terrain
+#### Gérer les réponses aux Rapports de Terrain
 
 Sur la page du projet, accédez à l’onglet **Rapports de terrain** pour avoir une vue d’ensemble des rapports soumis et en attente. Cliquez sur **Voir les détails** pour afficher les réponses reçues.
 

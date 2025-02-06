@@ -41,7 +41,7 @@ A questionnaire can also be assigned to a client by default. This means that for
 
 ### 3. Collecting Field Reports From Staff
 
-### Assigning a questionnaire to a project:
+#### Assigning a questionnaire to a project:
 
 1. Go to your project page.
 2. Click on **Settings**.
@@ -50,7 +50,7 @@ A questionnaire can also be assigned to a client by default. This means that for
 5. Choose whether to apply it to a specific skill.
 6. Set whether the response is required, define the frequency, the submission deadline, and click **Add**.
 
-### Managing Field Reports reponses
+#### Managing Field Reports reponses
 
 On the project page, go to the **Field Reports** tab to get an overview of submitted and pending reports. Click **See Details** to view the answers received.
 

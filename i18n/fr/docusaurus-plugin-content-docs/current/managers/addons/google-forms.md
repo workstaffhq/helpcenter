@@ -18,6 +18,7 @@ L’intégration de Google Forms de Workstaff facilite les candidatures et l’i
 
 - Dans la section Paramètres, ouvrez le menu **Ajouts** et cliquez sur **Activer** sous **Google Forms**.
 - Une fenêtre Google s’ouvrira, vous demandant de saisir vos identifiants Google afin de connecter les deux applications.
+- Google vous demandera ensuite de sélectionner ce à quoi Workstaff peut accéder : **Sélectionner tout** et cliquer sur **Continuer**.
 
 :::note
 Nous recommandons d’utiliser un **compte Google partagé** (par exemple, un compte d’équipe ou de département) plutôt qu’un compte personnel. Cela permet à tous les membres de l’équipe ayant accès à ce compte de modifier les formulaires.
