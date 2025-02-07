@@ -6,6 +6,17 @@ sidebar_position: 2
 
 <iframe width="640" height="306" src="https://www.loom.com/embed/987c200a36864fe9988d3527780713be" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+## Projects View
+
+In the Calendar section, switch to the **Week** view and click **Projects View**. This view offers a high-level summary of project progress, organized by project and skill.
+
+![projects-view.png](Images/projects-view.png)
+
+Key highlights of this view:
+- **Published shifts**: Marked with a green eye icon.
+- **Unassigned shifts or skills**: Indicated by a person icon.
+- **Pending confirmations**: Shown with a check icon.
+
 ## Creating a New Project
 
 Creating a project in Workstaff is a quick and easy task:
