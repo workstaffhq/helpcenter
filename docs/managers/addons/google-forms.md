@@ -18,6 +18,7 @@ Workstaff’s Google Forms integration simplifies staff application and onboardi
 
 - In the **Settings** section, navigate to the **Add-ons** menu and click **Activate** under **Google Forms**.
 - A Google window will appear, asking for your Google account credentials to connect the two applications.
+- Google will then ask you to select what Workstaff can access: **Select all** and click **Continue**.
 
 :::note
 We recommend using a **shared Google account** (e.g., a team or department account) rather than a personal one. This allows all team members with access to that account to edit the forms.

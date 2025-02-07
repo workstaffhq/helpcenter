@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Portail Client
 
 Le Portail Client offre à vos clients un tableau de bord en ligne facile à utiliser, leur permettant de consulter leurs projets, de soumettre des demandes de personnel et de suivre les progrès en temps réel.

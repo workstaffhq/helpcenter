@@ -2,7 +2,7 @@
 title: Overtime
 ---
 
-# Remunerate Overtime
+# Compensate Overtime
 
 When overtime rules are [configured on your account](../customize/overtime.md), Workstaff will automatically calculate and identify overtime for everyone in your team. In addition, Workstaff will automatically calculate extra earnings for your staff when you generate your pay runs. 
 
@@ -18,7 +18,7 @@ The rates you configure in your overtime rules will be applied over that regular
 
 ### Hourly rate constant throughout the week
 
-Let's start with the simpler case: all hours worked during the week are remunerated at the same hourly rate:
+Let's start with the simpler case: all hours worked during the week are compensated at the same hourly rate:
 
 |              |    MON |    TUE |    WED |    THU |    FRI | SAT | SUN |  Total |
 |--------------|-------:|-------:|-------:|-------:|-------:|----:|----:|-------:|

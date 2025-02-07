@@ -17,40 +17,44 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Évaluation du personnel                                      |    ✅     |    ✅     |
 | [Messagerie / Chat](#chat)                                   |    ✅     |    ✅     |
 | [Diffusions de messages](#chat)                              |    ✅     |    ✅     |
+| [Application mobile pour le personnel](#mobile)              |    ✅     |    ✅     |
+| Application mobile pour les gestionnaires                    |           |    ✅     |
 | [Champs personnalisés pour les profils du personnel](#staff) |    ✅     |    ✅     |
 | [Budget et rapports financiers](#reports)                    |          |    ✅     |
 | Gestion des clients                                          |          |    ✅     |
 | Départements                                                 |          |    ✅     |
-| [Rémuneration de base](#remuneration)                        |  Add-on  |    ✅     |
+| [Rémuneration de base](#compensation)                        |  Add-on  |    ✅     |
 | [Feuilles de temps](#timesheets)                             |  Add-on  |    ✅     |
 | [Pointage des travailleurs avec rappels](#timesheets)        |  Add-on  |    ✅     |
 | Suivi de la présence du personnel en direct                  |  Add-on  |    ✅     |
 | Recevez des photos de votre personnel sur le terrain         |  Add-on  |  Add-on  |
-| [Rémunération avancée (primes)](#remuneration)               |          |  Add-on  |
-| [Facturation intégrée pour les sous-traitants](#invoicing)   |          |  Add-on  |
-| [Préparation de la paie](#payroll)                           |          |  Add-on  |
-| [Portail client](#client-portal)                             |          |  Add-on  |
+| [Rémunération avancée (primes)](#compensation)               |  Add-on  |  Add-on  |
+| [Facturation intégrée pour les sous-traitants](#invoicing)   |  Add-on  |  Add-on  |
+| [Préparation de la paie](#payroll)                           |  Add-on  |  Add-on  |
+| [Portail client](#client-portal)                             |  Add-on  |  Add-on  |
 
 ## Gestion de la base de données {#staff}
 
-| Fonctionnalité                                          | Plan Pro | Plan Max |
-|---------------------------------------------------------|:--------:|:--------:|
-| Inviter / Ajouter du personnel                          |    ✅     |    ✅     |
-| Rechercher, trier et filtrer la base de données         |    ✅     |    ✅     |
-| Profils actifs / inactifs                               |    ✅     |    ✅     |
-| Lieu                                                    |    ✅     |    ✅     |
-| Notation par étoiles                                    |    ✅     |    ✅     |
-| Compétences                                             |    ✅     |    ✅     |
-| Étiquettes                                              |    ✅     |    ✅     |
-| Télécharger la base de données du personnel             |    ✅     |    ✅     |
-| Profils fictifs (sans l'app mobile)                     |    ✅     |    ✅     |
-| Champs personnalisés                                    |    ✅     |    ✅     |
-| Affichage du calendrier & historique de travail         |    ✅     |    ✅     |
-| Gestion des disponibilités                              |    ✅     |    ✅     |
-| Organiser par départements                              |          |    ✅     |
-| 🔥 Avertissements disciplinaires (ex: _no shows_)       |          |    ✅     |
-| Gestion de l'intégration du personnel                   |          |    ✅     |
-| Intégration via [Google Forms](../addons/google-forms/) |          |  Add-on  |
+| Fonctionnalité                                                | Plan Pro | Plan Max |
+|---------------------------------------------------------------|:--------:|:--------:|
+| Inviter / Ajouter du personnel                                |    ✅     |    ✅     |
+| Rechercher, trier et filtrer la base de données               |    ✅     |    ✅     |
+| Profils actifs / inactifs                                     |    ✅     |    ✅     |
+| Lieu                                                          |    ✅     |    ✅     |
+| Notation par étoiles                                          |    ✅     |    ✅     |
+| Compétences                                                   |    ✅     |    ✅     |
+| Étiquettes                                                    |    ✅     |    ✅     |
+| Télécharger la base de données du personnel                   |    ✅     |    ✅     |
+| Profils fictifs (sans l'app mobile)                           |    ✅     |    ✅     |
+| Champs personnalisés                                          |    ✅     |    ✅     |
+| Affichage du calendrier & historique de travail               |    ✅     |    ✅     |
+| Gestion des disponibilités                                    |    ✅     |    ✅     |
+| Organiser par départements                                    |          |    ✅     |
+| 🔥 Avertissements disciplinaires (ex: _no shows_)             |          |    ✅     |
+| Gestion de l'intégration du personnel                         |  Add-on  |  Add-on  |
+| Intégration via [Google Forms](../addons/google-forms/)       |  Add-on  |  Add-on  |
+| 🔥 Envoyer des demandes de documents aux membres du personnel |  Add-on  |  Add-on  |
+| 🔥 Conserver les documents importants du personnel            |  Add-on  |  Add-on  |
 
 ## Planification {#scheduling}
 
@@ -77,7 +81,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Partager des documents avec l'équipe                                      |    ✅     |    ✅     |
 | Remplissage automatique des quarts de travail                             |    ✅     |    ✅     |
 | Remplissage Magique: Affectations automatiques intelligentes              |    ✅     |    ✅     |
-| Associer un client à un projet                                            |          |    ✅     |
+| Associer un client à un projet                                            |  Add-on   |    ✅     |
 
 ## Quarts ouverts / Offres de travail {#offers}
 
@@ -92,7 +96,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Offres *urgentes*                                                                                              |          |    ✅     |
 | Offres *premier arrivé, premier servi*                                                                         |          |    ✅     |
 
-## Rémunération {#remuneration}
+## Rémunération {#compensation}
 
 | Fonctionnalité                                                  | Plan Pro | Plan Max |
 |-----------------------------------------------------------------|:--------:|:--------:|
@@ -105,16 +109,16 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Changements planifiés aux taux horaires de base du personnel    |  Add-on  |    ✅     |
 | Taux horaire de base différent en fonction du poste occupé      |  Add-on  |    ✅     |
 | Rémunération du temps supplémentaire                            |  Add-on  |    ✅     |
-| Primes par heure de déplacement                                 |          |  Add-on  |
-| Primes par heure de travail                                     |          |  Add-on  |
-| Primes par quart de travail                                     |          |  Add-on  |
-| Primes basées sur un pourcentage du salaire de base             |          |  Add-on  |
-| Primes automatiques en fonction des heures travaillées          |          |  Add-on  |
-| Primes automatiques en fonction des jours de la semaine         |          |  Add-on  |
-| Primes automatiques en fonction des compétences                 |          |  Add-on  |
-| Primes automatiques en fonction des champs personnalisés        |          |  Add-on  |
-| Primes automatiques en fonction du statut d'emploi              |          |  Add-on  |
-| Primes automatiques en fonction de la désignation chef d'équipe |          |  Add-on  |
+| Primes par heure de déplacement                                 |  Add-on  |  Add-on  |
+| Primes par heure de travail                                     |  Add-on  |  Add-on  |
+| Primes par quart de travail                                     |  Add-on  |  Add-on  |
+| Primes basées sur un pourcentage du salaire de base             |  Add-on  |  Add-on  |
+| Primes automatiques en fonction des heures travaillées          |  Add-on  |  Add-on  |
+| Primes automatiques en fonction des jours de la semaine         |  Add-on  |  Add-on  |
+| Primes automatiques en fonction des compétences                 |  Add-on  |  Add-on  |
+| Primes automatiques en fonction des champs personnalisés        |  Add-on  |  Add-on  |
+| Primes automatiques en fonction du statut d'emploi              |  Add-on  |  Add-on  |
+| Primes automatiques en fonction de la désignation chef d'équipe |  Add-on  |  Add-on  |
 
 ## Suivi du temps {#timesheets}
 
@@ -135,7 +139,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Téléchargement des données sommaires des feuilles de temps                             |  Add-on  |    ✅     |
 | Téléchargement des données détaillées des feuilles de temps                            |  Add-on  |    ✅     |
 | Pointage par les chefs d'équipe obligatoire                                            |  Add-on  |    ✅     |
-| 🔥 Suivi des _no shows_ et absences                                                    |          |    ✅     |
+| 🔥 Suivi des _no shows_ et absences                                                    |  Add-on  |    ✅     |
 
 ## Facturation des sous-traitants {#invoicing}
 
@@ -198,8 +202,8 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Pointage par code QR                                                                              |  Add-on  |    ✅     |
 | Soumission de feuilles de temps                                                                   |  Add-on  |    ✅     |
 | Soumissions de feuilles de temps pour des collègues                                               |  Add-on  |    ✅     |
-| Créer et soumettre des factures à partir de feuilles de temps approuvées (travailleurs autonomes) |          |  Add-on  |
-| Téléchargez et imprimez les factures soumises (travailleurs autonomes)                            |          |  Add-on  |
+| Créer et soumettre des factures à partir de feuilles de temps approuvées (travailleurs autonomes) |  Add-on  |  Add-on  |
+| Télécharger et imprimer les factures soumises (travailleurs autonomes)                            |  Add-on  |  Add-on  |
 
 ## Notifications {#notifications}
 
@@ -213,7 +217,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Notifications de nouveaux messages de diffusion | ✉️ 📱  |    ✅     |    ✅     |
 | Notifications d'annulation demandée             | ✉️     |    ✅     |    ✅     |
 | Notification de rappel d'heure d'arrivée        | 📱️    |  Add-on  |    ✅     |
-| Notification d'avertissement disciplinaire      | ✉️ 📱️ |    ✅     |    ✅     |
+| Notification d'avertissement disciplinaire      | ✉️ 📱️ |           |    ✅     |
 
 ## Paramètres et personnalisation {#settings}
 
@@ -226,7 +230,7 @@ Vous trouverez ci-dessous une liste exhaustive des fonctionnalités incluses dan
 | Personnalisation des balises pour les profils du personnel        |    ✅     |    ✅     |
 | Champs personnalisés pour les profils du personnel                |    ✅     |    ✅     |
 | Départements                                                      |          |    ✅     |
-| Primes                                                            |          |  Add-on  |
+| Primes                                                            |  Add-on  |  Add-on  |
 
 ## Rapports {#reports}
 
@@ -243,10 +247,21 @@ projets, des photos et bien plus encore.
 
 | Fonctionnalité                                                                 | Plan Pro | Plan Max |
 |--------------------------------------------------------------------------------|:--------:|:--------:|
-| Partage de projets de staffing (avancement, équipe, horaires) avec vos clients |          |  Add-on  |
-| Partage des photos de votre personnel sur le terrain                           |          |  Add-on  |
-| Partage des feuilles de temps approuvées avec votre client                     |          |  Add-on  |
-| Adresse web dédiée pour le portail, à l'effigie de votre organisation          |          |  Add-on  |
+| Partage de projets de staffing (avancement, équipe, horaires) avec vos clients |  Add-on  |  Add-on  |
+| Partage des photos de votre personnel sur le terrain                           |  Add-on  |  Add-on  |
+| Partage des feuilles de temps approuvées avec votre client                     |  Add-on  |  Add-on  |
+| Adresse web dédiée pour le portail, à l'effigie de votre organisation          |  Add-on  |  Add-on  |
+
+## Rapports de Terrain {#field-reports}
+
+Les [Rapports de Terrain](../addons/field-reports/) vous permettent de collecter des retours structurés de votre personnel, offrant une meilleure visibilité et facilitant la prise de décision.
+
+| Fonctionnalité                                                                 | Plan Pro | Plan Max |
+|--------------------------------------------------------------------------------|:--------:|:--------:|
+| Création de questionnaires personnalisables                                    |  Add-on  |  Add-on  |
+| Suivi des réponses aux questionnaires par projet                               |  Add-on  |  Add-on  |
+| Téléchargement des réponses vers Excel                                         |  Add-on  |  Add-on  |
+| Partage des réponses avec votre client sur le [Portail Client](#client-portal) |  Add-on  |  Add-on  |
 
 ## Fonctions optionnelles {#addons}
 
@@ -255,8 +270,4 @@ service à la clientèle — [faites-le nous savoir](mailto:customer.success@wor
 
 | Fonctionnalité                                                                         | Plan Pro | Plan Max |
 |----------------------------------------------------------------------------------------|:--------:|:--------:|
-| Transaction Pro (Quickbooks data export for Bills) - available with the Payroll add-on |    ✅     |    ✅     |
-
-
-
-
+| Transaction Pro (export de données Quickbooks) - disponible avec le add-on Paie        |    ✅     |    ✅     |

@@ -17,19 +17,21 @@ Below is an extensive list of features included in each Workstaff plan.
 | Staff ratings                                                   |    ✅     |    ✅     |
 | [Messaging / Chat](#chat)                                       |    ✅     |    ✅     |
 | [Broadcasts](#chat)                                             |    ✅     |    ✅     |
+| [Mobile application for staff](#mobile)                         |    ✅     |    ✅     |
+| Mobile application for managers                                |           |    ✅     |
 | Custom Fields for staff profiles                                |    ✅     |    ✅     |
 | [Budget and financial reports](#reports)                        |          |    ✅     |
 | Clients management                                              |          |    ✅     |
 | Departments                                                     |          |    ✅     |
-| [Basic Remuneration](#remuneration)                             |  Add-on  |    ✅     |
+| [Basic Compensation](#compensation)                             |  Add-on  |    ✅     |
 | [Time Tracking / Timesheets](#timesheets)                       |  Add-on  |    ✅     |
 | [Clock in/out with reminders](#timesheets)                      |  Add-on  |    ✅     |
 | Realtime staff presence                                         |  Add-on  |    ✅     |
 | Receive photos from staff in the field                          |  Add-on  |  Add-on  |
-| [Advanced Remuneration (Premiums/Differentials)](#remuneration) |          |  Add-on  |
-| [Integrated invoicing for contractors](#invoicing)              |          |  Add-on  |
-| [Payroll / Pay run](#payroll)                                   |          |  Add-on  |
-| [Client Portal](#client-portal)                                 |          |  Add-on  |
+| [Advanced Compensation (Premiums/Differentials)](#compensation) |  Add-on  |  Add-on  |
+| [Integrated invoicing for contractors](#invoicing)              |  Add-on  |  Add-on  |
+| [Payroll / Pay run](#payroll)                                   |  Add-on  |  Add-on  |
+| [Client Portal](#client-portal)                                 |  Add-on  |  Add-on  |
 
 ## Staff database management {#staff}
 
@@ -49,8 +51,10 @@ Below is an extensive list of features included in each Workstaff plan.
 | Manage availabilities                                              |    ✅     |    ✅     |
 | Organize by department                                             |          |    ✅     |
 | 🔥 Disciplinary Warnings (ex: no shows)                            |          |    ✅     |
-| Onboarding management                                              |          |    ✅     |
-| Onboarding via [Google Forms](../addons/google-forms/) integration |          |  Add-on  |
+| Onboarding management                                              |  Add-on  |  Add-on  |
+| Onboarding via [Google Forms](../addons/google-forms/) integration |  Add-on  |  Add-on  |
+| 🔥 Send document requests directly to staff                        |  Add-on  |  Add-on  |
+| 🔥 Keep important staff documents                                  |  Add-on  |  Add-on  |
 
 ## Scheduling {#scheduling}
 
@@ -77,7 +81,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Share notes with team                                     |    ✅     |    ✅     |
 | Share documents with team                                 |    ✅     |    ✅     |
 | Magic fill: Intelligent automatic filling of shifts       |    ✅     |    ✅     |
-| Associate projects to clients                             |          |    ✅     |
+| Associate projects to clients                             |  Add-on  |    ✅     |
 
 ## Open shifts / Offers {#offers}
 
@@ -92,29 +96,29 @@ Below is an extensive list of features included in each Workstaff plan.
 | *Urgent* offers                                                           |          |    ✅     |
 | *First Come, First Served* offers                                         |          |    ✅     |
 
-## Remuneration {#remuneration}
+## Compensation {#compensation}
 
 | Feature                                                      | Pro Plan | Max Plan |
 |--------------------------------------------------------------|:--------:|:--------:|
-| Per hour or per shift remuneration                           |  Add-on  |    ✅     |
+| Per hour or per shift compensation                           |  Add-on  |    ✅     |
 | Volunteering                                                 |  Add-on  |    ✅     |
 | Paid travel time                                             |  Add-on  |    ✅     |
-| Remuneration conditions per role and per shift               |  Add-on  |    ✅     |
+| Compensation conditions per role and per shift               |  Add-on  |    ✅     |
 | Default pay rates for all staff                              |  Add-on  |    ✅     |
 | Default pay rates per skill                                  |  Add-on  |    ✅     |
 | Scheduled base pay rate changes / history on worker profiles |  Add-on  |    ✅     |
 | Different base pay rates per skill on worker profiles        |  Add-on  |    ✅     |
-| Remunerate overtime                                          |  Add-on  |    ✅     |
-| Amount per travel hour premiums                              |          |  Add-on  |
-| Amount per work hour premiums                                |          |  Add-on  |
-| Amount per shift premiums                                    |          |  Add-on  |
-| Percent of base wage premiums                                |          |  Add-on  |
-| Automatic premiums based on time range                       |          |  Add-on  |
-| Automatic premiums based on days of week                     |          |  Add-on  |
-| Automatic premiums based on skills                           |          |  Add-on  |
-| Automatic premiums based on custom field values              |          |  Add-on  |
-| Automatic premiums based on employment status                |          |  Add-on  |
-| Automatic premiums based on team lead                        |          |  Add-on  |
+| Compensate overtime                                          |  Add-on  |    ✅     |
+| Amount per travel hour premiums                              |  Add-on  |  Add-on  |
+| Amount per work hour premiums                                |  Add-on  |  Add-on  |
+| Amount per shift premiums                                    |  Add-on  |  Add-on  |
+| Percent of base wage premiums                                |  Add-on  |  Add-on  |
+| Automatic premiums based on time range                       |  Add-on  |  Add-on  |
+| Automatic premiums based on days of week                     |  Add-on  |  Add-on  |
+| Automatic premiums based on skills                           |  Add-on  |  Add-on  |
+| Automatic premiums based on custom field values              |  Add-on  |  Add-on  |
+| Automatic premiums based on employment status                |  Add-on  |  Add-on  |
+| Automatic premiums based on team lead                        |  Add-on  |  Add-on  |
 
 ## Time Tracking {#timesheets}
 
@@ -135,7 +139,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Download summarized timesheet data                       |  Add-on  |    ✅     |
 | Download detailed timesheet data                         |  Add-on  |    ✅     |
 | Enforce clock in / out via team leads                    |  Add-on  |    ✅     |
-| 🔥 No shows / Absence tracking                           |          |    ✅     |
+| 🔥 No shows / Absence tracking                           |  Add-on  |    ✅     |
 
 ## Invoicing {#invoicing}
 
@@ -155,10 +159,10 @@ Below is an extensive list of features included in each Workstaff plan.
 | Consolidate earnings for employees and contractors within pay periods |  Add-on  |  Add-on  |
 | Weekly (52/year) and Bi-Weekly (26/year) pay periods                  |  Add-on  |  Add-on  |
 | Daily and weekly work hours summary per staff                         |  Add-on  |  Add-on  |
-| Overtime; Remunerate hours worked in overtime                         |  Add-on  |  Add-on  |
+| Overtime; Compensate hours worked in overtime                         |  Add-on  |  Add-on  |
 | Detection of non-approved hours                                       |  Add-on  |  Add-on  |
 | Detection of unprocessed shifts                                       |  Add-on  |  Add-on  |
-| Detection of schedule and remuneration changes                        |  Add-on  |  Add-on  |
+| Detection of schedule and compensation changes                        |  Add-on  |  Add-on  |
 | Prevention of changes after a stub has been marked as processed       |  Add-on  |  Add-on  |
 | Download detailed earnings data to Excel/CSV                          |  Add-on  |  Add-on  |
 
@@ -198,8 +202,8 @@ Below is an extensive list of features included in each Workstaff plan.
 | Clock in/out with QR Code                                             |  Add-on  |    ✅     |
 | Submit timesheet                                                      |  Add-on  |    ✅     |
 | Submit timesheet for colleagues                                       |  Add-on  |    ✅     |
-| Create and submit invoices from approved timesheets (contractors)     |          |  Add-on  |
-| Download and print submitted invoices (contractors)                   |          |  Add-on  |
+| Create and submit invoices from approved timesheets (contractors)     |  Add-on  |  Add-on  |
+| Download and print submitted invoices (contractors)                   |  Add-on  |  Add-on  |
 
 ## Notifications {#notifications}
 
@@ -226,7 +230,7 @@ Below is an extensive list of features included in each Workstaff plan.
 | Customize tags for staff profiles       |    ✅     |    ✅     |
 | Custom fields for staff profiles        |    ✅     |    ✅     |
 | Departments                             |          |    ✅     |
-| Premiums                                |          |  Add-on  |
+| Premiums                                |  Add-on  |  Add-on  |
 
 ## Reporting {#reports}
 
@@ -242,10 +246,21 @@ bring their clients closer with a dedicated and personalized online portal for s
 
 | Feature                                                                 | Pro Plan | Max Plan |
 |-------------------------------------------------------------------------|:--------:|:--------:|
-| Share staffing projects (team, schedules, completion) with your clients |          |  Add-on  |
-| Share project photos with your clients                                  |          |  Add-on  |
-| Share approved timesheets with your clients                             |          |  Add-on  |
-| Dedicated Web address for your portal, branded to your organization     |          |  Add-on  |
+| Share staffing projects (team, schedules, completion) with your clients |  Add-on  |  Add-on  |
+| Share project photos with your clients                                  |  Add-on  |  Add-on  |
+| Share approved timesheets with your clients                             |  Add-on  |  Add-on  |
+| Dedicated Web address for your portal, branded to your organization     |  Add-on  |  Add-on  |
+
+## Field Reports {#field-reports}
+
+The [Field Reports](../addons/field-reports/) feature help you collect structured feedback from your staff, ensuring better visibility and improved decision-making.
+
+| Feature                                                                 | Pro Plan | Max Plan |
+|-------------------------------------------------------------------------|:--------:|:--------:|
+| Create customizable questionnaires                                      |  Add-on  |  Add-on  |
+| Tracking questionnaire responses by project                             |  Add-on  |  Add-on  |
+| Download responses to Excel                                             |  Add-on  |  Add-on  |
+| Share answers with your clients on the [Client Portal](#client-portal)  |  Add-on  |  Add-on  |
 
 ## Addons {#addons}
 
