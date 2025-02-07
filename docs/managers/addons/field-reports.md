@@ -50,6 +50,8 @@ A questionnaire can also be assigned to a client by default. This means that for
 5. Choose whether to apply it to a specific skill.
 6. Set whether the response is required, define the frequency, the submission deadline, and click **Add**.
 
+When a response is required, staff will be prompted to complete the field report immediately after submitting their time in the mobile application. It will also appear in their To-Do list under the Today tab.
+
 #### Managing Field Reports reponses
 
 On the project page, go to the **Field Reports** tab to get an overview of submitted and pending reports. Click **See Details** to view the answers received.

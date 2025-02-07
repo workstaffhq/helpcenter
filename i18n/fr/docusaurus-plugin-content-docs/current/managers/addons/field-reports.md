@@ -4,14 +4,14 @@ sidebar_position: 3
 
 # Rapports de terrain
 
-## Optimisez votre gestion avec les Rapports de Terrain
+## Optimisez votre gestion avec les Rapports de terrain
 
-Les Rapports de Terrain vous permettent de collecter des retours structurés de votre personnel, offrant une meilleure visibilité et facilitant la prise de décision. Voici pourquoi ils sont indispensables :
+Les Rapports de terrain vous permettent de collecter des retours structurés de votre personnel, offrant une meilleure visibilité et facilitant la prise de décision. Voici pourquoi ils sont indispensables :
 - **Standardisez la collecte de données** : Obtenez des informations cohérentes et exploitables grâce à des questionnaires personnalisables.
 - **Améliorez le suivi et la conformité** : Assurez-vous que les rapports sont complétés à temps grâce à des attributions et des échéances automatisées.
 - **Intégration fluide** : Associez facilement les rapports aux projets et aux clients pour une gestion simplifiée.
 
-Activez l’add-on Rapports de Terrain dès aujourd’hui et prenez le contrôle de vos informations opérationnelles.
+Activez l’add-on Rapports de terrain dès aujourd’hui et prenez le contrôle de vos informations opérationnelles.
 
 ## Commencer en 3 étapes simples
 
@@ -39,7 +39,7 @@ Une fois complété, le questionnaire pourra être sélectionné dans n’import
 Un questionnaire peut également être attribué par défaut à un client. Pour chaque projet créé pour ce client, le questionnaire sera automatiquement lié et votre personnel devra toujours soumettre des rapports de terrain. Consultez notre [Matrice des fonctionnalités](../features-matrix.md) pour vérifier si cette fonctionnalité est incluse dans votre plan.
 :::
 
-### 3. Collecte des Rapports de Terrain auprès du personnel
+### 3. Collecte des Rapports de terrain auprès du personnel
 
 #### Assigner un questionnaire à un projet :
 
@@ -50,7 +50,9 @@ Un questionnaire peut également être attribué par défaut à un client. Pour 
 5. Choisissez s’il doit être appliqué à une compétence spécifique.
 6. Définissez si la réponse est requise, précisez la fréquence, le délai de réponse, puis cliquez sur **Ajouter**.
 
-#### Gérer les réponses aux Rapports de Terrain
+Lorsque la réponse est requise, le personnel sera invité à remplir le rapport terrain immédiatement après avoir soumis son temps dans l’application mobile. Il apparaîtra également dans leur liste de tâches sous l’onglet Aujourd’hui.
+
+#### Gérer les réponses aux Rapports de terrain
 
 Sur la page du projet, accédez à l’onglet **Rapports de terrain** pour avoir une vue d’ensemble des rapports soumis et en attente. Cliquez sur **Voir les détails** pour afficher les réponses reçues.
 
@@ -59,5 +61,5 @@ Si l’add-on **Portail Client** est inclus dans votre abonnement, vous pouvez p
 :::
 
 :::info
-Téléchargez un fichier Excel contenant tous les Rapports de Terrain d’un projet en cliquant sur **Télécharger les réponses** en haut à droite du tableau.
+Téléchargez un fichier Excel contenant tous les Rapports de terrain d’un projet en cliquant sur **Télécharger les réponses** en haut à droite du tableau.
 :::
