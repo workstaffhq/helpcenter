@@ -6,6 +6,17 @@ sidebar_position : 2
 
 <iframe width="640" height="307" src="https://www.loom.com/embed/4449efc8035b4e6b977bbe421ba41cc9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+## Vue Projets
+
+Dans la section Calendrier, passez à la vue **Semaine** et cliquez sur la vue **Projets**. Cette vue offre un aperçu global de l’avancement des projets, organisé par projet et compétence.
+
+![vue-projets.png](Images/vue-projets.png)
+
+Points clés de cette vue :
+- **Quarts publiés** : Indiqués par une icône d’œil vert.
+- **Quarts ou compétences non attribués** : Signalés par une icône de personne.
+- **Confirmations en attente** : Représentées par une icône de coche.
+
 ## Créer un nouveau projet
 
 Créer un projet dans Workstaff est une tâche rapide et facile:
