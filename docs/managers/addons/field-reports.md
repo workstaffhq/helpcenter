@@ -31,7 +31,7 @@ On the **Parameters** menu, click **Questionnaires**, then create a new question
 - **Optional**: Specify whether the question is optional.
 - **Question**: The actual question that will be shared with staff.
 - **Help Text**: Additional guidance to help staff understand the question.
-- **Additional information** Required for Multiple Choice, Single Choice, and Rating Scale fields.
+- **Additional information**: Required for Multiple Choice, Single Choice, and Rating Scale fields.
 
 Once completed, the questionnaire will be available for selection in any project.
 
@@ -50,11 +50,29 @@ A questionnaire can also be assigned to a client by default. This means that for
 5. Choose whether to apply it to a specific skill.
 6. Set whether the response is required, define the frequency, the submission deadline, and click **Add**.
 
+![Field Reports setup](./Images/field-reports-setup.png)
+
+A blue report icon will appear under the staff member’s name, indicating that they have been requested to complete a field report. The message ‘A field report has been requested automatically from project settings’ will be displayed.
+
+![Field Reports requested automatically](./Images/requested-automatically.png)
+
+#### Assigning a questionnaire to a specific booking:
+
+1. Go to your project page.
+2. Select one or multiple staff bookings.
+3. Click **Field Report** and **Request**.
+4. Select a questionnaire.
+5. Set whether the response is required, the submission deadline, and click **Request**.
+
+An orange report icon will appear under the staff member’s name, indicating that they have been requested to complete a field report. The message ‘A field report has been requested manually’ will be displayed.
+
+![Field Reports requested manually](./Images/requested-manually.png)
+
+#### Managing Field Reports responses:
+
 When a response is required, staff will be prompted to complete the field report immediately after submitting their time in the mobile application. It will also appear in their To-Do list under the Today tab.
 
-#### Managing Field Reports reponses
-
-On the project page, go to the **Field Reports** tab to get an overview of submitted and pending reports. Click **See Details** to view the answers received.
+To get an overview of submitted and pending reports, go to the **Field Reports** tab on the project page. Click **See Details** to view the answers received.
 
 :::note
 If the **Portal Client** add-on is included in your plan, you can share responses directly with your client by checking **Shared with client**.

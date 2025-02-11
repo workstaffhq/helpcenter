@@ -50,11 +50,29 @@ Un questionnaire peut également être attribué par défaut à un client. Pour 
 5. Choisissez s’il doit être appliqué à une compétence spécifique.
 6. Définissez si la réponse est requise, précisez la fréquence, le délai de réponse, puis cliquez sur **Ajouter**.
 
+![Paramétrage rapports de terrain](./Images/rapports-terrain-setup.png)
+
+Une icône bleue de rapport apparaîtra sous le nom du membre du personnel, indiquant qu’un rapport de terrain lui a été demandé. Le message « Un rapport de terrain a été demandé automatiquement à partir des paramètres du projet » s’affichera.
+
+![Rapports de terrain demandé automatiquement](./Images/demande-automatique.png)
+
+#### Assigner un questionnaire à une affectation spécifique :
+
+1. Rendez-vous sur la page de votre projet.
+2. Sélectionnez une ou plusieurs affectations.
+3. Cliquez sur **Rapports de terrain** puis **Demander**.
+4. Sélectionnez un questionnaire.
+5. Définissez si la réponse est requise, le délai de réponse, puis cliquez sur **Demander**.
+
+Une icône orange de rapport apparaîtra sous le nom du membre du personnel, indiquant qu’un rapport de terrain lui a été demandé. Le message « Un rapport de terrain a été demandé manuellement » s’affichera.
+
+![Rapports de terrain demandé manuellement](./Images/demande-manuelle.png)
+
+#### Gérer les réponses aux Rapports de terrain :
+
 Lorsque la réponse est requise, le personnel sera invité à remplir le rapport terrain immédiatement après avoir soumis son temps dans l’application mobile. Il apparaîtra également dans leur liste de tâches sous l’onglet Aujourd’hui.
 
-#### Gérer les réponses aux Rapports de terrain
-
-Sur la page du projet, accédez à l’onglet **Rapports de terrain** pour avoir une vue d’ensemble des rapports soumis et en attente. Cliquez sur **Voir les détails** pour afficher les réponses reçues.
+Pour avoir une vue d’ensemble des rapports soumis et en attente, accédez à l’onglet **Rapports de terrain** sur la page du projet. Cliquez sur **Voir les détails** pour afficher les réponses reçues.
 
 :::note
 Si l’add-on **Portail Client** est inclus dans votre abonnement, vous pouvez partager les réponses directement avec votre client en cochant **Partagé avec le client**.
