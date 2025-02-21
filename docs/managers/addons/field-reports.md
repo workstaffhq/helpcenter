@@ -25,7 +25,7 @@ Take a look at our [Feature Matrix](../features-matrix.md) to see if this featur
 
 ### 2. Creating A Questionnaire
 
-On the **Parameters** menu, click **Questionnaires**, then create a new questionnaire by clicking **+ New Questionnaire**. Add a title and click **+ Add Question**. You'll then need to fill in the following details before adding the question:
+On the **Settings** menu, click **Questionnaires**, then create a new questionnaire by clicking **+ New Questionnaire**. Add a title and click **+ Add Question**. You'll then need to fill in the following details before adding the question:
 - **Name**: A short, informative name for internal use.
 - **Type**: Choose from Open Text, Number, Multiple Choice, Single Choice, or Rating Scale.
 - **Optional**: Specify whether the question is optional.
