@@ -50,7 +50,7 @@ Ce système de codes couleurs vous permet de comprendre rapidement le statut de 
 ### Trier vos candidats
 Après avoir cliqué sur le bouton **Garder** pour valider vos candidats, vous pouvez voir qui a postulé pour chaque poste en sélectionnant le poste et en vérifiant si un point bleu apparaît sur leur photo.
 
-:::info
+:::tip
 Conseils pour comprendre l'affichage des candidats :
 - **Point bleu** : Indique que le candidat a postulé pour le poste.
 - **Nom apparaissant en gris clair** : Cela signifie que la compétence requise pour le poste sélectionné est absente de son profil.

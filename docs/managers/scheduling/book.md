@@ -48,7 +48,7 @@ This colour-coded system helps you quickly understand the availability status of
 ### Sorting Your Candidates
 After clicking on the **Keep** button to mark your candidates for consideration, you can view who has applied for each position by selecting the position, and checking if a blue dot appears on their photo.
 
-:::info
+:::tip
 Tips for understanding candidate display:
 - **Blue dot**: Indicates the candidate has applied for the position.
 - **Name appearing in light grey**: This means the required skill for the selected position is absent from their profile.
