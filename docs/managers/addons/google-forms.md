@@ -48,7 +48,8 @@ We recommand **[creating custom fields](../staff/organizing.md#custom-fields)** 
 Information provided by candidates in additional questions added directly to the Google Form (outside of Workstaff) will not be synchronized with their Workstaff profiles. However, this information can be accessed in the **Answers** tab on the Google Forms or in a linked Google Sheet by clicking on **Link to Sheets**. 
 :::
 
-:::tip Pro Tip: You can set up response validation to ensure candidates provide the correct type of information. For example, to make sure they enter an email address instead of a postal address, you can use a regular expression like ^\S+@\S+$ in the field.
+:::tip Pro Tip
+You can set up response validation to ensure candidates provide the correct type of information. For example, to make sure they enter an email address instead of a postal address, you can use a regular expression like ^\S+@\S+$ in the field.
 :::
 
 ![Response Validation](Images/response-validation.png)
