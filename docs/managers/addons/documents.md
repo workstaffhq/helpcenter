@@ -38,7 +38,7 @@ Once the document is submitted by the staff, it will appear on the staff profile
 - Add an **expiration date** and choose whether to notify staff as the expiry date approaches.
 
 :::info
-Staff will receive notifications when a document is requested and when it’s nearing expiration, prompting them to upload an updated version.
+Staff will receive notifications when a document is requested and when it’s nearing expiration (up to 30 days before expiration), prompting them to upload an updated version.
 :::
 
 ![Documents](Images/staff-documents.png)
@@ -49,4 +49,4 @@ Go to the **Documents** tab to manage staff documents. Here, you’ll find an ov
 - **To Review**: Documents uploaded by staff.
 - **Expired**: Documents past their expiration date.
 - **Expiring soon**: Documents set to expire within the next 30 days.
-- **Waiting for document**: Documents requested from staff but not yet uploaded..
+- **Waiting for document**: Documents requested from staff but not yet uploaded.

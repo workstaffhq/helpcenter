@@ -36,7 +36,7 @@ Lorsqu’un document est demandé, le personnel sera invité à le téléverser.
 - **Télécharger une nouvelle version** de ce document.
 
 :::info
-Le personnel recevra des notifications lorsqu’un document est demandé et lorsqu’il approche de son expiration, les invitant à en télécharger une version mise à jour.
+Le personnel recevra des notifications lorsqu’un document est demandé et lorsqu’il approche de son expiration (jusqu’à 30 jours avant l'expiration), les invitant à en télécharger une version mise à jour.
 :::
 
 ![Documents](Images/documents-travailleur.png)
