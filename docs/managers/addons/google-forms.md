@@ -34,17 +34,23 @@ Take a look at our [Feature Matrix](../features-matrix.md) to see if this featur
 - Select the title and language.
 - Select the **additional custom fields to include** in the form (responses will automatically update candidate profiles in Workstaff).
 
-Workstaff will create a Google Form requesting candidates' first name, last name, email, and any chosen custom fields. You can edit it as needed, adding images, reordering, or adding questions.
+Workstaff will create a Google Form requesting candidates' first name, last name, email, and any chosen custom fields. You can edit it as needed, adding images or adding questions.
+
+:::warning
+The mandatory fields (first name, last name, email) shouldn’t be modified in the Google Form. These fields are required to create candidates profiles in Workstaff, and missing information may prevent profile creation.
+:::
 
 :::note
 We recommand **[creating custom fields](../staff/organizing.md#custom-fields)** beforehand to select them on the Google Form.
 :::
 
 :::note
-Information provided by candidates in additional questions added directly to the Google Form (outside of Workstaff) will not be syncronized with their Workstaff profiles. However, this information can be accessed in the **Answers** tab on the Google Forms or in a linked Google Sheet by clicking on **Link to Sheets**. 
+Information provided by candidates in additional questions added directly to the Google Form (outside of Workstaff) will not be synchronized with their Workstaff profiles. However, this information can be accessed in the **Answers** tab on the Google Forms or in a linked Google Sheet by clicking on **Link to Sheets**. 
 :::
 
-**Pro Tip!** You can set up response validation to ensure candidates provide the correct type of information. For example, to make sure they enter an email address instead of a postal address, you can use a regular expression like ^\S+@\S+$ in the field.
+:::tip Pro Tip
+You can set up response validation to ensure candidates provide the correct type of information. For example, to make sure they enter an email address instead of a postal address, you can use a regular expression like ^\S+@\S+$ in the field.
+:::
 
 ![Response Validation](Images/response-validation.png)
 
