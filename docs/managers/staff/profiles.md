@@ -97,6 +97,21 @@ Once availability is specified on certain dates, these dates will be highlighted
 - **Yellow**: Partially Available
 - **Red**: Not Available
 
+## Warnings
+
+The **Warnings** tab allows you to view disciplinary warnings issued to a staff member and create new ones.
+
+When issuing a **Disciplinary Warning**, you can:
+- Add **Private notes**.
+- **Share the warning with the staff**.
+- **Add notes for staff**.
+
+:::info
+When a disciplinary warning is shared, the staff receives a notification and can view the details, including shared notes, directly in the mobile app.
+:::
+
+![Issue Disciplinary Warning](./images/disciplinary-warning.png)
+
 ## Claimed vs Unclaimed Profiles
 
 When you initially add a staff profile in Workstaff, this profile is considered as being _Unclaimed_.

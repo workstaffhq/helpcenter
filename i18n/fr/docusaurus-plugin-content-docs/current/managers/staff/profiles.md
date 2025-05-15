@@ -94,6 +94,21 @@ Une fois les disponibilités spécifiées pour certaines dates, ces dernières s
 - **Jaune** : Partiellement disponible
 - **Rouge** : Non disponible
 
+## Avertissements
+
+L'onglet **Avertissements** permet de consulter les avertissements disciplinaires émis à un membre du personnel et d’en créer de nouveaux.
+
+Lorsque vous souhaitez **Émettre un avertissement disciplinaire**, vous pouvez :
+- Ajouter des **Notes privées**.
+- **Partager l’avertissement avec le travailleur** depuis l'onglet **Partage**.
+- **Ajouter des notes pour le travailleur**
+
+:::info
+Lorsqu’un avertissement est partagé, le travailleur recevra une notification et pourra voir les détails, y compris les notes partagées, dans l’application mobile.
+:::
+
+![Émettre un avertissement disciplinaire](./Images/disciplinary-warning.png)
+
 ## Profils réclamés et non réclamés
 
 Lorsque vous ajoutez initialement un profil de personnel dans Workstaff, ce profil est considéré comme étant _**non réclamé**_.
