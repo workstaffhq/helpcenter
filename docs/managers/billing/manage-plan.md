@@ -32,7 +32,7 @@ The **Max** plan gives you access to all the features of the Pro plan as well as
 - Enter your billing information
 - Enter your credit card information
 
-## Suspend of Cancel Your Plan
+## Suspend or Cancel Your Plan
 You can request to suspend your plan and come back later when you need Workstaff’s tools again. However, please note that suspensions and cancellations must be handled by our team.
 
 ### Suspending Your Plan
