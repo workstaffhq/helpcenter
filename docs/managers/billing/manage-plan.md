@@ -32,18 +32,20 @@ The **Max** plan gives you access to all the features of the Pro plan as well as
 - Enter your billing information
 - Enter your credit card information
 
-## Suspend Your Plan
-You can suspend your plan at any time and re-subscribe later when you need the Workstaff productivity tools again.
+## Suspend of Cancel Your Plan
+You can request to suspend your plan and come back later when you need Workstaff’s tools again. However, please note that suspensions and cancellations must be handled by our team.
 
 ### Suspending Your Plan
-- Go to the main **Settings** section, then go to the **Billing** tab
-- Click on **Manage subscription**
-- Click on the subscription you wish to suspend, select how much time you want the suspension to last and click on **Cancel Subscription**
-
-### Cancelling Your Plan
-Are you considering leaving us? We’re sad to see you go! Cancellation is certainly possible, but it must be handled by our team. 
-Please [contact us](mailto:support@workstaff.app), and we will take care of it for you.
+If you’d like to temporarily pause your subscription, please [contact us](mailto:support@workstaff.app). We’ll take care of it and confirm the suspension period with you.
 
 :::note
-Although you can cancel your subscription at any time, Workstaff will not refund any amounts already charged for the current period.
+Clients on annual contracts are not eligible for suspension or cancellation until the end of their commitment period.
+:::
+
+### Cancelling Your Plan
+Thinking about leaving us? We’re sad to hear that!
+If you wish to cancel your subscription, please [contact us](mailto:support@workstaff.app), and we’ll take care of the cancellation process for you.
+
+:::note
+While you can request to cancel at any time, Workstaff does not refund any charges already made for the current billing period.
 :::

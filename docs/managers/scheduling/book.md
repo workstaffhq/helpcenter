@@ -28,7 +28,7 @@ In this tab, you can see at a glance the **Candidates** that have applied for po
 
 If you are not interested in an application, you can click on **Put aside** next the candidate’s name. You can later decide to move the staff you’ve put aside back to the list of Candidates by clicking on **Keep** next to their name.  
 
-![img_4.png](Images/img_4.png)
+![Book candidate](Images/book-candidate-en.png)
 
 ## Staff Availability
 When your staff members [**share their availability using the mobile app**](../../workers/availability.md), this information is displayed in various sections of the web platform, including:
@@ -46,21 +46,22 @@ Staff availability is indicated by different colors:
 This colour-coded system helps you quickly understand the availability status of your staff members, making it easier to efficiently manage shifts and bookings.
 
 ### Sorting Your Candidates
-After clicking on the **Keep** button to mark your candidates for consideration, you can view who has applied for each position by selecting the position, and checking if a blue dot appears on their photo.
+After clicking the **Keep** button to mark candidates you’re considering, you can see who has applied for each position by selecting it. Look for the raised hand icon next to each candidate.
 
 :::tip
 Tips for understanding candidate display:
-- **Blue dot**: Indicates the candidate has applied for the position.
+- **Pink raised hand**: The candidate has applied, but their application hasn’t been reviewed yet.
+- **Blue raised hand**: The candidate has applied and has been marked as “kept” for consideration.
 - **Name appearing in light grey**: This means the required skill for the selected position is absent from their profile.
 :::
 
-![sorting-candidates.png](Images/sorting-candidates.png)
+![Sort candidates](Images/sort-candidates-en.png)
 
 ### Booking Staff That Does Not Appear in The Suggestions
 If you wish to book staff that doesn't appear in your list of suggestions, you can access your entire staff list by clicking on **+** in the **Candidates** organizer.
 You will then be able to search for specific staff using the search bar and the filters. Once selected, they will be added to the **Candidates** organizer.  
 
-![img_3.png](Images/img_3.png)
+![Add candidates](Images/add-candidates-en.png)
 
 ### Selecting Staff Without Booking Them Yet
 If you wish to make a list of the staff that will work on your project without booking them on any specific shift yet, you can also click on **+** in the **Candidates** organizer to add them top your list of candidates you can later book.
