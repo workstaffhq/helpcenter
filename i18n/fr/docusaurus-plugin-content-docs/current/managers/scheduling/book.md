@@ -29,7 +29,7 @@ Dans cet onglet, vous pouvez voir en un coup d'œil les **Candidats** qui ont ap
 
 Si une candidature ne vous intéresse pas, vous pouvez cliquer sur **Mettre de côté** à côté du nom du candidat. Vous pouvez décider ultérieurement de remettre un candidat que vous avez mis de côté dans la liste des candidats en cliquant sur **Garder** à côté de son nom.  
 
-![réserver.png](Images/réserver.png)
+![Affecter personnel](Images/book-candidate-fr.png)
 
 ## Disponibilité du personnel
 
@@ -48,21 +48,22 @@ La disponibilité du personnel est indiquée par différentes couleurs:
 Ce système de codes couleurs vous permet de comprendre rapidement le statut de disponibilité de vos membres du personnel, facilitant ainsi la gestion efficace des quarts de travail et des affectations.
 
 ### Trier vos candidats
-Après avoir cliqué sur le bouton **Garder** pour valider vos candidats, vous pouvez voir qui a postulé pour chaque poste en sélectionnant le poste et en vérifiant si un point bleu apparaît sur leur photo.
+Après avoir cliqué sur le bouton **Garder** pour marquer les candidats que vous envisagez, vous pouvez voir qui a postulé à chaque poste en le sélectionnant. Repérez l’icône de main levée à côté du nom de chaque candidat.
 
 :::tip
 Conseils pour comprendre l'affichage des candidats :
-- **Point bleu** : Indique que le candidat a postulé pour le poste.
+- **Main rose levée** : Le candidat a postulé, mais sa candidature n’a pas encore été examinée.
+- **Main bleue levée** : Le candidat a postulé et a été marqué comme “gardé” pour considération.
 - **Nom apparaissant en gris clair** : Cela signifie que la compétence requise pour le poste sélectionné est absente de son profil.
 :::
 
-![trier-candidats.png](Images/trier-candidats.png)
+![Trier candidats](Images/sort-candidates-fr.png)
 
 ### Affecter du personnel qui n'apparaît pas dans les suggestions
 Si vous souhaitez réserver du personnel qui n'apparaît pas dans votre liste de suggestions, vous pouvez accéder à l'ensemble de votre liste de personnel en cliquant sur **+** dans l’organiseur de **Candidats**.
 Vous pourrez alors rechercher des travailleurs spécifiques en utilisant la barre de recherche et les filtres. Une fois sélectionnés, ils seront ajoutés à l'organisateur de **Candidats**.
 
-![ajouter-candidats.png](Images/ajouter-candidats.png)
+![Ajouter candidats](Images/add-candidates-fr.png)
 
 ### Sélectionner le personnel sans l’affecter à des quarts
 Si vous souhaitez dresser une liste du personnel qui travaillera sur votre projet sans l'affecter à un poste spécifique, vous pouvez également cliquer sur **+** dans l'organiseur **Candidats** pour l'ajouter à votre liste de candidats que vous pourrez réserver ultérieurement.

@@ -28,17 +28,20 @@ Le plan **Max** vous permet d’accéder à l’ensemble des fonctionnalités du
 - Entrez les informations de facturation
 - Entrez les informations relatives à votre carte de crédit
 
-## Interrompre votre plan
-Vous pouvez interrompre votre plan à tout moment et vous réabonner plus tard lorsque vous aurez à nouveau besoin des outils de productivité Workstaff.
+## Suspendre ou résilier votre plan
+Vous pouvez faire une demande de suspension de votre abonnement si vous souhaitez faire une pause et revenir plus tard. Cependant, les suspensions et les résiliations doivent être gérées par notre équipe.
 
-### Pour interrompre votre plan
-- Allez dans la section principale **Paramètres**, puis rendez-vous dans l’onglet **Facturation**
-- Cliquez sur **Gérer mon abonnement**
-- Cliquez ensuite sur l’abonnement à interrompre, sélectionnez la durée de suspension souhaitée et cliquez sur **Interrompre l’abonnement**
+### Pour suspendre votre plan
+Si vous souhaitez mettre temporairement votre abonnement en pause, merci de [nous contacter](mailto:support@workstaff.app).
+Nous prendrons en charge la demande et vous confirmerons la période de suspension.
 
-### Pour annuler votre plan
-Vous souhaitez nous quitter ? Nous sommes tristes vous voir partir ! L’annulation est bien sûr possible, mais elle doit être effectuée par notre équipe. 
-[Contactez-nous](mailto:support@workstaff.app) et nous nous en occuperons pour vous.
+:::note
+Les clients ayant un contrat annuel ne peuvent pas suspendre ni résilier leur abonnement avant la fin de leur engagement.
+:::
+
+### Pour résilier votre plan
+Vous envisagez de nous quitter ? Nous sommes tristes vous voir partir ! La résiliation est bien entendu possible, mais elle doit également être traitée par notre équipe.
+Merci de [nous contacter](mailto:support@workstaff.app), nous nous en occuperons pour vous.
 
 :::note
 Même si vous pouvez annuler votre abonnement à tout moment, Workstaff ne remboursera pas les montants déjà encourus pour la période en cours.

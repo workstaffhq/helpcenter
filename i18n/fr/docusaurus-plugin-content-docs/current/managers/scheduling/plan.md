@@ -14,6 +14,7 @@ Dans la section Calendrier, passez à la vue **Semaine** et cliquez sur la vue *
 
 Points clés de cette vue :
 - **Quarts publiés** : Indiqués par une icône d’œil vert.
+- **Candidatures à réviser** : Indiqués par une main rose levée. 
 - **Quarts ou compétences non attribués** : Signalés par une icône de personne.
 - **Confirmations en attente** : Représentées par une icône de coche.
 
