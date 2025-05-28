@@ -20,7 +20,7 @@ Once uploaded, staff assigned to the project will be able to view these document
 
 Notes can be used to share context, instructions, or updates with your team. You can add them at different levels depending on the audience and purpose:
 
-- **Global notes** (under the “Shared with staff” tab): visible to **all staff** assigned to the project.
+- **Global notes** (under the “Shared with staff” tab): visible to all booked staff, as well as those included in the audience if an offer was published.
 - **Skill-based notes** (under the “Shared with staff” tab): visible only to staff with the **specific skill**.
 - **Shift-specific notes**: visible only to staff booked on that **particular shift**.
 - **Private notes**: visible **only to managers**. These can be added at the **shift level** or at the **schedule level**.

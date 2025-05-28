@@ -20,7 +20,7 @@ Une fois téléversés, les employés affectés au projet pourront consulter ces
 
 Les notes permettent de partager des consignes, du contexte ou des informations complémentaires avec votre équipe. Vous pouvez les ajouter à différents niveaux, selon vos besoins :
 
-- **Notes globales** (dans l’onglet “Partagées au personnel”) : visibles par **tous les employés** affectés au projet.
+- **Notes globales** (dans l’onglet “Partagées au personnel”) : visibles par tous les employés affectés, ainsi que ceux visibles dans l’audience si une offre a été publiée.
 - **Notes par compétence** (dans l’onglet “Partagées au personnel”) : visibles uniquement par les employés ayant une **compétence spécifique**.
 - **Notes par quart** : visibles uniquement par les employés affectés à ce **quart spécifique**.
 - **Notes privées** : visibles uniquement par les **gestionnaires**. Elles peuvent être ajoutées au **niveau du quart** ou au **niveau de l’horaire**.

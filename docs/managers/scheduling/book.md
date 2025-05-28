@@ -14,7 +14,7 @@ Workstaff allows you to select staff from a list of suggestions based on the ski
 2. Select staff you wish to book from the list of suggestions
 3. Click on **Book X staff** 
 
-## Booking Staff Using The **Candidates** Organizer
+## Booking Staff Using The Candidates Organizer
 
 The **Candidates** organizer is a tool that allows you to book staff in different ways.
 In this tab, you can see at a glance the **Candidates** that have applied for positions you’ve published and staff **Suggestions**.
