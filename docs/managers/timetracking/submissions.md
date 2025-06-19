@@ -21,9 +21,9 @@ If the information does not match, Workstaff will show you directly on the times
 
 The trust verifications are the following:
 - **Passed**: if the submitted time matches the scheduled time and the time clock data is correct, the verification icon is green.
-![passed.png](./Images/passed.png)
+![passed.png](./Images/passed-en.png)
 - **Failed**: if the submitted time does not match the planned time and the time clock data is incorrect, the check icon is red. Hover your cursor over the icon to view the verification details. Workstaff will tell you if the clocking in and out was done on time and at what distance from the work site.
-![failed.png](./Images/failed.png)
+![failed.png](./Images/failed-en.png)
 
 You can edit a timesheet if the information it contains is incorrect or if the staff forgot to clock in or out.
 

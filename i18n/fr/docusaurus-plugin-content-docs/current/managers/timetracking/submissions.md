@@ -22,9 +22,9 @@ Si les informations ne correspondent pas, Workstaff vous montrera directement su
 
 Les vérifications sont les suivantes :
 - **Passé**: si le temps soumis correspond au temps planifié et que les données relatives au pointage des heures sont correctes, l’icône de vérification est verte.
-![passé.png](./Images/passé.png)
+![passé.png](./Images/passed-fr.png)
 - **Échoué**: si le temps soumis ne correspond pas au temps planifié et que les données relatives au pointage des heures sont incorrectes, l’icône de vérification est rouge. Passez votre curseur sur l’icône afin d’afficher le détail des vérifications. Workstaff vous indiquera si le pointage a été fait à l’heure et à quelle distance du site de travail.
-![échoué.png](./Images/échoué.png)
+![échoué.png](./Images/failed-fr.png)
 
 Vous avez la possibilité de modifier une feuille de temps si les informations qu'elle contient sont incorrectes ou si le personnel a oublié de pointer ses heures en cliquant sur l'icône de crayon à droite de la feuille de temps. 
 
