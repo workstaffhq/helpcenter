@@ -42,6 +42,6 @@ Dès que la sélection est soumise, son statut passera automatiquement à **Comp
 
 Une fois la sélection soumise par votre client, cliquez sur **Appliquer aux candidats** pour que le personnel sélectionné soit automatiquement transféré dans la section **Candidats** de l’onglet **Planification**.
 
-Vous pourrez ensuite poursuivre le [processus de réservation habituel](../scheduling/book.md#affecter-du-personnel-à-laide-de-lorganiseur-de-candidats), avec l’avantage d’une validation directe par votre client — tout est centralisé au même endroit.
+Vous pourrez ensuite poursuivre le [processus d'affectation habituel](../scheduling/book.md#affecter-du-personnel-à-laide-de-lorganiseur-de-candidats), avec l’avantage d’une validation directe par votre client — tout est centralisé au même endroit.
 
-Besoin d’aide pour configurer cette fonctionnalité ou envie d’une démo ? N’hésitez pas à nous contacter — nous sommes là pour vous aider !
+Besoin d’aide pour configurer cette fonctionnalité ou envie d’une démo ? N’hésitez pas à [nous contacter](mailto:support@workstaff.app) — nous sommes là pour vous aider !

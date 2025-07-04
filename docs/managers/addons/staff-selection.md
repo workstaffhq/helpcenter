@@ -44,4 +44,4 @@ After your client submits their selection, click **Apply to candidates** to auto
 
 From there, you can proceed with your usual [booking process](../scheduling/book.md#booking-staff-using-the-candidates-organizer) — now with input directly from your client, all in one place.
 
-Need help setting this up or want a demo? Don’t hesitate to reach out — we’re here to help!
+Need help setting this up or want a demo? Don’t hesitate to [contact us](mailto:support@workstaff.app) — we’re here to help!
