@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # Portail Client
@@ -46,4 +46,4 @@ Vous pouvez configurer ces options directement au niveau du client, et elles ser
 
 ## Gestion de l'accès au portail
 
-Si vous devez modifier ou révoquer un accès au portail, veuillez [nous contacter] (mailto:support@workstaff.app) pour obtenir de l'aide.
+Si vous devez modifier ou révoquer un accès au portail, veuillez [nous contacter](mailto:support@workstaff.app) pour obtenir de l'aide.
