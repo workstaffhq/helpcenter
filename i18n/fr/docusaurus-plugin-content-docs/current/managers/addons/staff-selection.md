@@ -1,4 +1,5 @@
 ---
+title: Sélection de personnel
 sidebar_position: 5
 ---
 
@@ -21,6 +22,10 @@ Pour créer une sélection de personnel dans un projet :
 - Cliquez sur **Envoyer au client**, ou enregistrez comme brouillon pour finaliser plus tard.
 
 Une fois la sélection envoyée, son statut apparaîtra comme **En attente du client**.
+
+:::info
+Le propriétaire du portail client recevra automatiquement une **notification par courriel** l'informant qu’une **sélection est à compléter**.
+:::
 
 ## Vue client et sélection d’équipe
 

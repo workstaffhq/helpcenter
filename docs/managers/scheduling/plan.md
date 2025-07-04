@@ -21,20 +21,30 @@ Key highlights of this view:
 ## Creating a New Project
 
 Creating a project in Workstaff is a quick and easy task:
-1. In the main menu, go to the **Calendar** section 
-2. Click on **New Project**
-3. Fill in the information shown below to create the basis for detailing the project later
+1. In the main menu, go to the **Calendar** section.
+2. Click on **New Project**.
+3. Fill in the information shown below to create the basis for detailing the project later.
 
 ![create_project.png](Images/create_project.png)
 
 ### Adding Shifts 
 Once you have created your project, you can add shifts: 
-1. On the project page, click on **Create Shift**
-2. Select the date(s)
-3. Choose the position for the shift from your list of skills
-4. Select the start and end times 
-5. Fill-in the number of staff needed
-6. If you wish, you can add a label and select break and travel times
+1. On the project page, click on **Create Shift**.
+2. Select the date(s).
+3. Choose the position for the shift from your list of skills.
+4. Choose the **schedule type**: either **Fixed**, then select the start and end times, or [**Flexible**](#flexible-schedules).
+5. Fill-in the number of staff needed.
+6. If you wish, you can add a label and select break and travel times.
+
+#### Flexible Schedules
+
+If you select the **Flexible** option when adding a shift, you'll be able to:
+- Set the **number of hours** the staff should work (e.g. 4 hours).
+- Define a **time range** within which those hours must be completed (e.g. between 9:00 AM and 5:00 PM).
+
+This means staff can **clock in anytime within that range**, complete their required hours, then clock out. It gives more autonomy to the staff while maintaining control over worked hours.
+
+![Flexible Schedule](Images/flexible-schedule-en.png)
 
 ### Draft Mode 
 

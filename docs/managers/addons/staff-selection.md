@@ -1,4 +1,5 @@
 ---
+title: Staff Selection
 sidebar_position: 5
 ---
 
@@ -21,6 +22,10 @@ To create a staff selection for a project:
 - Click **Send to Client**, or save it as a draft to finalize later.
 
 Once the selection is shared, its status will appear as **Awaiting Client**.
+
+:::info
+The owner of the client portal will automatically receive an **email notification** informing them that a **staff selection is pending**.
+:::
 
 ## Client View and Team Selection
 
