@@ -32,11 +32,20 @@ Une fois que vous avez créé votre projet, vous pouvez ajouter des quarts de tr
 1. Sur la page du projet, cliquez sur **Ajouter un quart**
 2. Sélectionnez la ou les dates
 3. Choisissez le poste pour le quart dans votre liste de compétences
-4. Sélectionnez les heures de début et de fin
+4. Choisissez le **type d’horaire** : soit **Fixe**, puis sélectionnez les heures de début et de fin, soit [**Flexible**](#horaires-flexibles).
 5. Remplissez le nombre de personnes nécessaires
 6. Si vous le souhaitez, vous pouvez ajouter une étiquette et sélectionner les temps de pause et de déplacement.
 
+#### Horaires flexibles
 
+Si vous sélectionnez l’option **Flexible** lors de la création d’un quart, vous pourrez :
+
+- Définir le **nombre d’heures** que le membre du personnel devra effectuer (ex. : 4 heures).
+- Spécifier une **plage horaire** dans laquelle ces heures devront être réalisées (ex. : entre 9h00 et 17h00).
+
+Cela signifie que le personnel pourra **pointer à n’importe quel moment** à partir de l’heure de début autorisée, travailler le nombre d’heures requis, puis soumettre son temps travaillé. Cela permet plus de flexibilité tout en assurant un contrôle sur le total d’heures effectuées.
+
+![Horaires flexibles](Images/flexible-schedule-fr.png)
 
 ### Mode brouillon
 
