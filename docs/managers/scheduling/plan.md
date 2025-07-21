@@ -46,6 +46,12 @@ This means staff can **clock in anytime within that range**, complete their requ
 
 ![Flexible Schedule](Images/flexible-schedule-en.png)
 
+:::info
+When using **Flexible Schedules**, keep in mind:
+- Staff **won’t receive clock-in reminders**, since there's no fixed start time, but they’ll still get regular shift reminders.
+- A **timesheet is still required**, but staff can clock in/out freely within the time range.
+:::
+
 ### Draft Mode 
 
 When creating a new project, Workstaff makes you work in draft mode by default. This allows you to make any changes you want and apply them to the project once you are satisfied by clicking on **Review and Apply** on the project page. Only then will your staff receive a notification regarding their bookings.

@@ -8,22 +8,23 @@ Workstaff allows you to publish shifts, which essentially means that you can pos
 <iframe width="640" height="307" src="https://www.loom.com/embed/c96022293ac844c18e4233404d7bec8a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Publishing a Shift 
-1. On the project page, go to **Publishing**.
-2. Select the position you wish to publish
-3. Under **Publishing Options**, you can select whether you want to publish the shift:
-- **to staff with matching skills**: you can use the filters to further narrow your search
-- **to specific people**: you can select the staff you wish to send the offer to
-4. Additionally, you can choose between further options:
-- **First Come, First Served**: When this option is selected, applicants will be automatically booked and confirmed in the order they apply
-- **Require Complete Availability**: When this option is selected, Workstaff will only accept applications that are available for all shifts published for this role in the project
-5. Go under **Notes to staff** to add any additional information that the candidates can read upon opening the offer
-6. Choose the notification mode for this offer:
-- **Normal**: Staff will be notified on the next notification window at  3PM local time
-- **Urgent**: Staff will be notified immediately with a clear mention that the opportunity is urgent
-7. Click on **Publish**.
+From the project page, navigate to the **Publishing** section and choose the position you’d like to publish. Then:
 
-![Publishing](Images/publishing.png)
+1. Under **Publishing Options**, you can select whether you want to publish the shift:
+   - **To staff available with matching skills**: Use the filters to further narrow your search.
+   - **To specific people**: Manually select the staff members you'd like to send the offer to.
+2. Set the **Assignment Rules**:
+   - **First Come, First Served**: Applicants will be booked automatically in the order they apply.
+   - **Require Complete Availability**: Only candidates who are available for *all* shifts associated with the role will be accepted.
+3. Enable or Disable **Share approximate location**: When enabled, applicants will **see only the city or region**, rather than the exact work location. 
+4. Choose the **Notification Mode**:
+   - **Normal**: Staff will be notified during the next notification window (3 PM local time).
+   - **Urgent**: Staff will be notified immediately, with a clear "urgent" label.
+5. Add **Notes to Staff**: Include any additional information you want applicants to read when opening the offer. 
 
+Click **Publish** to send your offer based on the selected options.
+
+![publication-en.png](Images/publication-en.png)
 
 If you wish to unpublish an offer at any time, go to the **Publishing** tab, select the job and click **Unpublish**.
 
