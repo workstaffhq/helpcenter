@@ -22,9 +22,7 @@ Depuis la page du projet, accédez à la section **Affichage** et sélectionnez 
    - **Urgent** : Le personnel sera notifié immédiatement, avec une mention claire du caractère urgent de l’offre.
 5. Ajoutez des **Notes au personnel** : Indiquez toute information complémentaire que vous souhaitez que les candidats voient en ouvrant l’offre.
 
-Cliquez sur **Afficher** pour envoyer votre offre selon les options sélectionnées.
-
-![publication-fr.png](Images/publication-fr.png)
+![affichage.png](Images/affichage.png)
 
 Si vous souhaitez à tout moment retirer l'affichage, allez dans l'onglet **Affichage**, sélectionnez le poste et cliquez sur **Retirer l'affichage**. 
 
