@@ -46,8 +46,18 @@ Select the booking you wish to edit by clicking on the name of one of the people
 ## Reverting the Last Changes 
 Workstaff offers you the flexibility to revert the last changes within your projects. This feature serves as a safety net, allowing you to backtrack and correct any modifications or mistakes.
 
-Workstaff offers you the flexibility to revert the last changes within your projects. This feature serves as a safety net, allowing you to backtrack and correct any modifications or mistakes.
-
 1. **Revert Last Changes**: This function enables you to retract the most recent action performed in your project. Whether it’s adding, deleting, or modifying shifts and bookings, it swiftly restores the project to its previous state. You can use it to backtrack through a series of actions, progressively reverting all changes made since the last saved version of the project.
 2. **Discard All Draft Changes**: This function allows you to discard all unsaved modifications and revert the project to its last saved state. If you've made multiple adjustments but wish to return to the original saved version without individually undoing each change, this feature efficiently clears all draft modifications, ensuring a clean slate for further editing or review.
 ![undo.png](Images/Undo.png)
+
+## Viewing the History of Actions
+By clicking on **Show History of Actions**, you’ll see a detailed log of recent activity on the project, displayed in a table format.
+
+The table includes: 
+- **At**: the date and time the action occurred
+- **User**: who performed the action 
+- **Action**: a description of what was done (e.g. shift created, staff booked, booking canceled)
+
+This view helps keep track of all key updates made to the project in a clear and transparent way.
+
+![action-history-en.png](Images/action-history-en.png)

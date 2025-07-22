@@ -47,6 +47,12 @@ Cela signifie que le personnel pourra **pointer à n’importe quel moment** à 
 
 ![Horaires flexibles](Images/flexible-schedule-fr.png)
 
+:::info
+Avec les **horaires flexibles** :
+- Les travailleurs **ne recevront pas de rappel de pointage** (puisqu’il n’y a pas d’heure fixe), mais recevront tout de même un rappel de quart.
+- Une **feuille de temps devra toujours être soumise**, mais ils pourront pointer librement dans la plage horaire définie.
+:::
+
 ### Mode brouillon
 
 Lorsque vous créez un nouveau projet, Workstaff vous fait travailler en mode brouillon par défaut. Cela vous permet d'apporter toutes les modifications que vous souhaitez et de les appliquer au projet une fois que vous êtes satisfait en cliquant sur **Réviser et appliquer** sur la page du projet. Ce n'est qu'à ce moment-là que votre personnel recevra une notification concernant ses affectations.

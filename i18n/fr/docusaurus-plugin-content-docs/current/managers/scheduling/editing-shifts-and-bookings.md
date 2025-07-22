@@ -50,3 +50,15 @@ Workstaff vous offre la possibilité d'annuler les dernières modifications appo
 1. **Annuler la modification précédente** : Cette fonction vous permet de revenir sur la dernière action effectuée dans votre projet. Qu'il s'agisse d'ajouter, de supprimer ou de modifier des quarts et des affections, cette fonction rétablit rapidement l'état antérieur du projet. Vous pouvez l'utiliser pour revenir sur une série d'actions, en annulant progressivement toutes les modifications effectuées depuis la dernière version enregistrée du projet.
 2. **Annuler tout le brouillon** : Cette fonction vous permet d'annuler toutes les modifications non enregistrées et de ramener le projet à son dernier état enregistré. Si vous avez effectué plusieurs ajustements mais que vous souhaitez revenir à la version originale enregistrée sans avoir à annuler individuellement chaque changement, cette fonction efface toutes les modifications apportées au projet, ce qui permet de faire table rase pour les modifications ou les révisions ultérieures.
 ![annuler.png](Images/annuler.png)
+
+## Voir l'historique des actions
+En cliquant sur **Voir l'historique des actions**, vous verrez un journal détaillé des activités récentes liées au projet, présenté sous forme de tableau.
+
+Ce tableau comprend :
+- **Date** : le jour et l'heure où l'action a été réalisée  
+- **Utilisateur** : la personne ayant effectué l'action
+- **Action** : une description de l'action (ex. : quart créé, personnel assigné, affectation annulée)
+
+Cette vue permet de suivre facilement l'ensemble des modifications importantes apportées au projet de manière claire et transparente.
+
+![action-history-fr.png](Images/action-history-fr.png)

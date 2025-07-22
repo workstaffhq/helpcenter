@@ -8,21 +8,23 @@ Workstaff vous permet d'afficher des postes, ce qui signifie essentiellement que
 <iframe width="640" height="307" src="https://www.loom.com/embed/bafe986b976c41b9babb04a8b0664aeb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Affichage d'un poste
-1. Sur la page du projet, allez à **Affichage**
-2. Sélectionnez le poste que vous souhaitez publier
-3. Sous **Options d'affichage**, vous pouvez sélectionner si vous souhaitez afficher le poste :
-- **à tout mon personnel disponible ayant la compétence correspondante** : vous pouvez utiliser les filtres pour affiner votre recherche
-- **à des personnes spécifiques** : vous pouvez sélectionner le personnel auquel vous souhaitez envoyer l'offre
-4. Vous pouvez aussi choisir parmi d'autres options :
-- **Premier arrivé, premier servi** : Lorsque cette option est sélectionnée, les candidats sont automatiquement affectés et confirmés dans l’ordre de réception de leur candidature.
-- **Exiger une disponibilité complète** : Lorsque cette option est sélectionnée, Workstaff n'accepte que les candidatures de personnes qui sont disponibles pour tous les quarts publiés pour ce rôle dans le projet.
-5. Allez dans la rubrique **Notes au personnel** pour ajouter toute information supplémentaire que les candidats peuvent lire à l'ouverture de l'offre
-6. Choisissez le mode de notification pour cette offre : 
-- **Normal**: le personnel sera informé lors de la prochaine fenêtre de notification à 15h, heure locale
-- **Urgent**: le personnel sera immédiatement informé avec une mention claire que l'opportunité est urgente 
-7. Cliquez sur **Afficher**.
+Depuis la page du projet, accédez à la section **Affichage** et sélectionnez le poste que vous souhaitez publier. Ensuite :
 
-![affichage.png](Images/affichage.png)
+1. Dans les **Options d'affichage**, vous pouvez choisir de publier le quart :
+   - **À tout le personnel disponible possédant la compétence requise** : Utilisez les filtres pour affiner votre recherche.
+   - **À des personnes spécifiques** : Sélectionnez manuellement les membres du personnel à qui vous souhaitez envoyer l'offre.
+2. Activer ou désactiver **Partager une localisation approximative** : Lorsque cette option est activée, les candidats verront **uniquement la ville ou la région**, et non l’adresse exacte du lieu de travail.
+3. Définissez les **Règles d’assignation** :
+   - **Premier arrivé, premier servi** : Les candidats seront automatiquement assignés dans l'ordre de réception des candidatures.
+   - **Exiger une disponibilité complète** : Seuls les candidats disponibles pour tous les quarts liés à ce poste seront acceptés.
+4. Choisissez l'**Option d'envoi** :
+   - **Normal** : Le personnel sera notifié lors de la prochaine fenêtre de notification (15h, heure locale).
+   - **Urgent** : Le personnel sera notifié immédiatement, avec une mention claire du caractère urgent de l’offre.
+5. Ajoutez des **Notes au personnel** : Indiquez toute information complémentaire que vous souhaitez que les candidats voient en ouvrant l’offre.
+
+Cliquez sur **Afficher** pour envoyer votre offre selon les options sélectionnées.
+
+![publication-fr.png](Images/publication-fr.png)
 
 Si vous souhaitez à tout moment retirer l'affichage, allez dans l'onglet **Affichage**, sélectionnez le poste et cliquez sur **Retirer l'affichage**. 
 
