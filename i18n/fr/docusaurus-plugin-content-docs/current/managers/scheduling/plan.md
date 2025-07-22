@@ -49,7 +49,7 @@ Cela signifie que le personnel pourra **pointer à n’importe quel moment** à 
 
 :::info
 Avec les **horaires flexibles** :
-- Les travailleurs ne recevront pas de rappel de pointage (puisqu’il n’y a pas d’heure fixe), mais recevront tout de même un rappel de quart.
+- Les travailleurs **ne recevront pas de rappel de pointage** (puisqu’il n’y a pas d’heure fixe), mais recevront tout de même un rappel de quart.
 - Une **feuille de temps devra toujours être soumise**, mais ils pourront pointer librement dans la plage horaire définie.
 :::
 

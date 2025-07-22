@@ -13,11 +13,11 @@ From the project page, navigate to the **Publishing** section and choose the pos
 1. Under **Publishing Options**, you can select whether you want to publish the shift:
    - **To staff available with matching skills**: Use the filters to further narrow your search.
    - **To specific people**: Manually select the staff members you'd like to send the offer to.
-2. Set the **Assignment Rules**:
+2. Enable or Disable **Share approximate location**: When enabled, applicants will **see only the city or region**, rather than the exact work location.
+3. Set the **Assignment rules**:
    - **First Come, First Served**: Applicants will be booked automatically in the order they apply.
-   - **Require Complete Availability**: Only candidates who are available for *all* shifts associated with the role will be accepted.
-3. Enable or Disable **Share approximate location**: When enabled, applicants will **see only the city or region**, rather than the exact work location. 
-4. Choose the **Notification Mode**:
+   - **Require complete availability**: Only candidates who are available for all shifts associated with the role will be accepted.
+4. Choose the **Sending Option**:
    - **Normal**: Staff will be notified during the next notification window (3 PM local time).
    - **Urgent**: Staff will be notified immediately, with a clear "urgent" label.
 5. Add **Notes to Staff**: Include any additional information you want applicants to read when opening the offer. 

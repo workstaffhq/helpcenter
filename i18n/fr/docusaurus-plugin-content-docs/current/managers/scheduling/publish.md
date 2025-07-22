@@ -11,13 +11,13 @@ Workstaff vous permet d'afficher des postes, ce qui signifie essentiellement que
 Depuis la page du projet, accédez à la section **Affichage** et sélectionnez le poste que vous souhaitez publier. Ensuite :
 
 1. Dans les **Options d'affichage**, vous pouvez choisir de publier le quart :
-   - **A tout personnel disponible avec les compétences correspondantes** : Utilisez les filtres pour affiner votre recherche.
+   - **À tout le personnel disponible possédant la compétence requise** : Utilisez les filtres pour affiner votre recherche.
    - **À des personnes spécifiques** : Sélectionnez manuellement les membres du personnel à qui vous souhaitez envoyer l'offre.
-2. Définissez les **Règles d’assignation** :
+2. Activer ou désactiver **Partager une localisation approximative** : Lorsque cette option est activée, les candidats verront **uniquement la ville ou la région**, et non l’adresse exacte du lieu de travail.
+3. Définissez les **Règles d’assignation** :
    - **Premier arrivé, premier servi** : Les candidats seront automatiquement assignés dans l'ordre de réception des candidatures.
-   - **Exiger une disponibilité complète** : Seuls les candidats disponibles pour *tous* les quarts liés à ce poste seront acceptés.
-3. Activer ou désactiver **Partager une localisation approximative** : Lorsque cette option est activée, les candidats verront **uniquement la ville ou la région**, et non l’adresse exacte du lieu de travail.
-4. Choisissez le **Mode de notification** :
+   - **Exiger une disponibilité complète** : Seuls les candidats disponibles pour tous les quarts liés à ce poste seront acceptés.
+4. Choisissez l'**Option d'envoi** :
    - **Normal** : Le personnel sera notifié lors de la prochaine fenêtre de notification (15h, heure locale).
    - **Urgent** : Le personnel sera notifié immédiatement, avec une mention claire du caractère urgent de l’offre.
 5. Ajoutez des **Notes au personnel** : Indiquez toute information complémentaire que vous souhaitez que les candidats voient en ouvrant l’offre.
