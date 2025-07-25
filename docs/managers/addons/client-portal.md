@@ -20,6 +20,10 @@ Once the client connects for the first time, their portal status will automatica
 Click on **Send link by email** to generate an email template that you can send to your client to invite them to join.
 :::
 
+:::tip
+You can share this [PDF guide](https://docs.google.com/presentation/d/e/2PACX-1vTjoKdDZd8OLzwRsE8b-8TmTP6Byubln7dKEhS1ibdviLhliCsmstufdOV1yNOJzJB0YM1Bdy6RdXQE/pub?start=false&loop=false&delayms=3000) with your client to help them get started with the Client Portal.
+:::
+
 ## Managing mandates
 
 When a client submits a new mandate request, an email notification will be sent, and the request will appear in the **Mandates** section under the **Mandates to Review** list. Click **Review** to check the information provided by the client, then choose to **Accept** or **Decline** the mandate. If the mandate is accepted, a project will be automatically created for fulfillment.
