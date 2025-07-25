@@ -20,6 +20,10 @@ Une fois que le client se connecte pour la première fois, le statut du portail 
 Cliquez sur **Envoyer le lien par courriel** pour générer un modèle de courriel que vous pourrez envoyer à votre client pour l'inviter à s'inscrire.
 :::
 
+:::tip
+Vous pouvez partager ce [guide PDF](https://docs.google.com/presentation/d/e/2PACX-1vRfviwEpy6BNzRyJJjs3RDbnPtiekqHs_4u8JI4e8tOjqm6yw118TqNwIhQu_jxwJhmuunAR3L7QJvD/pub?start=false&loop=false&delayms=3000) avec votre client pour l’aider à bien démarrer avec le Portail Client.
+:::
+
 ## Gestion des mandats
 
 Lorsqu'un client soumet une nouvelle demande de mandat, une notification par courriel est envoyée et la demande apparaît dans la section **Mandats** sous la liste **Mandats à réviser**. Cliquez sur **Consulter** pour vérifier les informations fournies par le client, puis choisissez d'**Accepter** ou de **Refuser** le mandat. Si le mandat est accepté, un projet sera automatiquement créé pour son exécution.
