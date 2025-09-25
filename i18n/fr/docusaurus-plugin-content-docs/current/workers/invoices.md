@@ -1,6 +1,6 @@
 ---
 titre : Facturez votre travail
-sidebar_position : 6
+sidebar_position : 7
 ---
 
 # Créez des factures pour votre travail

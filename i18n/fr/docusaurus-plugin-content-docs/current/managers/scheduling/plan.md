@@ -32,7 +32,7 @@ Une fois que vous avez créé votre projet, vous pouvez ajouter des quarts de tr
 1. Sur la page du projet, cliquez sur **Ajouter un quart**
 2. Sélectionnez la ou les dates
 3. Choisissez le poste pour le quart dans votre liste de compétences
-4. Choisissez le **type d’horaire** : soit **Fixe**, puis sélectionnez les heures de début et de fin, soit [**Flexible**](#horaires-flexibles).
+4. Choisissez le **type d’horaire** : soit **Fixe**, puis sélectionnez les heures de début et de fin (l’heure de fin peut être approximative), soit [**Flexible**](#horaires-flexibles).
 5. Remplissez le nombre de personnes nécessaires
 6. Si vous le souhaitez, vous pouvez ajouter une étiquette et sélectionner les temps de pause et de déplacement.
 
@@ -69,4 +69,4 @@ Workstaff vous offre la possibilité de créer un nouveau quart directement sans
 
 Pour ce faire, il vous suffit de cliquer sur le bouton **Nouveau quart** situé dans l'onglet **Aujourd’hui** ou dans la section **Calendrier**. Ensuite, fournissez les détails nécessaires pour votre quart et indiquez s’il doit être associé à un projet existant ou à un nouveau projet. En sélectionnant **Dans un nouveau projet**, un nouveau projet sera automatiquement généré pour contenir votre nouveau quart.
 
-![Nouveau-quart.png](Images/Nouveau-quart.png)
+![new-shift-fr.png](Images/new-shift-fr.png)

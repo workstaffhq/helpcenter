@@ -15,8 +15,8 @@ For your email, tap **Email Address**, enter your new address, and confirm the c
 Once verified, you’ll be able to use your updated contact information to [**sign in**](../getting-started.md#sign-in).
 
 :::note
-Workstaff only supports North American phone numbers. 
-If yours is not North American please take a look at the article [**I don't have a cell phone number or my phone is not North American**](./login.md#i-dont-have-a-cell-phone-number-or-my-phone-is-not-north-american).
+Workstaff now supports verifying non–North American phone numbers. However, please note that you still cannot use a non–North American number to log in.
+For more details, take a look at the article [**I don't have a cell phone number or my phone is not North American**](./login.md#i-dont-have-a-cell-phone-number-or-my-phone-is-not-north-american).
 :::
 
 :::tip
