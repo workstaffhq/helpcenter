@@ -32,7 +32,7 @@ Once you have created your project, you can add shifts:
 1. On the project page, click on **Create Shift**.
 2. Select the date(s).
 3. Choose the position for the shift from your list of skills.
-4. Choose the **schedule type**: either **Fixed**, then select the start and end times, or [**Flexible**](#flexible-schedules).
+4. Choose the **schedule type**: either **Fixed**, then select the start and end times (end time can be approximate), or [**Flexible**](#flexible-schedules).
 5. Fill-in the number of staff needed.
 6. If you wish, you can add a label and select break and travel times.
 
@@ -67,4 +67,4 @@ With Workstaff, you have the convenience of creating a new shift directly withou
 
 To accomplish this, simply click on the **New Shift** option located within the **Today** tab or the **Calendar** section. Next, provide the necessary details for your shift and indicate whether it should be associated with an existing project or a new one. By selecting **In New Project**, a fresh project will be automatically generated along with this new shift.
 
-![New Shift.png](Images/New%20Shift.png)
+![new-shift-en.png](Images/new-shift-en.png)

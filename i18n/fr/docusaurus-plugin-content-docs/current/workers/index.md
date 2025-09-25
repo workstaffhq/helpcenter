@@ -12,7 +12,7 @@ C’est ici que vous apprendrez tout ce que vous devez savoir sur l'utilisation 
 
 Workstaff est utilisé par les employeurs pour gérer les horaires de travail de leur équipe et bien plus encore. En tant que travailleur, vous utiliserez Workstaff pour
 voir votre horaire de travail détaillé,
-**[communiquer votre disponibilité](./availability.md),
+**[communiquer votre disponibilité](manage-your-schedule/availability.md),
 [rester en contact avec votre/vos équipe(s)](./messaging.md),
 [postuler aux offres de travail et aux postes ouverts](./shifts/offers.md),
 [suivre votre temps](./manage-your-time/report-your-time.md)**.

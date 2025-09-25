@@ -12,7 +12,7 @@ This area is the place to learn everything you need to know about using Workstaf
 
 Workstaff is used by employers to manage their team's work schedules and much more. As a worker, you will use Workstaff to 
 see your detailed work schedule, 
-**[communicate your availability](./availability.md), 
+**[communicate your availability](manage-your-schedule/availability.md), 
 [stay in touch with your team(s)](./messaging.md), 
 [apply to work offers and open shifts](./shifts/offers.md), 
 [track your time](./manage-your-time/clockin.md)**

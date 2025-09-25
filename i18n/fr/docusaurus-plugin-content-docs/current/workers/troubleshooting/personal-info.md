@@ -14,8 +14,8 @@ Pour votre adresse courriel, appuyez sur **Adresse courriel**, entrez votre nouv
 Une fois vos informations vérifiées, vous pourrez les utiliser pour [**vous connecter**](../getting-started.md#se-connecter)
 
 :::note
-Workstaff ne prend en charge que les numéros de téléphone nord-américains.
-Si le vôtre n’est pas nord-américain, consultez l’article [**Je n'ai pas de numéro de téléphone mobile ou mon téléphone n'est pas nord-américain**](./login.md#je-nai-pas-de-numéro-de-téléphone-mobile-ou-mon-téléphone-nest-pas-nord-américain).
+Workstaff prend désormais en charge la vérification des numéros de téléphone non nord-américains. Cependant, veuillez noter qu’il n’est toujours pas possible d’utiliser un numéro non nord-américain pour se connecter.
+Pour plus de détails, consultez l’article [**Je n'ai pas de numéro de téléphone mobile ou mon téléphone n'est pas nord-américain**](./login.md#je-nai-pas-de-numéro-de-téléphone-mobile-ou-mon-téléphone-nest-pas-nord-américain).
 :::
 
 :::tip

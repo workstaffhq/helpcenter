@@ -31,7 +31,7 @@ If you are not interested in an application, you can click on **Put aside** next
 ![Book candidate](Images/book-candidate-en.png)
 
 ## Staff Availability
-When your staff members [**share their availability using the mobile app**](../../workers/availability.md), this information is displayed in various sections of the web platform, including:
+When your staff members [**share their availability using the mobile app**](../../workers/manage-your-schedule/availability.md), this information is displayed in various sections of the web platform, including:
 - **Staff Suggestion List** 
 - **Candidate Organizer** 
 - **Day View** of the calendar

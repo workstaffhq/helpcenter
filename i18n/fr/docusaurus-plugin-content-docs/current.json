@@ -47,6 +47,10 @@
     "message": "Opportunités de travail",
     "description": "The label for category Offers & Open Shifts in sidebar workersSidebar"
   },
+  "sidebar.workersSidebar.category.Manage Your Schedule": {
+    "message": "Gérer votre calendrier",
+    "description": "The label for category Manage Your Schedule in sidebar workersSidebar"
+  },
   "sidebar.workersSidebar.category.Manage Your Time": {
     "message": "Gérer votre temps",
     "description": "The label for category Manage Your Time in sidebar workersSidebar"
