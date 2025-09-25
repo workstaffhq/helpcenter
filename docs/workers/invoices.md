@@ -1,6 +1,6 @@
 ---
 title: Invoice Your Work
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 # Create Invoices for Your Work
