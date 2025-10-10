@@ -15,7 +15,7 @@ This powerful feature lets you:
 Download a [sample file](https://employer.workstaff.app/en/assets/import-templates/shift-import.csv) to get started.
 
 ## Pre-requisites
-- If the projects you’re importing need to be linked to a client, make sure to [**add the client**](../customize/client-section.md#adding-a-new-client) in Workstaff first.
+- If the projects you’re importing need to be linked to a client, make sure to [**add the client**](../clients/manage-client-list.md#adding-a-new-client) in Workstaff first.
 - Ensure that any skills used in the imported projects already exist in your Workstaff account.
 
 :::info

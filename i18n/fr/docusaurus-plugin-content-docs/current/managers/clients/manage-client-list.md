@@ -1,5 +1,5 @@
 ---
-title: Clients
+sidebar_position: 1
 ---
 
 # Gérez votre liste de clients
@@ -41,25 +41,22 @@ Une fois que vous avez ajouté un client à votre liste, vous pouvez afficher so
 Sous **Informations de base**, vous pouvez modifier son nom et ajouter son adresse.
 
 ### Équipe de gestion
-Workstaff vous permet d'affecter des [**équipes de gestion spécifiques**](../scheduling/management-teams.md) à chacun de vos clients. Vous pouvez ajouter autant de personnes que vous le souhaitez à ces équipes et choisir lesquelles seront incluses dans les discussions d'équipe liées à ces projets. Lorsque vous affectez une équipe de gestion à un client, elle est automatiquement affectée à tous les projets que vous créez pour ce client.
+Lorsque vous associez une équipe de gestion à un client, elle sera automatiquement affectée à tous les projets que vous créez pour ce client.
 
-## Projets
-
-### Historique
-**L'historique des projets** vous permet de conserver une trace de tous les projets que vous avez créés pour chacun de vos clients.
-
-### Paramètres par défaut
-Les informations paramétrées dans cette section seront utilisées pour chaque nouveau projet créé pour ce client.
-
-- **Localisation par défaut**
-- **Documents d'information pour le personnel**
-- [**Rapports de terrain**](../addons/field-reports.md)
-- **Notes au personnel**
-- **Personnel exclu**
-
-:::note
-Ces informations peuvent toujours être modifiées pour chaque projet individuellement, si nécessaire.
+:::info  
+Par défaut, la première personne affectée au client se voit attribuer les rôles de **Lead** et **Coordonnateur**. Le **Coordonnateur** est systématiquement le contact principal pour les projets du client, tandis que vous pouvez décider si le **Lead** est, ou non, une personne contact pour le personnel. Vous avez aussi la possibilité de choisir si les prochaines personnes que vous ajoutez à l’équipe de gestion sont des personnes contact pour le personnel ou non. Toutes les personnes contact seront incluses dans les conversations d’équipe.
 :::
+
+**Pour affecter une équipe de gestion à un client :**
+
+![équipe par client](./Images/managament-team-client.png)
+
+1. Vous pouvez afficher la fiche du client en tapant son nom dans la barre de recherche ou en cliquant sur son nom sur la page du projet. 
+2. Sous **Équipe de gestion**, cliquez sur la case vide et sélectionnez la prochaine personne que vous souhaitez ajouter à l’équipe, puis cliquez sur **+**.
+3. Sélectionnez le rôle de la personne (Lead, Coordo, ou aucun).
+4. Si elle n’est pas **Coordonnateur**, déterminez si elle est une **Personne contact pour le personnel** en sélectionnant l’icône indiquée dans la capture d’écran ci-dessus.
+5. Une fois l’équipe de gestion composée, cliquez sur **Sauvegarder**.
+
 
 ## Archiver/supprimer un client
 Vous pouvez archiver un client en cliquant sur **Archiver** à côté de son nom dans la liste des clients.
@@ -70,4 +67,3 @@ Vous pouvez également supprimer définitivement un client de votre liste en cli
 :::note
 Vous ne pouvez supprimer un client que s'il n'est rattaché à aucun projet.
 :::
-
