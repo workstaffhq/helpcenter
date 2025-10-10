@@ -1,5 +1,5 @@
---- 
-title: Clients
+---
+sidebar_position: 1
 ---
 
 # Manage Your Client List
@@ -42,26 +42,22 @@ Once you have added a client to your list, you can display their profile by clic
 Under **Basic Information**, you can edit their name and add their address.
 
 ### Management Team
-Workstaff allows you to assign [**specific management teams**](../scheduling/management-teams.md) to each of your clients. You can add as many people as you want to these teams and choose which ones are included in the team discussions related to these projects. When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.
+When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.
 
-## Projects
-
-### History
-The **Project History** allows you to keep track of all the projects you have created for each one of your clients.
-
-### Default Settings
-
-The information configured in this section will be applied to every new project created for this client.
-
-- **Default location**
-- **Information documents for staff**
-- [**Field Reports**](../addons/field-reports.md)
-- **Notes to Staff**
-- **Excluded Staff**
-
-:::note
-These settings can always be adjusted individually for each project, if needed.
+:::info  
+By default, the first person assigned to the client is assigned the roles of **Lead** and **Coordinator**. The **Coordinator** is always the main contact for the client's projects, while you can decide if the **Lead** is a contact person for the staff or not. You also have the option to choose whether the next people you add to the management team are contact persons or not. All contact persons will be included in the team conversations.
 :::
+
+**To assign a management team to a client:**
+
+![Assign management team](./Images/management-team-client-en.png)
+
+1. You can view the client's file by typing their name in the search bar or by clicking on their name on the project page
+2. Under **Management Team**, click on the empty box and select the next person you wish to add to the team, then click **+**
+3. Select the person's role (Lead, Coordinator, or none)
+4. If they are not a **Coordinator**, set whether they are a **Contact person for staff** by selecting the icon shown in the screenshot above
+5. Once the management team is composed, click **Save**.
+
 
 ## Archiving/Deleting a Client
 You can archive a client by clicking on **Archive** next to their name in the client list.
@@ -72,4 +68,3 @@ You can also permanently remove a client from your list by clicking on **Delete*
 :::note
 You can only delete a client if they are not attached to any project.
 :::
-
