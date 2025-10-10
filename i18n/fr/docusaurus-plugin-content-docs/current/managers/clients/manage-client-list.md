@@ -1,4 +1,5 @@
 ---
+title: Gérez votre liste
 sidebar_position: 1
 ---
 
