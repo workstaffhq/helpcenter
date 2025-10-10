@@ -29,8 +29,8 @@ When configuring your billing, you can choose between different **billing modes*
 
 In each project’s **Finances tab**, you can view the **budget amounts** alongside staff remuneration data. This gives you an instant view of both your **costs** (staff pay) and **revenues** (client billing) in one place.
 
-In the **Reports** section, a new **Client Pricing** report provides a consolidated overview across your projects, clients, and specific time periods.  
-You can easily **export this data to Excel** for deeper analysis and financial reporting.
+In the **Reports** section, a new **Client Pricing** report provides a consolidated overview across your projects, clients, and specific time periods. You can easily **export this data to Excel** for deeper analysis and financial reporting.
+
 
 If you have questions or feedback about how Client Pricing works or how to best configure it for your organization, our support team is always happy to help.  
 Reach out via the chat or email us at **support@workstaff.com**.

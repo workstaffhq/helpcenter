@@ -32,5 +32,5 @@ Dans l’onglet **Finances** de chaque projet, vous pouvez consulter le **montan
 Dans la section **Rapports**, un nouveau rapport **Tarification client** vous offre une vue consolidée de vos projets, clients pour une période spécifique.  
 Vous pouvez facilement **exporter ces données vers Excel** pour une analyse ou un suivi financier plus approfondi.
 
-Si vous avez des questions ou des commentaires sur le fonctionnement de la Tarification client ou sur la meilleure façon de la configurer pour votre organisation, notre équipe de soutien se fera un plaisir de vous aider.  
-Contactez-nous via le chat ou par courriel à **support@workstaff.com**.
+
+Si vous avez des questions ou des commentaires sur le fonctionnement de la Tarification client ou sur la meilleure façon de la configurer pour votre organisation, notre équipe de soutien se fera un plaisir de vous aider. Contactez-nous via le chat ou par courriel à **support@workstaff.com**.
