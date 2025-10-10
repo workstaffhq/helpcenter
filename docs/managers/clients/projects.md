@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Projects
+# Client Projects
 
 ## History
 The **Project History** allows you to keep track of all the projects you have created for each one of your clients.

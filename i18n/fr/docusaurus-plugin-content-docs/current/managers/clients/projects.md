@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Projets
+# Projets du client
 
 ## Historique
 **L'historique des projets** vous permet de conserver une trace de tous les projets que vous avez créés pour chacun de vos clients.
