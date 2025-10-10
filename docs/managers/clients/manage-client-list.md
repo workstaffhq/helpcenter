@@ -1,4 +1,5 @@
 ---
+title: Manage Your List
 sidebar_position: 1
 ---
 
