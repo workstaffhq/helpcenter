@@ -15,7 +15,7 @@ Avec la Tarification client, vous pouvez :
 ## Définir les tarifs
 
 Vous pouvez définir vos tarifs de manière globale ou par compétence, tout en ayant la possibilité de les ajuster au besoin, jusqu’au niveau d’un projet :
-- **Niveau entreprise** (tarif par défaut de votre organisation)  
+- **Niveau compte** (tarif par défaut de votre organisation)  
 - **Niveau client** (tarification spécifique à un client)  
 - **Niveau projet** (tarification personnalisée pour un projet en particulier)  
 
@@ -33,4 +33,4 @@ Dans la section **Rapports**, un nouveau rapport **Tarification client** vous of
 Vous pouvez facilement **exporter ces données vers Excel** pour une analyse ou un suivi financier plus approfondi.
 
 
-Si vous avez des questions ou des commentaires sur le fonctionnement de la Tarification client ou sur la meilleure façon de la configurer pour votre organisation, notre équipe de soutien se fera un plaisir de vous aider. Contactez-nous via le chat ou par courriel à **support@workstaff.com**.
+Si vous avez des questions ou des commentaires sur le fonctionnement de la Tarification client ou sur la meilleure façon de la configurer pour votre organisation, notre équipe de soutien se fera un plaisir de vous aider. Contactez-nous via le chat ou par courriel à **support@workstaff.app**.

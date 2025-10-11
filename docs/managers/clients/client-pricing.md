@@ -15,7 +15,7 @@ With Client Pricing, you can:
 ## Define Bill Rates
 
 You can define your rates globally and per skill, but still override them when needed, right down to a single project:
-- **Enterprise level** (default for your organization)
+- **Account level** (default for your organization)
 - **Client level** (specific pricing for a client)
 - **Project level** (custom pricing for an event)
 
@@ -33,4 +33,4 @@ In the **Reports** section, a new **Client Pricing** report provides a consolida
 
 
 If you have questions or feedback about how Client Pricing works or how to best configure it for your organization, our support team is always happy to help.  
-Reach out via the chat or email us at **support@workstaff.com**.
+Reach out via the chat or email us at **support@workstaff.app**.
