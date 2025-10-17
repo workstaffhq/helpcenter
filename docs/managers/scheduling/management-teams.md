@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
-# Assign Management Teams to your Projects
+# Assign Management Teams to Your Projects
 
 Workstaff allows you to assign specific management teams to each of your projects. You can add as many people as you want to these teams and choose which ones are included in the team discussions related to these projects. Each member of the management team can then see exactly which projects are assigned to them in the **Calendar**, by choosing to display their **schedules only**.
 
