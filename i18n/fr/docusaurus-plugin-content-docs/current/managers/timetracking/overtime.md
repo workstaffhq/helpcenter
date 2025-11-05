@@ -80,37 +80,6 @@ Workstaff applique des règles hebdomadaires basées sur la somme cumulée des h
 | Temps suppl. hebdo @35h |     |      |      |      | 5   |     |     |     
 | Temps suppl. hebdo @40h |     |      |      |      | 2   | 8   |     |     
 
-**Règle hebdomadaire unique avec une limite de 40 heures par semaine, avec moyennage sur deux semaines activé**
-
-**Semaine 1 :**
-
-|                         | LUN | MAR  | MER | JEU | VEN | SAM | DIM |
-|-------------------------|-----|------|-----|-----|-----|-----|-----|
-| Heures travaillées      | 8   | 8    | 8   | 7   | 12  |     |     |
-| 👉 Cumulatif            | 8   | 16   | 24  | 31  | 43  |     |     |
-| Heures régulières       | 8   | 8    | 8   | 7   | 9   |     |     |
-| Temps suppl. hebdo @40h |     |      |     |     | 3   |     |     | 
-
-**Semaine 2 :**
-
-|                         | LUN | MAR  | MER | JEU | VEN | SAM | DIM |
-|-------------------------|-----|------|-----|-----|-----|-----|-----|
-| Heures travaillées      | 5   | 8    | 5   | 8   | 12  |     |     |
-| 👉 Cumulatif            | 5   | 13   | 18  | 26  | 38  |     |     |
-| Heures régulières       | 5   | 8    | 5   | 8   | 12  |     |     |
-| Temps suppl. hebdo @40h |     |      |     |     |     |     |     | 
-
-**Résumé :**
-
-|           | Total heures travaillées | Temps suppl. hebdo @40h | Moyennage sur deux semaines |
-|-----------|--------------------------|-------------------------|-----------------------------|
-| Semaine 1 | 43                       | 3                       | 3                           |
-| Semaine 2 | 38                       | 0                       | -2                          |
-| **Total** | **81**                   | **3**                   | **1**                       |
-
-Sur une période de moyennage de deux semaines, l’employé a travaillé **43 heures** la première semaine et **38 heures** la deuxième semaine — pour un total de **81 heures**.  
-Comme le seuil d’heures supplémentaires est de **80 heures** pour la période de deux semaines, **seule 1 heure** est comptabilisée comme heure supplémentaire.
-
 ### Exemple avec des règles journalières et hebdomadaires
 
 Lorsque des règles quotidiennes et hebdomadaires sont présentes, Workstaff applique d'abord les règles journalières, puis les règles hebdomadaires sur le cumul des heures normales.
@@ -125,6 +94,33 @@ Lorsque des règles quotidiennes et hebdomadaires sont présentes, Workstaff app
 | 👉 Cumulatif                | 8   | 16  | 24  | 32  | 35  | 35  |     |     
 | Temps suppl. journalier @8h | 1   |     | 2   | 1   | 1   |     |     |     
 | Temps suppl. hebdo @35h     |     |     |     |     | 5   | 6   |     |     
+
+### Exemple avec moyennage des heures supplémentaires
+
+Workstaff applique les règles hebdomadaires en fonction du total cumulé des heures travaillées au cours de la période de moyennage configurée.
+
+**Règle hebdomadaire unique avec une limite de 40 heures par semaine, avec moyennage sur deux semaines activé (soit un total de 80 h sur la période)**
+
+**Semaine 1 :**
+
+|                               | LUN | MAR  | MER | JEU | VEN | SAM | DIM |
+|-------------------------------|-----|------|-----|-----|-----|-----|-----|
+| Heures travaillées            | 8   | 8    | 8   | 7   | 12  |     |     |
+| 👉 Cumulatif (sur 2 semaines) | 8   | 16   | 24  | 31  | 43  |     |     |
+| Temps suppl. sur 2 sem. @80h  |     |      |     |     |     |     |     | 
+
+**Semaine 2 :**
+
+|                               | LUN | MAR | MER | JEU | VEN | SAM | DIM |
+|-------------------------------|-----|-----|-----|-----|-----|-----|-----|
+| Heures travaillées            | 5   | 8   | 5   | 8   | 12  |     |     |
+| 👉 Cumulatif (sur 2 semaines) | 48  | 56  | 61  | 69  | 81  |     |     |
+| Temps suppl. sur 2 sem. @80h  |     |     |     |     | 1   |     |     | 
+
+Comme la **règle d’heures supplémentaires** est fixée à **40 heures par semaine** et que le **moyennage sur deux semaines** est activé, les heures supplémentaires sont calculées **uniquement si le total d’heures travaillées dépasse 80 heures** sur la période de deux semaines.  
+
+Dans cet exemple, même si le personnel a travaillé 43 heures la première semaine, la limite hebdomadaire ne s’applique pas — puisque le moyennage est activé, le seuil à considérer est de 80 heures pour les deux semaines, et non de 40 heures par semaine.  
+Ici, l’employé a travaillé un total de **81 heures**, donc **1 heure supplémentaire** est générée **le dernier jour de la deuxième semaine**.  
 
 ## Rémunération des heures supplémentaires
 
