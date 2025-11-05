@@ -87,7 +87,12 @@ Le module vous permet de savoir exactement où vous en êtes dans la préparatio
 
 Tous les détails de l'entrée de la paie (y compris les codes de projet, les départements, les rôles travaillés, etc.) peuvent être exportés vers un fichier Excel pour automatiser votre traitement si nécessaire.
 
-Pour exporter les données de la période vers un fichier Excel, cliquez sur l'icône de téléchargement:
+:::info
+Par défaut, les données de paie sont affichées par période de paie dans l’exportation. Cependant, si besoin, vous pouvez répartir les gains par semaine en cochant le paramètre [Répartir les gains par semaine](./configure.md#décomposer-lexport-de-paie-par-semaine). 
+Lorsque cette option est sélectionnée, une colonne Week Index est ajoutée à l’exportation, ce qui vous permet d’identifier et d’analyser les gains hebdomadaires à l’intérieur de chaque période de paie.
+:::
+
+Pour exporter les données de la période vers un fichier Excel, cliquez sur l'icône de téléchargement :
 
 ![excel.png](images/excel.png)
 

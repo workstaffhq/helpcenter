@@ -4,11 +4,22 @@ title: Rémunération
 
 # Personnaliser la rémunération
 
-Workstaff allows you to customize the way your remuneration is calculated for your account. To do so, head to the **Account** tab of the **Settings** section, and scroll down to **Remuneration**.
+Workstaff vous permet de personnaliser la façon dont la rémunération est calculée pour votre compte. Pour ce faire, rendez-vous dans l’onglet **Rémunération** de la section **Paramètres**.
 
-Once you input values in the chosen options, they will automatically be applied to shifts when the specified conditions are fulfilled.
+Sélectionnez votre **Mode de paie par défaut** (Non défini, À l'heure ou Bénévole (non rémunéré)). Le mode que vous sélectionnez sera appliqué à tous les nouveaux événements.
+
+Le choix de la **Méthode de calcul des heures** détermine comment les heures sont comptabilisées et affichées dans vos rapports - en particulier pour les quarts de travail de nuit qui s’étendent sur deux jours civils.
+Vous pouvez choisir entre deux méthodes :
+- Par date de début du quart de travail : toutes les heures sont comptées à la date de début du quart.
+- Réparties sur les jours calendaires : les heures sont réparties entre les deux jours, selon le moment où elles ont été effectuées.
+
+## Règles de rémunération
+
+Une fois que vous avez saisi des valeurs dans les options choisies, celles-ci seront automatiquement appliquées aux quarts lorsque les conditions spécifiées seront remplies.
 
 ![Rémunération](Images/paramètre-rémunération.png)
+
+Pour en savoir plus sur la configuration des règles d’heures supplémentaires, consultez [Configurer les règles d’heures supplémentaires](overtime.md)
 
 ## Taux de rémunération standard
 

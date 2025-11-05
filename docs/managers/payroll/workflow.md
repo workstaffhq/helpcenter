@@ -88,6 +88,11 @@ The module helps you track exactly where you are in your payroll preparation. Ma
 
 All payroll entry details - including project codes, departments, roles worked on, etc. - can be exported to an Excel file to automate your processing if necessary.
 
+:::info
+By default, payroll data is displayed by pay period in the export. However, if needed, you can break down earnings by week by enabling the [Break down earnings by week](./configure.md#break-down-payroll-export-by-week) parameter. 
+When this option is selected, a Week Index column will be included in the export, allowing you to identify and analyze weekly earnings within each pay period.
+:::
+
 To export the period data to an Excel file, click on the download icon.
 
 ![excel.png](images/excel.png)

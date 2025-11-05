@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Pour modifier les options liées à la façon dont vous utilisez le module Paie, allez dans **Paramètres** / **Paie**.
 
-## Établir votre calendrier de paie {#calendar}
+## Établir votre calendrier de paie
 
 Les calendriers de paie suivants sont pris en charge par Workstaff :
 
@@ -29,8 +29,13 @@ Si vous devez modifier votre calendrier de paie une fois que vous avez commencé
 
 Dans certaines circonstances, vous devrez peut-être [ajuster légèrement les dates](./workflow.md#resize) de votre période de paie actuelle ou la suivante pendant la transition.
 
-## Sélectionner le personnel à inclure dans la paie {#employment-statuses}
+## Sélectionner le personnel à inclure dans la paie
 
 Par défaut, tous les membres de votre équipe rémunérés avec les statuts d'emploi **Travailleur autonome** et **Employé** sont inclus dans les périodes de paie.
 
 Sélectionnez l'option **Exclure les travailleurs autonomes de la paie** dans les paramètres si vous voulez exclure les sous-traitants / travailleurs indépendants de vos périodes de paie. Cette option est utile pour éviter des informations répétitives lorsque vous utilisez [les factures intégrées des entrepreneurs](../invoicing/index.md).
+
+## Décomposer l’export de paie par semaine
+
+En sélectionnant **Répartir les gains par semaine**, les données de paie seront affichées par semaine plutôt que par période de paie dans les fichiers d'exportation détaillés.
+Une colonne **Week Index** sera également incluse dans l'export, vous permettant d’identifier et d’analyser facilement les gains hebdomadaires au sein de chaque période de paie.
