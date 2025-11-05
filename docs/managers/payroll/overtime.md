@@ -4,24 +4,18 @@ title: Overtime
 
 # Compensate Overtime
 
-When overtime rules are [configured on your account](../customize/overtime.md), Workstaff will automatically calculate and identify overtime for everyone in your team. In addition, Workstaff will automatically calculate extra earnings for your staff when you generate your pay runs. 
+When overtime rules are [configured on your account](../customize/overtime.md), Workstaff will automatically calculate and [identify overtime](../timetracking/overtime.md) for everyone in your team. In addition, Workstaff will automatically calculate extra earnings for your staff when you generate your pay runs. 
 
 ## How are overtime premiums calculated?
 
 Overtime premiums are calculated based on a weighted average hourly rate, which reflects all earnings during the applicable period.
 
-If your pay periods do not align directly with calendar work weeks (for example, if you pay monthly), overtime calculations are still based on complete work weeks within that period - unless [overtime averaging](#averaging-period) is enabled.
+If your pay periods do not align directly with calendar work weeks (for example, if you pay monthly), overtime calculations are still based on complete work weeks within that period - unless [overtime averaging](../customize/overtime.md#averaging-period) is enabled.
 
 For any given worker and work week (or averaging period, if averaging is enabled):
 1. Workstaff sums all earnings - including premiums - from all hours worked during the period eligible for weekly overtime. 
 2. The total earnings are divided by the total number of hours worked to determine the regular hourly rate for that period. 
 3. The overtime multipliers you configured in your overtime rules are then applied to that regular hourly rate.
-
-## Averaging Period
-
-If your workplace uses [overtime averaging](../customize/overtime.md#averaging-period), you can specify the number of weeks over which the average should be calculated - 2 or 4 weeks - and set the start date of the averaging cycle.
-
-When averaging is enabled, overtime is calculated based on the average number of hours worked over the selected period, starting from the chosen date (often the beginning of your pay period).
 
 ## Examples
 
@@ -73,32 +67,3 @@ During the above week, the _regular rate_ corresponds to:
 847.00 / 37h = **22.90 per hour**
 
 For an overtime rule with a **1.5x** rate, any hours worked in overtime during that week would result in an effective hourly rate of **34.35** (22.90 x 1.5), which Workstaff will calculate as additional earnings of **11.45** (34.35 - 22.90) per overtime hour.
-
-### Hourly rate constant throughout the period, with two-week averaging enabled
-
-Back again to a case where all hours worked during the period are compensated at the same hourly rate, but when averaging over two weeks is enabled:
-
-**Week 1:**
-
-|              |    MON |    TUE |    WED |    THU |    FRI | SAT | SUN |  Total |
-|--------------|-------:|-------:|-------:|-------:|-------:|----:|----:|-------:|
-| Hours Worked |     8h |     8h |     8h |     7h |    12h |     |     |    43h |
-| Hourly Rate  |  21.00 |  21.00 |  21.00 |  21.00 |  21.00 |     |     |        |
-| Base Wages   | 168.00 | 168.00 | 168.00 | 147.00 | 252.00 |     |     | 903.00 |
-
-**Week 2:**
-
-|              |    MON |    TUE |    WED |    THU |    FRI | SAT | SUN |  Total |
-|--------------|-------:|-------:|-------:|-------:|-------:|----:|----:|-------:|
-| Hours Worked |     5h |     8h |     5h |     8h |    12h |     |     |    38h |
-| Hourly Rate  |  21.00 |  21.00 |  21.00 |  21.00 |  21.00 |     |     |        |
-| Base Wages   | 105.00 | 168.00 | 105.00 | 168.00 | 252.00 |     |     | 798.00 |
-
-During the above period, the _regular rate_ corresponds to:
-
-(903.00 + 798.00) / (43h + 38h) = 1701 / 81 = **21.00 per hour**
-
-For a weekly overtime rule with a **1.5x** rate, any hours worked in overtime during that period would result in an effective hourly rate of **31.50** (21.00 x 1.5), which Workstaff will calculate as additional earnings of **10.50** (31.50 - 21.00) per overtime hour.
-
-In this example, let's say overtime applies when staff work more than 40 hours per week. Over a two-week averaging period, the employee worked 43 hours in the first week and 38 hours in the second week - for a total of 81 hours.
-Because the overtime threshold is 80 hours for the two-week period, only 1 hour counts as weekly overtime.

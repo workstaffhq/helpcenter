@@ -8,7 +8,8 @@ Workstaff peut calculer et [rémunérer](../payroll/overtime.md) les heures supp
 
 ## Indicateurs d'avertissement
 
-Lorsque les règles relatives aux heures supplémentaires sont configurées dans votre compte, Workstaff affiche des avertissements aux endroits appropriés, tels que l'affichage du calendrier hebdomadaire ou lors de l'affectation de personnel. Ces avertissements sont conçus pour mettre en évidence les situations dans lesquelles des heures supplémentaires non désirées seraient introduites par une affectation.
+Lorsque les [règles relatives aux heures supplémentaires](../customize/overtime.md) sont configurées dans votre compte, Workstaff affiche des avertissements aux endroits appropriés, tels que l'affichage du calendrier hebdomadaire ou lors de l'affectation de personnel. 
+Ces avertissements sont conçus pour mettre en évidence les situations dans lesquelles des heures supplémentaires non désirées seraient introduites par une affectation.
 
 ### Dans le calendrier hebdomadaire
 
@@ -26,7 +27,12 @@ Lors de l'affectation de personnel à l'aide du bouton **Affecter du personnel**
 
 Les heures supplémentaires sont toujours calculées sur la base de semaines de travail complètes. Ces semaines de travail correspondent toujours au **premier jour de la semaine** configuré dans les paramètres généraux de votre compte.
 
-Pour calculer les heures supplémentaires, Workstaff prend en compte toutes les périodes de travail effectuées par un membre du personnel au cours d'une semaine, et applique les règles relatives aux heures supplémentaires configurées sur votre compte. Les règles relatives aux heures supplémentaires journalières sont appliquées en premier, puis les règles hebdomadaires. Les règles hebdomadaires sont toujours appliquées sur la base des heures non supplémentaires calculées quotidiennement.
+Pour calculer les heures supplémentaires, Workstaff prend en compte toutes les périodes de travail effectuées par un membre du personnel au cours d'une semaine, et applique les règles relatives aux heures supplémentaires configurées sur votre compte. 
+Les règles relatives aux **heures supplémentaires journalières** sont appliquées en premier, puis les **règles hebdomadaires**. 
+Les règles hebdomadaires sont toujours appliquées sur la base des heures non supplémentaires calculées quotidiennement.
+
+Si votre entreprise utilise le [moyennage des heures supplémentaires](../customize/overtime.md#période-de-moyennage), les heures supplémentaires sont calculées en fonction du nombre moyen d’heures travaillées par semaine sur la période sélectionnée — soit 2 ou 4 semaines.
+Cela garantit que les heures supplémentaires ne sont générées que lorsque la moyenne hebdomadaire totale dépasse le seuil défini sur l’ensemble du cycle de moyennage.
 
 Ces calculs étant assez compliqués et il est plus facile de les comprendre à l'aide d'exemples :
 
@@ -73,6 +79,37 @@ Workstaff applique des règles hebdomadaires basées sur la somme cumulée des h
 | Heures régulières       | 8.5 | 8    | 9    | 9    | 0.5 |     |     |
 | Temps suppl. hebdo @35h |     |      |      |      | 5   |     |     |     
 | Temps suppl. hebdo @40h |     |      |      |      | 2   | 8   |     |     
+
+**Règle hebdomadaire unique avec une limite de 40 heures par semaine, avec moyennage sur deux semaines activé**
+
+**Semaine 1 :**
+
+|                         | LUN | MAR  | MER | JEU | VEN | SAM | DIM |
+|-------------------------|-----|------|-----|-----|-----|-----|-----|
+| Heures travaillées      | 8   | 8    | 8   | 7   | 12  |     |     |
+| 👉 Cumulatif            | 8   | 16   | 24  | 31  | 43  |     |     |
+| Heures régulières       | 8   | 8    | 8   | 7   | 9   |     |     |
+| Temps suppl. hebdo @40h |     |      |     |     | 3   |     |     | 
+
+**Semaine 2 :**
+
+|                         | LUN | MAR  | MER | JEU | VEN | SAM | DIM |
+|-------------------------|-----|------|-----|-----|-----|-----|-----|
+| Heures travaillées      | 5   | 8    | 5   | 8   | 12  |     |     |
+| 👉 Cumulatif            | 5   | 13   | 18  | 26  | 38  |     |     |
+| Heures régulières       | 5   | 8    | 5   | 8   | 12  |     |     |
+| Temps suppl. hebdo @40h |     |      |     |     |     |     |     | 
+
+**Résumé :**
+
+|           | Total heures travaillées | Temps suppl. hebdo @40h | Moyennage sur deux semaines |
+|-----------|--------------------------|-------------------------|-----------------------------|
+| Semaine 1 | 43                       | 3                       | 3                           |
+| Semaine 2 | 38                       | 0                       | -2                          |
+| **Total** | **81**                   | **3**                   | **1**                       |
+
+Sur une période de moyennage de deux semaines, l’employé a travaillé **43 heures** la première semaine et **38 heures** la deuxième semaine — pour un total de **81 heures**.  
+Comme le seuil d’heures supplémentaires est de **80 heures** pour la période de deux semaines, **seule 1 heure** est comptabilisée comme heure supplémentaire.
 
 ### Exemple avec des règles journalières et hebdomadaires
 

@@ -16,9 +16,11 @@ Les limites que vous configurez ici détermineront quand un employé commence à
 
 ### Période de moyennage
 
-Si votre lieu de travail utilise le **moyennage des heures supplémentaires**, indiquez le nombre de semaines sur lesquelles calculer la moyenne (généralement 2 ou 4), ainsi que la date de début du cycle — souvent le début de la période de paie.
-Les heures supplémentaires seront alors calculées selon la moyenne hebdomadaire des heures travaillées.
-Par exemple, sur deux semaines, si la moyenne ne dépasse pas le seuil hebdomadaire d’heures supplémentaires, aucune heure supplémentaire ne sera générée.
+Si votre entreprise utilise le **moyennage des heures supplémentaires**, indiquez le nombre de semaines sur lesquelles calculer la moyenne (2 ou 4 semaines), ainsi que la date de début de la période de moyennage.
+Lorsque le moyennage est activé, sélectionnez le premier jour du cycle de moyennage (généralement le début de votre période de paie, qu’elle soit passée ou à venir) afin que Workstaff puisse correctement aligner les cycles de moyennage.
+Avec ce paramètre, les heures supplémentaires hebdomadaires seront calculées en fonction du nombre moyen d’heures travaillées par semaine sur la période sélectionnée.
+
+Par exemple, sur un cycle de deux semaines, si la moyenne hebdomadaire du total d’heures travaillées ne dépasse pas le seuil d’heures supplémentaires, aucune heure supplémentaire ne sera générée.
 
 ### Prise en compte du temps de déplacement
 
