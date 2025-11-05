@@ -83,37 +83,6 @@ Workstaff applies weekly rules based on the cumulative sum of hours worked durin
 | Weekly Overtime @35h |     |      |      |      | 5   |     |     |     
 | Weekly Overtime @40h |     |      |      |      | 2   | 8   |     |     
 
-**Single weekly rule with limit at 40h per week, with two-week averaging enabled**
-
-**Week 1:**
-
-|                        | MON | TUE | WED | THU | FRI | SAT | SUN |
-|------------------------|-----|-----|-----|-----|-----|-----|-----|
-| Hours Worked           | 8   | 8   | 8   | 7   | 12  |     |     |
-| 👉 Cumulative          | 8   | 16  | 24  | 31  | 43  |     |     |
-| Regular Hours          | 8   | 8   | 8   | 7   | 9   |     |     |
-| Weekly Overtime @40h   |     |     |     |     | 3   |     |     |    
-
-**Week 2:**
-
-|                        | MON | TUE | WED | THU | FRI | SAT | SUN |
-|------------------------|-----|-----|-----|-----|-----|-----|-----|
-| Hours Worked           | 5   | 8   | 5   | 8   | 12  |     |     |
-| 👉 Cumulative          | 5   | 13  | 18  | 26  | 38  |     |     |
-| Regular Hours          | 5   | 8   | 5   | 8   | 12  |     |     |
-| Weekly Overtime @40h   |     |     |     |     |     |     |     |    
-
-**Summary:**
-
-|           | Total Hours Worked | Weekly Overtime @40h | Two-week Averaging |
-|-----------|--------------------|----------------------|--------------------|
-| Week 1    | 43                 | 3                    | 3                  |
-| Week 2    | 38                 | 0                    | -2                 |
-| **Total** | **81**             | **3**                | **1**              |
-
-Over a two-week averaging period, the employee worked **43 hours** in the first week and **38 hours** in the second week - for a total of **81 hours**.  
-Since the overtime threshold is **80 hours** for the two-week period, **only 1 hour** counts as overtime.
-
 ### Example with both daily and weekly rules
 
 When both daily and weekly rules are present, Workstaff first applies daily rules, then applies weekly rules.
@@ -128,6 +97,33 @@ When both daily and weekly rules are present, Workstaff first applies daily rule
 | 👉 Cumulative        | 8   | 16  | 24  | 32  | 35  | 35  |     |     
 | Daily Overtime @8h   | 1   |     | 2   | 1   | 1   |     |     |     
 | Weekly Overtime @35h |     |     |     |     | 5   | 6   |     |     
+
+### Example with overtime averaging
+
+Workstaff applies weekly rules based on the cumulative total of hours worked during the configured averaging period.
+
+**Single weekly rule with a 40h limit per week, using two-week averaging (total of 80h over the period)**
+
+**Week 1:**
+
+|                                | MON | TUE | WED | THU | FRI | SAT | SUN |
+|--------------------------------|-----|-----|-----|-----|-----|-----|-----|
+| Hours Worked                   | 8   | 8   | 8   | 7   | 12  |     |     |
+| 👉 Cumulative (over two weeks) | 8   | 16  | 24  | 31  | 43  |     |     |
+| Two-week overtime @80h         |     |     |     |     |     |     |     |    
+
+**Week 2:**
+
+|                                | MON | TUE | WED | THU | FRI | SAT | SUN |
+|--------------------------------|-----|-----|-----|-----|-----|-----|-----|
+| Hours Worked                   | 5   | 8   | 5   | 8   | 12  |     |     |
+| 👉 Cumulative (over two weeks) | 48  | 56  | 61  | 69  | 81  |     |     |
+| Two-week overtime @80h         |     |     |     |     | 1   |     |     |    
+
+Because the **overtime rule** is set at **40 hours per week** and **two-week averaging** is enabled, overtime will be calculated **only if the total hours worked exceed 80 hours** over the two-week period.  
+
+In this example, even though the staff worked 43 hours in the first week, the weekly limit doesn’t apply - since averaging is enabled, the threshold is 80 hours for the two-week period, not 40 hours per week.  
+Here, the employee worked a total of **81 hours**, so **1 hour of overtime** is generated on the **last day of the second week**.  
 
 ## Overtime compensation
 
