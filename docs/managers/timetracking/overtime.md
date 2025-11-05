@@ -8,7 +8,8 @@ Workstaff can calculate [and compensate](../payroll/overtime.md) overtime automa
 
 ## Warnings
 
-When overtime rules are configured in your account, Workstaff will display warnings at relevant locations, such as the weekly calendar view or when booking staff. These warnings are designed to highlight situations where unwanted overtime would be introduced by booking a certain staff.
+When [overtime rules](../customize/overtime.md) are configured in your account, Workstaff will display warnings at relevant locations, such as the weekly calendar view or when booking staff. 
+These warnings are designed to highlight situations where unwanted overtime would be introduced by booking a certain staff.
 
 ### In weekly calendar
 
@@ -18,14 +19,22 @@ In the weekly calendar view, a small warning will be displayed for any staff who
 
 ### When booking staff
 
-When booking staff using the **Book staff** button on project pages, Workstaff provides warnings if the bookings exceed the overtime limits. Hover over the warning to view details about the overtime hours. Additionally, you can click on **Show differences** to see the changes made by the current booking(s).  
+When booking staff using the **Book staff** button on project pages, Workstaff provides warnings if the bookings exceed the overtime limits. 
+Hover over the warning to view details about the overtime hours. 
+Additionally, you can click on **Show differences** to see the changes made by the current booking(s).
+
 ![Booking Overtime](Images/Booking-OT.png)
 
 ## How are overtime hours calculated?
 
 Overtime hours are always calculated based on full work weeks. These work weeks always match the **First Day of Week** configured in your account general settings.
 
-To calculate overtime hours, Workstaff takes all shifts worked by a staff during a week, and applies overtime rules configured on your account. Daily overtime rules are applied first, then weekly rules. Weekly rules are always applied based on the non-overtime hours calculated daily.
+To calculate overtime, Workstaff takes all shifts worked by a staff during a week and applies overtime rules configured on your account. 
+**Daily overtime** rules are applied first, followed by **weekly overtime** rules. 
+Weekly rules are always applied based on the non-overtime hours calculated daily.
+
+If your workplace uses [**Overtime Averaging**](../customize/overtime.md#averaging-period), overtime is calculated based on the **average number of hours worked per week** over the selected period - either **2 or 4 weeks**.  
+This ensures that overtime is only generated when the average weekly total exceeds the defined threshold over the entire averaging cycle.
 
 This process is quite complicated and is easier to understand with examples:
 
@@ -73,6 +82,37 @@ Workstaff applies weekly rules based on the cumulative sum of hours worked durin
 | Regular Hours        | 8.5 | 8    | 9    | 9    | 0.5 |     |     |
 | Weekly Overtime @35h |     |      |      |      | 5   |     |     |     
 | Weekly Overtime @40h |     |      |      |      | 2   | 8   |     |     
+
+**Single weekly rule with limit at 40h per week, with two-week averaging enabled**
+
+**Week 1:**
+
+|                        | MON | TUE | WED | THU | FRI | SAT | SUN |
+|------------------------|-----|-----|-----|-----|-----|-----|-----|
+| Hours Worked           | 8   | 8   | 8   | 7   | 12  |     |     |
+| 👉 Cumulative          | 8   | 16  | 24  | 31  | 43  |     |     |
+| Regular Hours          | 8   | 8   | 8   | 7   | 9   |     |     |
+| Weekly Overtime @40h   |     |     |     |     | 3   |     |     |    
+
+**Week 2:**
+
+|                        | MON | TUE | WED | THU | FRI | SAT | SUN |
+|------------------------|-----|-----|-----|-----|-----|-----|-----|
+| Hours Worked           | 5   | 8   | 5   | 8   | 12  |     |     |
+| 👉 Cumulative          | 5   | 13  | 18  | 26  | 38  |     |     |
+| Regular Hours          | 5   | 8   | 5   | 8   | 12  |     |     |
+| Weekly Overtime @40h   |     |     |     |     |     |     |     |    
+
+**Summary:**
+
+|           | Total Hours Worked | Weekly Overtime @40h | Two-week Averaging |
+|-----------|--------------------|----------------------|--------------------|
+| Week 1    | 43                 | 3                    | 3                  |
+| Week 2    | 38                 | 0                    | -2                 |
+| **Total** | **81**             | **3**                | **1**              |
+
+Over a two-week averaging period, the employee worked **43 hours** in the first week and **38 hours** in the second week - for a total of **81 hours**.  
+Since the overtime threshold is **80 hours** for the two-week period, **only 1 hour** counts as overtime.
 
 ### Example with both daily and weekly rules
 

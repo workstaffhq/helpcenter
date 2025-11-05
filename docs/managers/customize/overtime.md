@@ -16,9 +16,10 @@ The limits you configure here will determine when an employee starts working ove
 
 ### Averaging Period
 
-If your workplace uses **Overtime Averaging**, you can specify the number of weeks over which the average should be calculated - **2 or 4 weeks**. You can also define the start date of the averaging period.
-When averaging is enabled, choose the first day of the averaging cycle (often the start of your pay period). This setting means that weekly overtime will be calculated based on the average number of hours worked per week over the selected period.
-For example, over a two-week cycle, if the weekly average of total hours does not exceed the weekly overtime threshold, no overtime hours will be generated.
+If your workplace uses **Overtime Averaging**, you can specify the number of weeks over which the average should be calculated - **2 or 4 weeks** - and set the start date of the averaging period.
+When averaging is enabled, select the **first day of the averaging cycle** (typically the start of your pay period, whether past or future) so that Workstaff can properly align the averaging periods.
+With this setting, weekly overtime will be calculated based on the average number of hours worked per week over the selected period.
+For example, over a two-week cycle, if the average weekly total of hours worked does not exceed the overtime threshold, no overtime hours will be generated.
 
 ### Travel Time Consideration
 
