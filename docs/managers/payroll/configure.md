@@ -7,7 +7,7 @@ sidebar_position: 3
 
 To change options related to how you use the Payroll module, go to **Settings** / **Payroll**.
 
-## Setting Up Your Pay Calendar {#calendar}
+## Setting Up Your Pay Calendar
 
 The following pay calendars are supported by Workstaff:
 
@@ -30,8 +30,13 @@ If you need to change your pay calendar once you start processing pay periods, y
 
 Under some circumstances, you may need to [slightly adjust dates](./workflow.md#resize) of your current or next pay period during the transition.
 
-## Select Staff To Include in Pay Runs {#employment-statuses}
+## Select Staff To Include in Pay Runs
 
 By default, all of your compensated staff with employment statuses **Contractor / Freelancer** and **Employee** are included in pay runs. 
 
 Select the option **Exclude contractors from payroll** in the settings if you want to exclude contractors / freelancers workers from you pay runs. This option is useful to prevent redundant information when you are using [integrated contractor invoices](../invoicing/index.md).
+
+## Break Down Payroll Export by Week
+
+By selecting **Break down earnings by week**, payroll data will be displayed by week rather than by pay period in the detailed export files. 
+A **Week Index** column will also be included in the export, allowing you to easily identify and analyze weekly earnings within each pay period.

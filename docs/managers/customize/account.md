@@ -21,8 +21,7 @@ Select your organization’s **Timezone** and your **Headquarters** location for
 
 ### Defaults
 1. Select who amongst your account users will be the **Default contact person**.
-2. Select your **Default compensation mode** (None; Hourly, Volunteer). The mode you select will be applied to all new events.
-3. The **Default employment status** (Contractor/Freelancer, Payroll, Volunteer) you select will be added to all new staff profiles. You can still select a status for each staff member by editing it directly in their profile.
+2. The **Default employment status** (Contractor/Freelancer, Payroll, Volunteer) you select will be added to all new staff profiles. You can still select a status for each staff member by editing it directly in their profile.
 
 ### Notifications
 **Enable upcoming shift reminders** to help reduce no-shows. The staff will receive reminders of upcoming shifts around 24h before their first shift on a project. 

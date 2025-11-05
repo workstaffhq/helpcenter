@@ -8,11 +8,17 @@ Workstaff peut calculer [et rémunérer](../payroll/overtime.md) les heures supp
 
 ## Options relatives aux heures supplémentaires
 
-Pour personnaliser la façon dont Workstaff calcule les heures supplémentaires pour les heures travaillées par votre équipe, allez dans **Settings / Account** (Paramètres / Compte) et descendez jusqu'au panneau **Remuneration** (Rémunération).
+Pour personnaliser la façon dont Workstaff calcule les heures supplémentaires pour les heures travaillées par votre équipe, allez dans **Paramètres** puis dans l'onglet **Rémunération**.
 
-![Heures supplémentaires](Images/Supp-setting.png)
+![Heures supplémentaires](Images/overtime-fr.png)
 
 Les limites que vous configurez ici détermineront quand un employé commence à faire des heures supplémentaires, et combien il doit être payé en supplément pour les heures supplémentaires qu'il a effectuées. Vous pouvez configurer jusqu'à 2 règles quotidiennes et 2 règles hebdomadaires.
+
+### Période de moyennage
+
+Si votre lieu de travail utilise le **moyennage des heures supplémentaires**, indiquez le nombre de semaines sur lesquelles calculer la moyenne (généralement 2 ou 4), ainsi que la date de début du cycle — souvent le début de la période de paie.
+Les heures supplémentaires seront alors calculées selon la moyenne hebdomadaire des heures travaillées.
+Par exemple, sur deux semaines, si la moyenne ne dépasse pas le seuil hebdomadaire d’heures supplémentaires, aucune heure supplémentaire ne sera générée.
 
 ### Prise en compte du temps de déplacement
 
