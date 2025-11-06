@@ -11,9 +11,9 @@ sidebar_position: 1
 
 There are a few considerations to take into account before starting with Payroll:
 
-- Your staff should have the correct [employment statuses](./configure.md#employment-statuses) associated with their profile
-- The [compensation for your staff's shifts](../scheduling/remuneration.md) must be accurate
-- You should already be regularly and consistently [approving time entries](../timetracking/submissions.md) for these shifts
+- Your staff should have the correct [employment statuses](./configure.md#select-staff-to-include-in-pay-runs) associated with their profile.
+- The [compensation for your staff's shifts](../scheduling/remuneration.md) must be accurate.
+- You should already be regularly and consistently [approving time entries](../timetracking/submissions.md) for these shifts.
 
 Workstaff uses this information to generate your pay runs so you will not benefit from the payroll module's full potential 
 unless your Workstaff workflow thoroughly covers these areas. 
@@ -22,7 +22,7 @@ unless your Workstaff workflow thoroughly covers these areas.
 
 When you initially navigate to the Payroll module from the Workstaff main menu, you will be presented with a form to configure the module and create your first pay run.
 
-Choose the [pay calendar](./configure.md#calendar) in use in your organization as well as the first date of your initial pay run.
+Choose the [pay calendar](./configure.md#setting-up-your-pay-calendar) in use in your organization as well as the first date of your initial pay run.
 
 :::note
 Workstaff allows the initial pay run to be either the current one, or the previous one.

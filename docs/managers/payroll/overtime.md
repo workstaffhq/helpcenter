@@ -4,15 +4,18 @@ title: Overtime
 
 # Compensate Overtime
 
-When overtime rules are [configured on your account](../customize/overtime.md), Workstaff will automatically calculate and identify overtime for everyone in your team. In addition, Workstaff will automatically calculate extra earnings for your staff when you generate your pay runs. 
-
-Overtime premiums are calculated on the basis of an hourly rate that is a weighted average of all hourly rates during that week. If your pay periods do not align directly on work weeks (for example, if you use monthly pay periods), overtime calculations are still made on the basis of full work weeks.
+When overtime rules are [configured on your account](../customize/overtime.md), Workstaff will automatically calculate and [identify overtime](../timetracking/overtime.md) for everyone in your team. In addition, Workstaff will automatically calculate extra earnings for your staff when you generate your pay runs. 
 
 ## How are overtime premiums calculated?
 
-For any given worker and work week, Workstaff sums all earnings (including premiums) from all hours eligible for overtime. The sum of all earnings is then divised by the number of hours to give the **regular hourly rate** for that week.
+Overtime premiums are calculated based on a weighted average hourly rate, which reflects all earnings during the applicable period.
 
-The rates you configure in your overtime rules will be applied over that regular hourly rate. 
+If your pay periods do not align directly with calendar work weeks (for example, if you pay monthly), overtime calculations are still based on complete work weeks within that period - unless [overtime averaging](../customize/overtime.md#averaging-period) is enabled.
+
+For any given worker and work week (or averaging period, if averaging is enabled):
+1. Workstaff sums all earnings - including premiums - from all hours worked during the period eligible for weekly overtime. 
+2. The total earnings are divided by the total number of hours worked to determine the regular hourly rate for that period. 
+3. The overtime multipliers you configured in your overtime rules are then applied to that regular hourly rate.
 
 ## Examples
 

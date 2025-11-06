@@ -4,15 +4,18 @@ title: Heures supplémentaires
 
 # Rémunérer les heures supplémentaires
 
-Lorsque les règles relatives aux heures supplémentaires sont [configurées sur votre compte](../customize/overtime.md), Workstaff calcule et identifie automatiquement les heures supplémentaires de tous les membres de votre équipe. De plus, Workstaff calculera automatiquement les revenus supplémentaires pour votre personnel lorsque vous créez vos cycles de paie.
-
-Les primes d'heures supplémentaires sont calculées sur la base d'un taux horaire qui est une moyenne pondérée de tous les taux horaires de la semaine. Si vos périodes de paie ne correspondent pas directement aux semaines de travail (par exemple, si vous utilisez des périodes de paie mensuelles), le calcul des heures supplémentaires est toujours effectué sur la base de semaines de travail complètes.
+Lorsque les règles relatives aux heures supplémentaires sont [configurées sur votre compte](../customize/overtime.md), Workstaff calcule et [identifie automatiquement les heures supplémentaires](../timetracking/overtime.md) de tous les membres de votre équipe. De plus, Workstaff calculera automatiquement les revenus supplémentaires pour votre personnel lorsque vous créez vos cycles de paie.
 
 ## Comment les primes d'heures supplémentaires sont-elles calculées ?
 
-Pour un travailleur et une semaine de travail donnés, Workstaff additionne tous les revenus (y compris les primes) de toutes les heures éligibles aux heures supplémentaires. La somme de tous les revenus est ensuite divisée par le nombre d'heures pour obtenir le **taux horaire normal** pour cette semaine.
+Les primes d’heures supplémentaires sont calculées sur la base d’un taux horaire moyen pondéré, qui tient compte de l’ensemble des gains réalisés pendant la période concernée.
 
-Le facteur de multiplication (taux) que vous configurez dans vos règles d'heures supplémentaires sera appliqué sur ce taux horaire normal.
+Si vos périodes de paie ne s’alignent pas directement sur les semaines civiles (par exemple, si vous payez mensuellement), les heures supplémentaires sont tout de même calculées sur la base de semaines complètes comprises dans cette période — sauf si le [moyennage des heures supplémentaires](../customize/overtime.md#période-de-moyennage)￼est activé.
+
+Pour chaque employé et pour chaque semaine de travail (ou période de moyennage, si le moyennage est activé) :
+1. Workstaff additionne tous les gains — y compris les primes — pour toutes les heures travaillées pendant la période admissible aux heures supplémentaires hebdomadaires. 
+2. Le total des gains est divisé par le nombre total d’heures travaillées afin de déterminer le taux horaire régulier pour cette période. 
+3. Les multiplicateurs d’heures supplémentaires hebdomadaires configurés dans vos règles sont ensuite appliqués à ce taux horaire régulier.
 
 ## Exemples
 

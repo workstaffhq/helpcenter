@@ -21,8 +21,7 @@ Sélectionnez le **Fuseau horaire** de votre organisation et votre **Quartier g�
 
 ### Valeurs par défaut
 1. Sélectionnez qui, parmi les utilisateurs de votre compte, sera le **Contact principal**.
-2. Sélectionnez votre **Mode de rémunération** (Non défini; À l'heure, Bénévole (non rémunéré)). Le mode que vous sélectionnez sera appliqué à tous les nouveaux événements.
-3. Le **Statut d'emploi** (Travailleur autonome / Pigiste, Salarié, Bénévole) que vous sélectionnez sera ajouté à tous les nouveaux profils de personnel. Vous pouvez toujours sélectionner un statut pour chaque membre du personnel en le modifiant directement dans son profil.
+2. Le **Statut d'emploi** (Travailleur autonome / Pigiste, Salarié, Bénévole) que vous sélectionnez sera ajouté à tous les nouveaux profils de personnel. Vous pouvez toujours sélectionner un statut pour chaque membre du personnel en le modifiant directement dans son profil.
 
 ### Notifications
 **Activer les rappels de quarts à venir** afin de réduire les absences. L'équipe recevra des rappels de leurs prochains quarts environ 24 heures avant leur premier quart sur chaque projet.
