@@ -24,7 +24,10 @@ All the tools required to manage your invoices are located in the **Invoicing** 
 
 ## Before You Start
 
-You'll need to provide a few invoicing-related information before you can use the **Invoicing** page. Follow the instructions shown on screen to set yourself up for invoicing.
+Before you can use the **Invoicing page**, you’ll need to enter some invoicing details. To do so, click the gear icon in the top-right corner of the screen. 
+From there, you can enter your billing information, which is required in order to invoice, as well as your tax numbers if applicable.
+
+![billing-info-en.png](Images/billing-info-en.png)
 
 ## When Can Shifts Be Invoiced?
 

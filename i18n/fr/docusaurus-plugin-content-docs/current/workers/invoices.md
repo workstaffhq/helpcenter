@@ -22,7 +22,10 @@ Tous les outils nécessaires à la gestion de vos factures se trouvent dans la s
 
 ## Avant de commencer
 
-Vous devrez fournir quelques informations relatives à la facturation avant de pouvoir utiliser la page **Facturation**. Suivez les instructions affichées à l'écran pour vous configurer pour la facturation.
+Avant de pouvoir utiliser la page **Facturation**, vous devez renseigner certaines informations de facturation. Pour ce faire, cliquez sur l’icône d’engrenage en haut à droite de l’écran. 
+Vous pourrez y saisir vos informations de facturation, obligatoires pour pouvoir facturer, ainsi que vos numéros de taxes si nécessaire.
+
+![billing-info-fr.png](Images/billing-info-fr.png)
 
 ## Quand les quarts de travail peuvent-ils être facturés?
 
