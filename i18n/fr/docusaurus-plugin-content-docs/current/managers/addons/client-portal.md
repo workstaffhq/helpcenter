@@ -28,6 +28,10 @@ Vous pouvez partager ce [guide PDF](https://docs.google.com/presentation/d/e/2PA
 
 Lorsqu'un client soumet une nouvelle demande de mandat, une notification par courriel est envoyée et la demande apparaît dans la section **Mandats** sous la liste **Mandats à réviser**. Cliquez sur **Consulter** pour vérifier les informations fournies par le client, puis choisissez d'**Accepter** ou de **Refuser** le mandat. Si le mandat est accepté, un projet sera automatiquement créé pour son exécution.
 
+:::info
+Il est possible d’activer l’option d’**acceptation automatique de mandats** par clients. Lorsque cette option est active, toutes les nouvelles demandes de mandat sont acceptées automatiquement à leur création, sans nécessiter de validation par un manager.
+:::
+
 ## Partager des informations avec un client
 
 ### Partager un projet

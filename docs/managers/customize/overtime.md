@@ -8,11 +8,17 @@ Workstaff can calculate [and compensate](../payroll/overtime.md) overtime automa
 
 ## Setting Overtime Rules & Options
 
-To customize the way Workstaff calculates overtime for hours worked by your team, go to **Settings** and to the **Compensation** tab.
+To customize the way Workstaff calculates overtime for hours worked by your team, go to **Settings**, to the **Compensation** tab under **Policies & Rules**.
 
 ![Overtime](Images/overtime-en.png)
 
 The limits you configure here will determine when an employee starts working overtime, and how much they need to be paid in extra for hours worked in overtime. You can configure up to 2 daily rules and 2 weekly rules.
+
+You also have the option to create separate overtime policies and assign them to specific staff members.
+To add an overtime policy, click **Add a new policy** under your default policy and configure a new one.
+Once the policy is created, go to the Staff tab, select the relevant staff member(s), and assign the policy from their profile under the Employment – Compensation section.
+
+![overtime-policies-en.png](Images/overtime-policies-en.png)
 
 ### Averaging Period
 

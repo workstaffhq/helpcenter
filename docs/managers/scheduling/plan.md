@@ -10,13 +10,17 @@ sidebar_position: 2
 
 In the Calendar section, switch to the **Week** view and click **Projects View**. This view offers a high-level summary of project progress, organized by project and skill.
 
-![projects-view.png](Images/projects-view.png)
+![project-view-en.png](Images/project-view-en.png)
 
 Key highlights of this view:
 - **Published shifts**: Marked with a green eye icon.
 - **Applicants to review**: Marked with a pink raised hand.
 - **Unassigned shifts or skills**: Indicated by a person icon.
 - **Pending confirmations**: Shown with a check icon.
+
+You can also filter this view to:
+- Show empty projects.
+- Hide fully staffed shifts.
 
 ## Creating a New Project
 

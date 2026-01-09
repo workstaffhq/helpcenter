@@ -10,7 +10,7 @@ sidebar_position : 2
 
 Dans la section Calendrier, passez à la vue **Semaine** et cliquez sur la vue **Projets**. Cette vue offre un aperçu global de l’avancement des projets, organisé par projet et compétence.
 
-![vue-projets.png](Images/vue-projets.png)
+![project-view-fr.png](Images/project-view-fr.png)
 
 Points clés de cette vue :
 - **Quarts publiés** : Indiqués par une icône d’œil vert.
@@ -18,9 +18,13 @@ Points clés de cette vue :
 - **Quarts ou compétences non attribués** : Signalés par une icône de personne.
 - **Confirmations en attente** : Représentées par une icône de coche.
 
+Vous pouvez aussi filtrer cette vue pour :
+- Voir les projets vides.
+- Masquer les quarts déjà comblés.
+
 ## Créer un nouveau projet
 
-Créer un projet dans Workstaff est une tâche rapide et facile:
+Créer un projet dans Workstaff est une tâche rapide et facile :
 1. Dans le menu principal, allez dans la section **Calendrier**
 2. Cliquez sur **Nouveau projet**
 3. Remplissez les informations ci-dessous afin de créer la base pour détailler le projet plus tard.
