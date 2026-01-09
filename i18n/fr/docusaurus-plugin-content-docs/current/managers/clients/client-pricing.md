@@ -19,7 +19,8 @@ Vous pouvez définir vos tarifs de manière globale ou par compétence, tout en 
 - **Niveau client** (tarification spécifique à un client)  
 - **Niveau projet** (tarification personnalisée pour un projet en particulier)  
 
-Lors de la configuration de votre facturation, vous pouvez choisir entre différents **modes de facturation**, selon la manière dont vous facturez vos clients :
+Lors de la configuration de votre facturation, vous pouvez choisir entre différents **modes de facturation**, selon la manière dont vous facturez vos clients.
+Chaque tarif peut être **à l’heure** ou **au forfait**, et peut être défini **distinctement** pour les heures de travail et le temps de déplacement afin de refléter précisément vos pratiques de facturation :
 - **À l’heure** : un tarif fixe par heure travaillée ou de déplacement. 
 - **À forfait** : un montant fixe par quart de travail.
 

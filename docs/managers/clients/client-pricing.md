@@ -19,7 +19,8 @@ You can define your rates globally and per skill, but still override them when n
 - **Client level** (specific pricing for a client)
 - **Project level** (custom pricing for an event)
 
-When configuring your billing, you can choose between different **billing modes** depending on how you charge your clients:
+When configuring your billing, you can choose between different **billing modes** depending on how you charge your clients. 
+Each rate can be **hourly** or **per shift**, and can be set **separately** for worked hours and travel time to accurately reflect your billing practices:
 - **Hourly**: a flat rate per hour worked or travelled  
 - **Per shift**: a fixed amount per shift  
 

@@ -8,11 +8,17 @@ Workstaff peut calculer [et rémunérer](../payroll/overtime.md) les heures supp
 
 ## Options relatives aux heures supplémentaires
 
-Pour personnaliser la façon dont Workstaff calcule les heures supplémentaires pour les heures travaillées par votre équipe, allez dans **Paramètres** puis dans l'onglet **Rémunération**.
+Pour personnaliser la façon dont Workstaff calcule les heures supplémentaires pour les heures travaillées par votre équipe, allez dans **Paramètres** puis dans l'onglet **Rémunération**, sous **Politiques et règles**.
 
 ![Heures supplémentaires](Images/overtime-fr.png)
 
 Les limites que vous configurez ici détermineront quand un employé commence à faire des heures supplémentaires, et combien il doit être payé en supplément pour les heures supplémentaires qu'il a effectuées. Vous pouvez configurer jusqu'à 2 règles quotidiennes et 2 règles hebdomadaires.
+
+Vous avez aussi la possibilité de créer des politiques d’heures supplémentaires distinctes afin de les attribuer à du personnel spécifique.
+Pour ajouter une politique d’heures supplémentaires, cliquez sur **Ajouter une nouvelle politique** sous votre politique par défaut et définissez-en une nouvelle. 
+Une fois la politique créée, allez dans l’onglet Personnel, sélectionnez le personnel concerné, puis assignez-lui la politique depuis son profil, dans la section Emploi – Rémunération.
+
+![overtime-policies-fr.png](Images/overtime-policies-fr.png)
 
 ### Période de moyennage
 
