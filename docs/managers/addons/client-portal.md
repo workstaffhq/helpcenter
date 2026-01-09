@@ -29,7 +29,7 @@ You can share this [PDF guide](https://docs.google.com/presentation/d/e/2PACX-1v
 When a client submits a new mandate request, an email notification will be sent, and the request will appear in the **Mandates** section under the **Mandates to Review** list. Click **Review** to check the information provided by the client, then choose to **Accept** or **Decline** the mandate. If the mandate is accepted, a project will be automatically created for fulfillment.
 
 :::info
-It is possible to enable the **auto-accept mandate** option by clients. When this option is active, all new mandate requests are automatically accepted upon creation, without requiring manager approval.
+It is possible to enable the **auto-accept mandate** option for clients. When this option is enabled, all new mandate requests are automatically accepted upon creation, without requiring manager approval.
 :::
 
 ## Sharing information with a client
