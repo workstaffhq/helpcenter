@@ -37,7 +37,7 @@ const config = {
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         indexDocs: true,
-        indexBlog: true,
+        indexBlog: false,
         indexPages: true,
         language: ['en', 'fr'],
         docsRouteBasePath: 'docs',
@@ -54,6 +54,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
