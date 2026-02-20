@@ -3,8 +3,11 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Translate, {translate} from '@docusaurus/Translate';
 import styles from './SocialMedia.module.css';
 import {
+  FacebookIcon,
   FacebookShareButton,
+  LinkedinIcon,
   LinkedinShareButton,
+  TwitterIcon,
   TwitterShareButton,
 } from "react-share";
 
@@ -28,7 +31,7 @@ function SocialMedia({ metadata }) {
             url={baseUrl + blogPageUrl}
             hashtag={"#workstaff"}
           >
-            <i className="ws-facebook" />
+            <FacebookIcon size={36} round />
           </FacebookShareButton>
         </div>
         <div>
@@ -37,7 +40,7 @@ function SocialMedia({ metadata }) {
             title={title}
             hashtag={"#workstaff"}
           >
-            <i className="ws-twitter" />
+            <TwitterIcon size={36} round />
           </TwitterShareButton>
         </div>
         <div>
@@ -47,7 +50,7 @@ function SocialMedia({ metadata }) {
             summary={description}
             source={baseUrl + blogPageUrl}
           >
-            <i className="ws-linkedin" />
+            <LinkedinIcon size={36} round />
           </LinkedinShareButton>
         </div>
       </div>
