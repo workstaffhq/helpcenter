@@ -1,0 +1,30 @@
+{
+  "name": "helpcenter",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "runArgs": [
+    "--publish=3000:3000",
+    "--publish=35729:35729"
+  ],
+  "postCreateCommand": "npm ci",
+  "postStartCommand": "npm run edit -- --host 0.0.0.0 --port 3000",
+  "forwardPorts": [3000, 35729],
+  "portsAttributes": {
+    "3000": {
+      "label": "Docusaurus",
+      "onAutoForward": "openBrowser"
+    },
+    "35729": {
+      "label": "Live Reload",
+      "onAutoForward": "silent"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}
