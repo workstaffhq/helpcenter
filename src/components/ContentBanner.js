@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './ContentBanner.modules.scss';
 import Translate, {translate} from '@docusaurus/Translate';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const ContentBannerTranslation = 
   {
@@ -44,7 +45,7 @@ function ContentBanner() {
 }
 
 function Logo() {
-  return <i className="ws-logo" />;
+  return <img className={styles.logo} src={useBaseUrl('/img/logo.svg')} alt="Workstaff logo" />;
 }
 
 export default ContentBanner;

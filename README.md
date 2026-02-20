@@ -6,6 +6,8 @@ Documentation and blog website for the [workstaff.app](https://workstaff.app/) a
 
 ## Installation
 
+Use Node.js `22.x` and npm `10+`.
+
 To run the English (default) version, use
 ```zsh
 npm run start

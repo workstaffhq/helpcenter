@@ -8,7 +8,11 @@ const config = {
   url: 'https://help.workstaff.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
   favicon: 'img/icon.svg',
   organizationName: 'workstaffhq',
   projectName: 'helpcenter',
@@ -29,8 +33,17 @@ const config = {
   },
 
   plugins: [
-    require.resolve('docusaurus-lunr-search'),
-    'docusaurus-plugin-sass'
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: true,
+        language: ['en', 'fr'],
+        docsRouteBasePath: 'docs',
+        hashed: true,
+      },
+    ],
   ],
 
   presets: [
@@ -42,7 +55,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.scss'),
+          customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
           trackingID: 'G-X5YGR0T7WL',
