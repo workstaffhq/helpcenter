@@ -6,6 +6,8 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start --host 0.0.0.0",
     "start-fr": "docusaurus start --host 0.0.0.0 --locale fr",
+    "edit": "npm --prefix tools/visual-editor run edit",
+    "edit:debug": "npm --prefix tools/visual-editor run edit:debug",
     "build": "docusaurus build",
     "build-next": "docusaurus build --config docusaurus.config.next.js",
     "swizzle": "docusaurus swizzle",
@@ -27,7 +29,8 @@
     "react-dom": "^19.2.4",
     "react-scripts": "^5.0.1",
     "react-share": "^5.2.2",
-    "sass": "^1.97.3"
+    "sass": "^1.97.3",
+    "visual-editor": "file:tools/visual-editor"
   },
   "devDependencies": {
     "prettier": "2.7.1"
