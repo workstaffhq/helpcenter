@@ -1,0 +1,43 @@
+{
+  "name": "visual-editor",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:client:prod": "esbuild src/client/app/main.tsx --bundle --format=iife --platform=browser --target=es2020 --jsx=automatic --minify --define:process.env.NODE_ENV=\\\"production\\\" --outfile=dist/editor.js --sourcemap",
+    "build:client:dev": "esbuild src/client/app/main.tsx --bundle --format=iife --platform=browser --target=es2020 --jsx=automatic --outfile=dist/editor.js --sourcemap",
+    "build:client": "npm run build:client:prod",
+    "edit": "npm run build:client && node ./bin/visual-editor.mjs",
+    "edit:debug": "npm run build:client:dev && node ./bin/visual-editor.mjs"
+  },
+  "bin": {
+    "visual-editor": "./bin/visual-editor.mjs"
+  },
+  "dependencies": {
+    "@floating-ui/react": "^0.27.16",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-popover": "^1.1.15",
+    "@radix-ui/react-select": "^2.2.6",
+    "@radix-ui/react-tooltip": "^1.2.8",
+    "@radix-ui/react-visually-hidden": "^1.2.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "http-proxy-middleware": "^3.0.3",
+    "launch-editor": "^2.10.0",
+    "open": "^10.1.0",
+    "portfinder": "^1.0.32",
+    "remark": "^15.0.1",
+    "remark-directive": "^4.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-mdx": "^3.1.0",
+    "remark-parse": "^11.0.0",
+    "mdast-util-to-string": "^4.0.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "turndown": "^7.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.10"
+  }
+}
