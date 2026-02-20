@@ -15,12 +15,13 @@
     margin: 0 auto;
   }
 
-  i {
-    display: inline-block;
-    color: var(--palette-cyan);
-    font-size: 70px;
-    margin-bottom: 1rem;
-  }
+}
+
+.logo {
+  display: inline-block;
+  width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
 }
 
 .contentBannerTitle {
@@ -53,4 +54,3 @@
     margin-right: auto;
   }
 }
-
