@@ -6,7 +6,7 @@ title: Getting Started
 
 ## Configuring Your Account For Invoicing
 
-Making sure your Workstaff account is ready for invoicing is simple. The only requirement is that a **Billing address** must be provided in your [account settings](../customize/account.md#Invoicing).
+Making sure your Workstaff account is ready for invoicing is simple. The only requirement is that a **Billing address** must be provided in your [account settings](../customize/account.md#invoicing).
 
 ## Conditions For a Shift To Be Invoiceable
 
