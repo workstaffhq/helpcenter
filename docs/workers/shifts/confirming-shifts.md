@@ -20,6 +20,21 @@ know you're aware and committed, but it will also give them time to react should
 3. **Confirm** or **Decline** the shift  
 4. **Send the confirmation** to your manager.
 
+## Agenda color reference for shifts
+
+In your agenda, shift cards and date dots use colors to help you quickly identify each shift status.
+
+| Shift status in the app | Color shown |
+| --- | --- |
+| Confirmed | Blue |
+| Cancellation requested | Red |
+| Late | Orange |
+| Ongoing | Green |
+| Please confirm | Pink |
+| Please reconfirm | Pink |
+| Completed | Gray |
+| Scheduled and other statuses | Light Gray |
+
 ## What If I Change My Mind?
 
 If you confirm a shift but for any reason can't make it and need to cancel, **get in touch with your manager directly as 

@@ -32,7 +32,14 @@ If you've inadvertently skipped an offer while reviewing the list and it disappe
 
 ## Offers You’ve Applied For
 
-Once you apply to a work offer, its shifts will appear in your main agenda as items with an **Applied** status (yellow dots and cards).
+Once you apply to a work offer, its shifts will appear in your main agenda as items with an **Applied** status.
+
+Application statuses in the agenda use the following colors:
+
+| Application status in the app | Color shown |
+| --- | --- |
+| Applied | Orange |
+| Not selected (and any other application status) | Gray |
 
 You can also see a list of all active offers you've applied for by going to the **Applied** tab in the main **Find Offers** section. 
 

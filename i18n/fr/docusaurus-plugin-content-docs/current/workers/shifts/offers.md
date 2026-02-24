@@ -32,7 +32,14 @@ Si vous avez mis une offre de côté par inadvertance en consultant la liste et 
 
 ## Offres pour lesquelles vous avez postulé
 
-Une fois que vous avez postulé pour une offre de travail, les quarts apparaîtront dans votre agenda principal en tant qu'éléments avec le statut **Appliqué** (points et cartes jaunes).
+Une fois que vous avez postulé pour une offre de travail, les quarts apparaîtront dans votre agenda principal en tant qu’éléments avec le statut **Appliqué**.
+
+Les statuts de candidature dans l’agenda utilisent les couleurs suivantes :
+
+| Statut de candidature dans l’app | Couleur affichée |
+| --- | --- |
+| Appliqué | Orange |
+| Non retenu (et tout autre statut de candidature) | Gris |
 
 Vous pouvez également voir une liste de toutes les offres actives pour lesquelles vous avez postulé en allant sur l'onglet **Appliquées** dans la section principale **Opportunités**.
 
