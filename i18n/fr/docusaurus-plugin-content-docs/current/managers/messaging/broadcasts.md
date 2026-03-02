@@ -22,10 +22,30 @@ Pour envoyer une diffusion à votre personnel :
 4. Sélectionnez les destinataires dans le champ `À :`. Vous pouvez également ajouter plusieurs (ou tous) travailleurs en utilisant l'icône de recherche.
 5. Indiquez un sujet et composez le corps de la diffusion, puis cliquez sur *Envoyer*.
 
+### Insérer un lien dans une diffusion
+
+Pour insérer un lien dans une diffusion :
+
+1. Saisissez le texte que vous souhaitez transformer en lien.
+2. Mettez le texte en surbrillance.
+3. Cliquez sur l'icône de lien.
+4. Saisissez l'URL.
+
+Le texte sera ensuite cliquable et redirigera vers l'adresse indiquée.
+
+![broadcast-link-fr.png](images/broadcast-link-fr.png)
+
+### Envoyer une diffusion à plusieurs destinataires
+
+Si vous souhaitez envoyer une diffusion à plusieurs personnes ou à tout le personnel, cliquez sur l'icône de loupe, puis sélectionnez le personnel soit un par un, soit en cliquant sur **Sélectionner tout**.
+
+![broadcast-recipient-fr.png](images/broadcast-recipient-fr.png)
+![broadcast-recipient-2-fr.png](images/broadcast-recipient-2-fr.png)
+
+:::info
 Lorsque vous envoyez une diffusion, votre personnel reçoit une notification push sur son téléphone et un courriel.
 La notification push n'inclut pas le contenu de la diffusion proprement dite, alors que la notification par courriel le fait.
-
-Une fois envoyée, une diffusion reste visible dans la boîte de réception de chaque membre de votre équipe aussi longtemps qu'elle existe.
+:::
 
 ## Réception des réponses aux diffusions
 

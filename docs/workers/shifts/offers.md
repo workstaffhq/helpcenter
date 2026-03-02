@@ -17,6 +17,13 @@ You can easily scroll through new work offers and apply to them in the **Find Of
 3. Tap on **Apply** to submit your application. Confirm your availability for each shift of the offer and tap **Apply** again to confirm
 4. You can also tap **Skip this offer** to hide it.  
 
+:::note Multiple shifts in one offer
+When you apply for a shift, multiple shifts taking place on the same day may be grouped into a single slot. Make sure to clearly state your availability by specifying the exact hours.
+:::
+
+![multiple-shifts-en.png](Images/multiple-shifts-en.png)
+![edit-availability-en.png](Images/edit-availability-en.png)
+
 Once you submit your application the event organizer will receive it, and you'll get notified if they select you for the position.
 
 :::info Where to find skipped offers?
@@ -33,7 +40,6 @@ When opening an application, you can:
 
 - **Withdraw your application** if you changed your mind or become unavailable for this work
 - **Message the organizer** in case you have any question regarding offer.
-
 
 ## Explore Offers from an Additional Work Location
 

@@ -45,10 +45,6 @@ Under **Basic Information**, you can edit their name and add their address.
 ### Management Team
 When you assign a management team to a client, it will automatically be assigned to all projects you create for that client.
 
-:::info  
-By default, the first person assigned to the client is assigned the roles of **Lead** and **Coordinator**. The **Coordinator** is always the main contact for the client's projects, while you can decide if the **Lead** is a contact person for the staff or not. You also have the option to choose whether the next people you add to the management team are contact persons or not. All contact persons will be included in the team conversations.
-:::
-
 **To assign a management team to a client:**
 
 ![Assign management team](./Images/management-team-client-en.png)
@@ -59,6 +55,20 @@ By default, the first person assigned to the client is assigned the roles of **L
 4. If they are not a **Coordinator**, set whether they are a **Contact person for staff** by selecting the icon shown in the screenshot above
 5. Once the management team is composed, click **Save**.
 
+:::info  
+By default, the first person assigned to the client is assigned the roles of **Lead** and **Coordinator**. The **Coordinator** is always the main contact for the client's projects, while you can decide if the **Lead** is a contact person for the staff or not. You also have the option to choose whether the next people you add to the management team are contact persons or not. All contact persons will be included in the team conversations.
+:::
+
+**Leader vs Coordinator**
+
+- **Leader**: The Leader is the main point of contact with the client. This role is usually assigned to the person who creates the project and manages external communication.
+- **Coordinator**: The Coordinator is the main internal owner of the project. This role is responsible for project fulfillment and ensuring smooth execution.
+
+## Primary Contact
+
+You can add a primary contact to every client profile, including a name, phone number, and email address.
+
+![primary-contact-en.png](Images/primary-contact-en.png)
 
 ## Archiving/Deleting a Client
 You can archive a client by clicking on **Archive** next to their name in the client list.
