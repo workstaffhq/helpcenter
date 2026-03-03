@@ -17,6 +17,13 @@ You can easily scroll through new work offers and apply to them in the **Find Of
 3. Tap on **Apply** to submit your application. Confirm your availability for each shift of the offer and tap **Apply** again to confirm
 4. You can also tap **Skip this offer** to hide it.  
 
+:::note Multiple shifts in one offer
+When you apply for a shift, multiple shifts taking place on the same day may be grouped into a single slot. Make sure to clearly state your availability by specifying the exact hours.
+:::
+
+![multiple-shifts-en.png](Images/multiple-shifts-en.png)
+![edit-availability-en.png](Images/edit-availability-en.png)
+
 Once you submit your application the event organizer will receive it, and you'll get notified if they select you for the position.
 
 :::info Where to find skipped offers?
@@ -25,7 +32,14 @@ If you've inadvertently skipped an offer while reviewing the list and it disappe
 
 ## Offers You’ve Applied For
 
-Once you apply to a work offer, its shifts will appear in your main agenda as items with an **Applied** status (yellow dots and cards).
+Once you apply to a work offer, its shifts will appear in your main agenda as items with an **Applied** status.
+
+Application statuses in the agenda use the following colors:
+
+| Application status in the app | Color shown |
+| --- | --- |
+| Applied | Orange |
+| Not selected (and any other application status) | Gray |
 
 You can also see a list of all active offers you've applied for by going to the **Applied** tab in the main **Find Offers** section. 
 
@@ -33,7 +47,6 @@ When opening an application, you can:
 
 - **Withdraw your application** if you changed your mind or become unavailable for this work
 - **Message the organizer** in case you have any question regarding offer.
-
 
 ## Explore Offers from an Additional Work Location
 

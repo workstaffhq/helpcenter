@@ -41,6 +41,33 @@ Make sure to click **Review and Apply** on your project page before sending a te
 If you have made changes to the team booked for this project, make sure to also click **Review and Apply** so that team members are removed or added to this discussion.
 :::
 
+### Group Chats
+
+Group Chats allow you to coordinate managers and staff in one centralized conversation — making it easier to discuss shifts, projects, and updates.
+
+**How to Start a Group Chat**
+
+You can create a Group Chat from multiple areas within Workstaff:
+
+- From the **Messaging** section  
+- From the **Calendar view**  
+- From a **Project view** (by day or by skill for example)  
+- From the **Staff List** (including when using filters such as tags, custom fields, etc.)  
+- From the **Manager mobile app**
+
+This allows you to launch conversations directly from the context you’re working in.
+
+![group-chat-calendar-en.png](images/group-chat-calendar-en.png)
+
+**Participants**
+- Add any combination of **managers and/or staff**
+- Add or remove participants at any time
+
+**Customize the Conversation**
+- Update the **conversation title** at any time to reflect the topic being discussed
+
+![group-chat-en.png](images/group-chat-en.png)
+
 ## Sending Links in Chat Messages
 
 Clickable links to Web pages can also be sent in chat messages just by copy/pasting the link to the page you want to send. Links must start with either `http://...` or `https://` to be recognized by Workstaff as clickable links.
@@ -56,6 +83,10 @@ To do so, parts of your message can include additional syntax as described here:
 | **Bold**   | Surround text to be put in bold with double asterisks   | `My name is **John Smith**` | My name is **John Smith** |
 | *Italic*   | Surround text to be put in italic with single asterisks | `My name is *John Smith*`   | My name is *John Smith*   |
 
-## Learn More
-Visit the [**Sending Messages**](../../workers/messaging.md) page in our Help Center **for workers** to learn more and share this information with your staff. 
+## Find Conversations Easily
 
+Use the **search bar** to quickly locate and filter chats.
+
+## Learn More
+
+Visit the [**Sending Messages**](../../workers/messaging.md) page in our Help Center **for workers** to learn more and share this information with your staff.

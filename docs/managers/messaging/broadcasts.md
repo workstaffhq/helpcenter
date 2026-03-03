@@ -24,10 +24,30 @@ To send a broadcast to your staff:
 4. Select recipients in the `To:` field. You can also add many (or all) staff using the magnifying glass / search icon.
 5. Provide a subject and compose the broadcast body, then click *Send*
 
+### Insert a Link in a Broadcast
+
+To insert a link in a broadcast:
+
+1. Type the text you want to turn into a link.
+2. Highlight the text.
+3. Click the link icon.
+4. Enter the URL.
+
+The text will then link to the address you entered.
+
+![broadcast-link-en.png](images/broadcast-link-en.png)
+
+### Send a Broadcast to Multiple Recipients
+
+If you want to send a broadcast to multiple people or to all staff, click the magnifying glass icon, then select staff one by one or click **Select all**.
+
+![broadcast-recipient-en.png](images/broadcast-recipient-en.png)
+![broadcast-recipient-2-en.png](images/broadcast-recipient-2-en.png)
+
+:::info
 When you send a broadcast, your staff will receive a push notification to their phone and an email. 
 The push notification does not include the actual broadcast's content, but the email notification does. 
-
-Once sent, a broadcast will stay visibile in each of your team's inbox for as long as it exists.
+:::
 
 ## Receiving Replies to Broadcasts
 

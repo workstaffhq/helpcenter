@@ -38,6 +38,35 @@ Veillez à cliquer sur **Réviser et Appliquer** sur votre page de projet avant 
 Si vous avez apporté des modifications à l’équipe affectée à ce projet, veillez également à cliquer sur **Réserver et Appliquer** afin que les membre de l’équipe soient retirés ou ajoutés à cette discussion.
 :::
 
+### Conversations de groupe
+
+Les conversations de groupe vous permettent de coordonner gestionnaires et membres du personnel dans un même espace — facilitant les échanges sur les quarts, les projets et les mises à jour.
+
+**Comment créer une conversation de groupe**
+
+Vous pouvez créer une conversation de groupe à partir de plusieurs endroits dans Workstaff :
+
+- Depuis la section **Messagerie**  
+- Depuis la **vue Calendrier**  
+- Depuis la vue d’un **Projet** (par jour ou par compétence)  
+- Depuis la **liste du personnel** (y compris en utilisant des filtres comme les étiquettes, champs personnalisés, etc.)  
+- Depuis l’**application mobile gestionnaire**
+
+Cela vous permet de lancer une conversation directement depuis le contexte dans lequel vous travaillez.
+
+![group-chat-calendar-fr.png](images/group-chat-calendar-fr.png)
+
+**Participants**
+
+- Ajoutez une combinaison de **gestionnaires et/ou membres du personnel**
+- Ajoutez ou retirez des participants à tout moment
+
+**Personnaliser la conversation**
+
+- Modifiez le **titre de la conversation** à tout moment afin qu’il reflète le sujet discuté
+
+![group-chat-fr.png](images/group-chat-fr.png)
+
 ## Envoi de liens dans les messages de chat
 
 Les liens cliquables vers des pages Web peuvent également être envoyés dans des messages de chat en copiant/collant le lien vers la page que vous souhaitez envoyer. Les liens doivent commencer par `http://...` ou `https://` pour être reconnus par Workstaff comme des liens cliquables.
@@ -53,5 +82,9 @@ Pour ce faire, certaines parties de votre message peuvent inclure une syntaxe su
 | **Bold**      | Entourer le texte à mettre en gras de doubles astérisques     | `Mon nom est **John Smith**` | Mon nom est **John Smith** |
 | *Italique*    | Entourer le texte à mettre en italique d'un astérisque simple | `Mon nom est *John Smith*`   | Mon nom est *John Smith*   |
 
+## Retrouver facilement une conversation
+
+Utilisez la **barre de recherche** pour localiser et filtrer rapidement vos conversations.
+
 ## En savoir plus
-Visitez la page [**Envoyer des messages**](../../workers/messaging.md) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel. 
+Visitez la page [**Envoyer des messages**](../../workers/messaging.md) de notre Centre d’aide **pour les travailleurs** afin d’en savoir plus et de partager ces informations avec votre personnel.

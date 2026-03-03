@@ -42,3 +42,17 @@ You can choose from the custom field types listed below to provide the most rele
 - **Single selection**: select a single value from your list
 - **Multiple selection**: select one or more values from your list
 
+## Bulk Edit
+
+Select multiple staff profiles using the checkboxes to update several elements at once.
+
+Bulk Edit allows you to update:
+- Tags
+- Skills
+- Custom fields
+- Compensation policies
+- Departments
+
+Changes are applied to all selected profiles.
+
+![bulk-edit-en.png](images/bulk-edit-en.png)

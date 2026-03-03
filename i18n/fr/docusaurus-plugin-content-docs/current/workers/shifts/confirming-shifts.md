@@ -19,6 +19,21 @@ que vous êtes conscient et engagé, mais aussi que vous avez le temps de réagi
 3. **Confirmez** ou **Refusez** le quart
 4. **Envoyez la confirmation** à votre responsable.
 
+## Référence des couleurs de l’agenda pour les quarts
+
+Dans votre agenda, les cartes de quart et les points sur les dates utilisent des couleurs pour vous aider à reconnaître rapidement le statut d’un quart.
+
+| Statut du quart dans l’app | Couleur affichée |
+| --- | --- |
+| Confirmé | Bleu |
+| Demande d’annulation | Rouge |
+| En retard | Orange |
+| En cours | Vert |
+| À confirmer | Rose |
+| À reconfirmer | Rose |
+| Terminé | Gris |
+| Planifié et autres statuts | Gris clair |
+
 ## Et si je change d'avis ?
 
 Si vous confirmez un quart, mais que, pour une raison quelconque, vous ne pouvez pas le faire et devez l'annuler, **contactez directement votre responsable dès que possible**.

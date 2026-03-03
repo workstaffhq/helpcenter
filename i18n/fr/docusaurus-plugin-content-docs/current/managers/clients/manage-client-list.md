@@ -44,10 +44,6 @@ Sous **Informations de base**, vous pouvez modifier son nom et ajouter son adres
 ### Équipe de gestion
 Lorsque vous associez une équipe de gestion à un client, elle sera automatiquement affectée à tous les projets que vous créez pour ce client.
 
-:::info  
-Par défaut, la première personne affectée au client se voit attribuer les rôles de **Lead** et **Coordonnateur**. Le **Coordonnateur** est systématiquement le contact principal pour les projets du client, tandis que vous pouvez décider si le **Lead** est, ou non, une personne contact pour le personnel. Vous avez aussi la possibilité de choisir si les prochaines personnes que vous ajoutez à l’équipe de gestion sont des personnes contact pour le personnel ou non. Toutes les personnes contact seront incluses dans les conversations d’équipe.
-:::
-
 **Pour affecter une équipe de gestion à un client :**
 
 ![équipe par client](./Images/managament-team-client.png)
@@ -58,6 +54,20 @@ Par défaut, la première personne affectée au client se voit attribuer les rô
 4. Si elle n’est pas **Coordonnateur**, déterminez si elle est une **Personne contact pour le personnel** en sélectionnant l’icône indiquée dans la capture d’écran ci-dessus.
 5. Une fois l’équipe de gestion composée, cliquez sur **Sauvegarder**.
 
+:::info  
+Par défaut, la première personne affectée au client se voit attribuer les rôles de **Lead** et **Coordonnateur**. Le **Coordonnateur** est systématiquement le contact principal pour les projets du client, tandis que vous pouvez décider si le **Lead** est, ou non, une personne contact pour le personnel. Vous avez aussi la possibilité de choisir si les prochaines personnes que vous ajoutez à l’équipe de gestion sont des personnes contact pour le personnel ou non. Toutes les personnes contact seront incluses dans les conversations d’équipe.
+:::
+
+**Lead vs Coordonnateur**
+
+- **Lead** : Le Lead est le principal point de contact avec le client. Ce rôle est généralement attribué à la personne qui crée le projet et qui gère les communications externes.
+- **Coordonnateur** : Le Coordonnateur est le responsable principal du projet en interne. Ce rôle veille à la bonne exécution du projet.
+
+## Contact principal
+
+Vous pouvez ajouter un contact principal à chaque profil client, incluant un nom, un numéro de téléphone et une adresse courriel.
+
+![primary-contact-fr.png](Images/primary-contact-fr.png)
 
 ## Archiver/supprimer un client
 Vous pouvez archiver un client en cliquant sur **Archiver** à côté de son nom dans la liste des clients.

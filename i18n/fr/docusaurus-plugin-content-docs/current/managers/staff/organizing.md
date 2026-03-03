@@ -41,4 +41,18 @@ Vous pouvez choisir parmi les types de champs personnalisés énumérés ci-dess
 - **Numérique** : remplir le champ avec un nombre
 - **Sélection unique** : sélectionnez une seule valeur dans votre liste.
 - **Sélection multiple** : sélectionnez une ou plusieurs valeurs dans votre liste.   
+
+## Modification en masse
+
+Sélectionnez plusieurs profils de membres du personnel à l'aide des cases à cocher afin de mettre à jour plusieurs éléments en même temps.
+
+La modification en masse vous permet de mettre à jour les éléments suivants :
+- Étiquettes
+- Compétences
+- Champs personnalisés
+- Politiques de rémunération
+- Départements
+
+Les modifications sont appliquées à l'ensemble des profils sélectionnés.
   
+![bulk-edit-fr.png](Images/bulk-edit-fr.png)

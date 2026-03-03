@@ -17,6 +17,13 @@ Vous pouvez facilement faire défiler les nouvelles offres de travail et postule
 3. Tapez sur **Appliquer** pour soumettre votre candidature. Confirmez votre disponibilité pour chaque quart de l'offre et tapez à nouveau sur **Appliquer** pour confirmer.
 4. Vous pouvez également taper sur **Mettre de côté** pour la masquer.
 
+:::note Plusieurs quarts dans une même offre
+Lorsque vous postulez à un quart, il se peut que plusieurs quarts ayant lieu le même jour soient regroupés dans une seule case. Assurez-vous de bien indiquer vos disponibilités en précisant les heures exactes.
+::: 
+
+![multiple-shifts-fr.png](Images/multiple-shifts-fr.png)
+![edit-availability-fr.png](Images/edit-availability-fr.png)
+
 Une fois que vous aurez soumis votre candidature, l'organisateur de l'événement la recevra et vous serez informé s'il vous sélectionne pour le poste.
 
 :::info Où trouver les offres ignorées ?
@@ -25,7 +32,14 @@ Si vous avez mis une offre de côté par inadvertance en consultant la liste et 
 
 ## Offres pour lesquelles vous avez postulé
 
-Une fois que vous avez postulé pour une offre de travail, les quarts apparaîtront dans votre agenda principal en tant qu'éléments avec le statut **Appliqué** (points et cartes jaunes).
+Une fois que vous avez postulé pour une offre de travail, les quarts apparaîtront dans votre agenda principal en tant qu’éléments avec le statut **Appliqué**.
+
+Les statuts de candidature dans l’agenda utilisent les couleurs suivantes :
+
+| Statut de candidature dans l’app | Couleur affichée |
+| --- | --- |
+| Appliqué | Orange |
+| Non retenu (et tout autre statut de candidature) | Gris |
 
 Vous pouvez également voir une liste de toutes les offres actives pour lesquelles vous avez postulé en allant sur l'onglet **Appliquées** dans la section principale **Opportunités**.
 
